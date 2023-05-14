@@ -57,5 +57,7 @@ Official Tutorial - > `https://docs.docker.com/get-started/overview/`
 ```
     Under the hood, the predeploy script will build a distributable version of the React app and store it in a folder named build. Then, the deploy script will push the contents of that folder to a new commit on the gh-pages branch of the GitHub repository, creating that branch if it doesn't already exist.
 ```
-6. 
+6. Navigate to the GitHub repository settings page> Code and automation> Pages
+7. update Source: Deploy from a branch, Branch: gh-pages, Folder: / (root).
+
 Reference - > `https://github.com/gitname/react-gh-pages#readme`.
