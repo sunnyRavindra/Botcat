@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import NavBar from './components/NavBar';
 import Resume from './components/Resume';
@@ -13,13 +13,13 @@ const App = () => {
     <Router>
       <NavBar />
       <Container>
-        <Switch>
+        <Routes>
           <Route exact path="/" component={Resume} />
           <Route path="/education" component={Education} />
           <Route path="/work-experience" component={WorkExperience} />
           <Route path="/skills" component={Skills} />
           <Route path="/projects" component={Projects} />
-        </Switch>
+        </Routes>
       </Container>
     </Router>
   );
