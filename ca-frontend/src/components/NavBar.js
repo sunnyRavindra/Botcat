@@ -1,10 +1,11 @@
 import React from 'react';
 import { Nav } from 'react-bootstrap';
+import '../App.css'
 import { LinkContainer } from 'react-router-bootstrap';
 
 const NavBar = () => {
   return (
-    <Nav variant="pills">
+    <Nav className='navbar' variant="pills">
       <LinkContainer to="/">
         <Nav.Link>Summary</Nav.Link>
       </LinkContainer>

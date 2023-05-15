@@ -1,11 +1,11 @@
-import React from 'react';
+import '../App.css'
 
-const Education = () => {
+const Education = (props) => {
   return (
-    <div>
-      <h2>Education</h2>
-      <h4>Degree Title</h4>
-      <p>University Name, Graduation Date</p>
+    <div className='education-container'>
+      <h2>{props.Education}</h2>
+      <h4>{props.DegreeTitle}</h4>
+      <p>{props.UniversityName} +', '+ {props.GraduationDate}</p>
     </div>
   );
 }

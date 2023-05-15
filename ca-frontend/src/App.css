@@ -90,3 +90,60 @@ footer p {
   text-align: center;
   font-size: 1.2rem;
 }
+
+.education-container {
+  margin-bottom: 20px;
+  background-color: #333333;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.education-container h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.education-container h4 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.education-container p {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 5px;
+}
+
+.navbar {
+  background-color: #333333;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.navbar li a:hover {
+  color: #cccccc;
+}
