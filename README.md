@@ -1,7 +1,7 @@
 # Cloud-Architect-Large-Enterprise-Practical-Guild
 
 #### DevContainers
-1. Install vscode https://code.visualstudio.com/download
+1. Install vscode and Docker over the internet , and make sure both of them are up and running.
 2. install the "Remote Development" and "Dev Containers" extension for VS Code
 3. Open the folder in VScode where you want to create Dev container 
 4. Create `.devcontainer/devcontainer.json` file inside the folder.
@@ -11,7 +11,7 @@
         "image": "mcr.microsoft.com/devcontainers/base:jammy"
     }
 ```
-5. cmd/ctrl + Shift + p -> reopen in Container 
+6. cmd/ctrl + Shift + p -> reopen in Container 
 Reference - >  `Cloud-Architect-Large-Enterprise-Practical-Guild/DevContainerFiles`
 Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containers`
 
@@ -61,3 +61,44 @@ Official Tutorial - > `https://docs.docker.com/get-started/overview/`
 Reference - > `https://github.com/gitname/react-gh-pages#readme`.
 Mysite - > `https://sunnyravindra.github.io/Cloud-Architect-Large-Enterprise-Practical-Guild/`
 
+### React
+1.  Create react app `npx create-react-app react-basics`.
+2.  Componenets
+3.  Uppercase letters wile importing componenets
+4.  Only one root element <Fragments >
+5.  Children props
+6.  
+7.  
+
+class myFirstClass{
+    constructor(){
+        this.constructor = 'constructor';
+    }
+    myFirstArrowFunction = (message, constructor) => {
+        var myfirstVar = '4';
+    const myfirstConst = '5';
+        console.log(message + myfirstVar + myfirstConst)
+    }
+    //Spread
+    const myFirstArray = [1,2,3,4,5];
+    const myFirstSpreadArray = [...myFirstArray];
+    console.log(myFirstSpreadArray)
+    //Rest
+    myFirstRestFunction = (...args) => {
+        console.log(args)
+    }
+    //Array Destructuring 
+    [a,b, ,c]= myFirstArray;
+    console.log(a);
+    console.log(b);
+    console.log(c);
+    //Object Destructuring 
+    {c,d} = {name='sunny',age='cloud'}
+    console.log(c);
+    console.log(d);
+    //objects are coped as reference -> practical pending
+    //Map ->practical pending
+    
+    
+
+}
