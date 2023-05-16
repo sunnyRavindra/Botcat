@@ -1,0 +1,39 @@
+.MyFirstComponentHeader {
+    height: 95vh;
+    /* background-image: linear-gradient(to right bottom, #000000b7 15%, #ffffb7 100%),url(../../images/ProfilePic.jpg); */
+    /* background-image: linear-gradient(to right bottom, #000000b7 15%, #ffffb7 100%),url(../../images/ProfilePic.jpg); */
+    background-color: rgba(0, 0, 0, 0.918);
+    position: relative;
+    /* background-size: cover; */
+    /* background-position: top; Image always stays at top */
+    /* clip-path: polygon(0 0,100% 0,100% 70%,0 100%); */
+  }
+
+  .logo-box {
+    position: absolute;
+    top: 40px ;
+    left: 40px;
+  }
+
+  .logo{
+    height: 305px;
+  }
+
+  .heading-primary{
+    color: #ffff;
+    text-transform: uppercase;
+  }
+
+  .heading-primary-main{
+    display: block;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 35px;
+  }
+
+  .heading-primary-sec{
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 15px;
+  }
