@@ -23,10 +23,19 @@ Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containe
 		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
 	}
 ```
-2. Create react app `npx create-react-app ca-frontend`.
-3. install gh-pages `npm install gh-pages --save-dev`.
-4. Add homepage property to package.json `"homepage": "https://{username}.github.io/{repo-name}"`.
-5. Add a predeploy property and a deploy property to the scripts object in package.json .
+2. Create Svelte app 
+```
+npm create svelte@latest ca-svelte-frontend --y
+>Skeleton project
+>Use Typescript
+>Select All
+cd ca-svelte-frontend
+npm install
+npm run dev
+```
+3. Deploy to `https://github.com/metonym/sveltekit-gh-pages`.
+2. Add homepage property to package.json `"homepage": "https://{username}.github.io/{repo-name}"`.
+3. Add a predeploy property and a deploy property to the scripts object in package.json .
 ```
     "scripts": {
     +   "predeploy": "npm run build",
@@ -34,24 +43,115 @@ Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containe
         "start": "react-scripts start",
         "build": "react-scripts build",
 ```
-6. run command  `npm run deploy -- -m "Deploy React app to GitHub Pages"`
+1. run command  `npm run deploy -- -m "Deploy React app to GitHub Pages"`
 ```
     Under the hood, the predeploy script will build a distributable version of the React app and store it in a folder named build. Then, the deploy script will push the contents of that folder to a new commit on the gh-pages branch of the GitHub repository, creating that branch if it doesn't already exist.
 ```
-7. Navigate to the GitHub repository settings page> Code and automation> Pages
-8. update Source: Deploy from a branch, Branch: gh-pages, Folder: / (root).
+1. Navigate to the GitHub repository settings page> Code and automation> Pages
+2. update Source: Deploy from a branch, Branch: gh-pages, Folder: / (root).
 Reference - > `https://github.com/gitname/react-gh-pages#readme`.
 Mysite - > `https://sunnyravindra.github.io/Cloud-Architect-Large-Enterprise-Practical-Guild/`
 
-### React Basics
-1.  Components. - > `ReactApp/scr/components/MyFirstComponent`
+### Next js frontend
+1. 
+1.  Components. - > `ReactApp/scr/components/MyFirstComponent/MyFirstComponent`
 2.  Make sure to use Uppercase letters while  importing Components
-3.  JSX can have only one root element <Fragments >
-4.  install Scss `npm install node-sass --save-dev`
-5.  Configure CSS -> `ReactApp/scr/App`
-6.  CSS Header -> 
-7.  Props
-8.  Children props
+3.  JSX can have only one root element use <Fragments > or <></>instead of div.
+4.  Create below folder structure.
+```
+├── scss
+│   ├── main.scss
+│   └── _variables.scss
+```
+reference -> `ReactApp/scr/scss`
+5.  Create first react component 
+```
+const MyFirstComponent = () => {
+    return (
+        <div>
+            <div>MyFirstComponent</div>
+            <div>MySecondComponent</div>
+        </div>
+        
+    );
+}
+export default MyFirstComponent;
+```
+6.  call the MyFirstComponent in App.js
+```
+import React, { Fragment } from 'react';
+import MyFirstComponent from './components/MyFirstComponent/MyFirstComponent';
+import './scss/main.scss';
+const App = () => {
+  return (
+    <Fragment>
+      <MyFirstComponent></MyFirstComponent>
+      <MyFirstComponent></MyFirstComponent>
+    </Fragment>
+  );
+}
+export default App;
+```
+7.  Add Props
+```
+const MyFirstComponent = (props) => {
+    return (
+        <div>
+            <div>{props.Component1}</div>
+            <div>{props.Component2}</div>
+        </div>
+        
+    );
+}
+export default MyFirstComponent;
+```
+8.  Call component with props in App.js
+```
+const App = () => {
+  return (
+    <Fragment>
+      <MyFirstComponent Component1='firstComponent1' Component2='SecondComponent2'></MyFirstComponent>
+      <MyFirstComponent Component1='firstComponent2' Component2='SecondComponent2'></MyFirstComponent>
+    </Fragment>
+  );
+}
+```
+9. Add Saas component file to the component folder.
+```
+ MyFirstComponent
+│       ├── MyFirstComponent.js
+│       └── MyFirstComponent.scss
+```
+Reference -> 
+10. Props Childeren Still To Understand.
+11. UseState
+```
+const [component,setcomponent] = useState(props.Component1);
+
+const changeTitle = ()=> {
+    setcomponent('new componnent');
+};
+```
+12. Use Next js instead on react 
+```
+
+```
+12. Styles with Modlues and tailwindcss.
+`npm install tailwindcss`
+13. Debugging, break points and React devtools.
+14. React Form , form submission ,clearing the inputs , two way binding, Lifting state up
+15. Signle State Vs Mutiple states(53 and 54)
+16. Rendering lists with Key property.
+17. Turnery expressions for conditional content 
+18. Portal
+19. Refs -> good for reading values
+20. useEffect hook
+
+### Moving to Next js 
+1. Create next.js project and select default values 
+`npm create-next-app `
+2. 
+
 
 
 
@@ -120,5 +220,7 @@ OnDevcontainer: add below lines to devcontainer.json
 6. To get out of the shell `ctrl+D`
 Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
+
+
 
 
