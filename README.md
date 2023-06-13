@@ -1,7 +1,8 @@
-* Cloud-Architect-Large-Enterprise-Practical-Guild
+# Cloud-Architect-Large-Enterprise-Practical-Guild
 
-** Docker - https://www.docker.com
-*** Basics
+## Docker - https://www.docker.com
+
+### Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
 3. They include everything necessary to run an application: code, runtime, tools, libraries, and settings.
@@ -11,11 +12,11 @@
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
 
-*** Docker Engine
+### Docker Engine
 1. Docker Engine is the leading container runtime.
 2. It runs on multiple Linux and Windows Server operating systems.
 
-*** How is Docker related to Containerd - https://containerd.io/
+### How is Docker related to Containerd - https://containerd.io/
 1. Docker is a platform for containerization, providing tools and a runtime environment.
 2. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
 3. Containerd implements the low-level functionality needed for container execution and management.
@@ -24,6 +25,8 @@
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
 
+## Markdown - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+1.
 # Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
 2. Docker first checks for the image in the local drive and then if not found it looks for it on the docker hub and pulls it down.
@@ -33,7 +36,6 @@
 6. Bind Mounting
 7. Persistent Volumes
 8.
-
 
 # Docker Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
