@@ -2,7 +2,7 @@
 
 ## [Docker](https://www.docker.com)
 
-<summary>Collapsable section</summary>
+<summary>Cdsajdffjgkfbhkollapsable section</summary>
 ### Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
@@ -27,7 +27,6 @@
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
 
 ## [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-1.
 # Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
 2. Docker first checks for the image in the local drive and then if not found it looks for it on the docker hub and pulls it down.
