@@ -1,8 +1,9 @@
 # Cloud-Architect-Large-Enterprise-Practical-Guild
 
 ## [Docker](https://www.docker.com)
-
+<details>
 <summary>Cdsajdffjgkfbhkollapsable section</summary>
+</details>
 ### Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
