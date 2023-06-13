@@ -1,10 +1,92 @@
-# Cloud-Architect-Large-Enterprise-Practical-Guild
+* Cloud-Architect-Large-Enterprise-Practical-Guild
 
-#### DevContainers
-1. Install vscode and Docker over the internet , and make sure both of them are up and running.
-2. install the "Remote Development" and "Dev Containers" extension for VS Code
-3. Open the folder in VScode where you want to create Dev container 
-4. Create `.devcontainer/devcontainer.json` file inside the folder.
+** Docker - https://www.docker.com
+*** Basics
+1. Containers package code and its dependencies for reliable and fast execution.
+2. Docker containers are lightweight and standalone.
+3. They include everything necessary to run an application: code, runtime, tools, libraries, and settings.
+4. Container images become containers during runtime.
+5. Docker containers rely on Docker Engine to become containers.
+6. Containers work consistently across different infrastructures.
+7. Containers isolate software from the environment.
+8. Containers ensure uniform functionality across different stages like development and staging.
+
+*** Docker Engine
+1. Docker Engine is the leading container runtime.
+2. It runs on multiple Linux and Windows Server operating systems.
+
+*** How is Docker related to Containerd - https://containerd.io/
+1. Docker is a platform for containerization, providing tools and a runtime environment.
+2. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
+3. Containerd implements the low-level functionality needed for container execution and management.
+4. Docker builds upon containerd to offer a user-friendly interface and additional features.
+5. Containerd focuses on core container runtime tasks, such as image and container lifecycle management.
+6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
+7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
+
+# Docker Important points
+1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
+2. Docker first checks for the image in the local drive and then if not found it looks for it on the docker hub and pulls it down.
+3. When Container is created it does not copy that image but created a layer of that image and runs the container.
+4. when Container is created a default virtual network is also created for the respective container to run on.
+5. when the containers are spunk up the process running inside the container as not under a vm or hiding from OS, they are indeed in the process of the system its just that they are running behind a virtual network.
+6. Bind Mounting
+7. Persistent Volumes
+8.
+
+
+# Docker Commands
+1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
+2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
+3. docker ->returns all the docker commands that can be used and referred to.
+4. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
+5. docker container ls -> list the containers that we have running right now
+6. docker container ls -a
+7. docker container stop (container name)-> stops the running container on the machine
+8. docker container logs mynewcontainer
+9. docker container top mynewcontainer
+10. docker container rm (name of the containers separated by space)
+11. ps aux (returns all the process running on the mac system)
+12. docker container inspect mynewcontainer
+13. docker container stats
+14. docker container run -it --name enakonda nginx bash
+15. dicker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
+16. docker container exec -it enakonda bash(This command keeps the docker container running)
+docker container port enakonda
+17. docker container inspect --format '{{ .NetworkSettings.IPAddress}}' enakonda.
+18. docker container run -d --name enakonda --network-alias search elasticsearch:2
+19.
+# Docker Network
+1. docker network ls
+2. docker network inspect bridge
+3. docker network create myNetwork
+4. docker network connect network container
+5. docker network disconnect network container
+
+
+# DNS
+1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
+2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
+
+# Images
+1. Images are just the binaries and the Kernal is provided by the OS itself
+2. docker image history
+3. docker image tag oldimage new/imagename
+4. docker image push
+5. docker login
+6. docker logout
+
+# Docker compose
+
+** DevContainers
+1. Install DevContainers CLI
+2. Install vscode and Docker over the internet , and make sure both of them are up and running.
+3. install the "Remote Development" and "Dev Containers" extension for VS Code
+4. Open the folder in VScode where you want to create Dev container
+*** Imp Links
+- [[https://containers.dev/]]
+- https://github.com/devcontainers/cli
+. Create `.devcontainer/devcontainer.json` file inside the folder.
  ```
     {
         "name": "UbuntuDevContainer",
