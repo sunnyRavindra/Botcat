@@ -34,6 +34,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
 
+TODO - https://www.docker.com/products/telepresence-for-docker/
+
 ## [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
