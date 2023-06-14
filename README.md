@@ -2,7 +2,7 @@
 
 * [Introduction](#Introduction)
   * [Docker](#Docker)
-    * [Basic](#Basic)
+    * [Basics](#Basics)
     * [Docker-Engine-Containerd](#Docker-Engine)
     * [Docker-Guild](#Docker-Guide)
 * [Markdown](#Markdown)
@@ -12,7 +12,7 @@
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
 
-## [Docker](https://www.docker.com)
+## Docker
 ### Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
@@ -22,6 +22,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 6. Containers work consistently across different infrastructures.
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
+Reference docs -
+    - https://www.docker.com
 
 ### Docker-Engine-[Containerd](https://containerd.io/)
 1. Docker Engine is the leading container runtime.
