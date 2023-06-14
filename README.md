@@ -3,7 +3,7 @@
 * [Introduction](#Introduction)
   * [Docker](#Docker)
     * [Docker-Basics](#Docker-Basics)
-    * [Containerd](#Containerd)
+    * [Docker-Demon](#Docker-Demon)
     * [Docker-Architecture](#Docker-Architecture)
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
@@ -25,17 +25,16 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
    - Documents -> https://www.docker.com
    - Getting Started -> https://docs.docker.com/get-started/
    - Download -> https://docs.docker.com/get-docker/
-   - Docker overview -> https://docs.docker.com/get-started/overview/
 
-### Containerd
-1. Docker Engine is the leading container runtime.
-2. It runs on multiple Linux and Windows Server operating systems.
-3. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
-3. Containerd implements the low-level functionality needed for container execution and management.
-4. Docker builds upon containerd to offer a user-friendly interface and additional features.
-5. Containerd focuses on core container runtime tasks, such as image and container lifecycle management.
-6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
-7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
+### Docker-Demon
+1. The Docker daemon, also known as dockerd, is a core component of Docker.
+2. It serves as the main process running on a Docker host, responsible for managing Docker objects.
+3. The Docker daemon listens for Docker API requests, allowing clients to interact with Docker.
+3. It manages various Docker objects, including images, containers, networks, and volumes.
+4. The Docker daemon handles tasks such as creating, starting, stopping, and deleting Docker containers.
+5. It is responsible for managing the lifecycle of Docker services and coordinating their operations.
+6. The Docker daemon can communicate with other daemons, enabling the management of Docker services across multiple hosts.
+7. Docker clients, such as the Docker command-line interface (CLI) and Docker Compose, interact with the Docker daemon to execute commands and manage Docker resources.
 #### Reference
     Documents -> https://containerd.io/
 
@@ -49,7 +48,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 7. Docker Compose is another client that allows working with applications consisting of multiple containers.
 8. Docker Compose helps manage the configuration and deployment of multi-container applications.
 #### Reference
-    Documents -> https://containerd.io/
+   - Docker Architecture -> https://docs.docker.com/get-started/overview/
+
 
 
 
