@@ -11,20 +11,18 @@
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
-
 ## Docker
 ### Docker-Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
 3. They include everything necessary to run an application: code, runtime, tools, libraries, and settings.
 4. Container images become containers during runtime.
-5. Docker containers rely on *Docker Engine* to become containers.
+5. Docker containers rely on Docker Engine to become containers.
 6. Containers work consistently across different infrastructures.
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
 #### Reference
-    Docs - https://www.docker.com
-
+    Documents -> https://www.docker.com
 
 ### Containerd
 1. Docker Engine is the leading container runtime.
@@ -36,7 +34,7 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
 #### Reference
-    Docs - https://containerd.io/
+    Documents -> https://containerd.io/
 
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
@@ -50,7 +48,7 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. GitHub Markdown supports emoji shortcuts for adding emoticons to your text.
 10. It also supports the use of HTML tags for advanced formatting when necessary.
 #### Reference
-    Docs - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+    Documents - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 
 ## Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
