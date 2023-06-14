@@ -70,8 +70,21 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 8. Docker Desktop is a comprehensive toolset that integrates multiple Docker-related functionalities.
 9. For more detailed information about Docker Desktop, it is recommended to refer to the official Docker Desktop documentation.
 #### Reference
-   - Docker Architecture -> https://docs.docker.com/get-started/overview/
+   - Docker Desktop -> https://docs.docker.com/get-started/overview/
 
+### Docker-Registry
+1. A Docker registry is a storage system that stores Docker images.
+2. Docker Hub is a popular public registry available for general use.
+3. Docker is configured to search for images on Docker Hub by default.
+4. Users can also set up their own private registry.
+5. The docker pull or docker run commands retrieve required images from the configured registry.
+6. The docker push command allows users to upload their own images to the configured registry.
+7. Docker registries enable efficient storage and distribution of Docker images.
+8. They provide a centralized location for sharing and accessing container images.
+9. Docker Hub is a widely used public registry for discovering and sharing Docker images.
+10. Private registries offer additional control and privacy for organizations and individuals.
+#### Reference
+   - Docker Registry -> https://docs.docker.com/get-started/overview/
 
 
 
