@@ -21,7 +21,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
 #### Reference
-    Documents -> https://www.docker.com
+   - Documents -> https://www.docker.com
+   - Getting Started -> https://docs.docker.com/get-started/
 
 ### Containerd
 1. Docker Engine is the leading container runtime.
@@ -103,7 +104,7 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 12. docker container inspect mynewcontainer
 13. docker container stats
 14. docker container run -it --name enakonda nginx bash
-15. dicker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
+15. [ ] dicker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
 16. docker container exec -it enakonda bash(This command keeps the docker container running)
 docker container port enakonda
 17. docker container inspect --format '{{ .NetworkSettings.IPAddress}}' enakonda.
