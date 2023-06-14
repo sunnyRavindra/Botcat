@@ -75,9 +75,10 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. Elisp has a robust and active community that contributes packages, libraries, and documentation for extending Emacs.
 10. Emacs Lisp is not limited to Emacs itself; it can also be used for scripting, automation, and general-purpose programming outside of the editor.
 #### Reference
-    Tutorials -> https://www.youtube.com/watch?v=ymSq4wHrqyU
+    Tutorials -> 
+        - https://www.youtube.com/watch?v=ymSq4wHrqyU
+        - https://learnxinyminutes.com/docs/elisp/
     
-
 ## Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
 2. Docker first checks for the image in the local drive and then if not found it looks for it on the docker hub and pulls it down.
@@ -354,6 +355,34 @@ OnDevcontainer: add below lines to devcontainer.json
 6. To get out of the shell `ctrl+D`
 Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 TODO - https://www.docker.com/products/telepresence-for-docker/
