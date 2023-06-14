@@ -3,8 +3,9 @@
 * [Introduction](#Introduction)
   * [Docker](#Docker)
     * [Docker-Basics](#Docker-Basics)
-    * [Docker-Demon](#Docker-Demon)
     * [Docker-Architecture](#Docker-Architecture)
+    * [Docker-Demon](#Docker-Demon)
+    * [Docker-Client](#Docker-Client)
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
 
@@ -26,18 +27,6 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
    - Getting Started -> https://docs.docker.com/get-started/
    - Download -> https://docs.docker.com/get-docker/
 
-### Docker-Demon
-1. The Docker daemon, also known as dockerd, is a core component of Docker.
-2. It serves as the main process running on a Docker host, responsible for managing Docker objects.
-3. The Docker daemon listens for Docker API requests, allowing clients to interact with Docker.
-3. It manages various Docker objects, including images, containers, networks, and volumes.
-4. The Docker daemon handles tasks such as creating, starting, stopping, and deleting Docker containers.
-5. It is responsible for managing the lifecycle of Docker services and coordinating their operations.
-6. The Docker daemon can communicate with other daemons, enabling the management of Docker services across multiple hosts.
-7. Docker clients, such as the Docker command-line interface (CLI) and Docker Compose, interact with the Docker daemon to execute commands and manage Docker resources.
-#### Reference
-    Documents -> https://containerd.io/
-
 ### Docker-Architecture
 1. Docker uses a client-server architecture.
 2. The Docker client interacts with the Docker daemon.
@@ -49,6 +38,39 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 8. Docker Compose helps manage the configuration and deployment of multi-container applications.
 #### Reference
    - Docker Architecture -> https://docs.docker.com/get-started/overview/
+
+### Docker-Demon
+1. The Docker daemon, also known as dockerd, is a core component of Docker.
+2. It serves as the main process running on a Docker host, responsible for managing Docker objects.
+3. The Docker daemon listens for Docker API requests, allowing clients to interact with Docker.
+3. It manages various Docker objects, including images, containers, networks, and volumes.
+4. The Docker daemon handles tasks such as creating, starting, stopping, and deleting Docker containers.
+5. It is responsible for managing the lifecycle of Docker services and coordinating their operations.
+6. The Docker daemon can communicate with other daemons, enabling the management of Docker services across multiple hosts.
+7. Docker clients, such as the Docker command-line interface (CLI) and Docker Compose, interact with the Docker daemon to execute commands and manage Docker resources.
+
+### Docker-Client 
+1. It is the primary tool used to execute commands and manage Docker resources.
+2. Users interact with the Docker client to perform actions such as running containers using the docker run command.
+3. The Docker client sends commands to the Docker daemon (dockerd) for execution.
+4. It utilizes the Docker API to communicate with the Docker daemon.
+5. The Docker client can communicate with multiple Docker daemons if necessary.
+6. It provides a command-line interface (CLI) for executing Docker commands and managing Docker objects.
+7. The Docker client plays a crucial role in orchestrating Docker operations and managing the Docker environment.
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
 
 
 
