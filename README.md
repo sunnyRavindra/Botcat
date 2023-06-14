@@ -2,7 +2,7 @@
 
 * [Introduction](#Introduction)
   * [Docker](#Docker)
-    * [Basics](#Basics)
+    * [Docker-Basics](#Docker-Basics)
     * [Docker-Engine-Containerd](#Docker-Engine)
     * [Docker-Guild](#Docker-Guide)
 * [Markdown](#Markdown)
@@ -13,7 +13,7 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 
 
 ## Docker
-### Basics
+### Docker-Basics
 1. Containers package code and its dependencies for reliable and fast execution.
 2. Docker containers are lightweight and standalone.
 3. They include everything necessary to run an application: code, runtime, tools, libraries, and settings.
@@ -22,10 +22,11 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 6. Containers work consistently across different infrastructures.
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
-Reference docs -
-    - https://www.docker.com
+#### Reference
+    Docs - https://www.docker.com
 
-### Docker-Engine-[Containerd](https://containerd.io/)
+
+### Containerd
 1. Docker Engine is the leading container runtime.
 2. It runs on multiple Linux and Windows Server operating systems.
 3. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
@@ -34,9 +35,8 @@ Reference docs -
 5. Containerd focuses on core container runtime tasks, such as image and container lifecycle management.
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
-
-### Docker-Guild
-- https://docs.docker.com/
+#### Reference
+    Docs - https://containerd.io/
 
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
@@ -49,8 +49,8 @@ Reference docs -
 8. It allows for the creation of links to specific lines or sections within a file.
 9. GitHub Markdown supports emoji shortcuts for adding emoticons to your text.
 10. It also supports the use of HTML tags for advanced formatting when necessary.
-### Markdown-Guild
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+#### Reference
+    Docs - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 
 ## Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
