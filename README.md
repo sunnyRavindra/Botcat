@@ -4,7 +4,9 @@
   * [Docker](#Docker)
     * [Basic](#Basic)
     * [Docker-Engine](#Docker-Engine)
-  * [Markdown](#Markdown)
+    * [Docker-Guild](#Docker-Guide)
+* [Markdown](#Markdown)
+    * [Markdown-Guild](#Markdown-Guide)
 
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
@@ -31,7 +33,10 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
 
-## [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+### Docker-Guild
+- https://docs.docker.com/
+
+## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
 3. GitHub Markdown is commonly used in README files, documentation, and issue comments on GitHub.
@@ -42,6 +47,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 8. It allows for the creation of links to specific lines or sections within a file.
 9. GitHub Markdown supports emoji shortcuts for adding emoticons to your text.
 10. It also supports the use of HTML tags for advanced formatting when necessary.
+### Markdown-Guild
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 
 ## Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
@@ -51,7 +58,6 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 5. when the containers are spunk up the process running inside the container as not under a vm or hiding from OS, they are indeed in the process of the system its just that they are running behind a virtual network.
 6. Bind Mounting
 7. Persistent Volumes
-8.
 
 # Docker Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
