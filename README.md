@@ -21,19 +21,15 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
 
-### Docker-Engine
+### Docker-Engine[Containerd](https://containerd.io/)
 1. Docker Engine is the leading container runtime.
 2. It runs on multiple Linux and Windows Server operating systems.
-
-### How is Docker related to [Containerd](https://containerd.io/)
-1. Docker is a platform for containerization, providing tools and a runtime environment.
-2. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
+3. Containerd is an open-source project that serves as the default container runtime for Docker Engine.
 3. Containerd implements the low-level functionality needed for container execution and management.
 4. Docker builds upon containerd to offer a user-friendly interface and additional features.
 5. Containerd focuses on core container runtime tasks, such as image and container lifecycle management.
 6. Docker adds tools and enhancements on top of containerd to simplify container workflows.
 7. Containerd is lightweight, modular, and designed for stability and reliability in container operations.
-
 
 ## [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
