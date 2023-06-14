@@ -75,7 +75,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. Elisp has a robust and active community that contributes packages, libraries, and documentation for extending Emacs.
 10. Emacs Lisp is not limited to Emacs itself; it can also be used for scripting, automation, and general-purpose programming outside of the editor.
 #### Reference
-    Tutorials -> https://learnxinyminutes.com/docs/elisp/
+    Tutorials -> https://www.youtube.com/watch?v=ymSq4wHrqyU
+    
 
 ## Docker Important points
 1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
