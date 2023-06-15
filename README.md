@@ -224,7 +224,6 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
    ```
    docker commit container_id_or_name myimage:shared
    ```
-
    Replace `container_id_or_name` with the actual ID or name of the running container, and choose a name and tag for the new image (e.g., `myimage:shared`).
 3. Tag the image with a version or any additional information if desired. This step is optional but can be helpful for tracking different versions of the shared image. For example:
    ```
