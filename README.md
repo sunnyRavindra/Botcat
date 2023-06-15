@@ -10,6 +10,8 @@
     * [Docker-Image](#Docker-Image)
     * [Docker-Container](#Docker-Container)
     * [Build-Container-Image](#Build-Container-Image)
+    * [Start-Container-Image](#Start-Container-Image)
+
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
 
@@ -160,9 +162,16 @@ CMD ["python", "app.py"]
 6. Optionally exposes port 8000 to allow incoming connections (adjust the port number as needed).
 7. Sets the command to run the application using the CMD instruction, which in this case runs the app.py script with Python.
 
-   
-    
-    
+### Start-Container-Image 
+1. Use the `docker run` command to start a container based on the image. Specify any desired options or configurations and provide the image name and tag. For example:
+   ```
+   docker run -p 8000:8000 myimage:latest
+   ```
+
+In this example, `-p 8000:8000` maps port 8000 on the host to port 8000 in the container. Adjust the port mapping as needed for your application.
+2. Wait for Docker to download the necessary layers and start the container. You should see the container ID or name printed in the terminal, indicating that the container is running.
+3. Access your application: If your application is a web server listening on port 8000, you can open a web browser and navigate to `http://localhost:8000` to access it. Adjust the URL and port number based on your application's configuration.
+5. To stop the container, press `Ctrl + C` in the terminal where it is running. The container will be stopped and removed.
     
     
 
