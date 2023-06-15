@@ -12,8 +12,7 @@
     * [Build-Container-Image](#Build-Container-Image)
     * [Start-Container-Image](#Start-Container-Image)
     * [Updating-Docker-Container](#Updating-Docker-Container)
-    * [Docker-Registry](#Docker-Registry)
-
+    * [Docker-Image-Sharing](#Docker-Image-Sharing)
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
 
@@ -202,7 +201,29 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 7. Wait for Docker to download the necessary layers and start the new container.
 8. Access your application to verify that the changes have taken effect. Use the appropriate URL and port number as configured in your application.
 
-### Docker-Registry
+### Docker-Image-Sharing
+1. Ensure that your containerized application is running and working correctly on your local machine. Verify that it functions as expected and that any necessary dependencies or configurations are in place.
+2. Commit the running container to a new Docker image. Open a new terminal or command prompt and use the `docker commit` command to create an image based on the running container. Specify the container ID or name and provide a name and tag for the new image. For example:
+   ```
+   docker commit container_id_or_name myimage:shared
+   ```
+
+   Replace `container_id_or_name` with the actual ID or name of the running container, and choose a name and tag for the new image (e.g., `myimage:shared`).
+3. Tag the image with a version or any additional information if desired. This step is optional but can be helpful for tracking different versions of the shared image. For example:
+   ```
+   docker tag myimage:shared myimage:v1.0
+   ```
+4. Log in to a Docker registry (such as Docker Hub) if you haven't already. This step is necessary if you want to push the image to a registry that requires authentication. Use the `docker login` command and provide your credentials as prompted.
+5. Push the image to the Docker registry. Use the `docker push` command and specify the image name and tag to push it to the registry. For example:
+   ```
+   docker push myimage:shared
+   ```
+6. Provide the necessary information to others who wish to use your shared image. Share the image name and tag, along with any relevant instructions or documentation, so that others can pull and run the containerized application.
+7. Others can now pull and run the shared image on their own machines using the `docker pull` and `docker run` commands, as described earlier. They should be able to use the image you shared to run the containerized application locally.
+
+
+
+
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
