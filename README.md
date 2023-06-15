@@ -217,6 +217,8 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
    Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
 5. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
 6. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
+#### Reference
+   - Docker Registry -> https://docs.docker.com/get-started/overview/
 
 ### Docker-Image-Sharing
 1. Ensure that your containerized application is running and working correctly on your local machine. Verify that it functions as expected and that any necessary dependencies or configurations are in place.
