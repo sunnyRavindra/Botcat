@@ -11,6 +11,7 @@
     * [Docker-Container](#Docker-Container)
     * [Build-Container-Image](#Build-Container-Image)
     * [Start-Container-Image](#Start-Container-Image)
+    * [Updating-Docker-Container](#Updating-Docker-Container)
 
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
@@ -173,8 +174,32 @@ In this example, `-p 8000:8000` maps port 8000 on the host to port 8000 in the c
 3. Access your application: If your application is a web server listening on port 8000, you can open a web browser and navigate to `http://localhost:8000` to access it. Adjust the URL and port number based on your application's configuration.
 5. To stop the container, press `Ctrl + C` in the terminal where it is running. The container will be stopped and removed.
     
-    
+### Updating-Docker-Container
+1. Make the necessary changes to your application source code.
+2. Open a terminal or command prompt.
+3. Build a new Docker image with the updated source code using the same Dockerfile and a new tag. Navigate to the directory containing the Dockerfile and run the `docker build` command again. For example:
+   ```
+   docker build -t myimage:latest .
+   ```
 
+Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate it from the previous image.
+4. Wait for the new image to build. Docker will only rebuild the layers that have changed, making the process faster.
+5. Once the new image is built, stop and remove the existing container. Run the following command to list all running containers:
+   ```
+   docker ps
+   ```
+   Identify the container ID or name corresponding to the running container based on the previous image.
+   Then, stop and remove the container using the `docker stop` and `docker rm` commands, respectively. For example:
+   ```
+   docker stop container_id_or_name
+   docker rm container_id_or_name
+   ```
+6. Run a new container using the updated image. Use the `docker run` command as mentioned earlier, specifying the updated image name and any desired options or configurations. For example:
+   ```
+   docker run -p 8000:8000 myimage:updated
+   ```
+7. Wait for Docker to download the necessary layers and start the new container.
+8. Access your application to verify that the changes have taken effect. Use the appropriate URL and port number as configured in your application.
 
 
 
