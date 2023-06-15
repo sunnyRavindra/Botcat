@@ -102,7 +102,6 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 8. Docker images are designed to be smaller and more efficient compared to other virtualization technologies.
 9. Images serve as a basis for creating and running containers, providing a consistent environment for applications.
 
-
 ### Docker-Container
 1. Containers are runtime instances created from Docker images.
 2. They provide a lightweight and isolated environment for running applications.
@@ -115,8 +114,9 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. Containers are ideal for deploying microservices-based architectures and enabling containerized application development.
 10. Docker provides tools and APIs to manage and orchestrate containers, making it easy to deploy, scale, and monitor containerized applications.
 
-### Docker-Commands
-1. Docker run.
+### Docker-Practical
+1. Assuming that Docker is already installed on your machine.
+2. 
 ``` sh
 docker run -i -t ubuntu /bin/bash
 ```
