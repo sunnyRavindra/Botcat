@@ -12,6 +12,7 @@
     * [Build-Container-Image](#Build-Container-Image)
     * [Start-Container-Image](#Start-Container-Image)
     * [Updating-Docker-Container](#Updating-Docker-Container)
+    * [Docker-Registry](#Docker-Registry)
     * [Docker-Image-Sharing](#Docker-Image-Sharing)
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
@@ -200,6 +201,14 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
    ```
 7. Wait for Docker to download the necessary layers and start the new container.
 8. Access your application to verify that the changes have taken effect. Use the appropriate URL and port number as configured in your application.
+
+### Docker-Registry
+
+
+
+
+
+
 
 ### Docker-Image-Sharing
 1. Ensure that your containerized application is running and working correctly on your local machine. Verify that it functions as expected and that any necessary dependencies or configurations are in place.
