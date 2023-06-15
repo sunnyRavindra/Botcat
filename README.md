@@ -9,7 +9,7 @@
     * [Docker-Desktop](#Docker-Desktop)
     * [Docker-Image](#Docker-Image)
     * [Docker-Container](#Docker-Container)
-    * [Docker-Practical](#Docker-Practical)
+    * [Build-Container-Image](#Build-Container-Image)
 * [Markdown](#Markdown)
 * [Emacs](#Emacs)
 
@@ -114,9 +114,9 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. Containers are ideal for deploying microservices-based architectures and enabling containerized application development.
 10. Docker provides tools and APIs to manage and orchestrate containers, making it easy to deploy, scale, and monitor containerized applications.
 
-### Docker-Practical
+### Build-Container-Image
 1. Assuming that Docker is already installed on your machine.
-2. 
+2. C 
 ``` sh
 docker run -i -t ubuntu /bin/bash
 ```
