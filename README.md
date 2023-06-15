@@ -128,7 +128,8 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
    ```
 9. Wait for the build process: Docker will execute the instructions in the Dockerfile and build the image. This may take some time, depending on the size of the image and the complexity of the instructions.
 10. Verify the image: After the build process completes successfully, you can verify the newly created image by running `docker images` and checking for the image with the specified tag.
-### Reference
+
+### Build-Container-Image-Example
 ```
 # Use an official Python runtime as the base image
 FROM python:3.9-slim-buster
@@ -151,8 +152,15 @@ EXPOSE 8000
 # Define the command to run the application
 CMD ["python", "app.py"]
 ```
+1. above example uses the official Python 3.9 slim-buster image as the base.
+2. Sets the working directory inside the container to /app.
+3. Copies the requirements.txt file from the host to the working directory in the container.
+4. Installs the dependencies listed in requirements.txt using pip.
+5. Copies the entire application code from the host to the working directory in the container.
+6. Optionally exposes port 8000 to allow incoming connections (adjust the port number as needed).
+7. Sets the command to run the application using the CMD instruction, which in this case runs the app.py script with Python.
+
    
-    
     
     
     
