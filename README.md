@@ -7,15 +7,14 @@
  - [Docker-Demon](#Docker-Demon)
  - [Docker-Client ](#Docker-Client )
  - [Docker-Desktop](#Docker-Desktop)
- - [Docker-Registry](#Docker-Registry)
  - [Docker-Image](#Docker-Image)
  - [Docker-Container](#Docker-Container)
  - [Build-Container-Image](#Build-Container-Image)
  - [Build-Container-Image-Example](#Build-Container-Image-Example)
  - [Start-Container-Image ](#Start-Container-Image )
  - [Updating-Docker-Container](#Updating-Docker-Container)
- - [Docker-Registry](#Docker-Registry)
  - [Docker-Image-Sharing](#Docker-Image-Sharing)
+ - [Docker-Registry](#Docker-Registry)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -80,22 +79,6 @@ Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehens
 9. For more detailed information about Docker Desktop, it is recommended to refer to the official Docker Desktop documentation.
 #### Reference
    - Docker Desktop -> https://docs.docker.com/get-started/overview/
-
-### Docker-Registry
-1. A Docker registry is a storage system that stores Docker images.
-2. Docker Hub is a popular public registry available for general use.
-3. Docker is configured to search for images on Docker Hub by default.
-4. Users can also set up their own private registry.
-5. The docker pull or docker run commands retrieve required images from the configured registry.
-6. The docker push command allows users to upload their own images to the configured registry.
-7. Docker registries enable efficient storage and distribution of Docker images.
-8. They provide a centralized location for sharing and accessing container images.
-9. Docker Hub is a widely used public registry for discovering and sharing Docker images.
-10. Private registries offer additional control and privacy for organizations and individuals.
-11. A Docker registry stores Docker images. Docker Hub is a public registry that anyone can use, and Docker is configured to look for images on Docker Hub by default. You can even run your own private registry.
-12. When you use the docker pull or docker run commands, the required images are pulled from your configured registry. When you use the docker push command, your image is pushed to your configured registry.
-#### Reference
-   - Docker Registry -> https://docs.docker.com/get-started/overview/
 
 ### Docker-Image
 1. An image in Docker is a read-only template containing instructions for creating a Docker container.
@@ -204,24 +187,6 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 7. Wait for Docker to download the necessary layers and start the new container.
 8. Access your application to verify that the changes have taken effect. Use the appropriate URL and port number as configured in your application.
 
-### Docker-Registry
-1. Set up a Docker registry: You have the option to use Docker Hub (a public registry) or set up your own private registry. If you choose to set up a private registry, you can use tools like Docker Registry or third-party solutions.
-2. Log in to the Docker registry: If you are using Docker Hub or a private registry that requires authentication, log in to the registry using the `docker login` command. Provide your registry credentials (username and password) as prompted.
-3. Tag your Docker image: Before pushing the image to the registry, it's recommended to tag it with the appropriate registry URL and repository name. Use the `docker tag` command to create a new tag for the image. For example:
-   ```
-   docker tag myimage:latest myregistry/myrepository:latest
-   ```
-   Replace `myimage:latest` with the name and tag of the image you want to share. Adjust `myregistry` and `myrepository` with the appropriate registry URL and repository name.
-4. Push the Docker image to the registry: Use the `docker push` command to push the tagged image to the registry. For example:
-   ```
-   docker push myregistry/myrepository:latest
-   ```
-   Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
-5. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
-6. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
-#### Reference
-   - Docker Registry -> https://docs.docker.com/get-started/overview/
-
 ### Docker-Image-Sharing
 1. Ensure that your containerized application is running and working correctly on your local machine. Verify that it functions as expected and that any necessary dependencies or configurations are in place.
 2. Commit the running container to a new Docker image. Open a new terminal or command prompt and use the `docker commit` command to create an image based on the running container. Specify the container ID or name and provide a name and tag for the new image. For example:
@@ -240,6 +205,37 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
    ```
 6. Provide the necessary information to others who wish to use your shared image. Share the image name and tag, along with any relevant instructions or documentation, so that others can pull and run the containerized application.
 7. Others can now pull and run the shared image on their own machines using the `docker pull` and `docker run` commands, as described earlier. They should be able to use the image you shared to run the containerized application locally.
+
+### Docker-Registry
+1. A Docker registry is a storage system that stores Docker images.
+2. Docker Hub is a popular public registry available for general use.
+3. Docker is configured to search for images on Docker Hub by default.
+4. Users can also set up their own private registry.
+5. The docker pull or docker run commands retrieve required images from the configured registry.
+6. The docker push command allows users to upload their own images to the configured registry.
+7. Docker registries enable efficient storage and distribution of Docker images.
+8. They provide a centralized location for sharing and accessing container images.
+9. Docker Hub is a widely used public registry for discovering and sharing Docker images.
+10. Private registries offer additional control and privacy for organizations and individuals.
+11. A Docker registry stores Docker images. Docker Hub is a public registry that anyone can use, and Docker is configured to look for images on Docker Hub by default. You can even run your own private registry.
+12. When you use the docker pull or docker run commands, the required images are pulled from your configured registry. When you use the docker push command, your image is pushed to your configured registry.
+13. Set up a Docker registry: You have the option to use Docker Hub (a public registry) or set up your own private registry. If you choose to set up a private registry, you can use tools like Docker Registry or third-party solutions.
+14. Log in to the Docker registry: If you are using Docker Hub or a private registry that requires authentication, log in to the registry using the `docker login` command. Provide your registry credentials (username and password) as prompted.
+15. Tag your Docker image: Before pushing the image to the registry, it's recommended to tag it with the appropriate registry URL and repository name. Use the `docker tag` command to create a new tag for the image. For example:
+   ```
+   docker tag myimage:latest myregistry/myrepository:latest
+   ```
+   Replace `myimage:latest` with the name and tag of the image you want to share. Adjust `myregistry` and `myrepository` with the appropriate registry URL and repository name.
+16. Push the Docker image to the registry: Use the `docker push` command to push the tagged image to the registry. For example:
+   ```
+   docker push myregistry/myrepository:latest
+   ```
+   Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
+17. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
+18. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
+#### Reference
+   - Docker Registry -> https://docs.docker.com/get-started/overview/
+
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
