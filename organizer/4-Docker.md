@@ -89,9 +89,9 @@
 6. Expose ports (optional): If your application requires specific ports to be accessible, use the `EXPOSE` instruction to specify them.
 7. Define the default command: Use the `CMD` instruction to define the command that should be run when a container based on the image is started.
 8. Build the image: Open a terminal or command prompt, navigate to the directory containing the Dockerfile, and run the `docker build` command, specifying a tag for the image. For example:
-   ```
-   docker build -t myimage:latest .
-   ```
+```
+docker build -t myimage:latest .
+```
 9. Wait for the build process: Docker will execute the instructions in the Dockerfile and build the image. This may take some time, depending on the size of the image and the complexity of the instructions.
 10. Verify the image: After the build process completes successfully, you can verify the newly created image by running `docker images` and checking for the image with the specified tag.
 
@@ -128,10 +128,9 @@ CMD ["python", "app.py"]
 
 ### Start-Container-Image 
 1. Use the `docker run` command to start a container based on the image. Specify any desired options or configurations and provide the image name and tag. For example:
-   ```
-   docker run -p 8000:8000 myimage:latest
-   ```
-
+```
+docker run -p 8000:8000 myimage:latest
+```
 In this example, `-p 8000:8000` maps port 8000 on the host to port 8000 in the container. Adjust the port mapping as needed for your application.
 2. Wait for Docker to download the necessary layers and start the container. You should see the container ID or name printed in the terminal, indicating that the container is running.
 3. Access your application: If your application is a web server listening on port 8000, you can open a web browser and navigate to `http://localhost:8000` to access it. Adjust the URL and port number based on your application's configuration.
@@ -141,45 +140,44 @@ In this example, `-p 8000:8000` maps port 8000 on the host to port 8000 in the c
 1. Make the necessary changes to your application source code.
 2. Open a terminal or command prompt.
 3. Build a new Docker image with the updated source code using the same Dockerfile and a new tag. Navigate to the directory containing the Dockerfile and run the `docker build` command again. For example:
-   ```
-   docker build -t myimage:latest .
-   ```
-
+```
+docker build -t myimage:latest .
+```
 Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate it from the previous image.
 4. Wait for the new image to build. Docker will only rebuild the layers that have changed, making the process faster.
 5. Once the new image is built, stop and remove the existing container. Run the following command to list all running containers:
-   ```
-   docker ps
-   ```
-   Identify the container ID or name corresponding to the running container based on the previous image.
-   Then, stop and remove the container using the `docker stop` and `docker rm` commands, respectively. For example:
-   ```
-   docker stop container_id_or_name
-   docker rm container_id_or_name
-   ```
+```
+docker ps
+```
+Identify the container ID or name corresponding to the running container based on the previous image.
+Then, stop and remove the container using the `docker stop` and `docker rm` commands, respectively. For example:
+```
+docker stop container_id_or_name
+docker rm container_id_or_name
+```
 6. Run a new container using the updated image. Use the `docker run` command as mentioned earlier, specifying the updated image name and any desired options or configurations. For example:
-   ```
-   docker run -p 8000:8000 myimage:updated
-   ```
+```
+docker run -p 8000:8000 myimage:updated
+```
 7. Wait for Docker to download the necessary layers and start the new container.
 8. Access your application to verify that the changes have taken effect. Use the appropriate URL and port number as configured in your application.
 
 ### Docker-Image-Sharing
 1. Ensure that your containerized application is running and working correctly on your local machine. Verify that it functions as expected and that any necessary dependencies or configurations are in place.
 2. Commit the running container to a new Docker image. Open a new terminal or command prompt and use the `docker commit` command to create an image based on the running container. Specify the container ID or name and provide a name and tag for the new image. For example:
-   ```
-   docker commit container_id_or_name myimage:shared
-   ```
-   Replace `container_id_or_name` with the actual ID or name of the running container, and choose a name and tag for the new image (e.g., `myimage:shared`).
+```
+docker commit container_id_or_name myimage:shared
+```
+Replace `container_id_or_name` with the actual ID or name of the running container, and choose a name and tag for the new image (e.g., `myimage:shared`).
 3. Tag the image with a version or any additional information if desired. This step is optional but can be helpful for tracking different versions of the shared image. For example:
-   ```
-   docker tag myimage:shared myimage:v1.0
-   ```
+```
+docker tag myimage:shared myimage:v1.0
+```
 4. Log in to a Docker registry (such as Docker Hub) if you haven't already. This step is necessary if you want to push the image to a registry that requires authentication. Use the `docker login` command and provide your credentials as prompted.
 5. Push the image to the Docker registry. Use the `docker push` command and specify the image name and tag to push it to the registry. For example:
-   ```
-   docker push myimage:shared
-   ```
+```
+docker push myimage:shared
+```
 6. Provide the necessary information to others who wish to use your shared image. Share the image name and tag, along with any relevant instructions or documentation, so that others can pull and run the containerized application.
 7. Others can now pull and run the shared image on their own machines using the `docker pull` and `docker run` commands, as described earlier. They should be able to use the image you shared to run the containerized application locally.
 
@@ -199,15 +197,15 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 13. Set up a Docker registry: You have the option to use Docker Hub (a public registry) or set up your own private registry. If you choose to set up a private registry, you can use tools like Docker Registry or third-party solutions.
 14. Log in to the Docker registry: If you are using Docker Hub or a private registry that requires authentication, log in to the registry using the `docker login` command. Provide your registry credentials (username and password) as prompted.
 15. Tag your Docker image: Before pushing the image to the registry, it's recommended to tag it with the appropriate registry URL and repository name. Use the `docker tag` command to create a new tag for the image. For example:
-   ```
-   docker tag myimage:latest myregistry/myrepository:latest
-   ```
-   Replace `myimage:latest` with the name and tag of the image you want to share. Adjust `myregistry` and `myrepository` with the appropriate registry URL and repository name.
+```
+docker tag myimage:latest myregistry/myrepository:latest
+```
+Replace `myimage:latest` with the name and tag of the image you want to share. Adjust `myregistry` and `myrepository` with the appropriate registry URL and repository name.
 16. Push the Docker image to the registry: Use the `docker push` command to push the tagged image to the registry. For example:
-   ```
-   docker push myregistry/myrepository:latest
-   ```
-   Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
+```
+docker push myregistry/myrepository:latest
+```
+Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
 17. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
 18. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
 #### Reference
