@@ -1,20 +1,21 @@
-# Cloud-Architect-Large-Enterprise-Practical-Guild 
+# Cloud-DevOps-Large-Enterprise-Practical-Guide 
 
 - [Introduction](#Introduction)
 - [Docker](#Docker)
-   - [Docker-Basics](#Docker-Basics)
-   - [Docker-Architecture](#Docker-Architecture)
-   - [Docker-Demon](#Docker-Demon)
-   - [Docker-Client ](#Docker-Client )
-   - [Docker-Desktop](#Docker-Desktop)
-   - [Docker-Image](#Docker-Image)
-   - [Docker-Container](#Docker-Container)
-   - [Build-Container-Image](#Build-Container-Image)
-   - [Build-Container-Image-Example](#Build-Container-Image-Example)
-   - [Start-Container-Image ](#Start-Container-Image )
-   - [Updating-Docker-Container](#Updating-Docker-Container)
-   - [Docker-Image-Sharing](#Docker-Image-Sharing)
-   - [Docker-Registry](#Docker-Registry)
+ - [Docker-Basics](#Docker-Basics)
+ - [Docker-Architecture](#Docker-Architecture)
+ - [Docker-Demon](#Docker-Demon)
+ - [Docker-Client ](#Docker-Client )
+ - [Docker-Desktop](#Docker-Desktop)
+ - [Docker-Image](#Docker-Image)
+ - [Docker-Container](#Docker-Container)
+ - [Build-Container-Image](#Build-Container-Image)
+ - [Build-Container-Image-Example](#Build-Container-Image-Example)
+ - [Start-Container-Image ](#Start-Container-Image )
+ - [Updating-Docker-Container](#Updating-Docker-Container)
+ - [Docker-Image-Sharing](#Docker-Image-Sharing)
+ - [Docker-Registry](#Docker-Registry)
+ - [Docker-Registry](#Docker-Registry)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -235,7 +236,16 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 18. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
 #### Reference
    - Docker Registry -> https://docs.docker.com/get-started/overview/
+   
+### Docker-Registry
+1. A Docker registry is a storage system that stores Docker images.
+2. Docker Hub is a popular public registry available for general use.
+3. Docker is configured to search for images on Docker Hub by default.
+4. Users can also set up their own private registry.
+5. The docker pull or docker run commands retrieve required images from the configured registry.
+6. The docker push command allows users to upload their own images to the configured registry.
 
+test readme file 
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
