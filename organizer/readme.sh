@@ -1,8 +1,8 @@
 #!/bin/bash
 
 Project_name="Cloud-DevOps-Large-Enterprise-Practical-Guide"
-Project_name_readme_file="1-Project-name.md"
-Index_readme_file="2-index.md"
+Project_name_readme_file="./1-Project-name.md"
+Index_readme_file="./2-index.md"
 output=""
 # Enter Project name at the start
 $(echo -e "# $Project_name \n" > $Project_name_readme_file)
