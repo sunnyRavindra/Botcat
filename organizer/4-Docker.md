@@ -213,12 +213,3 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 #### Reference
    - Docker Registry -> https://docs.docker.com/get-started/overview/
    
-### Docker-Registry
-1. A Docker registry is a storage system that stores Docker images.
-2. Docker Hub is a popular public registry available for general use.
-3. Docker is configured to search for images on Docker Hub by default.
-4. Users can also set up their own private registry.
-5. The docker pull or docker run commands retrieve required images from the configured registry.
-6. The docker push command allows users to upload their own images to the configured registry.
-
-test test test test

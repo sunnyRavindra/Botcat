@@ -13,7 +13,6 @@
  - [Updating-Docker-Container](#Updating-Docker-Container)
  - [Docker-Image-Sharing](#Docker-Image-Sharing)
  - [Docker-Registry](#Docker-Registry)
- - [Docker-Registry](#Docker-Registry)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
