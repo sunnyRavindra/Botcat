@@ -244,6 +244,7 @@ Make sure to specify a different tag (e.g., `myimage:updated`) to differentiate 
 4. Users can also set up their own private registry.
 5. The docker pull or docker run commands retrieve required images from the configured registry.
 6. The docker push command allows users to upload their own images to the configured registry.
+
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
