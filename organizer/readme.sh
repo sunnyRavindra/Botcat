@@ -23,7 +23,6 @@ while IFS= read -r line; do
 done < "$file"
 
 string=$(echo -e $output | tr -d '#')
-pwd
 # IFS=$'\n' read -r -d '' -a lines <<< "$string"
 
 # # Iterate over each line and remove the space after '['
