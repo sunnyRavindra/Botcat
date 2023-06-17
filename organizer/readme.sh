@@ -3,8 +3,8 @@
 Project_name="Cloud-DevOps-Large-Enterprise-Practical-Guide"
 Project_name_readme_file="1-Project-name.md"
 Index_readme_file="2-index.md"
-cd ~/code/
-output="Cloud-DevOps-Large-Enterprise-Practical-Guide"
+cd ~/code/Cloud-DevOps-Large-Enterprise-Practical-Guide/organizer/
+output=""
 
 pwd
 # Iterate through each file in the current directory
