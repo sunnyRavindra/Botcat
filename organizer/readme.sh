@@ -19,7 +19,7 @@ while IFS= read -r line; do
     fi
 
     if [[ $line == "### "* ]]; then
-        output+="  - [$line]($line)\n"
+        output+="   - [$line]($line)\n"
     fi
 
 done < "$file"
