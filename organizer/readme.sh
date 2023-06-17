@@ -58,13 +58,13 @@ done
 # Print the updated string
 echo "$new_string" > ./2-index.md
 
-cat ./1-Project-name.md > ./README.md
-cat ./2-index.md >> ./README.md
+cat ./1-Project-name.md > ../README.md
+cat ./2-index.md >> ../README.md
 
 for file in *; do
     if [[ -f "$file" && "$file" != "1-Project-name.md" && "$file" != "2-index.md" && "$file" != "readme.sh" ]]; then
-        cat $file >> ./README.md
+        cat $file >> ../README.md
     fi
 done
 
-sed -i 's/ - \[/  - \[/' ./README.md
+sed -i 's/ - \[/  - \[/' ../README.md
