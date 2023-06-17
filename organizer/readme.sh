@@ -3,7 +3,9 @@
 Project_name="Cloud-DevOps-Large-Enterprise-Practical-Guide"
 Project_name_readme_file="1-Project-name.md"
 Index_readme_file="2-index.md"
-output=""
+cd ~/code/
+output="Cloud-DevOps-Large-Enterprise-Practical-Guide"
+
 pwd
 # Iterate through each file in the current directory
 for file in *; do
