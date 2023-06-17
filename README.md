@@ -2,23 +2,24 @@
 
 - [Introduction](#Introduction)
 - [Docker](#Docker)
-     - [Docker-Basics](#Docker-Basics)
-     - [Docker-Architecture](#Docker-Architecture)
-     - [Docker-Demon](#Docker-Demon)
-     - [Docker-Client ](#Docker-Client )
-     - [Docker-Desktop](#Docker-Desktop)
-     - [Docker-Image](#Docker-Image)
-     - [Docker-Container](#Docker-Container)
-     - [Build-Container-Image](#Build-Container-Image)
-     - [Build-Container-Image-Example](#Build-Container-Image-Example)
-     - [Start-Container-Image ](#Start-Container-Image )
-     - [Updating-Docker-Container](#Updating-Docker-Container)
-     - [Docker-Image-Sharing](#Docker-Image-Sharing)
-     - [Docker-Registry](#Docker-Registry)
+      - [Docker-Basics](#Docker-Basics)
+      - [Docker-Architecture](#Docker-Architecture)
+      - [Docker-Demon](#Docker-Demon)
+      - [Docker-Client ](#Docker-Client )
+      - [Docker-Desktop](#Docker-Desktop)
+      - [Docker-Image](#Docker-Image)
+      - [Docker-Container](#Docker-Container)
+      - [Build-Container-Image](#Build-Container-Image)
+      - [Build-Container-Image-Example](#Build-Container-Image-Example)
+      - [Start-Container-Image ](#Start-Container-Image )
+      - [Updating-Docker-Container](#Updating-Docker-Container)
+      - [Docker-Image-Sharing](#Docker-Image-Sharing)
+      - [Docker-Registry](#Docker-Registry)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
-## Introduction
+
+## Introduction 
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
 ## Docker
