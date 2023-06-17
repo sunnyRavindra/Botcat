@@ -67,4 +67,4 @@ for file in *; do
     fi
 done
 
-sed -i 's/ - \[/   - \[/' ../README.md
+sed -i 's/ - \[/  - \[/' ../README.md
