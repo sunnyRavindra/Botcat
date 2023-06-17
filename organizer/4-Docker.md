@@ -9,9 +9,9 @@
 7. Containers isolate software from the environment.
 8. Containers ensure uniform functionality across different stages like development and staging.
 #### Reference
-   - Documents -> https://www.docker.com
-   - Getting Started -> https://docs.docker.com/get-started/
-   - Download -> https://docs.docker.com/get-docker/
+- Documents -> https://www.docker.com
+- Getting Started -> https://docs.docker.com/get-started/
+- Download -> https://docs.docker.com/get-docker/
 
 ### Docker-Architecture
 1. Docker uses a client-server architecture.
@@ -23,7 +23,7 @@
 7. Docker Compose is another client that allows working with applications consisting of multiple containers.
 8. Docker Compose helps manage the configuration and deployment of multi-container applications.
 #### Reference
-   - Docker Architecture -> https://docs.docker.com/get-started/overview/
+- Docker Architecture -> https://docs.docker.com/get-started/overview/
 
 ### Docker-Demon
 1. The Docker daemon, also known as dockerd, is a core component of Docker.
@@ -55,7 +55,7 @@
 8. Docker Desktop is a comprehensive toolset that integrates multiple Docker-related functionalities.
 9. For more detailed information about Docker Desktop, it is recommended to refer to the official Docker Desktop documentation.
 #### Reference
-   - Docker Desktop -> https://docs.docker.com/get-started/overview/
+- Docker Desktop -> https://docs.docker.com/get-started/overview/
 
 ### Docker-Image
 1. An image in Docker is a read-only template containing instructions for creating a Docker container.
@@ -209,6 +209,5 @@ Docker will upload the image and its layers to the registry. This may take some 
 17. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
 18. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
 #### Reference
-   - Docker Registry -> https://docs.docker.com/get-started/overview/
+- Docker Registry -> https://docs.docker.com/get-started/overview/
   
-this is test Readme File
