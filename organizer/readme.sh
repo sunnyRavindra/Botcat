@@ -5,25 +5,25 @@ Project_name_readme_file="1-Project-name.md"
 Index_readme_file="2-index.md"
 output=""
 pwd
-# # Iterate through each file in the current directory
-# for file in *; do
-#     if [[ -f "$file" && "$file" != "1-Project-name.md" && "$file" != "2-index.md" && "$file" != "readme.sh" ]]; then
+# Iterate through each file in the current directory
+for file in *; do
+    if [[ -f "$file" && "$file" != "1-Project-name.md" && "$file" != "2-index.md" && "$file" != "readme.sh" ]]; then
 
-# while IFS= read -r line; do
+while IFS= read -r line; do
 
-#     if [[ $line == "## "* ]]; then
-#         # output+="$line\n" | tr -d '##'
-#         output+="- [$line]($line)\n"
-#     fi
+    if [[ $line == "## "* ]]; then
+        # output+="$line\n" | tr -d '##'
+        output+="- [$line]($line)\n"
+    fi
 
-#     if [[ $line == "### "* ]]; then
-#         output+="   - [$line]($line)\n"
-#     fi
+    if [[ $line == "### "* ]]; then
+        output+="   - [$line]($line)\n"
+    fi
 
-# done < "$file"
+done < "$file"
 
-# string=$(echo -e $output | tr -d '#')
-
+string=$(echo -e $output | tr -d '#')
+pwd
 # IFS=$'\n' read -r -d '' -a lines <<< "$string"
 
 # # Iterate over each line and remove the space after '['
