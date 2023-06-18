@@ -15,9 +15,9 @@
   - [Updating-Docker-Container](#Updating-Docker-Container)
   - [Docker-Image-Sharing](#Docker-Image-Sharing)
   - [Docker-Registry](#Docker-Registry)
-  - [Docker Volumes](#Docker Volumes)
-  - [Docker Bind Mounts](#Docker Bind Mounts)
-  - [Differences Between Bind Mount and Volumes](#Differences Between Bind Mount and Volumes)
+  - [Docker-Volumes](#Docker-Volumes)
+  - [Docker-Bind-Mounts](#Docker-Bind-Mounts)
+  - [Differences-Between-Bind-Mount-and-Volumes](#Differences-Between-Bind-Mount-and-Volumes)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -238,7 +238,7 @@ Docker will upload the image and its layers to the registry. This may take some 
 #### Reference
 - Docker Registry -> https://docs.docker.com/get-started/overview/
 
-### Docker Volumes
+### Docker-Volumes
 1. Docker volumes are managed by Docker and are independent of the host file system.
 2. Volumes are designed to persist data even if the container is stopped or deleted.
 3. Volumes can be created and managed using Docker commands or Docker Compose files.
@@ -248,7 +248,7 @@ Docker will upload the image and its layers to the registry. This may take some 
 7. The data inside a volume can be accessed by multiple containers simultaneously.
 8. Volumes have their own location on the host system, typically in the Docker directory.
 
-### Docker Bind Mounts
+### Docker-Bind-Mounts
 1. Bind mounts are linked to a specific directory or file on the host system.
 2. With bind mounts, you can directly reference files or directories on the host during container runtime.
 3. Bind mounts do not have a separate life cycle from the host system; they are tightly coupled.
@@ -258,7 +258,7 @@ Docker will upload the image and its layers to the registry. This may take some 
 8. Multiple containers can bind to the same host directory or file, allowing easy data sharing.
 7. Bind mounts can be specified using absolute paths or relative paths to the container's file system.
 
-### Differences Between Bind Mount and Volumes
+### Differences-Between-Bind-Mount-and-Volumes
 1. Persistence: Docker volumes persist data even if the container is removed, while bind mounts are tightly coupled to the host system and do not persist data separately.
 2. Lifecycle: Docker volumes have a separate lifecycle managed by Docker, whereas bind mounts are directly linked to the host system and have no separate lifecycle.
 3. Portability: Docker volumes are portable and can be easily moved between different Docker hosts. Bind mounts are specific to the host system where the container is running.
