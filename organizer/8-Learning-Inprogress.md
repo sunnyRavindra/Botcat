@@ -1,9 +1,11 @@
 ## Learning-Inprogress
 
 ### Todo
-1. Docker Tutorial 
-   - chapter 12 -> never revisit this course before chapter 11 because there is notting worth knowing.
-2. Revisit 
+1. Docker Mastery with Kubernetes+Swarm 
+   - chapter 18 -> never revisit this course before this chapter.
+2. Docker and Kubernetes
+   - Chapter 2  -> never revisit this course before this chapter.
+3. Revisit 
    - https://www.docker.com/products/telepresence-for-docker/ 
 
 
