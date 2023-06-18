@@ -25,6 +25,7 @@
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
+- [Learning-Inprogress](#Learning-Inprogress)
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
@@ -591,3 +592,12 @@ dfjhsgfsjghkdsfufTODO - https://www.docker.com/products/telepresence-for-docker/
         - https://www.youtube.com/watch?v=ymSq4wHrqyU
         - https://learnxinyminutes.com/docs/elisp/
  
+## Learning-Inprogress
+
+1. Docker Tutorial 
+   - chapter 11 -> never revisit this course before chapter 11 because there is notting worth knowing.
+
+
+
+
+
