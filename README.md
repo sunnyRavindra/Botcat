@@ -597,9 +597,9 @@ dfjhsgfsjghkdsfufTODO - https://www.docker.com/products/telepresence-for-docker/
 
 ### Todo
 1. Docker Mastery with Kubernetes+Swarm 
-   - chapter 18 -> never revisit this course before this chapter.
+   - chapter 18 -> All Videos before this chapter is useless 
 2. Docker and Kubernetes
-   - Chapter 2  -> never revisit this course before this chapter.
+   - Chapter 5  -> All Videos before this chapter is useless 
 3. Revisit 
    - https://www.docker.com/products/telepresence-for-docker/ 
 
