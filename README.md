@@ -602,9 +602,8 @@ dfjhsgfsjghkdsfufTODO - https://www.docker.com/products/telepresence-for-docker/
    - Chapter 5  -> All Videos before this chapter is useless 
 3. Revisit 
    - https://www.docker.com/products/telepresence-for-docker/ 
-
-
-
+4. Pending Docker dockes (No need of going through the docker guide not much to learn from there)
+   - https://docs.docker.com/config/daemon/start/
 
 
 
