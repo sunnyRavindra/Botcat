@@ -260,13 +260,13 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 6. Bind Mounting
 7. Persistent Volumes
 
-## Relationship-between-Docker-Desktop-and-Docker-Engine
+### Relationship-between-Docker-Desktop-and-Docker-Engine
 1. Docker Desktop includes Docker Engine as its core component. It installs and manages Docker Engine behind the scenes, providing a user-friendly interface to work with Docker containers.
 2. Docker Desktop abstracts away some of the complexities of working directly with Docker Engine, making it easier for developers to get started with Docker.
 3. Docker Desktop also includes additional tools and features specifically tailored for developers, such as the ability to configure container resources, networking, and storage options through its graphical interface.
 4. Docker Desktop is essentially a pre-packaged solution that bundles Docker Engine with a user-friendly interface and additional developer-centric features.
 
-# Docker Commands
+### Docker Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
 3. docker ->returns all the docker commands that can be used and referred to.
@@ -298,11 +298,11 @@ docker container port enakonda
 28. docker login
 29. docker logout
 
-## DNS
+### DNS
 1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
 2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
 
-## Docker compose
+### Docker compose
 1. Install DevContainers CLI
 2. Install vscode and Docker over the internet , and make sure both of them are up and running.
 3. install the "Remote Development" and "Dev Containers" extension for VS Code
@@ -321,7 +321,7 @@ docker container port enakonda
 Reference - >  `Cloud-Architect-Large-Enterprise-Practical-Guild/DevContainerFiles`
 Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containers`
 
-### Create Github hosted React Frontend
+## Create Github hosted React Frontend
 1. Install node and npm inside devContainer by adding below propery to the devcontainer.json.
 ```
 "features": {
@@ -346,8 +346,8 @@ npm run dev
     "scripts": {
     +   "predeploy": "npm run build",
     +   "deploy": "gh-pages -d build",
-        "start": "react-scripts start",
         "build": "react-scripts build",
+        "start": "react-scripts start",
 ```
 1. run command  `npm run deploy -- -m "Deploy React app to GitHub Pages"`
 ```
@@ -358,7 +358,7 @@ npm run dev
 Reference - > `https://github.com/gitname/react-gh-pages#readme`.
 Mysite - > `https://sunnyravindra.github.io/Cloud-Architect-Large-Enterprise-Practical-Guild/`
 
-## Next js frontend
+### Next js frontend
 1.  Components. - > `ReactApp/scr/components/MyFirstComponent/MyFirstComponent`
 2.  Make sure to use Uppercase letters while  importing Components
 3.  JSX can have only one root element use <Fragments > or <></>instead of div.
@@ -452,7 +452,7 @@ const changeTitle = ()=> {
 19. Refs -> good for reading values
 20. useEffect hook
 
-## Moving to Next js 
+### Moving to Next js 
 1. Create next.js project and select default values 
 `npm create-next-app `
 2. 
@@ -486,7 +486,7 @@ class myFirstClass{
     //Map ->practical pending
 }
 
-## Application Containerization
+### Application Containerization
 1. Install docker.
 ```
 Onlocal: 
@@ -511,49 +511,3 @@ From alpine:latest
 Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
 
-## Vim-Cheat-Sheet
-### Navigation:
-h: Move left
-j: Move down
-k: Move up
-l: Move right
-0: Move to the beginning of the line
-$: Move to the end of the line
-gg:Move to the beginning of the file
-G: Move to the end of the file
-Ctrl + f: Move forward one page
-Ctrl + b: Move backward one page
-
-### Editing:
-i: Enter insert mode at the cursor
-I: Enter insert mode at the beginning of the line
-a: Enter insert mode after the cursor
-A: Enter insert mode at the end of the line
-o: Insert a new line below the current line
-O: Insert a new line above the current line
-x: Delete the character under the cursor
-dd: Delete the current line
-yy: Yank (copy) the current line
-p: Paste the previously yanked or deleted text
-u: Undo the last change
-Ctrl + r: Redo the last change
-
-### Search and Replace:
-/pattern: Search forward for "pattern"
-?pattern: Search backward for "pattern"
-n: Jump to the next occurrence of the search pattern
-N: Jump to the previous occurrence of the search pattern
-:%s/old/new/g: Replace all occurrences of "old" with "new" in the entire file
-:%s/old/new/gc: Replace all occurrences of "old" with "new" in the entire file with confirmation
-
-### Saving and Quitting:
-:w: Save the file
-:q: Quit (close) the file
-:q!: Quit without saving (force quit)
-:wq or :x: Save and quit
-
-### Other Useful Commands:
-:set nu: Show line numbers
-:set nonu: Hide line numbers
-:set syntax=language: Enable syntax highlighting for a specific programming language
-:help keyword: Open Vim's built-in help for a specific keyword
