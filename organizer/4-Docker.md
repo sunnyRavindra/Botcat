@@ -266,7 +266,7 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 3. Docker Desktop also includes additional tools and features specifically tailored for developers, such as the ability to configure container resources, networking, and storage options through its graphical interface.
 4. Docker Desktop is essentially a pre-packaged solution that bundles Docker Engine with a user-friendly interface and additional developer-centric features.
 
-### Docker Commands
+### Docker-Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
 3. docker ->returns all the docker commands that can be used and referred to.
@@ -302,7 +302,7 @@ docker container port enakonda
 1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
 2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
 
-### Docker compose
+### Docker-compose
 1. Install DevContainers CLI
 2. Install vscode and Docker over the internet , and make sure both of them are up and running.
 3. install the "Remote Development" and "Dev Containers" extension for VS Code
@@ -321,172 +321,7 @@ docker container port enakonda
 Reference - >  `Cloud-Architect-Large-Enterprise-Practical-Guild/DevContainerFiles`
 Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containers`
 
-## Create Github hosted React Frontend
-1. Install node and npm inside devContainer by adding below propery to the devcontainer.json.
-```
-"features": {
-		"ghcr.io/devcontainers/features/node:1": {},
-		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
-	}
-```
-2. Create Svelte app 
-```
-npm create svelte@latest ca-svelte-frontend --y
->Skeleton project
->Use Typescript
->Select All
-cd ca-svelte-frontend
-npm install
-npm run dev
-```
-3. Deploy to `https://github.com/metonym/sveltekit-gh-pages`.
-2. Add homepage property to package.json `"homepage": "https://{username}.github.io/{repo-name}"`.
-3. Add a predeploy property and a deploy property to the scripts object in package.json .
-```
-    "scripts": {
-    +   "predeploy": "npm run build",
-    +   "deploy": "gh-pages -d build",
-        "build": "react-scripts build",
-        "start": "react-scripts start",
-```
-1. run command  `npm run deploy -- -m "Deploy React app to GitHub Pages"`
-```
-    Under the hood, the predeploy script will build a distributable version of the React app and store it in a folder named build. Then, the deploy script will push the contents of that folder to a new commit on the gh-pages branch of the GitHub repository, creating that branch if it doesn't already exist.
-```
-1. Navigate to the GitHub repository settings page> Code and automation> Pages
-2. update Source: Deploy from a branch, Branch: gh-pages, Folder: / (root).
-Reference - > `https://github.com/gitname/react-gh-pages#readme`.
-Mysite - > `https://sunnyravindra.github.io/Cloud-Architect-Large-Enterprise-Practical-Guild/`
-
-### Next js frontend
-1.  Components. - > `ReactApp/scr/components/MyFirstComponent/MyFirstComponent`
-2.  Make sure to use Uppercase letters while  importing Components
-3.  JSX can have only one root element use <Fragments > or <></>instead of div.
-4.  Create below folder structure.
-```
-├── scss
-│   ├── main.scss
-│   └── _variables.scss
-```
-reference -> `ReactApp/scr/scss`
-5.  Create first react component 
-```
-const MyFirstComponent = () => {
-    return (
-        <div>
-            <div>MyFirstComponent</div>
-            <div>MySecondComponent</div>
-        </div>
-        
-    );
-}
-export default MyFirstComponent;
-```
-6.  call the MyFirstComponent in App.js
-```
-import React, { Fragment } from 'react';
-import MyFirstComponent from './components/MyFirstComponent/MyFirstComponent';
-import './scss/main.scss';
-const App = () => {
-  return (
-    <Fragment>
-      <MyFirstComponent></MyFirstComponent>
-      <MyFirstComponent></MyFirstComponent>
-    </Fragment>
-  );
-}
-export default App;
-```
-7.  Add Props
-```
-const MyFirstComponent = (props) => {
-    return (
-        <div>
-            <div>{props.Component1}</div>
-            <div>{props.Component2}</div>
-        </div>
-        
-    );
-}
-export default MyFirstComponent;
-```
-8.  Call component with props in App.js
-```
-const App = () => {
-  return (
-    <Fragment>
-      <MyFirstComponent Component1='firstComponent1' Component2='SecondComponent2'></MyFirstComponent>
-      <MyFirstComponent Component1='firstComponent2' Component2='SecondComponent2'></MyFirstComponent>
-    </Fragment>
-  );
-}
-```
-9. Add Saas component file to the component folder.
-```
- MyFirstComponent
-│       ├── MyFirstComponent.js
-│       └── MyFirstComponent.scss
-```
-Reference -> 
-10. Props Childeren Still To Understand.
-11. UseState
-```
-const [component,setcomponent] = useState(props.Component1);
-
-const changeTitle = ()=> {
-    setcomponent('new componnent');
-};
-```
-12. Use Next js instead on react 
-```
-
-```
-12. Styles with Modlues and tailwindcss.
-`npm install tailwindcss`
-13. Debugging, break points and React devtools.
-14. React Form , form submission ,clearing the inputs , two way binding, Lifting state up
-15. Signle State Vs Mutiple states(53 and 54)
-16. Rendering lists with Key property.
-17. Turnery expressions for conditional content 
-18. Portal
-19. Refs -> good for reading values
-20. useEffect hook
-
-### Moving to Next js 
-1. Create next.js project and select default values 
-`npm create-next-app `
-2. 
-class myFirstClass{
-    constructor(){
-        this.constructor = 'constructor';
-    }
-    myFirstArrowFunction = (message, constructor) => {
-        var myfirstVar = '4';
-    const myfirstConst = '5';
-        console.log(message + myfirstVar + myfirstConst)
-    }
-    //Spread
-    const myFirstArray = [1,2,3,4,5];
-    const myFirstSpreadArray = [...myFirstArray];
-    console.log(myFirstSpreadArray)
-    //Rest
-    myFirstRestFunction = (...args) => {
-        console.log(args)
-    }
-    //Array Destructuring 
-    [a,b, ,c]= myFirstArray;
-    console.log(a);
-    console.log(b);
-    console.log(c);
-    //Object Destructuring 
-    {c,d} = {name='sunny',age='cloud'}
-    console.log(c);
-    console.log(d);
-    //objects are coped as reference -> practical pending
-    //Map ->practical pending
-}
-
-### Application Containerization
+### Application-Containerization
 1. Install docker.
 ```
 Onlocal: 
