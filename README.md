@@ -18,6 +18,7 @@
   - [Docker-Volumes](#Docker-Volumes)
   - [Docker-Bind-Mounts](#Docker-Bind-Mounts)
   - [Differences-Between-Bind-Mount-and-Volumes](#Differences-Between-Bind-Mount-and-Volumes)
+  - [Container-Networks](#Container-Networks)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -264,6 +265,19 @@ Docker will upload the image and its layers to the registry. This may take some 
 3. Portability: Docker volumes are portable and can be easily moved between different Docker hosts. Bind mounts are specific to the host system where the container is running.
 4. Ease of use: Docker volumes provide a higher level of abstraction and ease of use, especially when managing data across multiple containers. Bind mounts are simpler to set up and are useful for immediate file or directory sharing.
 5. Integration: Docker volumes can integrate with different storage drivers and systems, such as network storage or cloud providers. Bind mounts are limited to the host's file system.
+Certainly! Here are the point-wise details and differentiation for Docker container networks:
+
+### Container-Networks
+1. Default Network: When Docker is installed, it automatically creates a default network called "bridge." This network allows containers to communicate with each other using IP addresses.
+2. Container Network Drivers: Docker supports multiple container network drivers that offer different networking capabilities, such as bridge, host, overlay, macvlan, and more. Each driver provides specific features and functionalities for container networking.
+3. Bridge Network: The bridge network driver is the default and most commonly used driver. It creates an isolated network on the host and assigns IP addresses to containers connected to the bridge. Containers within the same bridge network can communicate with each other using container names as DNS aliases.
+4. Host Network: The host network driver allows a container to use the host's networking stack directly, sharing the same network interface. It gives the container access to all host interfaces, bypassing Docker's network isolation.
+5. Overlay Network: The overlay network driver enables containers to communicate across multiple Docker hosts or nodes in a swarm. It uses VXLAN (Virtual Extensible LAN) encapsulation to create a distributed network overlay that spans multiple hosts.
+6. Macvlan Network: The macvlan network driver assigns a unique MAC address to each container, allowing them to appear as individual devices on the physical network. Containers in a macvlan network can communicate with other devices on the same physical network, including other containers.
+7. Network Scopes: Docker provides different network scopes for containers, such as global, swarm, and local. Global scope allows containers to communicate across multiple Docker daemons. Swarm scope restricts communication to containers within the same swarm. Local scope confines communication to containers within the same host.
+8. User-defined Networks: Docker allows users to create their own custom networks with specific configurations using the "docker network create" command. Custom networks provide better control over container connectivity and allow containers to be isolated in separate networks.
+9. Network Security: Docker networks can be secured using features like network segmentation, access control lists (ACLs), and firewall rules. This helps control traffic flow between containers and enhances network security.
+10. Third-party Networking Solutions: Docker integrates with third-party networking solutions, such as Calico, Weave, and Flannel, which provide advanced networking features like network policies, service discovery, and load balancing.
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
