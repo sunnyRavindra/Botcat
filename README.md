@@ -19,6 +19,7 @@
   - [Docker-Bind-Mounts](#Docker-Bind-Mounts)
   - [Differences-Between-Bind-Mount-and-Volumes](#Differences-Between-Bind-Mount-and-Volumes)
   - [Container-Networks](#Container-Networks)
+- [Relationship-between-Docker-Desktop-and-Docker-Engine](#Relationship-between-Docker-Desktop-and-Docker-Engine)
   - [Create Github hosted React Frontend](#Create Github hosted React Frontend)
   - [Next js frontend](#Next js frontend)
   - [Moving to Next js ](#Moving to Next js )
@@ -292,6 +293,12 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 6. Bind Mounting
 7. Persistent Volumes
 
+## Relationship-between-Docker-Desktop-and-Docker-Engine
+1. Docker Desktop includes Docker Engine as its core component. It installs and manages Docker Engine behind the scenes, providing a user-friendly interface to work with Docker containers.
+2. Docker Desktop abstracts away some of the complexities of working directly with Docker Engine, making it easier for developers to get started with Docker.
+3. Docker Desktop also includes additional tools and features specifically tailored for developers, such as the ability to configure container resources, networking, and storage options through its graphical interface.
+4. Docker Desktop is essentially a pre-packaged solution that bundles Docker Engine with a user-friendly interface and additional developer-centric features.
+
 # Docker Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
@@ -546,7 +553,6 @@ Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfil
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
 
 
-dfjhsgfsjghkdsfufTODO - https://www.docker.com/products/telepresence-for-docker/
 
 
 ## Markdown
@@ -604,6 +610,5 @@ dfjhsgfsjghkdsfufTODO - https://www.docker.com/products/telepresence-for-docker/
    - https://www.docker.com/products/telepresence-for-docker/ 
 4. Pending Docker dockes (No need of going through the docker guide not much to learn from there)
    - https://docs.docker.com/config/daemon/start/
-
-
+5. Start Algorithms and practice some of it
 
