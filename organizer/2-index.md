@@ -35,3 +35,8 @@
 - [Elisp](#Elisp)
 - [Learning-Inprogress](#Learning-Inprogress)
  - [Todo](#Todo)
+- [Navigation](#Navigation)
+- [Editing](#Editing)
+- [Search and Replace](#Search and Replace)
+- [Saving and Quitting](#Saving and Quitting)
+- [Other Useful Commands](#Other Useful Commands)
