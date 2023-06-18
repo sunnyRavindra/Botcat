@@ -4,7 +4,7 @@
 1. Docker Mastery with Kubernetes+Swarm 
    - chapter 18 -> All Videos before this chapter is useless 
 2. Docker and Kubernetes
-   - Chapter 5  -> All Videos before this chapter is useless 
+   - Chapter 13  -> All Videos before this chapter is useless 
 3. Revisit 
    - https://www.docker.com/products/telepresence-for-docker/ 
 4. Pending Docker dockes (No need of going through the docker guide not much to learn from there)

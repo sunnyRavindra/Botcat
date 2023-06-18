@@ -281,35 +281,28 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 12. docker container inspect mynewcontainer
 13. docker container stats
 14. docker container run -it --name enakonda nginx bash
-15. [ ] dicker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
+15. docker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
 16. docker container exec -it enakonda bash(This command keeps the docker container running)
 docker container port enakonda
 17. docker container inspect --format '{{ .NetworkSettings.IPAddress}}' enakonda.
 18. docker container run -d --name enakonda --network-alias search elasticsearch:2
-19.
-# Docker Network
-1. docker network ls
-2. docker network inspect bridge
-3. docker network create myNetwork
-4. docker network connect network container
-5. docker network disconnect network container
+19. docker network ls
+20. docker network inspect bridge
+21. docker network create myNetwork
+22. docker network connect network container
+23. docker network disconnect network container
+24. Images are just the binaries and the Kernal is provided by the OS itself
+25. docker image history
+26. docker image tag oldimage new/imagename
+27. docker image push
+28. docker login
+29. docker logout
 
-
-# DNS
+## DNS
 1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
 2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
 
-# Images
-1. Images are just the binaries and the Kernal is provided by the OS itself
-2. docker image history
-3. docker image tag oldimage new/imagename
-4. docker image push
-5. docker login
-6. docker logout
-
-# Docker compose
-
-** DevContainers
+## Docker compose
 1. Install DevContainers CLI
 2. Install vscode and Docker over the internet , and make sure both of them are up and running.
 3. install the "Remote Development" and "Dev Containers" extension for VS Code
@@ -365,8 +358,7 @@ npm run dev
 Reference - > `https://github.com/gitname/react-gh-pages#readme`.
 Mysite - > `https://sunnyravindra.github.io/Cloud-Architect-Large-Enterprise-Practical-Guild/`
 
-### Next js frontend
-1. 
+## Next js frontend
 1.  Components. - > `ReactApp/scr/components/MyFirstComponent/MyFirstComponent`
 2.  Make sure to use Uppercase letters while  importing Components
 3.  JSX can have only one root element use <Fragments > or <></>instead of div.
@@ -460,7 +452,7 @@ const changeTitle = ()=> {
 19. Refs -> good for reading values
 20. useEffect hook
 
-### Moving to Next js 
+## Moving to Next js 
 1. Create next.js project and select default values 
 `npm create-next-app `
 2. 
@@ -494,7 +486,7 @@ class myFirstClass{
     //Map ->practical pending
 }
 
-#### Application Containerization  
+## Application Containerization
 1. Install docker.
 ```
 Onlocal: 
@@ -509,9 +501,9 @@ OnDevcontainer: add below lines to devcontainer.json
 2. Rebuild. 
 3. Create DockerFile named "Dockerfile" inside the project folder.
 ```
-    From alpine:latest
-    #WORKDIR /app
-    #COPY . .
+From alpine:latest
+#WORKDIR /app
+#COPY . .
 ```
 4. Create Image using `docker build -t ca-frontend:v1 .`
 5. Start Docker container with the build Image `Docker Container run -it ca-frontend:v1 sh `
