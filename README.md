@@ -37,11 +37,12 @@
 - [Elisp](#Elisp)
 - [Learning-Inprogress](#Learning-Inprogress)
   - [Todo](#Todo)
-- [Navigation](#Navigation)
-- [Editing](#Editing)
-- [Search and Replace](#Search and Replace)
-- [Saving and Quitting](#Saving and Quitting)
-- [Other Useful Commands](#Other Useful Commands)
+- [Vim-Cheat-Sheet](#Vim-Cheat-Sheet)
+  - [Navigation](#Navigation)
+  - [Editing](#Editing)
+  - [Search-and-Replace](#Search-and-Replace)
+  - [Saving-and-Quitting](#Saving-and-Quitting)
+  - [Other-Useful-Commands](#Other-Useful-Commands)
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
@@ -661,8 +662,8 @@ N: Jump to the previous occurrence of the search pattern
    - https://docs.docker.com/config/daemon/start/
 5. Start Algorithms and practice some of it
 
-# Vim-Cheat-Sheet
-## Navigation
+## Vim-Cheat-Sheet
+### Navigation
 h: Move left
 j: Move down
 k: Move up
@@ -674,7 +675,7 @@ G: Move to the end of the file
 Ctrl + f: Move forward one page
 Ctrl + b: Move backward one page
 
-## Editing
+### Editing
 i: Enter insert mode at the cursor
 I: Enter insert mode at the beginning of the line
 a: Enter insert mode after the cursor
@@ -688,7 +689,7 @@ p: Paste the previously yanked or deleted text
 u: Undo the last change
 Ctrl + r: Redo the last change
 
-## Search and Replace
+### Search-and-Replace
 /pattern: Search forward for "pattern"
 ?pattern: Search backward for "pattern"
 n: Jump to the next occurrence of the search pattern
@@ -696,13 +697,13 @@ N: Jump to the previous occurrence of the search pattern
 :%s/old/new/g: Replace all occurrences of "old" with "new" in the entire file
 :%s/old/new/gc: Replace all occurrences of "old" with "new" in the entire file with confirmation
 
-## Saving and Quitting
+### Saving-and-Quitting
 :w: Save the file
 :q: Quit (close) the file
 :q!: Quit without saving (force quit)
 :wq or :x: Save and quit
 
-## Other Useful Commands
+### Other-Useful-Commands
 :set nu: Show line numbers
 :set nonu: Hide line numbers
 :set syntax=language: Enable syntax highlighting for a specific programming language
