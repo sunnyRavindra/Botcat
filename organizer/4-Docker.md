@@ -252,14 +252,6 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 9. Network Security: Docker networks can be secured using features like network segmentation, access control lists (ACLs), and firewall rules. This helps control traffic flow between containers and enhances network security.
 10. Third-party Networking Solutions: Docker integrates with third-party networking solutions, such as Calico, Weave, and Flannel, which provide advanced networking features like network policies, service discovery, and load balancing.
 
-1. Every time you run an new container from an image, it generates a unique container ID (Which is very lengthy)
-2. Docker first checks for the image in the local drive and then if not found it looks for it on the docker hub and pulls it down.
-3. When Container is created it does not copy that image but created a layer of that image and runs the container.
-4. when Container is created a default virtual network is also created for the respective container to run on.
-5. when the containers are spunk up the process running inside the container as not under a vm or hiding from OS, they are indeed in the process of the system its just that they are running behind a virtual network.
-6. Bind Mounting
-7. Persistent Volumes
-
 ### Relationship-between-Docker-Desktop-and-Docker-Engine
 1. Docker Desktop includes Docker Engine as its core component. It installs and manages Docker Engine behind the scenes, providing a user-friendly interface to work with Docker containers.
 2. Docker Desktop abstracts away some of the complexities of working directly with Docker Engine, making it easier for developers to get started with Docker.
