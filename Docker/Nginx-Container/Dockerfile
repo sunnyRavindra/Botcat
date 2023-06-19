@@ -1,3 +1,3 @@
 FROM nginx
 EXPOSE 80
-CMD["nginx","-g","deamon off;"]
+CMD ["nginx","-g","deamon off;"]
