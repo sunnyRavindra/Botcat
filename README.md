@@ -546,7 +546,6 @@ From alpine:latest
 6. To get out of the shell `ctrl+D`
 Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
-
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.

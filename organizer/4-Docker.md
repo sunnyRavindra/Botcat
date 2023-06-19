@@ -337,4 +337,3 @@ From alpine:latest
 6. To get out of the shell `ctrl+D`
 Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
 Official Tutorial - > `https://docs.docker.com/get-started/overview/`
-
