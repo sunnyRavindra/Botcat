@@ -556,6 +556,8 @@ Official Tutorial - > `https://docs.docker.com/get-started/overview/`
 
 ### Multiple-Docker-Example 
 1. Spin up Nginx Server
+2. Spin up mysql server
+3. Spin up httpd Server 
 #### Reference
 - Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
 ## Markdown
