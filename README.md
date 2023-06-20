@@ -439,8 +439,6 @@ docker push myregistry/myrepository:latest
 ```
 Docker will upload the image and its layers to the registry. This may take some time depending on the size of the image and your network connection.
 17. Verify the image on the registry: You can check the Docker registry (either Docker Hub or your private registry) to ensure that the image has been successfully pushed and is available for others to pull.
-18. Share the Docker image information: Provide others with the necessary details to pull and use the shared image. This includes the registry URL, repository name, and tag. They can use the `docker pull` command to retrieve the image from the registry and `docker run` to run the containerized application locally.
-#### Reference
 - Docker Registry -> https://docs.docker.com/get-started/overview/
 
 ### Docker-Volumes
@@ -452,6 +450,9 @@ Docker will upload the image and its layers to the registry. This may take some 
 6. Volumes can be created with specific drivers to support network storage, cloud providers, or other specialized storage systems.
 7. The data inside a volume can be accessed by multiple containers simultaneously.
 8. Volumes have their own location on the host system, typically in the Docker directory.
+```
+docker run -d --name mysql -e MYSQL_ALLOW_EMPTY_PASSWORD=True -v mysqlvolume:/var/lib/mysql mysql 
+```
 
 ### Docker-Bind-Mounts
 1. Bind mounts are linked to a specific directory or file on the host system.
@@ -537,8 +538,6 @@ docker container port enakonda
 
 ### DNS-Round-Robin
 1. 
-
-
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
