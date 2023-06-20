@@ -258,6 +258,22 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 3. Docker Desktop also includes additional tools and features specifically tailored for developers, such as the ability to configure container resources, networking, and storage options through its graphical interface.
 4. Docker Desktop is essentially a pre-packaged solution that bundles Docker Engine with a user-friendly interface and additional developer-centric features.
 
+### DNS
+1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
+2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
+
+### Single-Docker-Example 
+1. Spin up Nginx Server
+#### Reference
+- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
+
+### Multiple-Docker-Example 
+1. Spin up Nginx Server
+2. Spin up mysql server
+3. Spin up httpd Server 
+#### Reference
+- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
+
 ### Docker-Commands
 1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
@@ -290,62 +306,3 @@ docker container port enakonda
 28. docker login
 29. docker logout
 
-### DNS
-1. The docker containers talks to each other on the basis of DNS name(Docker container name) because the IP address from the container may be removed and can be dynamic at times(only apples to the new Virtual network)
-2. So the default Bridge network does not have the same DNS functionality in it.(so you will have to add it manually by --link)
-
-### Docker-compose
-1. Install DevContainers CLI
-2. Install vscode and Docker over the internet , and make sure both of them are up and running.
-3. install the "Remote Development" and "Dev Containers" extension for VS Code
-4. Open the folder in VScode where you want to create Dev container
-*** Imp Links
-- [[https://containers.dev/]]
-- https://github.com/devcontainers/cli
-. Create `.devcontainer/devcontainer.json` file inside the folder.
- ```
-    {
-        "name": "UbuntuDevContainer",
-        "image": "mcr.microsoft.com/devcontainers/base:jammy"
-    }
-```
-5. cmd/ctrl + Shift + p -> reopen in Container 
-Reference - >  `Cloud-Architect-Large-Enterprise-Practical-Guild/DevContainerFiles`
-Official Tutorial - > `https://code.visualstudio.com/docs/devcontainers/containers`
-
-### Application-Containerization
-1. Install docker.
-```
-Onlocal: 
-    curl -fsSL https://test.docker.com -o test-docker.sh
-    sudo sh test-docker.sh
-    docker -v
-OnDevcontainer: add below lines to devcontainer.json
-    "features": {
-            "ghcr.io/devcontainers/features/docker-in-docker:2": {}
-        }
-```
-2. Rebuild. 
-3. Create DockerFile named "Dockerfile" inside the project folder.
-```
-From alpine:latest
-#WORKDIR /app
-#COPY . .
-```
-4. Create Image using `docker build -t ca-frontend:v1 .`
-5. Start Docker container with the build Image `Docker Container run -it ca-frontend:v1 sh `
-6. To get out of the shell `ctrl+D`
-Reference - > `Cloud-Architect-Large-Enterprise-Practical-Guild/Docker/Dockerfile`
-Official Tutorial - > `https://docs.docker.com/get-started/overview/`
-
-### Single-Docker-Example 
-1. Spin up Nginx Server
-#### Reference
-- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
-
-### Multiple-Docker-Example 
-1. Spin up Nginx Server
-2. Spin up mysql server
-3. Spin up httpd Server 
-#### Reference
-- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
