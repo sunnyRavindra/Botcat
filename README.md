@@ -3,6 +3,16 @@
 - [Create-Github-hosted-React-Frontend](#Create-Github-hosted-React-Frontend)
   - [Next-js-frontend](#Next-js-frontend)
   - [Moving-to-Next-js ](#Moving-to-Next-js )
+- [Masters-Program ](#Masters-Program )
+  - [Finland ](#Finland )
+  - [Netherlands ](#Netherlands )
+  - [Germany ](#Germany )
+  - [Canada](#Canada)
+  - [USA ](#USA )
+  - [Norway](#Norway)
+  - [Denmark](#Denmark)
+  - [Newzeland](#Newzeland)
+  - [Australia ](#Australia )
 - [Introduction](#Introduction)
 - [Docker](#Docker)
   - [Docker-Basics](#Docker-Basics)
@@ -206,6 +216,17 @@ class myFirstClass{
 }
 
 
+## Masters-Program 
+
+### Finland 
+### Netherlands 
+### Germany 
+### Canada
+### USA 
+### Norway
+### Denmark
+### Newzeland
+### Australia 
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
