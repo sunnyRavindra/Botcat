@@ -37,6 +37,7 @@
   - [Single-Docker-Example ](#Single-Docker-Example )
   - [Multiple-Docker-Example ](#Multiple-Docker-Example )
   - [Docker-Commands](#Docker-Commands)
+  - [DNS-Round-Robin](#DNS-Round-Robin)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -505,11 +506,7 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 - Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
 
 ### Docker-Commands
-#### Reference
-- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
-1. docker version 
-2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
-3. docker ->returns all the docker commands that can be used and referred to.
+1. docker ->returns all the docker commands that can be used and referred to.
 4. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
 . docker container stop (container name)-> stops the running container on the machine
 8. docker container logs mynewcontainer
@@ -535,6 +532,11 @@ docker container port enakonda
 27. docker image push
 28. docker login
 29. docker logout
+#### Reference
+- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
+
+### DNS-Round-Robin
+1. 
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
@@ -583,7 +585,7 @@ docker container port enakonda
    
 ### Todo
 1. Docker Mastery with Kubernetes+Swarm 
-   - chapter 34 -> All Videos before this chapter is useless 
+   - chapter 39 -> All Videos before this chapter is useless 
 2. Docker and Kubernetes
    - Chapter 41  -> All Videos before this chapter is useless 
 3. Revisit 
