@@ -276,33 +276,35 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 
 ### Docker-Commands
 1. docker ->returns all the docker commands that can be used and referred to.
-4. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
-. docker container stop (container name)-> stops the running container on the machine
-8. docker container logs mynewcontainer
-9. docker container top mynewcontainer
-10. docker container rm (name of the containers separated by space)
-11. ps aux (returns all the process running on the mac system)
-12. docker container inspect mynewcontainer
-13. docker container stats
-14. docker container run -it --name enakonda nginx bash
-15. docker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
-16. docker container exec -it enakonda bash(This command keeps the docker container running)
+2. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
+3. docker container stop (container name)-> stops the running container on the machine
+4. docker container logs mynewcontainer
+5. docker container top mynewcontainer
+6. docker container rm (name of the containers separated by space)
+7. ps aux (returns all the process running on the mac system)
+8. docker container inspect mynewcontainer
+9. docker container stats
+10. docker container run -it --name enakonda nginx bash
+11. docker container start -ai enakonda(This command keeps the docker container running until you have been exited from the bash shell)
+12. docker container exec -it enakonda bash(This command keeps the docker container running)
 docker container port enakonda
-17. docker container inspect --format '{{ .NetworkSettings.IPAddress}}' enakonda.
-18. docker container run -d --name enakonda --network-alias search elasticsearch:2
-19. docker network ls
-20. docker network inspect bridge
-21. docker network create myNetwork
-22. docker network connect network container
-23. docker network disconnect network container
-24. Images are just the binaries and the Kernal is provided by the OS itself
-25. docker image history
-26. docker image tag oldimage new/imagename
-27. docker image push
-28. docker login
-29. docker logout
+13. docker container inspect --format '{{ .NetworkSettings.IPAddress}}' enakonda.
+14. docker container run -d --name enakonda --network-alias search elasticsearch:2
+15. docker network ls
+16. docker network inspect bridge
+17. docker network create myNetwork
+18. docker network connect network container
+19. docker network disconnect network container
+20. Images are just the binaries and the Kernal is provided by the OS itself
+21. docker image history
+22. docker image tag oldimage new/imagename
+23. docker image push
+24. docker login
+25. docker logout
 #### Reference
 - Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
 
 ### DNS-Round-Robin
 1. 
+
+
