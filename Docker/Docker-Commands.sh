@@ -10,3 +10,5 @@
     echo "<-- Docker image ls -->"
     docker volume ls
     echo "<-- Docker volume ls -->"
+    docker network ls
+    echo "<-- Docker network ls -->"
