@@ -281,9 +281,7 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
 3. docker ->returns all the docker commands that can be used and referred to.
 4. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
-5. docker container ls -> list the containers that we have running right now
-6. docker container ls -a
-7. docker container stop (container name)-> stops the running container on the machine
+. docker container stop (container name)-> stops the running container on the machine
 8. docker container logs mynewcontainer
 9. docker container top mynewcontainer
 10. docker container rm (name of the containers separated by space)
