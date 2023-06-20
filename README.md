@@ -535,7 +535,6 @@ docker container port enakonda
 27. docker image push
 28. docker login
 29. docker logout
-
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
