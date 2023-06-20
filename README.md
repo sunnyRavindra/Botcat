@@ -505,7 +505,9 @@ Certainly! Here are the point-wise details and differentiation for Docker contai
 - Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
 
 ### Docker-Commands
-1. docker version -> Returns the information of server and the client (If we are getting both the client and server response values then we can say that the Docker is working properly)
+#### Reference
+- Cloud-DevOps-Large-Enterprise-Practical-Guide/Docker
+1. docker version 
 2. docker info -> Returns more information about the system off docker like how much containers are running(Basically properties command for docker)
 3. docker ->returns all the docker commands that can be used and referred to.
 4. docker container run --publish 80:80 --detach --name mynewcontainer --network mynetwork nginx -> spins up a container spiting out a container ID
