@@ -583,7 +583,7 @@ docker container port enakonda
    
 ### Todo
 1. Docker Mastery with Kubernetes+Swarm 
-   - chapter 19 -> All Videos before this chapter is useless 
+   - chapter 34 -> All Videos before this chapter is useless 
 2. Docker and Kubernetes
    - Chapter 41  -> All Videos before this chapter is useless 
 3. Revisit 
