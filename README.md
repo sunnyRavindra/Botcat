@@ -449,8 +449,8 @@ ARG DEFAULT_PORT=80
 7. Nginx tutorials 
 8. Mongod tutorials 
 9. Prostgres SQL
-
-
+10. LeetCode: LeetCode offers a wide range of coding challenges, including Shell Script problems. You can solve problems, submit your solutions, and discuss approaches with the community.
+11. HackerRank: HackerRank provides a comprehensive set of coding challenges and tutorials for various programming languages, including Shell Script. They also have interview preparation kits with Shell Script questions.
    
 ## Vim-Cheat-Sheet
 ### Navigation
