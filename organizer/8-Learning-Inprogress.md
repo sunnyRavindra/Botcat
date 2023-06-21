@@ -12,5 +12,9 @@
 5. Terraform Training start.
    - https://docs.docker.com/config/daemon/start/
 6. Start Algorithms and practice some of it
+7. Nginx tutorials 
+8. Mongod tutorials 
+9. Prostgres SQL
+
 
    
