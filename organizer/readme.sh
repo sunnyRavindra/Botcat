@@ -1,14 +1,14 @@
 #!/bin/bash
 
 Project_name="Cloud-DevOps-Large-Enterprise-Practical-Guide"
-Project_name_readme_file="1-Project-name.md"
-Index_readme_file="2-index.md"
+Project_name_readme_file="1:Project-name.md"
+Index_readme_file="2:index.md"
 cd ~/code/Cloud-DevOps-Large-Enterprise-Practical-Guide/organizer/
 output=""
 
 # Iterate through each file in the current directory
 for file in *; do
-    if [[ -f "$file" && "$file" != "1-Project-name.md" && "$file" != "2-index.md" && "$file" != "readme.sh" ]]; then
+    if [[ -f "$file" && "$file" != "1:Project-name.md" && "$file" != "2:index.md" && "$file" != "readme.sh" ]]; then
 
 while IFS= read -r line; do
 
@@ -61,7 +61,7 @@ cat ./1-Project-name.md > ../README.md
 cat ./2-index.md >> ../README.md
 
 for file in *; do
-    if [[ -f "$file" && "$file" != "1-Project-name.md" && "$file" != "2-index.md" && "$file" != "readme.sh" ]]; then
+    if [[ -f "$file" && "$file" != "1:Project-name.md" && "$file" != "2:index.md" && "$file" != "readme.sh" ]]; then
         cat $file >> ../README.md
     fi
 done

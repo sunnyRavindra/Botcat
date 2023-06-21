@@ -58,8 +58,6 @@
   - [Compose-Volumes](#Compose-Volumes)
   - [Compose-Networking](#Compose-Networking)
   - [Compose-Extending-Services](#Compose-Extending-Services)
-# Cloud-DevOps-Large-Enterprise-Practical-Guide 
-
 - [Introduction](#Introduction)
 - [Docker](#Docker)
   - [Docker-Basics](#Docker-Basics)
