@@ -25,6 +25,8 @@
   - [Multiple-Docker-Example ](#Multiple-Docker-Example )
   - [Docker-Commands](#Docker-Commands)
   - [DNS-Round-Robin](#DNS-Round-Robin)
+  - [Env-Variables](#Env-Variables)
+  - [Arguments](#Arguments)
 - [Markdown](#Markdown)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
@@ -373,6 +375,22 @@ docker container port enakonda
 
 ### DNS-Round-Robin
 1. 
+
+### Env-Variables
+```
+ENV KEY VALUE
+```
+```
+--e KEY=SomeOtherValue
+```
+
+### Arguments
+```
+ARG DEFAULT_PORT=80
+```
+```
+--build-arg DEFAULT_PORT=8080
+```
 ## Markdown
 1. GitHub Markdown is a lightweight markup language used to format and style text on GitHub.
 2. It is based on the original Markdown syntax but includes some additional features and extensions.
