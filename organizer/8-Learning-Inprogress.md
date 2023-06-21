@@ -2,7 +2,7 @@
    
 ### Todo
 1. Docker Mastery with Kubernetes+Swarm 
-   - chapter 59/210 -> All Videos before this chapter is useless
+   - chapter 70/210 -> All Videos before this chapter is useless
 2. Docker and Kubernetes
    - Chapter 93/262  -> All Videos before this chapter is useless 
 3. Revisit 
