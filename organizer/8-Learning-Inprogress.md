@@ -17,3 +17,4 @@
 9. Prostgres SQL
 10. LeetCode
 11. HackerRank
+12. Certifications https://training.linuxfoundation.org/it-career-roadmap/
