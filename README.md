@@ -54,6 +54,13 @@
   - [Arguments](#Arguments)
 - [Docker-Compose](#Docker-Compose)
   - [Compose-Important-Points](#Compose-Important-Points)
+  - [Compose-File-Structure](#Compose-File-Structure)
+  - [Compose-Basic-Commands](#Compose-Basic-Commands)
+  - [Compose-Advanced-Commands](#Compose-Advanced-Commands)
+  - [Compose-Environment-Variables](#Compose-Environment-Variables)
+  - [Compose-Volumes](#Compose-Volumes)
+  - [Compose-Networking](#Compose-Networking)
+  - [Compose-Extending-Services](#Compose-Extending-Services)
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
@@ -701,3 +708,58 @@ services:
     volumes:
       - ./html:/usr/share/nginx/html
 ```
+
+### Compose-File-Structure
+```yaml
+version: '3'  # Compose file version
+services:
+  service_name:  # Name of the service
+    image: image_name:tag  # Docker image and tag
+    ports:  # Port mapping
+      - host_port:container_port
+    volumes:  # Volume mapping
+      - host_path:container_path
+    environment:  # Environment variables
+      - KEY=VALUE
+    networks:  # Networks to connect
+      - network_name
+```
+
+### Compose-Basic-Commands
+- `docker-compose up`: Create and start containers based on the Compose file.
+- `docker-compose down`: Stop and remove containers, networks, and volumes.
+- `docker-compose start`: Start existing containers.
+- `docker-compose stop`: Stop running containers.
+- `docker-compose restart`: Restart containers.
+- `docker-compose pause`: Pause containers.
+- `docker-compose unpause`: Unpause containers.
+- `docker-compose ps`: List containers managed by the Compose file.
+- `docker-compose logs`: View logs of containers.
+- `docker-compose exec service_name command`: Execute a command in a running container.
+- `docker-compose build`: Build or rebuild services.
+
+### Compose-Advanced-Commands
+- `docker-compose up -d`: Start containers in detached mode.
+- `docker-compose up --scale service_name=N`: Scale a service to N instances.
+- `docker-compose down --volumes`: Remove containers, networks, and volumes (including named volumes).
+- `docker-compose logs -f`: Follow the logs of containers in real-time.
+- `docker-compose exec -d service_name command`: Execute a command in a running container in detached mode.
+- `docker-compose config`: Validate and view the Compose file.
+
+### Compose-Environment-Variables
+- Environment variables can be defined under the `environment` key within a service.
+- Variables can be set individually or loaded from an external `.env` file using `env_file` configuration.
+
+### Compose-Volumes
+- Volumes can be defined under the `volumes` key within a service.
+- Volumes allow data persistence and sharing between containers or between containers and the host.
+- Volumes can be specified as named volumes, host paths, or anonymous volumes.
+
+### Compose-Networking
+- By default, Compose creates a default network for the application.
+- Services within the same Compose file can communicate using service names as DNS names.
+- Custom networks can be defined using the `networks` key.
+
+### Compose-Extending-Services
+- Compose allows extending services by defining a new service that inherits properties from a base service.
+- Inheritance is achieved by using the `extends` key within a service definition.
