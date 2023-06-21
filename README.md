@@ -51,9 +51,6 @@
 - [Create-Github-hosted-React-Frontend](#Create-Github-hosted-React-Frontend)
   - [Next-js-frontend](#Next-js-frontend)
   - [Moving-to-Next-js ](#Moving-to-Next-js )
-- [Env-Variables](#Env-Variables)
-  - [Env-Variables](#Env-Variables)
-  - [Arguments](#Arguments)
 - [Docker-Compose](#Docker-Compose)
   - [Compose-Important-Points](#Compose-Important-Points)
   - [Compose-File-Structure](#Compose-File-Structure)
@@ -675,23 +672,6 @@ class myFirstClass{
 }
 
 
-## Env-Variables
-
-### Env-Variables
-```
-ENV KEY VALUE
-```
-```
---e KEY=SomeOtherValue
-```
-
-### Arguments
-```
-ARG DEFAULT_PORT=80
-```
-```
---build-arg DEFAULT_PORT=8080
-```
 ## Docker-Compose
 
 ### Compose-Important-Points
