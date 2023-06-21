@@ -55,10 +55,10 @@ new_string=$(IFS=$'\n'; echo "${new_lines[*]}")
     fi
 done
 # Print the updated string
-echo "$new_string" > ./2-index.md
+echo "$new_string" > ./2:index.md
 
-cat ./1-Project-name.md > ../README.md
-cat ./2-index.md >> ../README.md
+cat ./1:Project-name.md > ../README.md
+cat ./2:index.md >> ../README.md
 
 for file in *; do
     if [[ -f "$file" && "$file" != "1:Project-name.md" && "$file" != "2:index.md" && "$file" != "readme.sh" ]]; then
