@@ -49,6 +49,9 @@
 - [Create-Github-hosted-React-Frontend](#Create-Github-hosted-React-Frontend)
   - [Next-js-frontend](#Next-js-frontend)
   - [Moving-to-Next-js ](#Moving-to-Next-js )
+- [Env-Variables](#Env-Variables)
+  - [Env-Variables](#Env-Variables)
+  - [Arguments](#Arguments)
 ## Introduction
 Welcome to the Cloud Architect Large Enterprise Practical Guide! This comprehensive guide is designed to provide Cloud Architects working in large enterprise environments with a practical approach to learning. It covers a range of topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
 
@@ -411,7 +414,7 @@ docker container port enakonda
 1. Docker Mastery with Kubernetes+Swarm 
    - chapter 59/210 -> All Videos before this chapter is useless
 2. Docker and Kubernetes
-   - Chapter 53/262  -> All Videos before this chapter is useless 
+   - Chapter 67/262  -> All Videos before this chapter is useless 
 3. Revisit 
    - https://www.docker.com/products/telepresence-for-docker/ 
 4. Pending Docker dockes (No need of going through the docker guide not much to learn from there)
@@ -642,3 +645,20 @@ class myFirstClass{
 }
 
 
+## Env-Variables
+
+### Env-Variables
+```
+ENV KEY VALUE
+```
+```
+--e KEY=SomeOtherValue
+```
+
+### Arguments
+```
+ARG DEFAULT_PORT=80
+```
+```
+--build-arg DEFAULT_PORT=8080
+```

@@ -47,3 +47,6 @@
 - [Create-Github-hosted-React-Frontend](#Create-Github-hosted-React-Frontend)
  - [Next-js-frontend](#Next-js-frontend)
  - [Moving-to-Next-js ](#Moving-to-Next-js )
+- [Env-Variables](#Env-Variables)
+ - [Env-Variables](#Env-Variables)
+ - [Arguments](#Arguments)
