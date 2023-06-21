@@ -8,7 +8,7 @@ output=""
 
 # Iterate through each file in the current directory
 for file in *; do
-    if [[ -f "$file" && "$file" != "1:Project-name.md" && "$file" != "2:index.md" && "$file" != "readme.sh" ]]; then
+    if [[ -f "$file" && "$file" != "$Project_name_readme_file" && "$file" != "$Index_readme_file" && "$file" != "readme.sh" ]]; then
 
 while IFS= read -r line; do
 
@@ -61,7 +61,7 @@ cat ./1:Project-name.md > ../README.md
 cat ./2:index.md >> ../README.md
 
 for file in *; do
-    if [[ -f "$file" && "$file" != "1:Project-name.md" && "$file" != "2:index.md" && "$file" != "readme.sh" ]]; then
+    if [[ -f "$file" && "$file" != "$project_name_readme_file" && "$file" != "$Index_readme_file" && "$file" != "readme.sh" ]]; then
         cat $file >> ../README.md
     fi
 done
