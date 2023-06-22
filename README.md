@@ -529,7 +529,7 @@ ARG DEFAULT_PORT=80
 ### Practical 
 1. Docker -> https://docs.docker.com/ [ Round Robin, Compose ]
 2. Swarm -> https://docs.docker.com/  [ OverlayNetwork, Routing Mesh ]
-3. Kubernetes ->  
+3. Kubernetes ->
 ## Vim-Cheat-Sheet
 ### Navigation
 h: Move left
