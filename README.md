@@ -39,6 +39,7 @@
 - [Elisp](#Elisp)
 - [Learning-Inprogress](#Learning-Inprogress)
   - [Todo](#Todo)
+  - [Practical ](#Practical )
 - [Vim-Cheat-Sheet](#Vim-Cheat-Sheet)
   - [Navigation](#Navigation)
   - [Editing](#Editing)
@@ -524,6 +525,11 @@ ARG DEFAULT_PORT=80
 10. LeetCode
 11. HackerRank
 12. Certifications https://training.linuxfoundation.org/it-career-roadmap/
+
+### Practical 
+1. Docker -> https://docs.docker.com/
+2. Swarm -> https://docs.docker.com/
+3.  
 ## Vim-Cheat-Sheet
 ### Navigation
 h: Move left

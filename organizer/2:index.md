@@ -37,6 +37,7 @@
 - [Elisp](#Elisp)
 - [Learning-Inprogress](#Learning-Inprogress)
  - [Todo](#Todo)
+ - [Practical ](#Practical )
 - [Vim-Cheat-Sheet](#Vim-Cheat-Sheet)
  - [Navigation](#Navigation)
  - [Editing](#Editing)

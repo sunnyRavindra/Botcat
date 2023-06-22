@@ -18,3 +18,8 @@
 10. LeetCode
 11. HackerRank
 12. Certifications https://training.linuxfoundation.org/it-career-roadmap/
+
+### Practical 
+1. Docker -> https://docs.docker.com/
+2. Swarm -> https://docs.docker.com/
+3.  
