@@ -32,6 +32,7 @@
  - [Task and Container Management:](#Task and Container Management:)
  - [Stack Deployment:](#Stack Deployment:)
  - [Secrets Management:](#Secrets Management:)
+ - [Swarm-Notes](#Swarm-Notes)
 - [Emacs](#Emacs)
 - [Elisp](#Elisp)
 - [Learning-Inprogress](#Learning-Inprogress)

@@ -56,3 +56,8 @@
 - `docker secret inspect`: Inspect details of a specific secret.
 - `docker secret rm`: Remove a secret from the Docker Swarm.
 
+### Swarm-Notes
+- `Manager node` and `Worker Node` Concept using `Control Plane`.
+- `Managers` can become `workers` and `Worker` can become `Manager`.
+- 
+
