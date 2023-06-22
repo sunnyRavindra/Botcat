@@ -21,6 +21,7 @@
 
 ### Practical 
 1. Docker -> https://docs.docker.com/ [ Round Robin, Compose ]
-2. Swarm -> https://docs.docker.com/  [ OverlayNetwork, Routing Mesh, Stacks, Secrets in Swarm Services, Secrets with Stack, Swarm Life Cycle, Docker HeathCheck, Docker Registry, WebHooks,Create Automated Build,Repository Links,Certificats,Authentications,TLS ]
+2. Swarm -> https://docs.docker.com/  [ OverlayNetwork, Routing Mesh, Stacks, Secrets in Swarm Services, Secrets with Stack, Swarm Life Cycle, Docker HeathCheck, Docker Registry, WebHooks,Create Automated Build,Repository Links,Certificats,Authentications,TLS,Private Repository, ]
 3. Kubernetes ->
 4. Triver CI
+5. GO lang
