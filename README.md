@@ -527,9 +527,9 @@ ARG DEFAULT_PORT=80
 12. Certifications https://training.linuxfoundation.org/it-career-roadmap/
 
 ### Practical 
-1. Docker -> https://docs.docker.com/
+1. Docker -> https://docs.docker.com/ [Round Robin, Routing Mesh]
 2. Swarm -> https://docs.docker.com/
-3.  
+3. Kubernetes ->  
 ## Vim-Cheat-Sheet
 ### Navigation
 h: Move left
