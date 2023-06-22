@@ -21,5 +21,5 @@
 
 ### Practical 
 1. Docker -> https://docs.docker.com/ [ Round Robin, Compose ]
-2. Swarm -> https://docs.docker.com/  [ OverlayNetwork, Routing Mesh ]
+2. Swarm -> https://docs.docker.com/  [ OverlayNetwork, Routing Mesh, Stacks ]
 3. Kubernetes ->
