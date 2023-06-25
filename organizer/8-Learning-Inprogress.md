@@ -25,3 +25,5 @@
 3. Kubernetes ->
 4. Triver CI
 5. GO lang
+
+### Finnish Language

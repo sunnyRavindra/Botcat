@@ -40,6 +40,7 @@
 - [Learning-Inprogress](#Learning-Inprogress)
   - [Todo](#Todo)
   - [Practical ](#Practical )
+  - [Finnish Language](#Finnish Language)
 - [Vim-Cheat-Sheet](#Vim-Cheat-Sheet)
   - [Navigation](#Navigation)
   - [Editing](#Editing)
@@ -532,6 +533,8 @@ ARG DEFAULT_PORT=80
 3. Kubernetes ->
 4. Triver CI
 5. GO lang
+
+### Finnish Language
 ## Vim-Cheat-Sheet
 ### Navigation
 h: Move left

@@ -38,6 +38,7 @@
 - [Learning-Inprogress](#Learning-Inprogress)
  - [Todo](#Todo)
  - [Practical ](#Practical )
+ - [Finnish Language](#Finnish Language)
 - [Vim-Cheat-Sheet](#Vim-Cheat-Sheet)
  - [Navigation](#Navigation)
  - [Editing](#Editing)
