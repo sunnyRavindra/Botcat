@@ -1,4 +1,0 @@
-{
-    "name": "UbuntuDevContainer",
-    "image": "mcr.microsoft.com/devcontainers/base:jammy"
-}
