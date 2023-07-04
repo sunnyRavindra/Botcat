@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rollup.md",
+                "file": "Parcel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rollup.md",
+                "file": "Parcel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rollup.md",
+                "file": "Parcel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rollup.md"
+                "file": "Parcel.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "7c62753787c5a022",
   "lastOpenFiles": [
+    "2023-07-04.md",
+    "Parcel.md",
     "ES modules.md",
+    "Eslint.md",
+    "Vercel.md",
     "Rollup.md",
     "Vite.md",
     "webpack.md",
-    "Vercel.md",
     "MDX.md",
     "Markdown.md",
     "Obsidian/Obsidian.md",
@@ -160,7 +163,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "2023-07-04.md",
     "Nextra.md",
     "React/Introduction.md",
     "index.md",

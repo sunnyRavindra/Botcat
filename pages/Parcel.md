@@ -1,1 +1,1 @@
-https://parceljs.org/
+[Parcel]https://parceljs.org/
