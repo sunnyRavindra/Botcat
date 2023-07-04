@@ -1,0 +1,114 @@
+@import "./variables";
+
+* {
+  margin: 0;  /* Removes all margin */
+  padding: 0;  /* Removes all padding */
+}
+
+html {
+  font-size: 62.5%; /* 1 rem = 10 px*/
+  box-sizing: border-box; /* Removed Border box */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body{
+  font-family: $font-primary, $font-secondary;
+  font-weight: $font-weight;
+  font-size:  $font-size;
+  color: $color-text-main;
+  line-height: $line-height;
+  background-color:  $color-black-lite;
+}
+ 
+
+
+
+// .MyFirstComponent{
+//   max-width: 100%;
+//   background-color: wheat;
+// }
+// .header {
+//   height: 55vh;
+//   background-image:  url(../../images/ProfilePic.jpg), linear-gradient(to right bottom, $color-black-lite 15%, $color-black-lite 100%);
+//   background-size: cover;
+//   background-position: top; /* Image always stays at top */
+//   clip-path: polygon(0 0,100% 0,100% 70%,0 100%);
+//   /* background-color: rgba(0, 0, 0, 0.918);   */
+// }
+
+// .heading-primary{
+//   animation:moveinRight ;
+//   animation-duration: 0.5s;
+//   animation-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1);
+// }
+
+// .btn:link,
+// btn:visited{
+//   text-transform: uppercase;
+//   text-decoration: none;
+//   background-color: black;
+//   color: #f88000;
+//   padding: 1%;
+//   display: inline-block ;
+//   border-radius: 5px;
+//   transition: all 0.5s;
+// }
+
+// .btn:hover{
+//   background-color: #ffffb7;
+//   color: aqua;
+//   transform: translateY(+100px);
+//   box-shadow: 0 10px 5px firebrick;
+// }
+  
+// .btn:active {
+//     background-color: blueviolet;
+//     color: darkslategray;
+// }
+  
+// .row{
+
+//   width: $grid-width;
+//   background-color: $color-black-lite;
+//   margin: 0 auto;
+//   &:not(:last-child) {
+//     margin-bottom: $gutter-horizontal;
+//   }
+
+//   .col{
+//     width: 50%;
+//     background-color: white;
+//     &:not(:last-child) {
+//       margin-right: $gutter-vertical;
+//     }
+//   }
+
+// @keyframes moveinleft {
+//   0%{
+//     opacity: 0;
+//     transform: translateY(-100px);
+//   }
+//   100%{
+//     opacity: 100;
+//     transform: translateY(0);
+//   }
+  
+// }
+  
+// @keyframes moveinRight {
+//   0%{
+//     opacity: 0;
+//     transform: translateY(-10px);
+//   }
+//   100%{
+//     opacity: 100;
+//     transform: translateY(0);
+//   }
+// }
+
+// }
