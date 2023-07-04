@@ -1,3 +1,3 @@
 # This is the Introduction page (Basically the starting page for my portfolio)
  
-My side -> https://www.botcat.org/
+My site -> https://www.botcat.org/
