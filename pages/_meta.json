@@ -2,6 +2,7 @@
   "index": "My Second Brain",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "advanced-test": "Advanced-test (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
