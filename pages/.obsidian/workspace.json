@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Vercel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Vercel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Vercel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Vercel.md"
               }
             }
           }
@@ -148,6 +148,16 @@
   },
   "active": "7c62753787c5a022",
   "lastOpenFiles": [
+    "Remix.md",
+    "Vercel.md",
+    "Vite.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-07-04.md",
+    "Nextra.md",
+    "React/Introduction.md",
+    "index.md",
     "advanced/satori.md",
     "about.md",
     "advanced.md",

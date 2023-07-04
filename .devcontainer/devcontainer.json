@@ -1,8 +1,0 @@
-{
-    "name": "UbuntuDevContainer",
-	"image": "mcr.microsoft.com/devcontainers/base:jammy",
-    "features": {
-		"ghcr.io/devcontainers/features/node:1": {},
-		"ghcr.io/devcontainers-contrib/features/npm-package:1": {}
-	}
-}
