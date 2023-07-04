@@ -1,5 +1,5 @@
 - Obsidian is a note-taking app known for its flexibility and interconnectedness.
-- It uses a plain-text format (Markdown) for future-proofing and accessibility.
+- It uses a plain-text format [[Markdown]] for future-proofing and accessibility.
 - Features bidirectional linking to create connections between notes.
 - Offers a graph view for visual representation of note relationships.
 - Supports collaboration through syncing with cloud storage services.

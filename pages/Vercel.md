@@ -1,4 +1,4 @@
-[Vercel](https://vercel.com/) is a cloud platform that provides a serverless deployment infrastructure for web applications. It allows developers to build, deploy, and scale websites and web applications with ease. Key points about Vercel include:
+M[Vercel](https://vercel.com/) is a cloud platform that provides a serverless deployment infrastructure for web applications. It allows developers to build, deploy, and scale websites and web applications with ease. Key points about Vercel include:
 
 - Vercel focuses on simplifying the deployment process for front-end applications and static websites.
 - It supports various popular frameworks and libraries like Next.js, React, Angular, and Vue.js.
