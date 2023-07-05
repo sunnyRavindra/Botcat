@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Mermaid.md",
+                "file": "Docker/Build-Container-Image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6440d72b4046682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work in Progress/Observibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf1e2503a51e55ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work in Progress/Elastic Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker File for Nextjs.md",
+                "file": "Git/Git Show.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker File for Nextjs.md",
+                "file": "Work in Progress/Observibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker File for Nextjs.md",
+                "file": "Work in Progress/Observibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker File for Nextjs.md"
+                "file": "Work in Progress/Observibility.md"
               }
             }
           }
@@ -171,35 +195,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c252f1e20a7a7568",
+  "active": "e6c48f318b202a47",
   "lastOpenFiles": [
+    "Docker/Build-Container-Image.md",
+    "Work in Progress/Observibility.md",
+    "Work in Progress/Elastic Search.md",
+    "Work in Progress",
+    "Docker/Docker-Container.md",
     "Docker/Docker Basics.md",
+    "Docker/Docker-Image.md",
+    "Docker/Docker-Desktop.md",
+    "Docker/Docker Introduction.md",
+    "Docker/Docker-Demon.md",
+    "Docker/Docker-Client.md",
+    "Docker/Docker-Architecture.md",
     "Docker/Docker File for Nextjs.md",
-    "Docker-Architecture.md",
+    "Git/Git Show.md",
+    "Git/Git Remove Cache.md",
+    "Git/Git rebase.md",
+    "Git/Git Previous Commits.md",
+    "Git/Git merge.md",
+    "Git/Git Ignore.md",
+    "Git/Git fast-forward.md",
+    "Git/Git Divergent Branch.md",
+    "Git/Git Commands.md",
+    "Markdown/Mermaid.md",
+    "Frontend Concepts/ES modules.md",
     "index.md",
     "Docker",
-    "Markdown/Mermaid.md",
     "Markdown/Markdown.md",
     "about.md",
-    "React/React Native.md",
-    "React Native.md",
-    "Frontend Build Tools/Vite.md",
-    "Remix.md",
-    "Vercel.md",
-    "Vercel/Vercel Introuction.md",
-    "Nextjs/Nextjs vs Remix.md",
-    "Parcel.md",
-    "Nextjs vs Remix.md",
-    "Nextjs.md",
-    "Vercel/Deploy Nextjs to Vercel.md",
-    "ES modules.md",
-    "Deploy Applications to Vercel.md",
-    "Algolia.md",
-    "Eslint.md",
-    "Prettier.md",
-    "MDX.md",
-    "Markdown.md",
-    "Git/Git Divergent Branch.md",
     "Git",
     "Vercel",
     "Nextjs",

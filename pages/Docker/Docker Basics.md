@@ -1,87 +1,18 @@
-1. Containers package code and its dependencies for reliable and fast execution.
-2. Docker containers are lightweight and standalone.
-3. They include everything necessary to run an application: code, runtime, tools, libraries, and settings.
-4. Container images become containers during runtime.
-5. Docker containers rely on Docker Engine to become containers.
-6. Containers work consistently across different infrastructures.
-7. Containers isolate software from the environment.
-8. Containers ensure uniform functionality across different stages like development and staging.
-#### Reference
-- Documents -> https://www.docker.com
-- Getting Started -> https://docs.docker.com/get-started/
-- Download -> https://docs.docker.com/get-docker/
+[[Docker Introduction]]
 
 [[Docker-Architecture]]
 
-### Docker-Demon
-1. The Docker daemon, also known as dockerd, is a core component of Docker.
-2. It serves as the main process running on a Docker host, responsible for managing Docker objects.
-3. The Docker daemon listens for Docker API requests, allowing clients to interact with Docker.
-3. It manages various Docker objects, including images, containers, networks, and volumes.
-4. The Docker daemon handles tasks such as creating, starting, stopping, and deleting Docker containers.
-5. It is responsible for managing the lifecycle of Docker services and coordinating their operations.
-6. The Docker daemon can communicate with other daemons, enabling the management of Docker services across multiple hosts.
-7. Docker clients, such as the Docker command-line interface (CLI) and Docker Compose, interact with the Docker daemon to execute commands and manage Docker resources.
+[[Docker-Demon]]
 
-### Docker-Client 
-1. It is the primary tool used to execute commands and manage Docker resources.
-2. Users interact with the Docker client to perform actions such as running containers using the docker run command.
-3. The Docker client sends commands to the Docker daemon (dockerd) for execution.
-4. It utilizes the Docker API to communicate with the Docker daemon.
-5. The Docker client can communicate with multiple Docker daemons if necessary.
-6. It provides a command-line interface (CLI) for executing Docker commands and managing Docker objects.
-7. The Docker client plays a crucial role in orchestrating Docker operations and managing the Docker environment.
+[[Docker-Client]] 
 
-### Docker-Desktop
-1. Docker Desktop is an application designed for Mac, Windows, and Linux environments.
-2. It provides an easy installation process to set up Docker on your machine.
-3. Docker Desktop enables the building and sharing of containerized applications and microservices.
-4. It includes essential components such as the Docker daemon (dockerd) and the Docker client (docker).
-5. Docker Compose, Docker Content Trust, Kubernetes, and Credential Helper are also included in Docker Desktop.
-6. Docker Desktop offers a user-friendly interface and environment for managing Docker resources.
-7. It simplifies the development and deployment of containerized applications on local machines.
-8. Docker Desktop is a comprehensive toolset that integrates multiple Docker-related functionalities.
-9. For more detailed information about Docker Desktop, it is recommended to refer to the official Docker Desktop documentation.
-#### Reference
-- Docker Desktop -> https://docs.docker.com/get-started/overview/
+[[Docker-Desktop]]
 
-### Docker-Image
-1. An image in Docker is a read-only template containing instructions for creating a Docker container.
-2. Images are often based on other images, allowing for customization and additional layers.
-3. For example, an image can be based on the Ubuntu image and include the Apache web server, application, and necessary configurations.
-4. Images can be created by individuals or obtained from registries where they are published by others.
-5. To build a custom image, a Dockerfile is used, which defines the steps to create and run the image.
-6. Each instruction in a Dockerfile creates a layer in the image, allowing for incremental and efficient updates.
-7. When changes are made to the Dockerfile and the image is rebuilt, only the affected layers are rebuilt, making images lightweight and fast.
-8. Docker images are designed to be smaller and more efficient compared to other virtualization technologies.
-9. Images serve as a basis for creating and running containers, providing a consistent environment for applications.
+[[Docker-Image]]
 
-### Docker-Container
-1. Containers are runtime instances created from Docker images.
-2. They provide a lightweight and isolated environment for running applications.
-3. Containers are created using the instructions specified in the Dockerfile and the layers from the corresponding Docker image.
-4. Each container has its own filesystem, processes, and network interface, which are isolated from the host system and other containers.
-5. Containers allow for consistent application execution across different computing environments.
-6. They provide portability and reproducibility, ensuring that applications run reliably regardless of the underlying infrastructure.
-7. Containers are scalable and can be easily deployed and managed in orchestration platforms like Kubernetes.
-8. They offer resource efficiency by sharing the host system's kernel, reducing overhead compared to traditional virtualization.
-9. Containers are ideal for deploying microservices-based architectures and enabling containerized application development.
-10. Docker provides tools and APIs to manage and orchestrate containers, making it easy to deploy, scale, and monitor containerized applications.
+[[Docker-Container]]
 
-### Build-Container-Image
-1. Create a Dockerfile: Start by creating a text file called "Dockerfile" (with no file extension) in the root directory of your project.
-2. Choose a base image: Specify the base image you want to use for your application. This can be an official image from Docker Hub or a custom image.
-3. Define dependencies and configurations: Install any dependencies or packages required by your application. Configure environment variables, working directory, ports, and other necessary settings.
-4. Copy application files: Copy your application code and files into the image using the `COPY` instruction.
-5. Execute commands: Use the `RUN` instruction to execute any commands needed during the image build process, such as installing dependencies, compiling code, or running scripts.
-6. Expose ports (optional): If your application requires specific ports to be accessible, use the `EXPOSE` instruction to specify them.
-7. Define the default command: Use the `CMD` instruction to define the command that should be run when a container based on the image is started.
-8. Build the image: Open a terminal or command prompt, navigate to the directory containing the Dockerfile, and run the `docker build` command, specifying a tag for the image. For example:
-```
-docker build -t myimage:latest .
-```
-9. Wait for the build process: Docker will execute the instructions in the Dockerfile and build the image. This may take some time, depending on the size of the image and the complexity of the instructions.
-10. Verify the image: After the build process completes successfully, you can verify the newly created image by running `docker images` and checking for the image with the specified tag.
+[[Build-Container-Image]]
 
 ### Build-Container-Image-Example
 ```
