@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parcel.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcel.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcel.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcel.md"
+                "file": "about.md"
               }
             }
           }
@@ -148,27 +148,41 @@
   },
   "active": "7c62753787c5a022",
   "lastOpenFiles": [
-    "2023-07-04.md",
-    "Parcel.md",
-    "ES modules.md",
-    "Eslint.md",
+    "index.md",
+    "about.md",
+    "React/React Native.md",
+    "React Native.md",
+    "Frontend Build Tools/Vite.md",
+    "Remix.md",
     "Vercel.md",
-    "Rollup.md",
-    "Vite.md",
-    "webpack.md",
+    "Vercel/Vercel Introuction.md",
+    "Nextjs/Nextjs vs Remix.md",
+    "Parcel.md",
+    "Nextjs vs Remix.md",
+    "Nextjs.md",
+    "Vercel/Deploy Nextjs to Vercel.md",
+    "ES modules.md",
+    "Deploy Applications to Vercel.md",
+    "Markdown/Markdown.md",
+    "Algolia.md",
+    "Eslint.md",
+    "Prettier.md",
     "MDX.md",
     "Markdown.md",
-    "Obsidian/Obsidian.md",
-    "Remix.md",
+    "Git/Git Divergent Branch.md",
+    "Git/Git Remove Cache.md",
+    "Git/Git Commands.md",
+    "Git/Git Ignore.md",
+    "Untitled.md",
+    "Git",
+    "Vercel",
+    "Nextjs",
+    "Markdown",
+    "Frontend Extra Tools",
+    "Frontend Concepts",
+    "Frontend Build Tools",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Nextra.md",
-    "React/Introduction.md",
-    "index.md",
-    "advanced/satori.md",
-    "about.md",
-    "advanced.md",
-    "another.md"
+    "Untitled.canvas"
   ]
 }
