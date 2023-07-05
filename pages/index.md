@@ -1,6 +1,6 @@
 # DevOps Applications Automation Team Lead
 
-Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:
+Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:
 
 - 🔭 I'm currently working on My DevOps Large Enterprise Practical Guide, where I share my knowledge and insights on DevOps practices for large enterprise environments.
 - 🌱 I'm currently learning CI/CD in Test Automation Frameworks to enhance my skills in building robust and automated software delivery pipelines.
