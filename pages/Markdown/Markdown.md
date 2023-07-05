@@ -20,3 +20,4 @@
 10. Portable and Future-Proof: Markdown files are portable and future-proof because they rely on plain text and have a simple syntax that is likely to remain compatible with future software and tools.
 
 [[MDX]] is advanced version of markdown where you can use react components to render inside a .md file.
+[[Mermaid]]

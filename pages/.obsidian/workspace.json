@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Markdown/Mermaid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1477ff86c148e692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker File for Nextjs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c252f1e20a7a7568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker File for Nextjs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Docker/Docker File for Nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Docker/Docker File for Nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Docker/Docker File for Nextjs.md"
               }
             }
           }
@@ -146,10 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c62753787c5a022",
+  "active": "c252f1e20a7a7568",
   "lastOpenFiles": [
-    "about.md",
+    "Docker/Docker Basics.md",
+    "Docker/Docker File for Nextjs.md",
+    "Docker-Architecture.md",
     "index.md",
+    "Docker",
+    "Markdown/Mermaid.md",
+    "Markdown/Markdown.md",
+    "about.md",
     "React/React Native.md",
     "React Native.md",
     "Frontend Build Tools/Vite.md",
@@ -163,17 +194,12 @@
     "Vercel/Deploy Nextjs to Vercel.md",
     "ES modules.md",
     "Deploy Applications to Vercel.md",
-    "Markdown/Markdown.md",
     "Algolia.md",
     "Eslint.md",
     "Prettier.md",
     "MDX.md",
     "Markdown.md",
     "Git/Git Divergent Branch.md",
-    "Git/Git Remove Cache.md",
-    "Git/Git Commands.md",
-    "Git/Git Ignore.md",
-    "Untitled.md",
     "Git",
     "Vercel",
     "Nextjs",
