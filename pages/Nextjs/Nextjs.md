@@ -1,1 +1,3 @@
 [Next.js](https://nextjs.org/) configures Front-end tooling for you, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time setting up tooling.
+
+[[Create Nextjs App]]

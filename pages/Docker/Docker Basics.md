@@ -14,36 +14,10 @@
 
 [[Build-Container-Image]]
 
-### Build-Container-Image-Example
-```
-# Use an official Python runtime as the base image
-FROM python:3.9-slim-buster
+[[Build-Container-Image-Example]]
 
-# Set the working directory in the container
-WORKDIR /app
+[[Run Commonds Inside Container]]
 
-# Copy the dependencies file to the working directory
-COPY requirements.txt .
-
-# Install the dependencies
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Copy the application code to the working directory
-COPY . .
-
-# Expose a port (optional)
-EXPOSE 8000
-
-# Define the command to run the application
-CMD ["python", "app.py"]
-```
-1. above example uses the official Python 3.9 slim-buster image as the base.
-2. Sets the working directory inside the container to /app.
-3. Copies the requirements.txt file from the host to the working directory in the container.
-4. Installs the dependencies listed in requirements.txt using pip.
-5. Copies the entire application code from the host to the working directory in the container.
-6. Optionally exposes port 8000 to allow incoming connections (adjust the port number as needed).
-7. Sets the command to run the application using the CMD instruction, which in this case runs the app.py script with Python.
 
 ### Start-Container-Image 
 1. Use the `docker run` command to start a container based on the image. Specify any desired options or configurations and provide the image name and tag. For example:
@@ -141,15 +115,7 @@ Docker will upload the image and its layers to the registry. This may take some 
 docker run -d --name mysql -e MYSQL_ALLOW_EMPTY_PASSWORD=True -v mysqlvolume:/var/lib/mysql mysql 
 ```
 
-### Docker-Bind-Mounts
-1. Bind mounts are linked to a specific directory or file on the host system.
-2. With bind mounts, you can directly reference files or directories on the host during container runtime.
-3. Bind mounts do not have a separate life cycle from the host system; they are tightly coupled.
-4. Changes made in the bind mount are immediately visible on the host and vice versa.
-5. Bind mounts provide a way to share files or directories between the host and containers.
-6. They are useful for development workflows, where code changes can be immediately reflected inside the container.
-8. Multiple containers can bind to the same host directory or file, allowing easy data sharing.
-7. Bind mounts can be specified using absolute paths or relative paths to the container's file system.
+[[Docker-Bind-Mounts]]
 
 ### Differences-Between-Bind-Mount-and-Volumes
 1. Persistence: Docker volumes persist data even if the container is removed, while bind mounts are tightly coupled to the host system and do not persist data separately.
