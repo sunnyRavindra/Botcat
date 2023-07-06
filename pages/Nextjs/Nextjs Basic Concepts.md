@@ -1,4 +1,3 @@
-[[Nextjs Application Structure]]
 
 [[ Nextjs Server Components]]
 
