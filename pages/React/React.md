@@ -1,3 +1,5 @@
+## React Key Points
+
 - React is a library for building user interfaces for web and native applications.
 - Components are the building blocks of React, allowing you to create reusable UI elements.
 - React components are JavaScript functions that can be combined to form screens, pages, and apps.
@@ -13,18 +15,16 @@
 - The React team continuously researches and improves React, ensuring proven approaches become part of the library.
 
 -----------------------------
-- [[React Quick Start]]  
-- [[React Basics]]  
-- [[React Api Referece]]  
-- [[React News]]  
-- [[React Developer Tools]] 
+- [ ] [React Installation](https://react.dev/learn/installation)
+- [ ] [React Quick Start](https://react.dev/learn)
+- [ ] [React Step By Step](https://react.dev/learn/describing-the-ui)
+- [ ] [React Api Referece](https://react.dev/reference/react)  
+- [React Blog](https://react.dev/blog) 
+- [React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
+- [React Developer Tools](https://react.dev/learn/react-developer-tools) 
+-----------------------------
 
-
-
-Vite ->https://vitejs.dev/ 
-Parcel -> https://parceljs.org/
-Eslint -> https://eslint.org/ 
-Prettier -> https://prettier.io/ 
+- [[My React Approach]] 
 
 #### Nextjs vs Remix -> https://www.altogic.com/blog/nextjs-vs-remix
 
@@ -35,4 +35,3 @@ React Native
 Algolia
 - AI Search solutions -> https://www.algolia.com/
 
-[[React Server Components]]i
