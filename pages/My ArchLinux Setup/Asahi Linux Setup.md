@@ -47,3 +47,8 @@ chsh -s /bin/zsh
 git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 ```
 - Copy .zshrc file from myArchRice folder
+- Install Zsh AutoSugesstions 
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+```
+- Source Zsh File 
