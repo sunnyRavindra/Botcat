@@ -19,6 +19,5 @@ Asahi Linux is an open-source project focused on bringing the Linux operating sy
 
 8. Early Progress: Asahi Linux has made significant progress since its inception, with milestones such as basic GPU support and preliminary booting of Linux on Apple Silicon Macs achieved. However, it's important to note that complete support for all features and hardware is still a work in progress.
 
-
 [[Asahi Linux Setup]]
  
