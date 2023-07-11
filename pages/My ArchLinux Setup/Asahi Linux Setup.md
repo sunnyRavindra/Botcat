@@ -62,8 +62,6 @@ Source ~/.zshrc
 - Install python 
 ```
 sudo pacman -S python
+sudo pacman -S python-pip
 ```
 - Install Font awsome
-```
-
-```
