@@ -1,7 +1,7 @@
 - Install [Asahi Linux]()https://asahilinux.org/
 - Install below packages 
 ```
-sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool
+sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool upowwer sysstat bluez bluez-utils
 ```
 - [[Install Yay]]
 - Install [Obsidian](https://obsidian.md/)
@@ -52,3 +52,18 @@ git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 ```
 - Source Zsh File 
+```
+Source ~/.zshrc
+```
+- Install Pywalfox
+```
+ yay -S python-pywalfox
+```
+- Install python 
+```
+sudo pacman -S python
+```
+- Install Font awsome
+```
+
+```
