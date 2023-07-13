@@ -9,10 +9,25 @@ Docker-Images --> Docker-Containers
 ```
 
 ![Docker Architecture diagram](https://docs.docker.com/assets/images/architecture.svg)
+### My Docker Approach
+
+- [[My Docker Approach]]
+
+### Related Topics
+
+- [[Chroot]]
+
+- [[Linux Namespaces]]
+
+- [[Docker DevEnv Setup]]
+
+- [[Docker Nextjs Application]]
+
 ### References
 
 - [Docker Overview](https://docs.docker.com/get-started/overview/)
 
 - [Docker Quick Start Guide](https://docs.docker.com/get-started/overview/)
 
-[[My Docker Approach]]
+- [kernel namespaces and cgroups](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504)
+
