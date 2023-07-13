@@ -1,7 +1,7 @@
 - Install [Asahi Linux]()https://asahilinux.org/
 - Install below packages 
 ```
-sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool upowwer sysstat bluez bluez-utils
+sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool upowwer sysstat bluez bluez-utils vlc
 ```
 - [[Install Yay]]
 - Install [Obsidian](https://obsidian.md/)
@@ -65,3 +65,7 @@ sudo pacman -S python
 sudo pacman -S python-pip
 ```
 - Install Font awsome
+- [[Install Docker on Arch Linux]]
+- [[Install Touch pad config]]  
+
+

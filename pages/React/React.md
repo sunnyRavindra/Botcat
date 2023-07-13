@@ -16,7 +16,7 @@
 
 -----------------------------
 - [ ] [React Installation](https://react.dev/learn/installation)
-- [ ] [React Quick Start](https://react.dev/learn)
+- [ ] [[React Quick Start]]
 - [ ] [React Step By Step](https://react.dev/learn/describing-the-ui)
 - [ ] [React Api Referece](https://react.dev/reference/react)  
 - [React Blog](https://react.dev/blog) 

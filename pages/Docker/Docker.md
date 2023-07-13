@@ -1,26 +1,18 @@
-[Next.js](https://nextjs.org/) configures Front-end tooling for you, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time setting up tooling.
+### Docker Client Server Architecture 
+```mermaid
+flowchart TD
+Docker-Client --> Rest-API --> Docker-Host --> Docker-Demon 
+Docker-Demon --> Docker-Images
+Docker-Demon --> Docker-Containers
+Docker-Registry --> Docker-Images
+Docker-Images --> Docker-Containers 
+```
 
-### Key Points
-1. Next.js: [[React]] framework for SSR and SSG web apps.
-2. Nextjs has [[Nextjs Server Components]] and [[Nextjs Client Components]]
-3. Built-in routing for dynamic client-side navigation.
-4. Server-side rendering for better performance and SEO.
-5. Static site generation for pre-rendered HTML files.
-6. CSS modules support for scoped styles.
-7. Integrated API routes for serverless endpoints.
-8. Hot module replacement (HMR) for instant preview.
-9. Automatic code splitting for faster page loads.
-10. Intuitive file-based routing system.
-11. Built-in i18n and localization support.
-12. Seamless integration with React, TypeScript, CSS-in-JS.
-13. Extensive ecosystem of plugins and extensions.
-14. Serverless deployment options (Vercel, Netlify).
-15. Performance optimizations: image optimization, lazy loading, CDN support.
-16. Developer-friendly features: API mocking, preview mode, detailed error reporting.
-
------------------------
+![Docker Architecture diagram](https://docs.docker.com/assets/images/architecture.svg)
 ### References
 
-[[Docker Guide]]
+- [Docker Overview](https://docs.docker.com/get-started/overview/)
+
+- [Docker Quick Start Guide](https://docs.docker.com/get-started/overview/)
 
 [[My Docker Approach]]
