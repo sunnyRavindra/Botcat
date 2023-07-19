@@ -1,0 +1,4 @@
+- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages. 
+- Example of such case is where in the Nextjs project we fiest copy the package.json file and then do the `npm run install` . after that is done we can then focus on copying the other files to the container.
+- In this scenario the most frequently changed files are copied at the very last hence when the next time we run the container docker demon does not have to got through the pain of copying the build files again.
+- This decreases the docker build times as container does not have to do any building.

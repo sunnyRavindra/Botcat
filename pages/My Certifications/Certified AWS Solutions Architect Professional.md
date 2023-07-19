@@ -1,0 +1,2 @@
+- Exam Guide - https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf
+- Study material - https://explore.skillbuilder.aws/learn/course/14951/Exam%2520Prep%253A%2520AWS%2520Certified%2520Solutions%2520Architect%2520-%2520Professional%2520%28SAP-C02%29

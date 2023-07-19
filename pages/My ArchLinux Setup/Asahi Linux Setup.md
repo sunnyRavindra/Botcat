@@ -1,7 +1,7 @@
 - Install [Asahi Linux]()https://asahilinux.org/
 - Install below packages 
 ```
-sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool upowwer sysstat bluez bluez-utils vlc
+sudo pacman -S make git networkmanager xorg xorg-xinit libxinerama lbxrendr libxft fontconfig base-devel firefox alacritty neovim picom zsh xdotool upowwer sysstat bluez bluez-utils vlc systemd
 ```
 - [[Install Yay]]
 - Install [Obsidian](https://obsidian.md/)
