@@ -54,6 +54,9 @@ AWS Global Infrastructure:
 
 [[IAM]]
 
+[[AWS Account Structure]]
+
+
 
 
 	- Prescribe Security controls.
@@ -78,4 +81,6 @@ AWS Global Infrastructure:
 	- Determine optimal migration approach.
 	- Identify new architecture for migrating workloads.
 	- Determine opportunities for potential improvements and modernization in the migrating workloads.
+
+
 
