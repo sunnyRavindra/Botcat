@@ -74,7 +74,7 @@ React ^tHrHAdmS
 
 [[Mermaid/Mermaid.md]] ^7R3Jjkp5
 
-[[My ArchLinux Setup/My Arch Linux Setup.md]] ^aNC6Atkt
+[[My Arch Linux Setup]] ^aNC6Atkt
 
 [[My Certifications/My Certifications.md]] ^XPmvSsvi
 
