@@ -20,6 +20,7 @@ AWS Global Infrastructure:
 4. Edge Locations
 5. Regional Edge cache
 
+
 [[ Region Selection Criteria]]
 
 [[AWS VPC]]
@@ -52,7 +53,6 @@ AWS Global Infrastructure:
 
 [[Amazon Inspect]]
 
-[[IAM]]
 
 [[AWS Account Structure]]
 

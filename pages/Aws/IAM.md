@@ -1,3 +1,6 @@
+```mermaid
+A-->|text|B
+```
 - Manages the users login access.
 - What Resources can be accessed by the logged in user.
 - Initially Root Account is created which has complete access.
