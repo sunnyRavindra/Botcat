@@ -1,3 +1,7 @@
+- Login 
+```
+docker login
+```
 - List of running containers.
 ```
 docker ps
