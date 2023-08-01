@@ -66,21 +66,21 @@ React ^tHrHAdmS
 
 [[Every Thing I Know/Every Thing I Know.md]] ^bWChX15d
 
-[[Aws/AWS.md]] ^tM4Apqf2
+[[AWS]] ^tM4Apqf2
 
-[[Docker/Docker.md]] ^Uw8Nx35K
+[[Docker]] ^Uw8Nx35K
 
-[[Git/Git.md]] ^WorteFOT
+[[Git]] ^WorteFOT
 
-[[Mermaid/Mermaid.md]] ^7R3Jjkp5
+[[Mermaid]] ^7R3Jjkp5
 
 [[My Arch Linux Setup]] ^aNC6Atkt
 
-[[My Certifications/My Certifications.md]] ^XPmvSsvi
+[[My Certifications]] ^XPmvSsvi
 
-[[Nextjs/Nextjs.md]] ^gkEcoe83
+[[Nextjs]] ^gkEcoe83
 
-[[React/React.md]] ^aY8k4jgp
+[[React]] ^aY8k4jgp
 
 %%
 # Drawing

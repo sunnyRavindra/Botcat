@@ -40,7 +40,7 @@ To push your local project files to your GitHub repository, you can follow these
    This command pushes the commits from your local `master` branch to the `origin` remote repository on GitHub. If you are working on a different branch, replace `master` with the appropriate branch name.
 
 After executing these steps, your project files should be successfully pushed to your GitHub repository. You can verify this by visiting your repository on GitHub and checking if the files are updated.
-- [[Git Rebase]]
+- [[Git rebase]]
 - [[Git Commits list]]
 - [[Git Squashing]]
 
