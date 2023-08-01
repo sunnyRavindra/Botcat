@@ -2,20 +2,22 @@
 ```
 docker login
 ```
+- Build Image
+```
+docker build -t username/imagename:tag .
+```
 - List of running containers.
 ```
 docker ps
 or 
 docker container ls
 ```
-
 - List of running as well as stopped containers.
 ```
 docker ps -a
 or
 docker container ls -a
 ```
-
 - Container .
 ```
 docker stop <the-container-id>

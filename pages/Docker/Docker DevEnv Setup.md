@@ -1,4 +1,4 @@
-- I prefer using "code" folder in my home directory for all my git projects 
+- I pory for all my git projects 
 
 ```
 ~/code/

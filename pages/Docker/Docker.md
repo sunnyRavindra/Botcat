@@ -1,11 +1,3 @@
-### My Docker Approach
-
-- [[My Used Docker Commands]]
-
-### Related Topics
-
-- [[Chroot]]
-
 - [[Linux Namespaces]]
 
 - [[Docker DevEnv Setup]]
