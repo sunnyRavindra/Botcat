@@ -1,7 +1,5 @@
 # Use an official Node.js image as the base
 FROM node:16-alpine
-
-
 # Install Git
 RUN apk update
 RUN apk add git
