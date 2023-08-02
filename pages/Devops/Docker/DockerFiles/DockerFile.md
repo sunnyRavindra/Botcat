@@ -1,3 +1,5 @@
+- [[Nextjs Docker File]]
+
 A Dockerfile is a text file used to define the configuration and instructions for building a Docker container image. It consists of a set of commands and parameters that specify how to assemble an image. When the Dockerfile is used to build the image, each instruction is executed step-by-step, creating layers that form the final image.
 
 Here is a breakdown of the structure of a Dockerfile and how it is written:

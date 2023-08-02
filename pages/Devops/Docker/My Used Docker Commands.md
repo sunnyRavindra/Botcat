@@ -6,6 +6,11 @@ docker login
 ```
 docker build -t username/imagename:tag .
 ```
+- List Image
+```
+docker image ls
+docker image ls -a
+```
 - List of running containers.
 ```
 docker ps
