@@ -5,11 +5,15 @@ FROM node:16-alpine
 WORKDIR /app
 
 # Install Git
-RUN sudo apk update
-RUN sudo apk add git
+RUN apk update
+RUN apk add git
+RUN apk add bash
 
 # Clone the repository
 RUN git clone https://github.com/sunnyRavindra/Cloud-DevOps-Large-Enterprise-Practical-Guide.git
+
+# chaning to the Applications Directory
+RUN cd Cloud-DevOps-Large-Enterprise-Practical-Guide
 
 # Install project dependencies
 RUN npm install
