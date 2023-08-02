@@ -8,6 +8,6 @@
 
 - [[Start Docker Container]]
 
-- Access [[Nextjs]] application on http://localhost:3000
+- Access [[Nextjsd]] application on http://localhost:3000
 
 - [Github](https://github.com/sunnyRavindra/nextjs) Reference.

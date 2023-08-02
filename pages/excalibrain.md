@@ -30,7 +30,7 @@ My Used Docker Commands ^oiqgZJV7
 
 [[Devops/Docker/Docker1.md]] ^gpwWvWqa
 
-[[Devops/Docker/My Used Docker Commands.md]] ^iKAg5lOt
+[[Docker Commands]] ^iKAg5lOt
 
 %%
 # Drawing
