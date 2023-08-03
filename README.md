@@ -1,10 +1,10 @@
 # Cloud-Devops-Large-Enterprise-Practical-Guide
 
-Welcome to the Cloud Architect Large Enterprise Practical Guide! This repository serves as a comprehensive guide designed specifically for Cloud Architects working in large enterprise environments. It aims to provide a practical approach to learning and covers various topics, including DevOps practices, software development methodologies, and cloud infrastructure design.
+Welcome to the Cloud Devops And Test Automation Large Enterprise Practical Guide! This repository serves as a comprehensive guide designed specifically for Cloud Devops and Test Automation engineers working in large enterprise environments. It aims to provide a practical approach to learning and covers various topics, including DevOps practices,Test Automation Frameworks, software development methodologies, and cloud infrastructure design.
 
 ## Purpose
 
-The purpose of this guide is to equip Cloud Architects with the knowledge and skills necessary to navigate the complexities of large enterprise environments. It offers practical insights, best practices, and real-world examples to help architects effectively design, implement, and optimize cloud-based solutions.
+The purpose of this guide is to equip Devops Automation Leads with the knowledge and skills necessary to navigate the complexities of large enterprise environments. It offers practical insights, best practices, and real-world examples to help architects effectively design, implement, and optimize cloud-based solutions.
 
 ## Contents
 
