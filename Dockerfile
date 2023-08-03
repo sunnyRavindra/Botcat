@@ -1,18 +1,17 @@
 # Use an official Node.js image as the base
 FROM node:16-alpine
-# Install Git
-RUN apk update
-RUN apk add git
-RUN apk add bash
-
-# Clone the repository
-RUN git clone https://github.com/sunnyRavindra/Cloud-DevOps-Large-Enterprise-Practical-Guide.git
 
 #Set the working directory inside the container
-WORKDIR /Cloud-DevOps-Large-Enterprise-Practical-Guide
+WORKDIR /app
+
+# Copy package.json file
+COPY package.json .
 
 # Install project dependencies
 RUN npm install
+
+# Copy package.json file
+COPY . .
 
 # Build the Next.js application
 RUN npm run build
