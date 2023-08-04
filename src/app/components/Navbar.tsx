@@ -1,16 +1,17 @@
 import React from "react";
 import Link from "next/link";
+import Image from 'next/image'
 
 const Navbar = () => {
   return (
     <div className="flex items-center justify-center h-16 border border-zinc-800">
       <div className="flex row-flex justify-between basis-3/4 w-28">
         <div className="flex row-flex justify-between bg-black w-1/3">
-         <div className="flex items-center justify-center text-center text-sm text-stone-400">
-             <Link href="/posts/first-post">BotCat</Link>
+         <div className="flex items-center justify-center text-center text-sm text-stone-400 ">
+             <Image src="/botcat.png" alt="Botcat Logo" className="dark:invert" width={100} height={24} priority />
          </div>
          <div className="flex items-center justify-center text-center text-sm text-stone-400">
-             <Link href="/posts/first-post">Home</Link>
+             <Link href="/posts/first-post">Profile</Link>
          </div>
          <div className="flex items-center justify-center text-center text-sm text-stone-400">
              <Link href="/posts/first-post">Resume</Link>
