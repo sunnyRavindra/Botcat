@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 const Resume = () => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen mt-20">
       <Head>
         <title>My Resume</title>
         <meta name="description" content="Learn about Botcat - IT Professionals Portfolio" />
