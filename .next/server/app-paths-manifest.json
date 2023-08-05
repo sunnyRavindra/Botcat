@@ -1,3 +1,5 @@
 {
-  "/sunnyravindra/profile/page": "app/sunnyravindra/profile/page.js"
+  "/page": "app/page.js",
+  "/sunnyravindra/profile/page": "app/sunnyravindra/profile/page.js",
+  "/sunnyravindra/contactme/page": "app/sunnyravindra/contactme/page.js"
 }
