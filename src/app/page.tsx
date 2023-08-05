@@ -2,14 +2,17 @@ import Head from 'next/head';
 
 const CompanyPage = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen mt-34 container mx-auto text-center w-2/3 ">
       <Head>
-        <title>Botcat - Company</title>
+        <title>Botcat</title>
         <meta name="description" content="About Botcat - IT Professionals Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="py-12 px-4">
+        <div className="container mx-auto text-center text-8xl">
+          <h1>Empowering IT Professionals</h1>
+        </div>
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-4">Welcome to Botcat</h1>
           <p className="text-lg text-gray-600 mb-8">
