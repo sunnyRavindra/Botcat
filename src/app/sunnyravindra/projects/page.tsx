@@ -17,7 +17,7 @@ const ProjectsPage = () => {
   ];
 
   return (
-    <div className="min-h-screen mt-20">
+    <div className="min-h-screen mt-20 container mx-auto text-center w-2/3">
       <Head>
         <title>Projects - Botcat</title>
         <meta name="description" content="Explore My Projects" />

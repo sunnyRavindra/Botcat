@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 const AboutPage = () => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen container mx-auto text-center w-2/3">
       <Head>
         <title>About Us - Botcat</title>
         <meta name="description" content="Learn about Botcat - IT Professionals Portfolio" />
