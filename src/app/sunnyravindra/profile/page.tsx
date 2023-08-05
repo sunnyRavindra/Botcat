@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-const Profile = () => {
+const profile = () => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-white">
       <Head>
@@ -16,4 +16,4 @@ const Profile = () => {
   );
 };
 
-export default Profile;
+export default profile;

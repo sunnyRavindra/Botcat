@@ -20,6 +20,21 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/sunnyravindra/contactme/page.js"
+    ],
+    "/sunnyravindra/resume/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sunnyravindra/resume/page.js"
+    ],
+    "/sunnyravindra/projects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sunnyravindra/projects/page.js"
+    ],
+    "/sunnyravindra/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sunnyravindra/about/page.js"
     ]
   }
 }
