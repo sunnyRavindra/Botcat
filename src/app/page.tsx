@@ -2,19 +2,19 @@ import Head from 'next/head';
 
 const CompanyPage = () => {
   return (
-    <div className="min-h-screen mt-34 container mx-auto text-center w-2/3 ">
+    <div className="flex flex-col m-auto my-40 w-2/3">
       <Head>
         <title>Botcat</title>
         <meta name="description" content="About Botcat - IT Professionals Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className="py-12 px-4">
-        <div className="container mx-auto text-center text-8xl">
-          <h1>Empowering IT Professionals</h1>
+      <main className="grid grid-cols-2 gap-7">
+        <div className="col-span-2">
+          <h1 className="my-6 bg-black text-white text-9xl w-2/4">BOTCAT...</h1>
+          <h1 className="my-6 text-8xl">Empowering</h1>
+          <h1 className="my-6 bg-black text-white text-9xl w-4/5">IT Professionals.</h1>
         </div>
-        <div className="container mx-auto text-center">
-          <h1 className="text-4xl font-bold mb-4">Welcome to Botcat</h1>
+        <div className="col-span-2 text-center m-20">
           <p className="text-lg text-gray-600 mb-8">
             We empower IT professionals with our innovative product, "Profiles."
           </p>
