@@ -11,4 +11,4 @@ yarn-error.log*
 .npm
 .eslintcache
 pages/.obsidian
-.next
+.next/
