@@ -1,4 +1,6 @@
 import Head from 'next/head';
+import {Chip} from "@nextui-org/react";
+import {Card, CardBody} from "@nextui-org/react";
 
 const CompanyPage = () => {
   return (
@@ -9,10 +11,10 @@ const CompanyPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="grid grid-cols-2 gap-7">
-        <div className="col-span-2">
-          <h1 className="my-6 bg-black text-white text-9xl w-2/4">BOTCAT...</h1>
-          <h1 className="my-6 text-8xl">Empowering</h1>
-          <h1 className="my-6 bg-black text-white text-9xl w-4/5">IT Professionals.</h1>
+        <div className="col-span-2 ">
+          <h1>BOTCAT...</h1>
+          <h1>Empowering</h1>
+          <h1>IT Professionals.</h1>
         </div>
         <div className="col-span-2 text-center m-20">
           <p className="text-lg text-gray-600 mb-8">

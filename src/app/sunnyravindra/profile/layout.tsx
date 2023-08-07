@@ -1,9 +1,14 @@
-import Navbar from '../../components/Navbar.tsx'
+import NavbarProfile from '../../components/NavbarProfile.tsx'
 
-export default function ProfileLayout({
-  children,
+export default function NabarLayout({
+  children, // will be a page or nested layout
 }: {
   children: React.ReactNode
 }) {
-  return <><Navbar><Navbar>{children}</>
+  return (
+    <section>
+    <NavbarProfile></NavbarProfile>
+      {children}
+    </section>
+  )
 }
