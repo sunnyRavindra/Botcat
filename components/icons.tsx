@@ -212,23 +212,6 @@ export const NextUILogo: React.FC<IconSvgProps> = (props) => {
     </svg>
   );
 };
-//
-// export const LinkdinIcon= (props: IconSvgProps) => (
-// <svg width="24px" height="24px" viewBox="0 0 0.525 0.525" xmlns="http://www.w3.org/2000/svg"><path fill="#808088" d="M0.447 0.448h-0.078v-0.122c0 -0.029 -0.001 -0.067 -0.041 -0.067 -0.041 0 -0.047 0.032 -0.047 0.064v0.124h-0.078V0.197h0.075V0.231h0.001a0.082 0.082 0 0 1 0.074 -0.041c0.079 0 0.093 0.052 0.093 0.119v0.138ZM0.117 0.163a0.045 0.045 0 1 1 0 -0.09 0.045 0.045 0 0 1 0 0.09ZM0.156 0.447H0.078V0.197h0.078v0.251ZM0.486 0H0.039A0.038 0.038 0 0 0 0 0.038v0.449c0 0.021 0.017 0.038 0.039 0.038h0.448a0.038 0.038 0 0 0 0.039 -0.038V0.038A0.038 0.038 0 0 0 0.486 0h0Z"/></svg>  <svg
-//     xmlns="http://www.w3.org/2000/svg"
-//     width="24"
-//     height="24"
-//     viewBox="0 0 24 24"
-//     fill="none"
-//     stroke="currentColor"
-//     strokeWidth="2"
-//     strokeLinecap="round"
-//     strokeLinejoin="round"
-//     className="feather feather-linkedin"
-//   >
-//     <path d="M5 3c0 1.1.9 2 2 2s2-.9 2-2-.9-2-2-2-2 .9-2 2zm-2 6v10h6V9H3zm18 0v10h-6V9h6zm-9 8c1.93 0 3.5-1.57 3.5-3.5S14.93 8 13 8s-3.5 1.57-3.5 3.5S11.07 17 13 17zm1-8h-2v-2h2v2z" />
-//   </svg>
-// );
 
 export const LinkdinIcon: React.FC<IconSvgProps> = (props) => {
 	return (
@@ -244,4 +227,6 @@ export const LinkdinIcon: React.FC<IconSvgProps> = (props) => {
 </svg>
 	);
 };
+
+
 
