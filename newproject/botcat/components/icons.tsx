@@ -190,7 +190,7 @@ export const NextUILogo: React.FC<IconSvgProps> = (props) => {
 
   return (
     <svg
-      fill="none"
+      fill="currentColor"
       height={height}
       viewBox="0 0 161 32"
       width={width}
@@ -211,4 +211,36 @@ export const NextUILogo: React.FC<IconSvgProps> = (props) => {
       />
     </svg>
   );
+};
+//
+// export const LinkdinIcon= (props: IconSvgProps) => (
+// <svg width="24px" height="24px" viewBox="0 0 0.525 0.525" xmlns="http://www.w3.org/2000/svg"><path fill="#808088" d="M0.447 0.448h-0.078v-0.122c0 -0.029 -0.001 -0.067 -0.041 -0.067 -0.041 0 -0.047 0.032 -0.047 0.064v0.124h-0.078V0.197h0.075V0.231h0.001a0.082 0.082 0 0 1 0.074 -0.041c0.079 0 0.093 0.052 0.093 0.119v0.138ZM0.117 0.163a0.045 0.045 0 1 1 0 -0.09 0.045 0.045 0 0 1 0 0.09ZM0.156 0.447H0.078V0.197h0.078v0.251ZM0.486 0H0.039A0.038 0.038 0 0 0 0 0.038v0.449c0 0.021 0.017 0.038 0.039 0.038h0.448a0.038 0.038 0 0 0 0.039 -0.038V0.038A0.038 0.038 0 0 0 0.486 0h0Z"/></svg>  <svg
+//     xmlns="http://www.w3.org/2000/svg"
+//     width="24"
+//     height="24"
+//     viewBox="0 0 24 24"
+//     fill="none"
+//     stroke="currentColor"
+//     strokeWidth="2"
+//     strokeLinecap="round"
+//     strokeLinejoin="round"
+//     className="feather feather-linkedin"
+//   >
+//     <path d="M5 3c0 1.1.9 2 2 2s2-.9 2-2-.9-2-2-2-2 .9-2 2zm-2 6v10h6V9H3zm18 0v10h-6V9h6zm-9 8c1.93 0 3.5-1.57 3.5-3.5S14.93 8 13 8s-3.5 1.57-3.5 3.5S11.07 17 13 17zm1-8h-2v-2h2v2z" />
+//   </svg>
+// );
+
+export const LinkdinIcon: React.FC<IconSvgProps> = (props) => {
+	return (
+<svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    width="22" 
+    height="22" 
+    fill="currentColor" 
+    viewBox="0 0 16 16" 
+    {...props}
+    >
+    <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+</svg>
+	);
 };
