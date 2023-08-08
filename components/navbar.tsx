@@ -1,3 +1,5 @@
+'use client'
+import React,{ useState } from "react";
 import {
 	Navbar as NextUINavbar,
 	NavbarContent,
@@ -6,7 +8,11 @@ import {
 	NavbarBrand,
 	NavbarItem,
 	NavbarMenuItem,
-} from "@nextui-org/navbar";
+  DropdownItem,
+  DropdownTrigger,
+  Dropdown,
+  DropdownMenu,
+} from "@nextui-org/react";
 import { Button } from "@nextui-org/button";
 import { Kbd } from "@nextui-org/kbd";
 import { Link } from "@nextui-org/link";
@@ -30,7 +36,7 @@ import {
 } from "@/components/icons";
 
 export const Navbar = () => {
-	const searchInput = (
+{/*const searchInput = (
 		<Input
 			aria-label="Search"
 			classNames={{
@@ -50,17 +56,60 @@ export const Navbar = () => {
 			type="search"
 		/>
 	);
+*/}
+
+  const [isMenuOpen, setIsMenuOpen] = React.useState(false);
+
+  const menuItems = [
+    "Profile",
+    "Dashboard",
+    "Activity",
+    "Analytics",
+    "System",
+    "Deployments",
+    "My Settings",
+    "Team Settings",
+    "Help & Feedback",
+    "Log Out",
+  ];
 
 return (
-		<NextUINavbar maxWidth="xl" position="sticky">
+		<NextUINavbar maxWidth="xl" onMenuOpenChange={setIsMenuOpen} isBordered>
 
      <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+        <NavbarMenuToggle
+          aria-label={isMenuOpen ? "Close menu" : "Open menu"}
+          className="sm:hidden"
+        />
 				<NavbarBrand as="li" className="gap-3 max-w-fit">
 					<NextLink className="flex justify-start items-center gap-1" href="/">
 						<CompanyIcon/>
 						<p className="font-bold text-inherit">B O T C A T</p>
 					</NextLink>
-				</NavbarBrand>
+        </NavbarBrand>
+
+        <Dropdown>
+          <NavbarItem>
+            <DropdownTrigger>
+              <Link size="sm" color="foreground"></Link>
+            </DropdownTrigger>
+          </NavbarItem>
+          <DropdownMenu
+            aria-label="ACME features"
+            className="w-[340px]"
+            itemClasses={{
+              base: "gap-4",
+            }}
+          >
+            <DropdownItem
+              key="Botcat Profiles"
+              description="Botcat Profiles builds proffesional looking portfolio's for Tecnical proffesional."
+            >
+             Botcat Profiles 
+            </DropdownItem>
+          </DropdownMenu>
+        </Dropdown>
+
 				<ul className="hidden lg:flex gap-4 justify-start ml-2">
 					{siteConfig.navItems.map((item) => (
 						<NavbarItem key={item.href}>
@@ -77,8 +126,8 @@ return (
 						</NavbarItem>
 					))}
 				</ul>
-			</NavbarContent>
 
+			</NavbarContent>
 
 			<NavbarContent
 				className="hidden sm:flex basis-1/5 sm:basis-full"
@@ -119,7 +168,6 @@ return (
 				<ThemeSwitch />
 				<NavbarMenuToggle />
 			</NavbarContent>
-      */}
 			<NavbarMenu>
 				{searchInput}
 				<div className="mx-4 mt-2 flex flex-col gap-2">
@@ -142,6 +190,26 @@ return (
 					))}
 				</div>
 			</NavbarMenu>
+      */}
+
+      <NavbarMenu>
+        {menuItems.map((item, index) => (
+          <NavbarMenuItem key={`${item}-${index}`}>
+            <Link
+              color={
+                index === 2 ? "primary" : index === menuItems.length - 1 ? "danger" : "foreground"
+              }
+              className="w-full"
+              href="#"
+              size="lg"
+            >
+              {item}
+            </Link>
+          </NavbarMenuItem>
+        ))}
+      </NavbarMenu>
+
+
 		</NextUINavbar>
 	);
 };
