@@ -36,93 +36,60 @@ import {
 } from "@/components/icons";
 
 export const Navbar = () => {
-{/*const searchInput = (
-		<Input
-			aria-label="Search"
-			classNames={{
-				inputWrapper: "bg-default-100",
-				input: "text-sm",
-			}}
-			endContent={
-				<Kbd className="hidden lg:inline-block" keys={["command"]}>
-					K
-				</Kbd>
-			}
-			labelPlacement="outside"
-			placeholder="Search..."
-			startContent={
-				<SearchIcon className="text-base text-default-400 pointer-events-none flex-shrink-0" />
-			}
-			type="search"
-		/>
-	);
-*/}
 
-  const [isMenuOpen, setIsMenuOpen] = React.useState(false);
-
-  const menuItems = [
-    "Profile",
-    "Dashboard",
-    "Activity",
-    "Analytics",
-    "System",
-    "Deployments",
-    "My Settings",
-    "Team Settings",
-    "Help & Feedback",
-    "Log Out",
-  ];
+const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
 return (
-		<NextUINavbar maxWidth="xl" onMenuOpenChange={setIsMenuOpen} isBordered>
+		<NextUINavbar maxWidth="xl" onMenuOpenChange={setIsMenuOpen} >
 
      <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
           className="sm:hidden"
         />
-				<NavbarBrand as="li" className="gap-3 max-w-fit">
-					<NextLink className="flex justify-start items-center gap-1" href="/">
-						<CompanyIcon/>
-						<p className="font-bold text-inherit">B O T C A T</p>
-					</NextLink>
-        </NavbarBrand>
 
         <Dropdown>
           <NavbarItem>
             <DropdownTrigger>
-              <Link size="sm" color="foreground"></Link>
+                <NavbarBrand as="li" className="gap-3 max-w-fit">
+					        <NextLink className="flex justify-start items-center gap-1" href="/">
+						        <CompanyIcon/>
+						          <p className="font-bold text-inherit">B O T C A T</p>
+					        </NextLink>
+                </NavbarBrand>
             </DropdownTrigger>
           </NavbarItem>
           <DropdownMenu
-            aria-label="ACME features"
+            aria-label="Botcat features"
             className="w-[340px]"
             itemClasses={{
               base: "gap-4",
             }}
           >
             <DropdownItem
-              key="Botcat Profiles"
-              description="Botcat Profiles builds proffesional looking portfolio's for Tecnical proffesional."
+              key="BotCat"
+              description="BotCat a proffesional Test Automation soution for Quality Engineers."
             >
-             Botcat Profiles 
+             BotCat 
+            </DropdownItem>
+            <DropdownItem
+              key="BotCat Profiles"
+              description="BotCat Profiles builds proffesional looking portfolio's for Tecnical proffesional."
+            >
+             BotCat Profiles 
             </DropdownItem>
           </DropdownMenu>
         </Dropdown>
 
-				<ul className="hidden lg:flex gap-4 justify-start ml-2">
+				<ul className="hidden sm:flex gap-4 justify-start ml-2">
 					{siteConfig.navItems.map((item) => (
 						<NavbarItem key={item.href}>
-							<NextLink
-								className={clsx(
-									linkStyles({ color: "foreground" }),
-									"data-[active=true]:text-primary data-[active=true]:font-medium"
-								)}
+              <Link
 								color="foreground"
-								href={item.href}
-							>
-								{item.label}
-							</NextLink>
+                size="sm"
+							  href={item.href}
+              >{item.label}</Link>
 						</NavbarItem>
 					))}
 				</ul>
@@ -143,72 +110,53 @@ return (
 					<Link isExternal href={siteConfig.links.github} aria-label="Github">
 						<GithubIcon className="text-default-500" />
 					</Link>
-					<ThemeSwitch />
 				</NavbarItem>
-				{/*<NavbarItem className="hidden lg:flex">{searchInput}</NavbarItem> 
-				<NavbarItem className="hidden md:flex">
-					<Button
-            isExternal
-						as={Link}
-						className="text-sm font-normal text-default-600 bg-default-100"
-						href={siteConfig.links.sponsor}
-						startContent={<HeartFilledIcon className="text-danger" />}
-						variant="flat"
-					>
-						Sponsor
-					</Button>
-				</NavbarItem>
-        */}
 			</NavbarContent>
-
-			{/*<NavbarContent className="sm:hidden basis-1 pl-4" justify="end">
-				<Link isExternal href={siteConfig.links.github} aria-label="Github">
-					<GithubIcon className="text-default-500" />
-				</Link>
-				<ThemeSwitch />
-				<NavbarMenuToggle />
-			</NavbarContent>
-			<NavbarMenu>
-				{searchInput}
-				<div className="mx-4 mt-2 flex flex-col gap-2">
-					{siteConfig.navMenuItems.map((item, index) => (
-						<NavbarMenuItem key={`${item}-${index}`}>
-							<Link
-								color={
-									index === 2
-										? "primary"
-										: index === siteConfig.navMenuItems.length - 1
-										? "danger"
-										: "foreground"
-								}
-								href="#"
-								size="lg"
-							>
-								{item.label}
-							</Link>
-						</NavbarMenuItem>
-					))}
-				</div>
-			</NavbarMenu>
-      */}
 
       <NavbarMenu>
-        {menuItems.map((item, index) => (
-          <NavbarMenuItem key={`${item}-${index}`}>
+          <NavbarMenuItem key="MenuItem">
             <Link
-              color={
-                index === 2 ? "primary" : index === menuItems.length - 1 ? "danger" : "foreground"
-              }
               className="w-full"
-              href="#"
-              size="lg"
+              href="/"
+              size="sm"
+              color="foreground"
             >
-              {item}
+            Home
+            </Link>
+            <Link
+              className="w-full"
+              href="/products"
+              size="sm"
+              color="foreground"
+            >
+            Products 
+            </Link>
+            <Link
+              className="w-full"
+              href="/about"
+              size="sm"
+              color="foreground"
+            >
+            About 
+            </Link>
+            <Link
+              className="w-full"
+              href="/login"
+              size="sm"
+              color="foreground"
+            >
+            LogIn
+            </Link>
+            <Link
+              className="w-full"
+              href="/signin"
+              size="sm"
+              color="foreground"
+            >
+            SignIn
             </Link>
           </NavbarMenuItem>
-        ))}
       </NavbarMenu>
-
 
 		</NextUINavbar>
 	);
