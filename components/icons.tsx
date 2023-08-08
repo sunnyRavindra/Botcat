@@ -228,5 +228,23 @@ export const LinkdinIcon: React.FC<IconSvgProps> = (props) => {
 	);
 };
 
+export const CompanyIcon = () => (
+  <svg fill="none" height="14" viewBox="0 0 32 32" width="10">
+    <path
+      className="fill-black dark:fill-white"
+      clipRule="evenodd"
+      d="
+        M -50 40
+        L -50 50
+        L 50 50
+        L 50 40
+        Q 40 40 40 10
+        C 40 -60 -40 -60 -40 10   
+        Q -40 40 -50 40"
+      fill="currentColor"
+      fillRule="evenodd"
+    />
+  </svg>
+);
 
 
