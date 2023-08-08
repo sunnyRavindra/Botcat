@@ -1,3 +1,4 @@
+'use client'
 import {
 	Navbar as NextUINavbar,
 	NavbarContent,
@@ -6,7 +7,12 @@ import {
 	NavbarBrand,
 	NavbarItem,
 	NavbarMenuItem,
+  DropdownItem,
+  DropdownTrigger,
+  Dropdown,
+  DropdownMenu
 } from "@nextui-org/navbar";
+import React, { useState } from 'react';
 import { Button } from "@nextui-org/button";
 import { Kbd } from "@nextui-org/kbd";
 import { Link } from "@nextui-org/link";
@@ -32,9 +38,39 @@ import {
 
 export const Navbar = () => {
 
+
+  const [isMenuOpen, setIsMenuOpen] = React.useState(false);
+
+  const menuItems = [
+    "Profile",
+    "Dashboard",
+    "Activity",
+    "Analytics",
+    "System",
+    "Deployments",
+    "My Settings",
+    "Team Settings",
+    "Help & Feedback",
+    "Log Out",
+  ];
+
+  const icons = {
+    chevron: <LinkdinIcon fill="currentColor" size={16} />,
+    scale: <LinkdinIcon className="text-warning" fill="currentColor" size={30} />,
+    lock: <LinkdinIcon className="text-success" fill="currentColor" size={30} />,
+    activity: <LinkdinIcon className="text-secondary" fill="currentColor" size={30} />,
+    flash: <LinkdinIcon className="text-primary" fill="currentColor" size={30} />,
+    server: <LinkdinIcon className="text-success" fill="currentColor" size={30} />,
+    user: <LinkdinIcon className="text-danger" fill="currentColor" size={30} />,
+  };
+
 	return (
-		<NextUINavbar maxWidth="xl" shouldHideOnScroll>
+		<NextUINavbar maxWidth="xl" onMenuOpenChange={setIsMenuOpen}>
 			<NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+          <NavbarMenuToggle
+          aria-label={isMenuOpen ? "Close menu" : "Open menu"}
+          className="sm:hidden"
+        />
 				<NavbarBrand as="li" className="gap-3 max-w-fit">
 					<NextLink className="flex justify-start items-center gap-1" href="/">
               <CompanyIcon/>
@@ -97,6 +133,23 @@ export const Navbar = () => {
 						Sign In
 					</Button>
 				</NavbarItem>
+
+        <NavbarMenu>
+          {menuItems.map((item, index) => (
+            <NavbarMenuItem key={`${item}-${index}`}>
+              <Link
+                color={
+                  index === 2 ? "primary" : index === menuItems.length - 1 ? "danger" : "foreground"
+                }
+                className="w-full"
+                href="#"
+                size="lg"
+              >
+                {item}
+              </Link>
+            </NavbarMenuItem>
+          ))}
+        </NavbarMenu>
 			</NavbarContent>
 
 		</NextUINavbar>
