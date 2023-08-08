@@ -66,6 +66,7 @@ export const Navbar = () => {
 
 	return (
 		<NextUINavbar maxWidth="xl" onMenuOpenChange={setIsMenuOpen}>
+
 			<NavbarContent className="basis-1/5 sm:basis-full" justify="start">
           <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
