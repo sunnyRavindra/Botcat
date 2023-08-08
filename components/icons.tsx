@@ -213,7 +213,7 @@ export const NextUILogo: React.FC<IconSvgProps> = (props) => {
   );
 };
 
-export const LinkdinIcon: React.FC<IconSvgProps> = (props) => {
+export const LinkedinIcon: React.FC<IconSvgProps> = (props) => {
 	return (
 <svg 
     xmlns="http://www.w3.org/2000/svg" 
