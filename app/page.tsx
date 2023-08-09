@@ -46,7 +46,7 @@ export default function Home() {
       <Button
         href="/auto"
         as={Link}
-        color="primary"
+        color="default"
         variant="bordered"
       >
        Automate Test 
@@ -72,7 +72,7 @@ export default function Home() {
       <Button
         href="/profile"
         as={Link}
-        color="primary"
+        color="default"
         variant="bordered"
       >
         Make Profiles

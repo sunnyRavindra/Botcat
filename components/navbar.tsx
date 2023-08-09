@@ -49,7 +49,7 @@ return (
         />
 
         <NavbarBrand className="gap-3 max-w-fit">
-          <NextLink className="flex justify-start items-center gap-1" href="#">
+          <NextLink className="flex justify-start items-center gap-1" href="/">
             <CompanyIcon/>
             <p className="font-bold text-inherit">B O T C A T</p>
           </NextLink>
@@ -59,10 +59,11 @@ return (
           <NavbarItem>
             <DropdownTrigger>
               <Button 
+                radius="full"
                 variant="bordered" 
                 as={Link}
-                color="primary"
-              >
+                color="default"
+                size="sm">
                 Products 
               </Button>
             </DropdownTrigger>
