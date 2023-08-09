@@ -29,18 +29,13 @@ export default function Home() {
 
     <div className="grid grid-cols-2 gap-9" >
     <Card className="flex justify-center max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
-      <CardHeader className="flex justify-center gap-3">
-            <NextLink className="flex justify-start items-center gap-1" href="/">
-                <CompanyIcon/>
-                <div>
-                <p className="font-bold text-inherit">B O T C A T</p>
-                <p className="font-bold text-inherit">A U T O M A T I O N S</p>
-                </div>
-            </NextLink>
-        <div className="flex flex-col">
-          <p className="text-md">BotCat Automations</p>
-          <p className="text-small text-default-500">botcat.org/Automations</p>
-        </div>
+      <CardHeader className="flex justify-center gap-3 ">
+         <Image
+            src="/Auto.svg"
+            width={400}
+            height={400}
+            alt="Botcat Automations"
+          />
       </CardHeader>
       <Divider/>
       <CardBody className="text-center">
@@ -48,25 +43,25 @@ export default function Home() {
       </CardBody>
       <Divider/>
       <CardFooter className="flex justify-center">
-      <Button color="primary" variant="bordered">
-        Test Automation
-      </Button>  
+      <Button
+        href="/auto"
+        as={Link}
+        color="primary"
+        variant="bordered"
+      >
+       Automate Test 
+      </Button>
       </CardFooter>
-    </Card>
+    </Card> 
 
-    <Card className="max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
+    <Card className="flex justify-center max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
       <CardHeader className="flex justify-center gap-3">
-        <Image
-          alt="nextui logo"
-          height={40}
-          radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={40}
-        />
-        <div className="flex flex-col">
-          <p className="text-md">BotCat Profiles</p>
-          <p className="text-small text-default-500">botcat.org/profiles</p>
-        </div>
+         <Image
+            src="/Profile.svg"
+            width={400}
+            height={400}
+            alt="Botcat Automations"
+          />
       </CardHeader>
       <Divider/>
       <CardBody className="text-center">
@@ -74,11 +69,19 @@ export default function Home() {
       </CardBody>
       <Divider/>
       <CardFooter className="flex justify-center">
-      <Button color="primary" variant="bordered">
+      <Button
+        href="/profile"
+        as={Link}
+        color="primary"
+        variant="bordered"
+      >
         Make Profiles
-      </Button>  
+      </Button>
       </CardFooter>
     </Card>
+
+
+
     </div>
 
     <Card className="col-span-2 drop-shadow-2xl my-20">
