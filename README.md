@@ -1,40 +1,61 @@
-# Next.js & NextUI Template
+# BotCat: Empowering Digital Automation and Professional Portfolios
 
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
+Welcome to the BotCat GitHub repository! BotCat is a comprehensive platform designed to streamline test automation and showcase professional portfolios for IT experts. This repository contains the source code, documentation, and resources for the BotCat Automation and BotCat Profiles products.
 
-## Technologies Used
+## Table of Contents
 
-- [Next.js 13](https://nextjs.org/docs/getting-started)
-- [NextUI v2](https://nextui.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+- [About BotCat](#about-botcat)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## How to Use
+## About BotCat
 
+BotCat is a multifaceted solution that caters to both the automation needs of software testing and the presentation of IT professionals' portfolios in a sophisticated manner. It consists of two main products:
 
-### Use the template with create-next-app
+1. **BotCat Automation**: A powerful tool that simplifies test automation across a range of tools and frameworks. It helps QA engineers and developers automate their testing processes efficiently.
 
-To create a new project based on this template using `create-next-app`, run the following command:
+2. **BotCat Profiles**: A web application specifically designed for IT professionals to showcase their skills, projects, and achievements in an elegant and professional manner. It allows individuals to create compelling portfolios that leave a lasting impression.
 
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
-```
+## Features
 
-### Install dependencies
+- **BotCat Automation**:
+  - Cross-tool compatibility for test automation
+  - Intuitive and user-friendly interface
+  - Extensive test reporting and analysis
 
-```bash
-npm install
-```
+- **BotCat Profiles**:
+  - Dynamic and customizable portfolio templates
+  - Project showcase with detailed descriptions
+  - Skill highlighting and professional achievements
 
-### Run the development server
+## Getting Started
 
-```bash
-npm run dev
-```
+To get started with BotCat, follow these steps:
+
+1. Clone this repository: `git clone https://github.com/sunnyravindra/botcat.git`
+2. Install dependencies for the individual products:
+   - For BotCat Automation: Navigate to the `botcat-automation` directory and follow its README.
+   - For BotCat Profiles: Navigate to the `botcat-profiles` directory and follow its README.
+
+## Usage
+
+For detailed usage instructions and documentation for each product, refer to their respective directories:
+
+- [BotCat Automation Documentation](./botcat-automation/README.md)
+- [BotCat Profiles Documentation](./botcat-profiles/README.md)
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to BotCat, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the software, provided you include the appropriate attribution.
+
+---
+
+Thank you for choosing BotCat to elevate your automation and professional portfolio experiences. For any questions or support, please contact our team at support@botcat.com.
+

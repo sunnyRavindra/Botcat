@@ -12,20 +12,20 @@ export default function Home() {
 	return (
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
 			<div className="inline-block max-w-lg text-center justify-center">
-				<h1 className={title()}>Make&nbsp;</h1>
-				<h1 className={title({ color: "violet" })}>beautiful&nbsp;</h1>
+				<h1 className={title()}>Empowering. &nbsp;</h1>
+				<h1 className={title({ color: "violet" })}>Your&nbsp;</h1>
 				<br />
 				<h1 className={title()}>
-					websites regardless of your design experience.
-				</h1>
+				Digital Journey
+        </h1>
 				<h2 className={subtitle({ class: "mt-4" })}>
-					Beautiful, fast and modern React UI library.
+          Unleash Automation with Botcat Automations Showcase Excellence with Botcat Profiles.
 				</h2>
 			</div>
 
     <div className="grid grid-cols-2 gap-9" >
-    <Card className="max-w-[400px] drop-shadow-2xl my-20">
-      <CardHeader className="flex gap-3">
+    <Card className="flex justify-center max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
+      <CardHeader className="flex justify-center gap-3">
         <Image
           alt="nextui logo"
           height={40}
@@ -34,16 +34,16 @@ export default function Home() {
           width={40}
         />
         <div className="flex flex-col">
-          <p className="text-md">NextUI</p>
-          <p className="text-small text-default-500">nextui.org</p>
+          <p className="text-md">BotCat Automations</p>
+          <p className="text-small text-default-500">botcat.org/Automations</p>
         </div>
       </CardHeader>
       <Divider/>
-      <CardBody>
-        <p>Make beautiful websites regardless of your design experience.</p>
+      <CardBody className="text-center">
+        <p>Effortlessly Automate Tests Across Diverse Tools and Applications.</p>
       </CardBody>
       <Divider/>
-      <CardFooter>
+      <CardFooter className="flex justify-center">
         <Link
           isExternal
           showAnchorIcon
@@ -54,8 +54,8 @@ export default function Home() {
       </CardFooter>
     </Card>
 
-    <Card className="max-w-[400px] drop-shadow-2xl my-20">
-      <CardHeader className="flex gap-3">
+    <Card className="max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
+      <CardHeader className="flex justify-center gap-3">
         <Image
           alt="nextui logo"
           height={40}
@@ -64,16 +64,16 @@ export default function Home() {
           width={40}
         />
         <div className="flex flex-col">
-          <p className="text-md">NextUI</p>
-          <p className="text-small text-default-500">nextui.org</p>
+          <p className="text-md">BotCat Profiles</p>
+          <p className="text-small text-default-500">botcat.org/profiles</p>
         </div>
       </CardHeader>
       <Divider/>
-      <CardBody>
-        <p>Make beautiful websites regardless of your design experience.</p>
+      <CardBody className="text-center">
+        <p>Showcase Excellence with Botcat Profiles.</p>
       </CardBody>
       <Divider/>
-      <CardFooter>
+      <CardFooter className="flex justify-center">
         <Link
           isExternal
           showAnchorIcon
@@ -87,37 +87,9 @@ export default function Home() {
 
     <Card className="col-span-2 drop-shadow-2xl my-20">
       <CardBody>
-        <p>Make beautiful websites regardless of your design experience.</p>
+        <p>Experience the Future of Digital Solutions at the Crossroads of Botcat's Versatility.</p>
       </CardBody>
     </Card>
-
-			<div className="flex gap-3">
-				<Link
-					isExternal
-					as={NextLink}
-					href={siteConfig.links.docs}
-					className={buttonStyles({ color: "primary", radius: "full", variant: "shadow" })}
-				>
-					Documentation
-				</Link>
-				<Link
-					isExternal
-					as={NextLink}
-					className={buttonStyles({ variant: "bordered", radius: "full" })}
-					href={siteConfig.links.github}
-				>
-					<GithubIcon size={20} />
-					GitHub
-				</Link>
-			</div>
-
-			<div className="mt-8">
-				<Snippet hideSymbol hideCopyButton variant="flat">
-					<span>
-						Get started by editing <Code color="primary">app/page.tsx</Code>
-					</span>
-				</Snippet>
-			</div>
 		</section>
 	);
 }
