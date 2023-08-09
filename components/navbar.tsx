@@ -24,7 +24,6 @@ import { siteConfig } from "@/config/site";
 import NextLink from "next/link";
 import clsx from "clsx";
 
-import { ThemeSwitch } from "@/components/theme-switch";
 import {
 	TwitterIcon,
 	GithubIcon,
@@ -71,7 +70,7 @@ return (
               key="BotCat"
               description="BotCat a proffesional Test Automation soution for Quality Engineers."
             >
-             BotCat 
+             BotCat Automations
             </DropdownItem>
             <DropdownItem
               key="BotCat Profiles"

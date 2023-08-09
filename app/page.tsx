@@ -6,7 +6,11 @@ import { button as buttonStyles } from "@nextui-org/theme";
 import { siteConfig } from "@/config/site";
 import { title, subtitle } from "@/components/primitives";
 import { GithubIcon } from "@/components/icons";
-import {Card, CardHeader, CardBody, CardFooter, Divider, Link, Image} from "@nextui-org/react";
+import {Card, CardHeader, CardBody, CardFooter, Divider, Link, Image, Button} from "@nextui-org/react";
+import {
+  CompanyIcon,
+} from "@/components/icons";
+
 
 export default function Home() {
 	return (
@@ -26,13 +30,13 @@ export default function Home() {
     <div className="grid grid-cols-2 gap-9" >
     <Card className="flex justify-center max-w-[400px] drop-shadow-2xl my-20 hover:drop-shadow-sm">
       <CardHeader className="flex justify-center gap-3">
-        <Image
-          alt="nextui logo"
-          height={40}
-          radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={40}
-        />
+            <NextLink className="flex justify-start items-center gap-1" href="/">
+                <CompanyIcon/>
+                <div>
+                <p className="font-bold text-inherit">B O T C A T</p>
+                <p className="font-bold text-inherit">A U T O M A T I O N S</p>
+                </div>
+            </NextLink>
         <div className="flex flex-col">
           <p className="text-md">BotCat Automations</p>
           <p className="text-small text-default-500">botcat.org/Automations</p>
@@ -44,13 +48,9 @@ export default function Home() {
       </CardBody>
       <Divider/>
       <CardFooter className="flex justify-center">
-        <Link
-          isExternal
-          showAnchorIcon
-          href="https://github.com/nextui-org/nextui"
-        >
-          Visit source code on GitHub.
-        </Link>
+      <Button color="primary" variant="bordered">
+        Test Automation
+      </Button>  
       </CardFooter>
     </Card>
 
@@ -74,13 +74,9 @@ export default function Home() {
       </CardBody>
       <Divider/>
       <CardFooter className="flex justify-center">
-        <Link
-          isExternal
-          showAnchorIcon
-          href="https://github.com/nextui-org/nextui"
-        >
-          Visit source code on GitHub.
-        </Link>
+      <Button color="primary" variant="bordered">
+        Make Profiles
+      </Button>  
       </CardFooter>
     </Card>
     </div>
