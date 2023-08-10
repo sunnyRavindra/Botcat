@@ -7,7 +7,7 @@ export default function AutoPage() {
 	    <>
     		<div className="grid grid-cols-2 gap-8 mt-10">
           <div className="col-span-2">
-  				  <h1 className={title()}>Development In Progress.&nbsp;</h1>
+  				  <h1 className={title()}>Profile In Progress.&nbsp;</h1>
           </div>
         </div>
 		</>	

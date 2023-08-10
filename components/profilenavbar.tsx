@@ -34,7 +34,7 @@ import {
   CompanyIcon,
 } from "@/components/icons";
 
-export const Navbar = () => {
+export const ProfileNavbar = () => {
 
 const [isMenuOpen, setIsMenuOpen] = React.useState(false);
 
@@ -53,9 +53,10 @@ return (
             <CompanyIcon/>
             <p className="font-bold text-inherit">B O T C A T</p>
           </NextLink>
+{/*
         </NavbarBrand>
 
- {/*       <Dropdown >
+        <Dropdown >
           <NavbarItem>
             <DropdownTrigger>
               <Button 
@@ -89,7 +90,6 @@ return (
             </DropdownItem>
           </DropdownMenu>
         </Dropdown>
-*/}
 				<ul className="hidden sm:flex gap-4 justify-start ml-2">
 					{siteConfig.navItems.map((item) => (
 						<NavbarItem key={item.href}>
@@ -103,6 +103,7 @@ return (
 				</ul>
 
 			</NavbarContent>
+*/}
 
 			<NavbarContent
 				className="hidden sm:flex basis-1/5 sm:basis-full"
