@@ -27,3 +27,6 @@ Empowering.          Unleash Automation with Botcat Automations Showcase Excelle
 Effortlessly Automate Tests Across Diverse Tools and Applications
 Showcase Excellence with Botcat Profiles
 Experience the Future of Digital Solutions at the Crossroads of Botcat's Versatility.
+
+"build": "cross-env INIT_CWD=$PWD next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
+
