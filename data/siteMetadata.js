@@ -4,6 +4,7 @@ const siteMetadata = {
   author: 'Sunny Ravindra',
   headerTitle: 'Sunny Ravindra',
   description: 'A blog created with Next.js for sunny ravindra portfolio website',
+  designation: 'Test Automation and Devops Technical Lead',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

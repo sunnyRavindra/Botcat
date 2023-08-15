@@ -32,6 +32,7 @@ var require_siteMetadata = __commonJS({
       author: "Sunny Ravindra",
       headerTitle: "Sunny Ravindra",
       description: "A blog created with Next.js for sunny ravindra portfolio website",
+      designation: "Test Automation and Devops Technical Lead",
       language: "en-us",
       theme: "system",
       // system, dark or light
@@ -274,4 +275,4 @@ export {
   Blog,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-736T7CGJ.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-5U44U5AU.mjs.map
