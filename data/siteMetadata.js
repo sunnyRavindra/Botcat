@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Sunny Ravindra',
   description: 'A blog created with Next.js for sunny ravindra portfolio website',
   language: 'en-us',
-  theme: 'light', // system, dark or light
+  theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',

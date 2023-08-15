@@ -33,7 +33,7 @@ var require_siteMetadata = __commonJS({
       headerTitle: "Sunny Ravindra",
       description: "A blog created with Next.js for sunny ravindra portfolio website",
       language: "en-us",
-      theme: "light",
+      theme: "system",
       // system, dark or light
       siteUrl: "https://tailwind-nextjs-starter-blog.vercel.app",
       siteRepo: "https://github.com/timlrx/tailwind-nextjs-starter-blog",
@@ -274,4 +274,4 @@ export {
   Blog,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-OWUC6RNR.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-736T7CGJ.mjs.map
