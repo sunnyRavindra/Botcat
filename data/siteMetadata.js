@@ -9,15 +9,15 @@ const siteMetadata = {
   theme: 'dark', // system, dark or light
   siteUrl: 'https:botcat.org',
   siteRepo: 'https://github.com/',
-  siteLogo: '/static/images/logo1.png',
+  siteLogo: '/static/images/logo.svg',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'sunny.bharne@yoursite.com',
+  email: 'sunnyravindra.devops@gmail.com',
   github: 'https://github.com/sunnyravindra',
-  twitter: 'https://twitter.com/Twitter/sunnyravindra',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/sunnyravindra',
+  twitter: 'https://twitter.com/SunnyRavv',
+  facebook: '#',
+  youtube: '#',
+  linkedin: 'https://www.linkedin.com/in/sunnybharne/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
