@@ -17,7 +17,7 @@ export default function Resume() {
           </p>
         </div>
         <div className="flex flex-row py-12 mx-auto h-1/2 justify-items-center">
-          <button className="mx-auto bg-transparent hover:text-black hover:bg-white text-primary border-double border-4 border-primary font-semibold hover:text-white py-2 px-4 border border-primary hover:border-transparent rounded ">
+          <button className="my-40 mx-auto bg-transparent hover:text-black hover:bg-white text-primary border-double border-4 border-primary font-semibold py-2 px-4 border border-primary hover:border-transparent rounded ">
             Download Docs
           </button>
         </div>
