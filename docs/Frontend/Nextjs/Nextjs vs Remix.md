@@ -1,0 +1,1 @@
+https://www.altogic.com/blog/nextjs-vs-remix
