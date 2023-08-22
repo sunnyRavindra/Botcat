@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0406feaa29cb2206",
+    "type": "split",
+    "children": [
+      {
+        "id": "23138576ddce7cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935a8dfc9ce7e180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aws/StepFunctions Basics/Introduction.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5635e8a5d42114d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aws/StepFunctions Basics/Introduction.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b882d691107cfb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df35758b1f4abcc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5eed369d1b774ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c3208dede2c7fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e3a6a2627d2f521",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18797c01d5f2963d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a63d6912f69318",
+    "type": "split",
+    "children": [
+      {
+        "id": "f156676b088889c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8113657294748f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aws/StepFunctions Basics/Introduction.mdx",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62c8ecff1bc5e1c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aws/StepFunctions Basics/Introduction.mdx",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b51a8d6c20250812",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1563d4c9eaca7284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aws/StepFunctions Basics/Introduction.mdx"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "79c3208dede2c7fc",
+  "lastOpenFiles": [
+    "Aws/StepFunctions Basics/te.png",
+    "Aws/StepFunctions Basics/Introduction.mdx",
+    "Pasted image 20230822133607.png.md",
+    "Aws/StepFunctions Basics/Drawing 2023-08-22 13.35.29.excalidraw.md",
+    "Pasted image 20230822103941.png",
+    "My Kanban.md",
+    "Aws/ Region Selection Criteria.md",
+    "about.md",
+    "Aws/StepFunctions Basics/Introduction.md",
+    "Aws/StepFunctions Basics/Drawing.excalidraw.md",
+    "Aws/StepFunctions Basics/Image.png",
+    "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md",
+    "Xassets/docusaurus-asset-example-banner.png.md",
+    "Xassets",
+    "assets/docusaurus-asset-example-banner.png.md",
+    "assets",
+    "index.md",
+    "excalibrain.md",
+    "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw.md",
+    "Aws/My AWS Approach.md",
+    "Aws/IAM Roles.md",
+    "Aws/IAM Policy.md",
+    "Aws/IAM Identity Center.md",
+    "Aws/IAM.md",
+    "Aws/Cloud Computing.md",
+    "Aws/AWSD.md",
+    "Aws/AWS World Wide Infrastructure.md",
+    "Aws/AWS Transit Gateway.md",
+    "Aws/AWS Local Zones.md",
+    "Aws/AWS Account Structure.md",
+    "Aws/AWS.md",
+    "Aws/StepFunctions Basics"
+  ]
+}

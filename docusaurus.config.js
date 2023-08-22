@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'QAOPS',
   tagline: 'Devops approach for Automation Test Engirneers',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Logo.svg',
 
   // Set the production url of your site here
   url: 'https://botcat.org',
@@ -41,8 +41,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -63,6 +63,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
         title: 'Q A O P S',
         hideOnScroll: true,
@@ -75,12 +81,23 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Manual Testing',
+            label: 'AWS',
           },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'awsSidebar',
+          //   position: 'left',
+          //   label: 'AWS',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: '/aboutme',
+            label: 'AboutMe',
             position: 'right',
           },
         ],
@@ -130,7 +147,6 @@ const config = {
         // ],
         copyright: `Copyright © ${new Date().getFullYear()} Devops Approach for Test Automation Engineers.`,
       },
-
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

@@ -21,7 +21,7 @@ Architecture ^x2JSVEWQ
 
 # Embedded files
 ce8799e089684467afa5344bd5ab4284a0f63d02: https://docs.docker.com/assets/images/architecture.svg
-8d9542b197db56ecbf6ec2175f28d3d0d521d440: [[Pasted Image 20230802093729_820.png]]
+8d9542b197db56ecbf6ec2175f28d3d0d521d440: [[Image.png]]
 
 %%
 # Drawing
