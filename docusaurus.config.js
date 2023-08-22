@@ -79,9 +79,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'StepFunctionsSidebar',
             position: 'left',
-            label: 'AWS',
+            label: 'Step Functions',
           },
           // {
           //   type: 'docSidebar',
