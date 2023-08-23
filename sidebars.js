@@ -23,6 +23,15 @@ const sidebars = {
         'Aws/StepFunctions/Basics/Basics',
         'Aws/StepFunctions/Basics/Workflows',
         'Aws/StepFunctions/Basics/Usecases',
+        'Aws/StepFunctions/Basics/Terminology',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Card Processing Workflow',
+      items: [
+        'Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine',
+        'Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration',
       ],
     },
   ],

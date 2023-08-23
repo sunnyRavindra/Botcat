@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
+                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
+                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
+                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Terminology.mdx"
+                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx"
               }
             }
           }
@@ -158,14 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "6fab5548680f4cef",
   "lastOpenFiles": [
+    "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
+    "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+    "Pasted image 20230823171612.png",
+    "Aws/StepFunctions/StepFunctionsexcalidraw.md",
+    "Aws/StepFunctions/Introduction.mdx",
+    "Aws/StepFunctions/Basics/Terminology.mdx",
+    "Aws/StepFunctions/CardProcessWorkflow",
+    "Aws/StepFunctions/Basics/Workflows.mdx",
     "Aws/StepFunctions/Basics/Usecases.mdx",
     "Branching.png",
-    "Aws/StepFunctions/Basics/Terminology.mdx",
     "Aws/StepFunctions/Basics/Basics.mdx",
-    "Aws/StepFunctions/Basics/Workflows.mdx",
-    "Aws/StepFunctions/StepFunctionsexcalidraw.md",
     "Aws/StepFunctions/StepFunctionsexcalidraw.png",
     "FunctionOrchestration.png",
     "BasicsImage.png",
@@ -183,16 +188,12 @@
     "My Kanban.md",
     "intro.md",
     "Xassets/docusaurus-asset-example-banner.png.md",
-    "Aws/StepFunctions/Introduction.mdx",
     "Aws/ Region Selection Criteria.md",
     "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw.md",
     "Aws/StepFunctions/TestFile.png",
     "Aws/Introduction.mdx",
     "Aws/StepFunctions/Basics",
     "Aws/StepFunctions/StepFunctions-Basics/Basics.mdx",
-    "Aws/StepFunctions/StepFunctions-Basics/test.mdx",
-    "Aws/StepFunctions/StepFunctions-Basics",
-    "Aws/StepFunctions/te.png",
     "Aws/StepFunctions Basics/Drawing 2023-08-22 13.35.29.excalidraw.md",
     "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md",
     "Aws/StepFunctions Basics/Introduction.md",
