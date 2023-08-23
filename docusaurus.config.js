@@ -83,6 +83,30 @@ const config = {
             position: 'left',
             label: 'Step Functions',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'ManualTestingSidebar',
+            position: 'left',
+            label: 'Manual Testing',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'SeleniumSidebar',
+            position: 'left',
+            label: 'Selenium',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'LeetcodeSidebar',
+            position: 'left',
+            label: 'Leetcode',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'FinnishSidebar',
+            position: 'left',
+            label: 'Finnish',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'awsSidebar',

@@ -15,19 +15,34 @@
 const sidebars = {
 
   StepFunctionsSidebar: [
-    'Aws/Introduction',
+    'Aws/StepFunctions/Introduction',
     {
       type: 'category',
       label: 'StepFunctions Basics',
-      items: ['Aws/StepFunctions/Basics/Basics'],
-    },
-    {
-      type: 'category',
-      label: 'My Notes',
-      items: ['Aws/StepFunctions/MyNotes/MyNotes'],
+      items: [
+        'Aws/StepFunctions/Basics/Basics',
+        'Aws/StepFunctions/Basics/Workflows',
+        'Aws/StepFunctions/Basics/Usecases',
+      ],
     },
   ],
- 
+
+  ManualTestingSidebar: [
+    'ManualTesting/Introduction',
+  ],
+
+  SeleniumSidebar: [
+    'Selenium/Introduction',
+  ],
+
+  LeetcodeSidebar: [
+    'Leetcode/Introduction',
+  ],
+
+  FinnishSidebar: [
+    'Finnish/Introduction',
+  ],
+
 };
 
 module.exports = sidebars;

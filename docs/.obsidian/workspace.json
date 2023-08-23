@@ -11,38 +11,26 @@
             "id": "1b882d691107cfb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Aws/StepFunctions/Introduction.mdx",
-                "mode": "source",
-                "source": false
+                "file": "FunctionOrchestration.png"
               }
             }
           },
           {
-            "id": "abc094e4c486830b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Aws/StepFunctions/Drawing 2023-08-22 21.06.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "56cc0b099fc67a5e",
+            "id": "6fab5548680f4cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Workflows.mdx",
+                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Workflows.mdx",
+                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Workflows.mdx",
+                "file": "Aws/StepFunctions/Basics/Terminology.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aws/StepFunctions/Basics/Workflows.mdx"
+                "file": "Aws/StepFunctions/Basics/Terminology.mdx"
               }
             }
           }
@@ -170,51 +158,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56cc0b099fc67a5e",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
+    "Aws/StepFunctions/Basics/Usecases.mdx",
+    "Branching.png",
+    "Aws/StepFunctions/Basics/Terminology.mdx",
     "Aws/StepFunctions/Basics/Basics.mdx",
     "Aws/StepFunctions/Basics/Workflows.mdx",
-    "Untitled.md",
-    "Aws/StepFunctions/Basics/StateMachine.png",
-    "Aws/StepFunctions/Drawing 2023-08-22 21.30.28.excalidraw.md",
-    "Aws/StepFunctions/Drawing 2023-08-22 21.06.33.excalidraw.md",
-    "Aws/StepFunctions/Introduction.mdx",
-    "Aws/StepFunctions/Basics/BasicsImage.png",
-    "Pasted image 20230822103941.png",
+    "Aws/StepFunctions/StepFunctionsexcalidraw.md",
+    "Aws/StepFunctions/StepFunctionsexcalidraw.png",
+    "FunctionOrchestration.png",
+    "BasicsImage.png",
+    "index.md",
+    "StateMachine.png",
+    "Workflows.png",
+    "Aws/te.png",
     "Pasted image 20230822133607.png.md",
+    "about.md",
+    "excalibrain.md",
+    "Drawing 2023-08-22 22.41.10.excalidraw.md",
+    "Drawing 2023-08-22 21.30.28.excalidraw.md",
+    "Untitled.md",
+    "Pasted image 20230822103941.png",
+    "My Kanban.md",
+    "intro.md",
+    "Xassets/docusaurus-asset-example-banner.png.md",
+    "Aws/StepFunctions/Introduction.mdx",
+    "Aws/ Region Selection Criteria.md",
+    "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw.md",
     "Aws/StepFunctions/TestFile.png",
     "Aws/Introduction.mdx",
     "Aws/StepFunctions/Basics",
     "Aws/StepFunctions/StepFunctions-Basics/Basics.mdx",
     "Aws/StepFunctions/StepFunctions-Basics/test.mdx",
     "Aws/StepFunctions/StepFunctions-Basics",
-    "Aws/StepFunctions/MyNotes/MyNotes.mdx",
-    "Aws/StepFunctions/MyNotes",
-    "Aws/MyNotes/MyNotes.mdx",
     "Aws/StepFunctions/te.png",
     "Aws/StepFunctions Basics/Drawing 2023-08-22 13.35.29.excalidraw.md",
-    "Aws/te.png",
-    "Aws/StepFunctions Basics/te.png",
     "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md",
-    "My Kanban.md",
-    "Aws/ Region Selection Criteria.md",
-    "about.md",
     "Aws/StepFunctions Basics/Introduction.md",
     "Aws/StepFunctions Basics/Drawing.excalidraw.md",
-    "Aws/StepFunctions Basics/Image.png",
-    "Xassets/docusaurus-asset-example-banner.png.md",
     "assets/docusaurus-asset-example-banner.png.md",
-    "index.md",
-    "excalibrain.md",
     "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw.md",
     "Aws/My AWS Approach.md",
     "Aws/IAM Roles.md",
     "Aws/IAM Policy.md",
     "Aws/IAM Identity Center.md",
     "Aws/IAM.md",
-    "Aws/Cloud Computing.md",
-    "Aws/AWSD.md",
-    "Aws/AWS World Wide Infrastructure.md",
-    "Aws/AWS Transit Gateway.md"
+    "Aws/Cloud Computing.md"
   ]
 }
