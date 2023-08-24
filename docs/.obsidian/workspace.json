@@ -23,14 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+                "file": "ManualTesting/Introduction.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6670bf3213b09d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ManualTesting/Testing Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94af85874794c2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ManualTesting/Testing Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+                "file": "ManualTesting/Testing Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+                "file": "ManualTesting/Testing Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx"
+                "file": "ManualTesting/Testing Types.md"
               }
             }
           }
@@ -158,11 +182,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fab5548680f4cef",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
-    "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
-    "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+    "ManualTesting/Introduction.mdx",
+    "TestingTypes.png",
     "Pasted image 20230823171612.png",
+    "ManualTesting/Testing Types.md",
+    "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw.md",
+    "Skills/My Skills.md",
+    "Skills",
+    "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+    "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
     "Aws/StepFunctions/StepFunctionsexcalidraw.md",
     "Aws/StepFunctions/Introduction.mdx",
     "Aws/StepFunctions/Basics/Terminology.mdx",
@@ -183,17 +213,12 @@
     "excalibrain.md",
     "Drawing 2023-08-22 22.41.10.excalidraw.md",
     "Drawing 2023-08-22 21.30.28.excalidraw.md",
-    "Untitled.md",
     "Pasted image 20230822103941.png",
     "My Kanban.md",
     "intro.md",
     "Xassets/docusaurus-asset-example-banner.png.md",
     "Aws/ Region Selection Criteria.md",
     "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw.md",
-    "Aws/StepFunctions/TestFile.png",
-    "Aws/Introduction.mdx",
-    "Aws/StepFunctions/Basics",
-    "Aws/StepFunctions/StepFunctions-Basics/Basics.mdx",
     "Aws/StepFunctions Basics/Drawing 2023-08-22 13.35.29.excalidraw.md",
     "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md",
     "Aws/StepFunctions Basics/Introduction.md",
@@ -203,8 +228,6 @@
     "Aws/My AWS Approach.md",
     "Aws/IAM Roles.md",
     "Aws/IAM Policy.md",
-    "Aws/IAM Identity Center.md",
-    "Aws/IAM.md",
-    "Aws/Cloud Computing.md"
+    "Aws/IAM Identity Center.md"
   ]
 }
