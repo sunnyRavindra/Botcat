@@ -40,6 +40,9 @@ const sidebars = {
     'ManualTesting/Introduction',
   ],
 
+  ApiTestingSidebar: [
+    'ManualTesting/Introduction',
+  ],
   SeleniumSidebar: [
     'Selenium/Introduction',
   ],

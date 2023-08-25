@@ -1,1 +1,0 @@
-![TestingTypes.png](TestingTypes.png)

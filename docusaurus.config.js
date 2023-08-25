@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'QAOPS',
+  title: 'Sunny Ravindra',
   tagline: 'Devops approach for Automation Test Engirneers',
   favicon: 'img/Logo.svg',
 
@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'QAOPS', // Usually your GitHub org/user name.
-  projectName: 'QAOPS', // Usually your repo name.
+  organizationName: 'Sunny Ravindra', // Usually your GitHub org/user name.
+  projectName: 'Sunny Ravindra', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,60 +70,61 @@ const config = {
         },
       },
       navbar: {
-        title: 'Q A O P S',
+        title: 'Sunny Ravindra',
         hideOnScroll: true,
         logo: {
           alt: 'QAOPS Logo',
           src: 'img/Logo.svg',
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'StepFunctionsSidebar',
+          //   position: 'left',
+          //   label: 'Step Functions',
+          // },
           {
             type: 'docSidebar',
-            sidebarId: 'StepFunctionsSidebar',
+            sidebarId: 'APITestingSidebar',
             position: 'left',
-            label: 'Step Functions',
+            label: 'API Testing',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'ManualTestingSidebar',
-            position: 'left',
-            label: 'Manual Testing',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'SeleniumSidebar',
-            position: 'left',
-            label: 'Selenium',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'LeetcodeSidebar',
-            position: 'left',
-            label: 'Leetcode',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'FinnishSidebar',
-            position: 'left',
-            label: 'Finnish',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'SeleniumSidebar',
+          //   position: 'left',
+          //   label: 'Selenium',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'LeetcodeSidebar',
+          //   position: 'left',
+          //   label: 'Leetcode',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'FinnishSidebar',
+          //   position: 'left',
+          //   label: 'Finnish',
+          // },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'awsSidebar',
           //   position: 'left',
           //   label: 'AWS',
           // },
+          {to: '/blog', label: 'QA RoadMap', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/facebook/sunnyravindra',
             label: 'GitHub',
             position: 'right',
           },
-          {
-            href: '/aboutme',
-            label: 'AboutMe',
-            position: 'right',
-          },
+          // {
+          //   href: '/aboutme',
+          //   label: 'AboutMe',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
