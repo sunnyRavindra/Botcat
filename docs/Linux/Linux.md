@@ -1,3 +1,0 @@
-- [[Chroot]]
-- [[Linux Namespaces]]
-
