@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+  "id": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+  "title": "ServiceIntegration",
+  "description": "1. Create and test the Lambda function",
+  "source": "@site/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+  "sourceDirName": "Aws/StepFunctions/CardProcessWorkflow",
+  "slug": "/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+  "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Create State Machine",
+    "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+  }
+}

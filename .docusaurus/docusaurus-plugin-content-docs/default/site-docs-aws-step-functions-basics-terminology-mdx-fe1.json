@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Aws/StepFunctions/Basics/Terminology",
+  "id": "Aws/StepFunctions/Basics/Terminology",
+  "title": "Terminology",
+  "description": "1.  Each step in the workflow is called a state.",
+  "source": "@site/docs/Aws/StepFunctions/Basics/Terminology.mdx",
+  "sourceDirName": "Aws/StepFunctions/Basics",
+  "slug": "/Aws/StepFunctions/Basics/Terminology",
+  "permalink": "/docs/Aws/StepFunctions/Basics/Terminology",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Terminology",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Usecases",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Usecases"
+  },
+  "next": {
+    "title": "Create State Machine",
+    "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+  }
+}

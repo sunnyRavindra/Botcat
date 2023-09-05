@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Bash Script/Passing Parameters In Bash",
+  "id": "Linux/Bash Script/Passing Parameters In Bash",
+  "title": "Passing Parameters In Bash",
+  "description": "In Bash scripts, you can pass parameters to the script when executing it from the command line. These parameters are accessed within the script using special variables. The most common variables used for parameter passing are $1, $2, $3, and so on, which represent the first, second, third, and subsequent parameters, respectively. Here's an example:",
+  "source": "@site/docs/Linux/Bash Script/Passing Parameters In Bash.md",
+  "sourceDirName": "Linux/Bash Script",
+  "slug": "/Linux/Bash Script/Passing Parameters In Bash",
+  "permalink": "/docs/Linux/Bash Script/Passing Parameters In Bash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

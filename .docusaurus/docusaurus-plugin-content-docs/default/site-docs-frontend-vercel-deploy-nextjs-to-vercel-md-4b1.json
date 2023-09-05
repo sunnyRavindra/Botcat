@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Vercel/Deploy Nextjs to Vercel",
+  "id": "Frontend/Vercel/Deploy Nextjs to Vercel",
+  "title": "Deploy Nextjs to Vercel",
+  "description": "1. Login to Vercel.",
+  "source": "@site/docs/Frontend/Vercel/Deploy Nextjs to Vercel.md",
+  "sourceDirName": "Frontend/Vercel",
+  "slug": "/Frontend/Vercel/Deploy Nextjs to Vercel",
+  "permalink": "/docs/Frontend/Vercel/Deploy Nextjs to Vercel",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

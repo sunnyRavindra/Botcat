@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Aws/StepFunctions/Basics/Workflows",
+  "id": "Aws/StepFunctions/Basics/Workflows",
+  "title": "Workflows",
+  "description": "1. Standard",
+  "source": "@site/docs/Aws/StepFunctions/Basics/Workflows.mdx",
+  "sourceDirName": "Aws/StepFunctions/Basics",
+  "slug": "/Aws/StepFunctions/Basics/Workflows",
+  "permalink": "/docs/Aws/StepFunctions/Basics/Workflows",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Workflows",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/docs/Aws/StepFunctions/Basics/"
+  },
+  "next": {
+    "title": "Usecases",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Usecases"
+  }
+}

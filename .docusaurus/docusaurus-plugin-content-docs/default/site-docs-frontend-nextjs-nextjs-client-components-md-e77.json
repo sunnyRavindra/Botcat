@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Nextjs Client Components",
+  "id": "Frontend/Nextjs/Nextjs Client Components",
+  "title": "Nextjs Client Components",
+  "description": "1. Regular React components in Next.js.",
+  "source": "@site/docs/Frontend/Nextjs/Nextjs Client Components.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Nextjs Client Components",
+  "permalink": "/docs/Frontend/Nextjs/Nextjs Client Components",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

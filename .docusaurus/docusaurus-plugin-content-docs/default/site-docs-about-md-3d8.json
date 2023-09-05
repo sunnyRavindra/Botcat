@@ -1,0 +1,14 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "DevOps Applications Automation Team Lead",
+  "description": "Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

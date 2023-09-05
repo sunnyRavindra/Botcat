@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git add except __",
+  "id": "Devops/Git/Git add except __",
+  "title": "Git add except __",
+  "description": "To add all files in a Git repository except for a few specific files, you can use the following command:",
+  "source": "@site/docs/Devops/Git/Git add except __.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git add except __",
+  "permalink": "/docs/Devops/Git/Git add except __",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

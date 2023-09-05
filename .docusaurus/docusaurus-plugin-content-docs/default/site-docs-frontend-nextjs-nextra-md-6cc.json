@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Nextra",
+  "id": "Frontend/Nextjs/Nextra",
+  "title": "Nextra",
+  "description": "shttps://nextra.site/",
+  "source": "@site/docs/Frontend/Nextjs/Nextra.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Nextra",
+  "permalink": "/docs/Frontend/Nextjs/Nextra",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

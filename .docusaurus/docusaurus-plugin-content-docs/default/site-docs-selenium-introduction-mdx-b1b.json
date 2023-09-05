@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Selenium/Introduction",
+  "id": "Selenium/Introduction",
+  "title": "Introduction",
+  "description": "INtroduction To manual testing",
+  "source": "@site/docs/Selenium/Introduction.mdx",
+  "sourceDirName": "Selenium",
+  "slug": "/Selenium/Introduction",
+  "permalink": "/docs/Selenium/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "SeleniumSidebar"
+}

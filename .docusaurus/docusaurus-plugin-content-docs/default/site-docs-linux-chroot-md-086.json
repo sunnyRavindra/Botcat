@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Chroot",
+  "id": "Linux/Chroot",
+  "title": "Chroot",
+  "description": "chroot is a command in Unix-like operating systems that allows you to change the root directory for a specific process or set of processes, creating a new environment isolated from the rest of the system.",
+  "source": "@site/docs/Linux/Chroot.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/Chroot",
+  "permalink": "/docs/Linux/Chroot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

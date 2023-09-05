@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Bash Script/Bash",
+  "id": "Linux/Bash Script/Bash",
+  "title": "Bash",
+  "description": "[[Bash vs Sh]]",
+  "source": "@site/docs/Linux/Bash Script/Bash.md",
+  "sourceDirName": "Linux/Bash Script",
+  "slug": "/Linux/Bash Script/Bash",
+  "permalink": "/docs/Linux/Bash Script/Bash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

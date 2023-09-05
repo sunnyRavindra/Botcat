@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Commits list",
+  "id": "Devops/Git/Git Commits list",
+  "title": "Git Commits list",
+  "description": "To check all the Git commits in a repository, you can use the git log command. It provides a detailed history of commits, showing information such as commit hashes, authors, dates, and commit messages. Here are some commonly used options with git log:",
+  "source": "@site/docs/Devops/Git/Git Commits list.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Commits list",
+  "permalink": "/docs/Devops/Git/Git Commits list",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

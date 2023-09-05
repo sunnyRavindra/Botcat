@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Aws/StepFunctions/Basics/Basics",
+  "id": "Aws/StepFunctions/Basics/Basics",
+  "title": "Basics",
+  "description": "1. Please have a look at the AWS Reference .",
+  "source": "@site/docs/Aws/StepFunctions/Basics/Basics.mdx",
+  "sourceDirName": "Aws/StepFunctions/Basics",
+  "slug": "/Aws/StepFunctions/Basics/",
+  "permalink": "/docs/Aws/StepFunctions/Basics/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Basics",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Aws/StepFunctions/Introduction"
+  },
+  "next": {
+    "title": "Workflows",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Workflows"
+  }
+}

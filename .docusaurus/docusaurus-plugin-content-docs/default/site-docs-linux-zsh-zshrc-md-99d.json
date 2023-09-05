@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/zsh/zshrc",
+  "id": "Linux/zsh/zshrc",
+  "title": "zshrc",
+  "description": "To pass parameters to a custom command defined in your .zshrc file, you can modify the function to accept arguments and then call it with the desired parameters. Here's an example:",
+  "source": "@site/docs/Linux/zsh/zshrc.md",
+  "sourceDirName": "Linux/zsh",
+  "slug": "/Linux/zsh/zshrc",
+  "permalink": "/docs/Linux/zsh/zshrc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

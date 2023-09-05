@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Frontend Concepts/ES modules",
+  "id": "Frontend/Frontend Concepts/ES modules",
+  "title": "ES modules",
+  "description": "- Prior to the introduction of ES modules, developers relied on other mechanisms like CommonJS or AMD (Asynchronous Module Definition) to modularize their JavaScript code. These mechanisms required the use of additional tools and bundlers to combine and package the modules for the browser.",
+  "source": "@site/docs/Frontend/Frontend Concepts/ES modules.md",
+  "sourceDirName": "Frontend/Frontend Concepts",
+  "slug": "/Frontend/Frontend Concepts/ES modules",
+  "permalink": "/docs/Frontend/Frontend Concepts/ES modules",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Work in Progress/Elastic Search",
+  "id": "Work in Progress/Elastic Search",
+  "title": "Elastic Search",
+  "description": "https://www.elastic.co/what-is/elasticsearch",
+  "source": "@site/docs/Work in Progress/Elastic Search.md",
+  "sourceDirName": "Work in Progress",
+  "slug": "/Work in Progress/Elastic Search",
+  "permalink": "/docs/Work in Progress/Elastic Search",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

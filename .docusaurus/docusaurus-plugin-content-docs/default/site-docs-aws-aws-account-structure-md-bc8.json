@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/AWS Account Structure",
+  "id": "Aws/AWS Account Structure",
+  "title": "AWS Account Structure",
+  "description": "- Create a Root account.",
+  "source": "@site/docs/Aws/AWS Account Structure.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/AWS Account Structure",
+  "permalink": "/docs/Aws/AWS Account Structure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

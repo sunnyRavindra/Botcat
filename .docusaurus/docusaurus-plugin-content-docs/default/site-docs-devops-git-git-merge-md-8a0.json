@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git merge",
+  "id": "Devops/Git/Git merge",
+  "title": "Git merge",
+  "description": "- Merge is a Git operation that combines the changes from different branches into one branch, creating a new commit that represents the merge result.",
+  "source": "@site/docs/Devops/Git/Git merge.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git merge",
+  "permalink": "/docs/Devops/Git/Git merge",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

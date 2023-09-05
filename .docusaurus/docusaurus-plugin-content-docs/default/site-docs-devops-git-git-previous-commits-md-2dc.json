@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Previous Commits",
+  "id": "Devops/Git/Git Previous Commits",
+  "title": "Git Previous Commits",
+  "description": "To check how your Git directory looked like and what files were present in previous commits, you can use the git log command in combination with the --name-only option. Here's how you can do it:",
+  "source": "@site/docs/Devops/Git/Git Previous Commits.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Previous Commits",
+  "permalink": "/docs/Devops/Git/Git Previous Commits",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

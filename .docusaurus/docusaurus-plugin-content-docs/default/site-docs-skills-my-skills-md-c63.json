@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Skills/My Skills",
+  "id": "Skills/My Skills",
+  "title": "My Skills",
+  "description": "In my role as a test automation software engineer, I have developed a range of skills and qualities that contribute to my effectiveness in software testing. These attributes enable me to collaborate seamlessly with development teams and ensure the quality of software products. Here's a look at my key skills and qualities:",
+  "source": "@site/docs/Skills/My Skills.md",
+  "sourceDirName": "Skills",
+  "slug": "/Skills/My Skills",
+  "permalink": "/docs/Skills/My Skills",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Introduction",
+  "id": "Automation/Introduction",
+  "title": "Introduction",
+  "description": "this is the Introduction file",
+  "source": "@site/docs/Automation/Introduction.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/Introduction",
+  "permalink": "/docs/Automation/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

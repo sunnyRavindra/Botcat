@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Docker/DockerFiles/Docker Ignore file",
+  "id": "Devops/Docker/DockerFiles/Docker Ignore file",
+  "title": "Docker Ignore file",
+  "description": "Step-by-step guide to creating a .dockerignore file:",
+  "source": "@site/docs/Devops/Docker/DockerFiles/Docker Ignore file.md",
+  "sourceDirName": "Devops/Docker/DockerFiles",
+  "slug": "/Devops/Docker/DockerFiles/Docker Ignore file",
+  "permalink": "/docs/Devops/Docker/DockerFiles/Docker Ignore file",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

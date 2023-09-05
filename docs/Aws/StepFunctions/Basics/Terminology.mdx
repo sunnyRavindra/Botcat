@@ -1,0 +1,33 @@
+---
+title: Terminology
+author: Sunny Ravindra
+---
+1.  Each step in the workflow is called a state. 
+2.  Different Types of states - ->> Task, Choice, Parallel, and Map, to define your workflows. Within Task states.
+
+### Workflow 	
+Describes a sequence of steps and often matches a business process.
+
+### Workflow Studio 	
+A visual workflow designer that helps you to prototype and build workflows faster. 
+### States 	
+Individual steps in your state machine, which perform a variety of functions in the state machine. 
+### State machines 	
+A workflow defined using JSON text representing the individual states or steps in the workflow along with fields, such as StartAt, TimeoutSeconds, and Version.
+
+### Amazon States Language 	
+A JSON-based, structured language used to define your state machine. It's a collection of states that can do work (Task state), determine which states to transition to next (Choice state), and stop an execution with an error (Fail state).
+
+### Input and output configuration 	
+Individual states in a workflow receive JSON data as input and usually pass JSON data as output to the next state. Step Functions provides multiple filters to control the input and output data flow between states. 
+
+### Service integration 	
+Step Functions directly integrates with AWS services, letting you call each service's API actions from your workflow. 
+
+### Service integration type 	
+
+Step Functions provides the following service integration types:
+
+    Optimized integrations – Customized by Step Functions to provide special functionality for a workflow. For example, Lambda Invoke will convert its API output from an escaped JSON string to a JSON object.
+
+    AWS SDK integrations – Behaves exactly like a standard API call using the AWS SDK. You can call any of the over two hundred AWS services directly from your state machine and access over nine thousand API actions.

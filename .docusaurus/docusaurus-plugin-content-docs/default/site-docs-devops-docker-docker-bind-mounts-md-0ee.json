@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Docker/Docker Bind Mounts",
+  "id": "Devops/Docker/Docker Bind Mounts",
+  "title": "Docker Bind Mounts",
+  "description": "",
+  "source": "@site/docs/Devops/Docker/Docker Bind Mounts.md",
+  "sourceDirName": "Devops/Docker",
+  "slug": "/Devops/Docker/Docker Bind Mounts",
+  "permalink": "/docs/Devops/Docker/Docker Bind Mounts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "IDE/Emacs/Emacs",
+  "id": "IDE/Emacs/Emacs",
+  "title": "Emacs",
+  "description": "To install the changes you made to your Doom Emacs configuration, you need to recompile and refresh your configuration. Follow these steps:",
+  "source": "@site/docs/IDE/Emacs/Emacs.md",
+  "sourceDirName": "IDE/Emacs",
+  "slug": "/IDE/Emacs/",
+  "permalink": "/docs/IDE/Emacs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

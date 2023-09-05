@@ -1,0 +1,1 @@
+- [ENV variables should not be used in Docker.](https://blog.diogomonica.com//2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)

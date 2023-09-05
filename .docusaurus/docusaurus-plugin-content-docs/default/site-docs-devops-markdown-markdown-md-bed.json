@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Markdown/Markdown",
+  "id": "Devops/Markdown/Markdown",
+  "title": "Markdown",
+  "description": "1. Lightweight Markup Language: Markdown is a lightweight markup language that uses plain text formatting to create structured documents without the need for complex HTML or formatting syntax.",
+  "source": "@site/docs/Devops/Markdown/Markdown.md",
+  "sourceDirName": "Devops/Markdown",
+  "slug": "/Devops/Markdown/",
+  "permalink": "/docs/Devops/Markdown/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

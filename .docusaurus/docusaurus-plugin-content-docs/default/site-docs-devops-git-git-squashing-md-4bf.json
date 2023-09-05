@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Squashing",
+  "id": "Devops/Git/Git Squashing",
+  "title": "Git Squashing",
+  "description": "it is possible to rewrite Git history and merge multiple commits into a single commit. This process is commonly known as \"squashing\" commits. Here's how you can do it:",
+  "source": "@site/docs/Devops/Git/Git Squashing.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Squashing",
+  "permalink": "/docs/Devops/Git/Git Squashing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

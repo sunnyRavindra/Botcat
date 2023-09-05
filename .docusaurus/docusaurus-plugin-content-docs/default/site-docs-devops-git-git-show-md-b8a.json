@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Show",
+  "id": "Devops/Git/Git Show",
+  "title": "Git Show",
+  "description": "To check the previous version of a specific file in your Git repository, you can use the git show command followed by the commit hash or branch name and the path to the file. Here's the syntax:",
+  "source": "@site/docs/Devops/Git/Git Show.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Show",
+  "permalink": "/docs/Devops/Git/Git Show",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

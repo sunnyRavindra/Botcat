@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Bash Script/Bash Commands",
+  "id": "Linux/Bash Script/Bash Commands",
+  "title": "Bash Commands",
+  "description": "- Gets the parent folder name.",
+  "source": "@site/docs/Linux/Bash Script/Bash Commands.md",
+  "sourceDirName": "Linux/Bash Script",
+  "slug": "/Linux/Bash Script/Bash Commands",
+  "permalink": "/docs/Linux/Bash Script/Bash Commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

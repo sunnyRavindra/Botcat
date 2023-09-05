@@ -1,0 +1,14 @@
+{
+  "unversionedId": "assets/docusaurus-asset-example-banner.png",
+  "id": "assets/docusaurus-asset-example-banner.png",
+  "title": "docusaurus-asset-example-banner.png",
+  "description": "",
+  "source": "@site/docs/assets/docusaurus-asset-example-banner.png.md",
+  "sourceDirName": "assets",
+  "slug": "/assets/docusaurus-asset-example-banner.png",
+  "permalink": "/docs/assets/docusaurus-asset-example-banner.png",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

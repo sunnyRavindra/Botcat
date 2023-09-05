@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/IAM",
+  "id": "Aws/IAM",
+  "title": "IAM",
+  "description": "- Manages the users login access.",
+  "source": "@site/docs/Aws/IAM.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/IAM",
+  "permalink": "/docs/Aws/IAM",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

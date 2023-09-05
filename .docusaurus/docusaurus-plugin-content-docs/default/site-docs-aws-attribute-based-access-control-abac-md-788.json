@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/Attribute-based access control (ABAC)",
+  "id": "Aws/Attribute-based access control (ABAC)",
+  "title": "Attribute-based access control (ABAC)",
+  "description": "",
+  "source": "@site/docs/Aws/Attribute-based access control (ABAC).md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/Attribute-based access control (ABAC)",
+  "permalink": "/docs/Aws/Attribute-based access control (ABAC)",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

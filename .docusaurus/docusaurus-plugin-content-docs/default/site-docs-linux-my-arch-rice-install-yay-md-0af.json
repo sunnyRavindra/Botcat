@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/My Arch Rice/Install Yay",
+  "id": "Linux/My Arch Rice/Install Yay",
+  "title": "Install Yay",
+  "description": "To install yay on Arch Linux, you can follow these steps:",
+  "source": "@site/docs/Linux/My Arch Rice/Install Yay.md",
+  "sourceDirName": "Linux/My Arch Rice",
+  "slug": "/Linux/My Arch Rice/Install Yay",
+  "permalink": "/docs/Linux/My Arch Rice/Install Yay",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

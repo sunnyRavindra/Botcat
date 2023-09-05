@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/IAM Policy",
+  "id": "Aws/IAM Policy",
+  "title": "IAM Policy",
+  "description": "- Trust policy – Defines which principals can assume the role, and under which conditions. A trust policy is a specific type of resource-based policy for IAM roles. A role can have only one trust policy.",
+  "source": "@site/docs/Aws/IAM Policy.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/IAM Policy",
+  "permalink": "/docs/Aws/IAM Policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

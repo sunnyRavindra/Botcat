@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Obsidian/Obsidian",
+  "id": "Obsidian/Obsidian",
+  "title": "Obsidian",
+  "description": "- Obsidian is a note-taking app known for its flexibility and interconnectedness.",
+  "source": "@site/docs/Obsidian/Obsidian.md",
+  "sourceDirName": "Obsidian",
+  "slug": "/Obsidian/",
+  "permalink": "/docs/Obsidian/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

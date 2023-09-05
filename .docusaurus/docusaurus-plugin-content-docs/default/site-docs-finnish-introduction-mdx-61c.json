@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Finnish/Introduction",
+  "id": "Finnish/Introduction",
+  "title": "Introduction",
+  "description": "INtroduction To manual testing",
+  "source": "@site/docs/Finnish/Introduction.mdx",
+  "sourceDirName": "Finnish",
+  "slug": "/Finnish/Introduction",
+  "permalink": "/docs/Finnish/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "FinnishSidebar"
+}

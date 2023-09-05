@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git",
+  "id": "Devops/Git/Git",
+  "title": "Git",
+  "description": "To push your local project files to your GitHub repository, you can follow these steps:",
+  "source": "@site/docs/Devops/Git/Git.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/",
+  "permalink": "/docs/Devops/Git/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

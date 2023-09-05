@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/NpmIgnore file",
+  "id": "Frontend/Nextjs/NpmIgnore file",
+  "title": "NpmIgnore file",
+  "description": "There is a commonly used file named .npmignore, which serves a similar purpose to .gitignore. The .npmignore file tells npm which files and directories should be excluded when your package is published to the npm registry.",
+  "source": "@site/docs/Frontend/Nextjs/NpmIgnore file.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/NpmIgnore file",
+  "permalink": "/docs/Frontend/Nextjs/NpmIgnore file",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

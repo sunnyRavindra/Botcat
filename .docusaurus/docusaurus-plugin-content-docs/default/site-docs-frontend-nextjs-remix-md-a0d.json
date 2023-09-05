@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Remix",
+  "id": "Frontend/Nextjs/Remix",
+  "title": "Remix",
+  "description": "https://remix.run/",
+  "source": "@site/docs/Frontend/Nextjs/Remix.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Remix",
+  "permalink": "/docs/Frontend/Nextjs/Remix",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

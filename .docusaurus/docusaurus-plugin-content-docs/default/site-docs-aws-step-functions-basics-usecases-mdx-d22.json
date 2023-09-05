@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Aws/StepFunctions/Basics/Usecases",
+  "id": "Aws/StepFunctions/Basics/Usecases",
+  "title": "Usecases",
+  "description": "Function Orchestration",
+  "source": "@site/docs/Aws/StepFunctions/Basics/Usecases.mdx",
+  "sourceDirName": "Aws/StepFunctions/Basics",
+  "slug": "/Aws/StepFunctions/Basics/Usecases",
+  "permalink": "/docs/Aws/StepFunctions/Basics/Usecases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Usecases",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Workflows",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Workflows"
+  },
+  "next": {
+    "title": "Terminology",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Terminology"
+  }
+}

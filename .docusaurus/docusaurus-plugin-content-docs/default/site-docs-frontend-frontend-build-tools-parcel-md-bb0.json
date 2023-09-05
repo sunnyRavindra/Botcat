@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Frontend Build Tools/Parcel",
+  "id": "Frontend/Frontend Build Tools/Parcel",
+  "title": "Parcel",
+  "description": "[Parcel]https://parceljs.org/",
+  "source": "@site/docs/Frontend/Frontend Build Tools/Parcel.md",
+  "sourceDirName": "Frontend/Frontend Build Tools",
+  "slug": "/Frontend/Frontend Build Tools/Parcel",
+  "permalink": "/docs/Frontend/Frontend Build Tools/Parcel",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

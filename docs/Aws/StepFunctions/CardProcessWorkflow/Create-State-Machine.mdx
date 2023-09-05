@@ -1,0 +1,26 @@
+---
+title: Create State Machine
+author: Sunny Ravindra
+---
+
+1.  Open the Step Functions console and choose Create state machine.
+2. On the Choose authoring method page, keep the default selections of Design your workflow visually and Standard, and then choose Next.
+3. In Workflow Studio, from the Actions tab, drag an AWS Lambda Invoke API action and drop it to the empty state labelled Drag first state.
+4. In the Configuration tab, for State name, enter Get credit limit.
+5. From the Flow tab, drag and drop a Choice state below the Get credit limit state. Rename the Choice state to Credit applied >= 5000?.
+6. Drag and drop the following states as branches of the Credit applied >= 5000? state.
+7. Amazon SNS Publish – From the Actions tab, drag and drop the Amazon SNS Publish API action. Rename this state to Wait for human approval.
+8. Pass state — From the Flow tab, drag and drop the Pass state. Rename this branch to Auto-approve limit.
+9. Drag and drop a Pass state below the Wait for human approval state. Rename this Pass state to Credit limit approved.
+10. Drop the Parallel state after the Credit limit approved state.
+11. Rename the Parallel state to Verify applicant's identity and address.
+12. Under both the branches of the Parallel state, drag and drop two AWS Lambda Invoke API actions.
+13. Rename these states as Verify identity and Verify address respectively.
+14. Choose the Auto-approve limit state and for Next state, select Verify applicant's identity and address.
+15. Drag a DynamoDB Scan state and drop it below the Verify applicant's identity and address state. Rename the DynamoDB Scan state to Get list of credit bureaus.
+16. Drag and drop a Map state after the Get list of credit bureaus state.
+17. Rename Map to Get scores from all credit bureaus.
+18. For Processing mode, keep the default selection of Inline.
+19. Drag and drop an AWS Lambda Invoke API action to the empty state labelled Drop state here.
+20. Rename the AWS Lambda Invoke state to Get all scores.
+![[Pasted image 20230823171612.png]]

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "ManualTesting/Introduction",
+  "id": "ManualTesting/Introduction",
+  "title": "Introduction",
+  "description": "Software Testing",
+  "source": "@site/docs/ManualTesting/Introduction.mdx",
+  "sourceDirName": "ManualTesting",
+  "slug": "/ManualTesting/Introduction",
+  "permalink": "/docs/ManualTesting/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "ApiTestingSidebar"
+}

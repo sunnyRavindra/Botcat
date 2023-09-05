@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/My Arch Rice/Install Touch pad config",
+  "id": "Linux/My Arch Rice/Install Touch pad config",
+  "title": "Install Touch pad config",
+  "description": "If you're experiencing issues with the touchpad on Arch Linux running on a MacBook M1 with Asahi Linux, you can try the following steps to potentially fix the problem:",
+  "source": "@site/docs/Linux/My Arch Rice/Install Touch pad config.md",
+  "sourceDirName": "Linux/My Arch Rice",
+  "slug": "/Linux/My Arch Rice/Install Touch pad config",
+  "permalink": "/docs/Linux/My Arch Rice/Install Touch pad config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

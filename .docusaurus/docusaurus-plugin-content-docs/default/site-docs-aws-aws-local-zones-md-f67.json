@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/AWS Local Zones",
+  "id": "Aws/AWS Local Zones",
+  "title": "AWS Local Zones",
+  "description": "- Run applications that require single-digit millisecond latency or local data processing by bringing AWS infrastructure closer to your end users and business centers.",
+  "source": "@site/docs/Aws/AWS Local Zones.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/AWS Local Zones",
+  "permalink": "/docs/Aws/AWS Local Zones",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

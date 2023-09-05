@@ -1,0 +1,661 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/docs/about"
+            },
+            {
+              "id": "assets/docusaurus-asset-example-banner.png",
+              "path": "/docs/assets/docusaurus-asset-example-banner.png"
+            },
+            {
+              "id": "Automation/Automation",
+              "path": "/docs/Automation/"
+            },
+            {
+              "id": "Automation/Introduction",
+              "path": "/docs/Automation/Introduction"
+            },
+            {
+              "id": "Aws/ Region Selection Criteria",
+              "path": "/docs/Aws/ Region Selection Criteria"
+            },
+            {
+              "id": "Aws/Attribute-based access control (ABAC)",
+              "path": "/docs/Aws/Attribute-based access control (ABAC)"
+            },
+            {
+              "id": "Aws/AWS",
+              "path": "/docs/Aws/"
+            },
+            {
+              "id": "Aws/AWS Account Structure",
+              "path": "/docs/Aws/AWS Account Structure"
+            },
+            {
+              "id": "Aws/AWS Local Zones",
+              "path": "/docs/Aws/AWS Local Zones"
+            },
+            {
+              "id": "Aws/AWS Transit Gateway",
+              "path": "/docs/Aws/AWS Transit Gateway"
+            },
+            {
+              "id": "Aws/AWS World Wide Infrastructure",
+              "path": "/docs/Aws/AWS World Wide Infrastructure"
+            },
+            {
+              "id": "Aws/AWSD",
+              "path": "/docs/Aws/AWSD"
+            },
+            {
+              "id": "Aws/Cloud Computing",
+              "path": "/docs/Aws/Cloud Computing"
+            },
+            {
+              "id": "Aws/IAM",
+              "path": "/docs/Aws/IAM"
+            },
+            {
+              "id": "Aws/IAM Identity Center",
+              "path": "/docs/Aws/IAM Identity Center"
+            },
+            {
+              "id": "Aws/IAM Policy",
+              "path": "/docs/Aws/IAM Policy"
+            },
+            {
+              "id": "Aws/IAM Roles",
+              "path": "/docs/Aws/IAM Roles"
+            },
+            {
+              "id": "Aws/My AWS Approach",
+              "path": "/docs/Aws/My AWS Approach"
+            },
+            {
+              "id": "Aws/StepFunctions/Basics/Basics",
+              "path": "/docs/Aws/StepFunctions/Basics/",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/Basics/Terminology",
+              "path": "/docs/Aws/StepFunctions/Basics/Terminology",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/Basics/Usecases",
+              "path": "/docs/Aws/StepFunctions/Basics/Usecases",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/Basics/Workflows",
+              "path": "/docs/Aws/StepFunctions/Basics/Workflows",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "path": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "path": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/Introduction",
+              "path": "/docs/Aws/StepFunctions/Introduction",
+              "sidebar": "StepFunctionsSidebar"
+            },
+            {
+              "id": "Aws/StepFunctions/StepFunctionsexcalidraw",
+              "path": "/docs/Aws/StepFunctions/StepFunctionsexcalidraw"
+            },
+            {
+              "id": "Devops/Devops",
+              "path": "/docs/Devops/"
+            },
+            {
+              "id": "Devops/Docker Compose/Docker Compose",
+              "path": "/docs/Devops/Docker Compose/"
+            },
+            {
+              "id": "Devops/Docker/Build Docker Image",
+              "path": "/docs/Devops/Docker/Build Docker Image"
+            },
+            {
+              "id": "Devops/Docker/Docker",
+              "path": "/docs/Devops/Docker/"
+            },
+            {
+              "id": "Devops/Docker/Docker 1",
+              "path": "/docs/Devops/Docker/Docker 1"
+            },
+            {
+              "id": "Devops/Docker/Docker Basics",
+              "path": "/docs/Devops/Docker/Docker Basics"
+            },
+            {
+              "id": "Devops/Docker/Docker Bind Mounts",
+              "path": "/docs/Devops/Docker/Docker Bind Mounts"
+            },
+            {
+              "id": "Devops/Docker/Docker DevEnv Setup",
+              "path": "/docs/Devops/Docker/Docker DevEnv Setup"
+            },
+            {
+              "id": "Devops/Docker/Docker Layer Caching",
+              "path": "/docs/Devops/Docker/Docker Layer Caching"
+            },
+            {
+              "id": "Devops/Docker/Docker Multi Stage Build",
+              "path": "/docs/Devops/Docker/Docker Multi Stage Build"
+            },
+            {
+              "id": "Devops/Docker/Docker MySQL Application",
+              "path": "/docs/Devops/Docker/Docker MySQL Application"
+            },
+            {
+              "id": "Devops/Docker/Docker Networking",
+              "path": "/docs/Devops/Docker/Docker Networking"
+            },
+            {
+              "id": "Devops/Docker/Docker Nextjs Application",
+              "path": "/docs/Devops/Docker/Docker Nextjs Application"
+            },
+            {
+              "id": "Devops/Docker/Docker Nicolaka Netshoot",
+              "path": "/docs/Devops/Docker/Docker Nicolaka Netshoot"
+            },
+            {
+              "id": "Devops/Docker/Docker Secrets",
+              "path": "/docs/Devops/Docker/Docker Secrets"
+            },
+            {
+              "id": "Devops/Docker/Docker Volumes",
+              "path": "/docs/Devops/Docker/Docker Volumes"
+            },
+            {
+              "id": "Devops/Docker/DockerFiles/Docker Ignore file",
+              "path": "/docs/Devops/Docker/DockerFiles/Docker Ignore file"
+            },
+            {
+              "id": "Devops/Docker/DockerFiles/DockerFile",
+              "path": "/docs/Devops/Docker/DockerFiles/DockerFile"
+            },
+            {
+              "id": "Devops/Docker/DockerFiles/Nextjs Docker File",
+              "path": "/docs/Devops/Docker/DockerFiles/Nextjs Docker File"
+            },
+            {
+              "id": "Devops/Docker/DockerHub",
+              "path": "/docs/Devops/Docker/DockerHub"
+            },
+            {
+              "id": "Devops/Docker/My Used Docker Commands",
+              "path": "/docs/Devops/Docker/My Used Docker Commands"
+            },
+            {
+              "id": "Devops/Docker/Run Commonds Inside Container",
+              "path": "/docs/Devops/Docker/Run Commonds Inside Container"
+            },
+            {
+              "id": "Devops/Docker/Start Docker Container",
+              "path": "/docs/Devops/Docker/Start Docker Container"
+            },
+            {
+              "id": "Devops/Git/Git",
+              "path": "/docs/Devops/Git/"
+            },
+            {
+              "id": "Devops/Git/Git add except __",
+              "path": "/docs/Devops/Git/Git add except __"
+            },
+            {
+              "id": "Devops/Git/Git Commands",
+              "path": "/docs/Devops/Git/Git Commands"
+            },
+            {
+              "id": "Devops/Git/Git Commits list",
+              "path": "/docs/Devops/Git/Git Commits list"
+            },
+            {
+              "id": "Devops/Git/Git Divergent Branch",
+              "path": "/docs/Devops/Git/Git Divergent Branch"
+            },
+            {
+              "id": "Devops/Git/Git fast-forward",
+              "path": "/docs/Devops/Git/Git fast-forward"
+            },
+            {
+              "id": "Devops/Git/Git Ignore",
+              "path": "/docs/Devops/Git/Git Ignore"
+            },
+            {
+              "id": "Devops/Git/Git merge",
+              "path": "/docs/Devops/Git/Git merge"
+            },
+            {
+              "id": "Devops/Git/Git Previous Commits",
+              "path": "/docs/Devops/Git/Git Previous Commits"
+            },
+            {
+              "id": "Devops/Git/Git rebase",
+              "path": "/docs/Devops/Git/Git rebase"
+            },
+            {
+              "id": "Devops/Git/Git Remove Cache",
+              "path": "/docs/Devops/Git/Git Remove Cache"
+            },
+            {
+              "id": "Devops/Git/Git Show",
+              "path": "/docs/Devops/Git/Git Show"
+            },
+            {
+              "id": "Devops/Git/Git Squashing",
+              "path": "/docs/Devops/Git/Git Squashing"
+            },
+            {
+              "id": "Devops/Git/Git Unstage All Files",
+              "path": "/docs/Devops/Git/Git Unstage All Files"
+            },
+            {
+              "id": "Devops/Markdown/Markdown",
+              "path": "/docs/Devops/Markdown/"
+            },
+            {
+              "id": "Devops/Markdown/MDX",
+              "path": "/docs/Devops/Markdown/MDX"
+            },
+            {
+              "id": "Every Thing I Know/Everything I Know",
+              "path": "/docs/Every Thing I Know/Everything I Know"
+            },
+            {
+              "id": "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+              "path": "/docs/Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw"
+            },
+            {
+              "id": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+              "path": "/docs/Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw"
+            },
+            {
+              "id": "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+              "path": "/docs/Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw"
+            },
+            {
+              "id": "Excalidraw/QARoadMap.excalidraw",
+              "path": "/docs/Excalidraw/QARoadMap.excalidraw"
+            },
+            {
+              "id": "Excalidraw/Scripts/Downloaded/Elbow connectors",
+              "path": "/docs/Excalidraw/Scripts/Downloaded/Elbow connectors"
+            },
+            {
+              "id": "Finnish/Introduction",
+              "path": "/docs/Finnish/Introduction",
+              "sidebar": "FinnishSidebar"
+            },
+            {
+              "id": "Frontend/Frontend",
+              "path": "/docs/Frontend/"
+            },
+            {
+              "id": "Frontend/Frontend Build Tools/Parcel",
+              "path": "/docs/Frontend/Frontend Build Tools/Parcel"
+            },
+            {
+              "id": "Frontend/Frontend Build Tools/Rollup",
+              "path": "/docs/Frontend/Frontend Build Tools/Rollup"
+            },
+            {
+              "id": "Frontend/Frontend Build Tools/Vite",
+              "path": "/docs/Frontend/Frontend Build Tools/Vite"
+            },
+            {
+              "id": "Frontend/Frontend Build Tools/webpack",
+              "path": "/docs/Frontend/Frontend Build Tools/webpack"
+            },
+            {
+              "id": "Frontend/Frontend Concepts/ES modules",
+              "path": "/docs/Frontend/Frontend Concepts/ES modules"
+            },
+            {
+              "id": "Frontend/Frontend Extra Tools/Algolia",
+              "path": "/docs/Frontend/Frontend Extra Tools/Algolia"
+            },
+            {
+              "id": "Frontend/Frontend Extra Tools/Eslint",
+              "path": "/docs/Frontend/Frontend Extra Tools/Eslint"
+            },
+            {
+              "id": "Frontend/Frontend Extra Tools/Prettier",
+              "path": "/docs/Frontend/Frontend Extra Tools/Prettier"
+            },
+            {
+              "id": "Frontend/Nextjs/Client Components",
+              "path": "/docs/Frontend/Nextjs/Client Components"
+            },
+            {
+              "id": "Frontend/Nextjs/Create Nextjs App",
+              "path": "/docs/Frontend/Nextjs/Create Nextjs App"
+            },
+            {
+              "id": "Frontend/Nextjs/My Nextjs Approach",
+              "path": "/docs/Frontend/Nextjs/My Nextjs Approach"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs",
+              "path": "/docs/Frontend/Nextjs/"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Application Guide",
+              "path": "/docs/Frontend/Nextjs/Nextjs Application Guide"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Application Structure",
+              "path": "/docs/Frontend/Nextjs/Nextjs Application Structure"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Basic Concepts",
+              "path": "/docs/Frontend/Nextjs/Nextjs Basic Concepts"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Client Components",
+              "path": "/docs/Frontend/Nextjs/Nextjs Client Components"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Project Structure",
+              "path": "/docs/Frontend/Nextjs/Nextjs Project Structure"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Server Components",
+              "path": "/docs/Frontend/Nextjs/Nextjs Server Components"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+              "path": "/docs/Frontend/Nextjs/Nextjs Thinking in Server Components"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs to ghpages",
+              "path": "/docs/Frontend/Nextjs/Nextjs to ghpages"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextjs vs Remix",
+              "path": "/docs/Frontend/Nextjs/Nextjs vs Remix"
+            },
+            {
+              "id": "Frontend/Nextjs/Nextra",
+              "path": "/docs/Frontend/Nextjs/Nextra"
+            },
+            {
+              "id": "Frontend/Nextjs/NpmIgnore file",
+              "path": "/docs/Frontend/Nextjs/NpmIgnore file"
+            },
+            {
+              "id": "Frontend/Nextjs/Remix",
+              "path": "/docs/Frontend/Nextjs/Remix"
+            },
+            {
+              "id": "Frontend/Nextjs/Run Nextjs App",
+              "path": "/docs/Frontend/Nextjs/Run Nextjs App"
+            },
+            {
+              "id": "Frontend/Nextjs/Server Components",
+              "path": "/docs/Frontend/Nextjs/Server Components"
+            },
+            {
+              "id": "Frontend/React/My React Approach",
+              "path": "/docs/Frontend/React/My React Approach"
+            },
+            {
+              "id": "Frontend/React/React",
+              "path": "/docs/Frontend/React/"
+            },
+            {
+              "id": "Frontend/React/React Native",
+              "path": "/docs/Frontend/React/React Native"
+            },
+            {
+              "id": "Frontend/React/React Quick Start",
+              "path": "/docs/Frontend/React/React Quick Start"
+            },
+            {
+              "id": "Frontend/Vercel/Deploy Nextjs to Vercel",
+              "path": "/docs/Frontend/Vercel/Deploy Nextjs to Vercel"
+            },
+            {
+              "id": "Frontend/Vercel/Vercel Introuction",
+              "path": "/docs/Frontend/Vercel/Vercel Introuction"
+            },
+            {
+              "id": "IDE/Emacs/Emacs",
+              "path": "/docs/IDE/Emacs/"
+            },
+            {
+              "id": "index",
+              "path": "/docs/"
+            },
+            {
+              "id": "Language/Vocabulary/Vocabulary",
+              "path": "/docs/Language/Vocabulary/"
+            },
+            {
+              "id": "Leetcode/Introduction",
+              "path": "/docs/Leetcode/Introduction",
+              "sidebar": "LeetcodeSidebar"
+            },
+            {
+              "id": "Linux/Bash Script/Bash",
+              "path": "/docs/Linux/Bash Script/Bash"
+            },
+            {
+              "id": "Linux/Bash Script/Bash Commands",
+              "path": "/docs/Linux/Bash Script/Bash Commands"
+            },
+            {
+              "id": "Linux/Bash Script/Bash vs Sh",
+              "path": "/docs/Linux/Bash Script/Bash vs Sh"
+            },
+            {
+              "id": "Linux/Bash Script/Passing Parameters In Bash",
+              "path": "/docs/Linux/Bash Script/Passing Parameters In Bash"
+            },
+            {
+              "id": "Linux/Chroot",
+              "path": "/docs/Linux/Chroot"
+            },
+            {
+              "id": "Linux/Linux",
+              "path": "/docs/Linux/"
+            },
+            {
+              "id": "Linux/Linux Namespaces",
+              "path": "/docs/Linux/Linux Namespaces"
+            },
+            {
+              "id": "Linux/My Arch Rice/Asahi Linux Setup",
+              "path": "/docs/Linux/My Arch Rice/Asahi Linux Setup"
+            },
+            {
+              "id": "Linux/My Arch Rice/Install Docker on Arch Linux",
+              "path": "/docs/Linux/My Arch Rice/Install Docker on Arch Linux"
+            },
+            {
+              "id": "Linux/My Arch Rice/Install Touch pad config",
+              "path": "/docs/Linux/My Arch Rice/Install Touch pad config"
+            },
+            {
+              "id": "Linux/My Arch Rice/Install Yay",
+              "path": "/docs/Linux/My Arch Rice/Install Yay"
+            },
+            {
+              "id": "Linux/My Arch Rice/My Arch Rice",
+              "path": "/docs/Linux/My Arch Rice/"
+            },
+            {
+              "id": "Linux/zsh/Sub Shell Output",
+              "path": "/docs/Linux/zsh/Sub Shell Output"
+            },
+            {
+              "id": "Linux/zsh/zshrc",
+              "path": "/docs/Linux/zsh/zshrc"
+            },
+            {
+              "id": "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+              "path": "/docs/ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw"
+            },
+            {
+              "id": "ManualTesting/Introduction",
+              "path": "/docs/ManualTesting/Introduction",
+              "sidebar": "ApiTestingSidebar"
+            },
+            {
+              "id": "ManualTesting/Testing Types",
+              "path": "/docs/ManualTesting/Testing Types"
+            },
+            {
+              "id": "Mermaid/Mermaid",
+              "path": "/docs/Mermaid/"
+            },
+            {
+              "id": "My Certifications/Certified AWS Solutions Architect Professional",
+              "path": "/docs/My Certifications/Certified AWS Solutions Architect Professional"
+            },
+            {
+              "id": "My Certifications/My Certifications",
+              "path": "/docs/My Certifications/"
+            },
+            {
+              "id": "Obsidian/Obsidian",
+              "path": "/docs/Obsidian/"
+            },
+            {
+              "id": "Obsidian/Organizing notes in Obsidian",
+              "path": "/docs/Obsidian/Organizing notes in Obsidian"
+            },
+            {
+              "id": "Obsidian/Zettelkasten Approach",
+              "path": "/docs/Obsidian/Zettelkasten Approach"
+            },
+            {
+              "id": "Selenium/Introduction",
+              "path": "/docs/Selenium/Introduction",
+              "sidebar": "SeleniumSidebar"
+            },
+            {
+              "id": "Skills/My Skills",
+              "path": "/docs/Skills/My Skills"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+              "path": "/docs/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw"
+            },
+            {
+              "id": "Visual Personal Knowledge Management/Excalidraw",
+              "path": "/docs/Visual Personal Knowledge Management/Excalidraw"
+            },
+            {
+              "id": "Visual Personal Knowledge Management/MidJourney/MidJourney",
+              "path": "/docs/Visual Personal Knowledge Management/MidJourney/"
+            },
+            {
+              "id": "Work in Progress/Elastic Search",
+              "path": "/docs/Work in Progress/Elastic Search"
+            },
+            {
+              "id": "Work in Progress/Observibility",
+              "path": "/docs/Work in Progress/Observibility"
+            },
+            {
+              "id": "Xassets/docusaurus-asset-example-banner.png",
+              "path": "/docs/Xassets/docusaurus-asset-example-banner.png"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "StepFunctionsSidebar": {
+              "link": {
+                "path": "/docs/Aws/StepFunctions/Introduction",
+                "label": "Aws/StepFunctions/Introduction"
+              }
+            },
+            "ManualTestingSidebar": {
+              "link": {
+                "path": "/docs/ManualTesting/Introduction",
+                "label": "ManualTesting/Introduction"
+              }
+            },
+            "ApiTestingSidebar": {
+              "link": {
+                "path": "/docs/ManualTesting/Introduction",
+                "label": "ManualTesting/Introduction"
+              }
+            },
+            "SeleniumSidebar": {
+              "link": {
+                "path": "/docs/Selenium/Introduction",
+                "label": "Selenium/Introduction"
+              }
+            },
+            "LeetcodeSidebar": {
+              "link": {
+                "path": "/docs/Leetcode/Introduction",
+                "label": "Leetcode/Introduction"
+              }
+            },
+            "FinnishSidebar": {
+              "link": {
+                "path": "/docs/Finnish/Introduction",
+                "label": "Finnish/Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

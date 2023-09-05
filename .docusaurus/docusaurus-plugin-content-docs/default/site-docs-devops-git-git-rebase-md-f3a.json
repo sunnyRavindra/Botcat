@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git rebase",
+  "id": "Devops/Git/Git rebase",
+  "title": "Git rebase",
+  "description": "- Rebase is a Git operation that moves or reapplies commits from one branch onto another branch. It essentially modifies the commit history of the branch being rebased.",
+  "source": "@site/docs/Devops/Git/Git rebase.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git rebase",
+  "permalink": "/docs/Devops/Git/Git rebase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

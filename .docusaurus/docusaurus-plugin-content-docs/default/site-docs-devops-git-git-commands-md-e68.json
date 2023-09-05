@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Commands",
+  "id": "Devops/Git/Git Commands",
+  "title": "Git Commands",
+  "description": "[[Git Show]]",
+  "source": "@site/docs/Devops/Git/Git Commands.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Commands",
+  "permalink": "/docs/Devops/Git/Git Commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

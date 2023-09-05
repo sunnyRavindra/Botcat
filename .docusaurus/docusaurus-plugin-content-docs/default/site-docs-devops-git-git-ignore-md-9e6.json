@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Ignore",
+  "id": "Devops/Git/Git Ignore",
+  "title": "Git Ignore",
+  "description": "To use the Git ignore file, you can follow these steps:",
+  "source": "@site/docs/Devops/Git/Git Ignore.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Ignore",
+  "permalink": "/docs/Devops/Git/Git Ignore",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/My Arch Rice/Install Docker on Arch Linux",
+  "id": "Linux/My Arch Rice/Install Docker on Arch Linux",
+  "title": "Install Docker on Arch Linux",
+  "description": "To install Docker on Arch Linux, you can follow these steps:",
+  "source": "@site/docs/Linux/My Arch Rice/Install Docker on Arch Linux.md",
+  "sourceDirName": "Linux/My Arch Rice",
+  "slug": "/Linux/My Arch Rice/Install Docker on Arch Linux",
+  "permalink": "/docs/Linux/My Arch Rice/Install Docker on Arch Linux",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

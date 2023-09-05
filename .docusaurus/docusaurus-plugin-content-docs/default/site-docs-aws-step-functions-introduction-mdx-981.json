@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Aws/StepFunctions/Introduction",
+  "id": "Aws/StepFunctions/Introduction",
+  "title": "Introduction",
+  "description": "The Significance of AWS Step Functions",
+  "source": "@site/docs/Aws/StepFunctions/Introduction.mdx",
+  "sourceDirName": "Aws/StepFunctions",
+  "slug": "/Aws/StepFunctions/Introduction",
+  "permalink": "/docs/Aws/StepFunctions/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "next": {
+    "title": "Basics",
+    "permalink": "/docs/Aws/StepFunctions/Basics/"
+  }
+}

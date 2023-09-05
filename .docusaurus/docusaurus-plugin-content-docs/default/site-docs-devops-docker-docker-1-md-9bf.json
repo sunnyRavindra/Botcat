@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Devops/Docker/Docker 1",
+  "id": "Devops/Docker/Docker 1",
+  "title": "Docker 1",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/Devops/Docker/Docker 1.md",
+  "sourceDirName": "Devops/Docker",
+  "slug": "/Devops/Docker/Docker 1",
+  "permalink": "/docs/Devops/Docker/Docker 1",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/docs/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

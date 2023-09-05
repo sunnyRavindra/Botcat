@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Docker/Docker MySQL Application",
+  "id": "Devops/Docker/Docker MySQL Application",
+  "title": "Docker MySQL Application",
+  "description": "- Create docker network for the MYSQL container",
+  "source": "@site/docs/Devops/Docker/Docker MySQL Application.md",
+  "sourceDirName": "Devops/Docker",
+  "slug": "/Devops/Docker/Docker MySQL Application",
+  "permalink": "/docs/Devops/Docker/Docker MySQL Application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

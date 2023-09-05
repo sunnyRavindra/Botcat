@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Unstage All Files",
+  "id": "Devops/Git/Git Unstage All Files",
+  "title": "Git Unstage All Files",
+  "description": "To unstage all the staged files in Git, you can use the following command:",
+  "source": "@site/docs/Devops/Git/Git Unstage All Files.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Unstage All Files",
+  "permalink": "/docs/Devops/Git/Git Unstage All Files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

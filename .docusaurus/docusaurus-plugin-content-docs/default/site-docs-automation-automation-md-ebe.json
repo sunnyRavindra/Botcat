@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Automation",
+  "id": "Automation/Automation",
+  "title": "Automation",
+  "description": "THis is the Automation new details coming from daku",
+  "source": "@site/docs/Automation/Automation.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/",
+  "permalink": "/docs/Automation/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

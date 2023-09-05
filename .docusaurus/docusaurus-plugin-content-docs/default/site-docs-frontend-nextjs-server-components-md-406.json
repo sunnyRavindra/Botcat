@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Server Components",
+  "id": "Frontend/Nextjs/Server Components",
+  "title": "Server Components",
+  "description": "1. New feature in Next.js for dynamic server-rendered UI components.",
+  "source": "@site/docs/Frontend/Nextjs/Server Components.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Server Components",
+  "permalink": "/docs/Frontend/Nextjs/Server Components",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

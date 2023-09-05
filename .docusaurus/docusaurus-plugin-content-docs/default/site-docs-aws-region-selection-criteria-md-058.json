@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/ Region Selection Criteria",
+  "id": "Aws/ Region Selection Criteria",
+  "title": " Region Selection Criteria",
+  "description": "1. Latency",
+  "source": "@site/docs/Aws/ Region Selection Criteria.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/ Region Selection Criteria",
+  "permalink": "/docs/Aws/ Region Selection Criteria",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

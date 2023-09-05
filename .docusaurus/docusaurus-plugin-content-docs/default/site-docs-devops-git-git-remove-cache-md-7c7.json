@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Remove Cache",
+  "id": "Devops/Git/Git Remove Cache",
+  "title": "Git Remove Cache",
+  "description": "If your Git push is trying to commit nodemodules even though the nodemodules folder is not present in your Git repository, it may be due to the presence of the node_modules entry in the Git cache. To fix this issue, you can follow these steps:",
+  "source": "@site/docs/Devops/Git/Git Remove Cache.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Remove Cache",
+  "permalink": "/docs/Devops/Git/Git Remove Cache",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

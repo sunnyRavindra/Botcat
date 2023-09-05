@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/IAM Identity Center",
+  "id": "Aws/IAM Identity Center",
+  "title": "IAM Identity Center",
+  "description": "- Previously AWS Single Sign-On",
+  "source": "@site/docs/Aws/IAM Identity Center.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/IAM Identity Center",
+  "permalink": "/docs/Aws/IAM Identity Center",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

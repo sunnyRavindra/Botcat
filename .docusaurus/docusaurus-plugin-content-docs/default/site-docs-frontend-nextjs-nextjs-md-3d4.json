@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Nextjs",
+  "id": "Frontend/Nextjs/Nextjs",
+  "title": "Nextjs",
+  "description": "Nextjs Key Points",
+  "source": "@site/docs/Frontend/Nextjs/Nextjs.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/",
+  "permalink": "/docs/Frontend/Nextjs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

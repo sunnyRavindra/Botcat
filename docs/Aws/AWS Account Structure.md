@@ -1,0 +1,2 @@
+- Create a Root account.
+- Create an Administrative account IAM Identity center.

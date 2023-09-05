@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Docker Compose/Docker Compose",
+  "id": "Devops/Docker Compose/Docker Compose",
+  "title": "Docker Compose",
+  "description": "- Install Docker Compose",
+  "source": "@site/docs/Devops/Docker Compose/Docker Compose.md",
+  "sourceDirName": "Devops/Docker Compose",
+  "slug": "/Devops/Docker Compose/",
+  "permalink": "/docs/Devops/Docker Compose/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

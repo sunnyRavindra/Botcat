@@ -1,0 +1,14 @@
+{
+  "unversionedId": "My Certifications/My Certifications",
+  "id": "My Certifications/My Certifications",
+  "title": "My Certifications",
+  "description": "- Certified AWS Solutions Architect Associate",
+  "source": "@site/docs/My Certifications/My Certifications.md",
+  "sourceDirName": "My Certifications",
+  "slug": "/My Certifications/",
+  "permalink": "/docs/My Certifications/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

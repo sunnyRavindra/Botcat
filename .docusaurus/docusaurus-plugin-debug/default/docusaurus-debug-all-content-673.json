@@ -1,0 +1,2713 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/sunnybharne/code/SunnyRavindraPortfolio/sidebars.js",
+          "contentPath": "/Users/sunnybharne/code/SunnyRavindraPortfolio/docs",
+          "contentPathLocalized": "/Users/sunnybharne/code/SunnyRavindraPortfolio/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "about",
+              "id": "about",
+              "title": "DevOps Applications Automation Team Lead",
+              "description": "Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
+              "source": "@site/docs/about.md",
+              "sourceDirName": ".",
+              "slug": "/about",
+              "permalink": "/docs/about",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "assets/docusaurus-asset-example-banner.png",
+              "id": "assets/docusaurus-asset-example-banner.png",
+              "title": "docusaurus-asset-example-banner.png",
+              "description": "",
+              "source": "@site/docs/assets/docusaurus-asset-example-banner.png.md",
+              "sourceDirName": "assets",
+              "slug": "/assets/docusaurus-asset-example-banner.png",
+              "permalink": "/docs/assets/docusaurus-asset-example-banner.png",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Automation/Automation",
+              "id": "Automation/Automation",
+              "title": "Automation",
+              "description": "THis is the Automation new details coming from daku",
+              "source": "@site/docs/Automation/Automation.md",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/",
+              "permalink": "/docs/Automation/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Automation/Introduction",
+              "id": "Automation/Introduction",
+              "title": "Introduction",
+              "description": "this is the Introduction file",
+              "source": "@site/docs/Automation/Introduction.md",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/Introduction",
+              "permalink": "/docs/Automation/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/ Region Selection Criteria",
+              "id": "Aws/ Region Selection Criteria",
+              "title": " Region Selection Criteria",
+              "description": "1. Latency",
+              "source": "@site/docs/Aws/ Region Selection Criteria.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/ Region Selection Criteria",
+              "permalink": "/docs/Aws/ Region Selection Criteria",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/Attribute-based access control (ABAC)",
+              "id": "Aws/Attribute-based access control (ABAC)",
+              "title": "Attribute-based access control (ABAC)",
+              "description": "",
+              "source": "@site/docs/Aws/Attribute-based access control (ABAC).md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/Attribute-based access control (ABAC)",
+              "permalink": "/docs/Aws/Attribute-based access control (ABAC)",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWS",
+              "id": "Aws/AWS",
+              "title": "AWS",
+              "description": "- [[AWS World Wide Infrastructure]]",
+              "source": "@site/docs/Aws/AWS.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/",
+              "permalink": "/docs/Aws/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWS Account Structure",
+              "id": "Aws/AWS Account Structure",
+              "title": "AWS Account Structure",
+              "description": "- Create a Root account.",
+              "source": "@site/docs/Aws/AWS Account Structure.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/AWS Account Structure",
+              "permalink": "/docs/Aws/AWS Account Structure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWS Local Zones",
+              "id": "Aws/AWS Local Zones",
+              "title": "AWS Local Zones",
+              "description": "- Run applications that require single-digit millisecond latency or local data processing by bringing AWS infrastructure closer to your end users and business centers.",
+              "source": "@site/docs/Aws/AWS Local Zones.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/AWS Local Zones",
+              "permalink": "/docs/Aws/AWS Local Zones",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWS Transit Gateway",
+              "id": "Aws/AWS Transit Gateway",
+              "title": "AWS Transit Gateway",
+              "description": "1. Cross Region and Hybrid connections with Transit gateway",
+              "source": "@site/docs/Aws/AWS Transit Gateway.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/AWS Transit Gateway",
+              "permalink": "/docs/Aws/AWS Transit Gateway",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWS World Wide Infrastructure",
+              "id": "Aws/AWS World Wide Infrastructure",
+              "title": "AWS World Wide Infrastructure",
+              "description": "",
+              "source": "@site/docs/Aws/AWS World Wide Infrastructure.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/AWS World Wide Infrastructure",
+              "permalink": "/docs/Aws/AWS World Wide Infrastructure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/AWSD",
+              "id": "Aws/AWSD",
+              "title": "AWSD",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Aws/AWSD.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/AWSD",
+              "permalink": "/docs/Aws/AWSD",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Aws/Cloud Computing",
+              "id": "Aws/Cloud Computing",
+              "title": "Cloud Computing",
+              "description": "- Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).",
+              "source": "@site/docs/Aws/Cloud Computing.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/Cloud Computing",
+              "permalink": "/docs/Aws/Cloud Computing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/IAM",
+              "id": "Aws/IAM",
+              "title": "IAM",
+              "description": "- Manages the users login access.",
+              "source": "@site/docs/Aws/IAM.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/IAM",
+              "permalink": "/docs/Aws/IAM",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/IAM Identity Center",
+              "id": "Aws/IAM Identity Center",
+              "title": "IAM Identity Center",
+              "description": "- Previously AWS Single Sign-On",
+              "source": "@site/docs/Aws/IAM Identity Center.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/IAM Identity Center",
+              "permalink": "/docs/Aws/IAM Identity Center",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/IAM Policy",
+              "id": "Aws/IAM Policy",
+              "title": "IAM Policy",
+              "description": "- Trust policy – Defines which principals can assume the role, and under which conditions. A trust policy is a specific type of resource-based policy for IAM roles. A role can have only one trust policy.",
+              "source": "@site/docs/Aws/IAM Policy.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/IAM Policy",
+              "permalink": "/docs/Aws/IAM Policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/IAM Roles",
+              "id": "Aws/IAM Roles",
+              "title": "IAM Roles",
+              "description": "IAM Role",
+              "source": "@site/docs/Aws/IAM Roles.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/IAM Roles",
+              "permalink": "/docs/Aws/IAM Roles",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/My AWS Approach",
+              "id": "Aws/My AWS Approach",
+              "title": "My AWS Approach",
+              "description": "Design solutions for Organisational Complexities",
+              "source": "@site/docs/Aws/My AWS Approach.md",
+              "sourceDirName": "Aws",
+              "slug": "/Aws/My AWS Approach",
+              "permalink": "/docs/Aws/My AWS Approach",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/Basics/Basics",
+              "id": "Aws/StepFunctions/Basics/Basics",
+              "title": "Basics",
+              "description": "1. Please have a look at the AWS Reference .",
+              "source": "@site/docs/Aws/StepFunctions/Basics/Basics.mdx",
+              "sourceDirName": "Aws/StepFunctions/Basics",
+              "slug": "/Aws/StepFunctions/Basics/",
+              "permalink": "/docs/Aws/StepFunctions/Basics/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Basics",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/Aws/StepFunctions/Introduction"
+              },
+              "next": {
+                "title": "Workflows",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Workflows"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/Basics/Terminology",
+              "id": "Aws/StepFunctions/Basics/Terminology",
+              "title": "Terminology",
+              "description": "1.  Each step in the workflow is called a state.",
+              "source": "@site/docs/Aws/StepFunctions/Basics/Terminology.mdx",
+              "sourceDirName": "Aws/StepFunctions/Basics",
+              "slug": "/Aws/StepFunctions/Basics/Terminology",
+              "permalink": "/docs/Aws/StepFunctions/Basics/Terminology",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Terminology",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Usecases",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Usecases"
+              },
+              "next": {
+                "title": "Create State Machine",
+                "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/Basics/Usecases",
+              "id": "Aws/StepFunctions/Basics/Usecases",
+              "title": "Usecases",
+              "description": "Function Orchestration",
+              "source": "@site/docs/Aws/StepFunctions/Basics/Usecases.mdx",
+              "sourceDirName": "Aws/StepFunctions/Basics",
+              "slug": "/Aws/StepFunctions/Basics/Usecases",
+              "permalink": "/docs/Aws/StepFunctions/Basics/Usecases",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Usecases",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Workflows",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Workflows"
+              },
+              "next": {
+                "title": "Terminology",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Terminology"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/Basics/Workflows",
+              "id": "Aws/StepFunctions/Basics/Workflows",
+              "title": "Workflows",
+              "description": "1. Standard",
+              "source": "@site/docs/Aws/StepFunctions/Basics/Workflows.mdx",
+              "sourceDirName": "Aws/StepFunctions/Basics",
+              "slug": "/Aws/StepFunctions/Basics/Workflows",
+              "permalink": "/docs/Aws/StepFunctions/Basics/Workflows",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Workflows",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Basics",
+                "permalink": "/docs/Aws/StepFunctions/Basics/"
+              },
+              "next": {
+                "title": "Usecases",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Usecases"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "id": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "title": "Create State Machine",
+              "description": "1.  Open the Step Functions console and choose Create state machine.",
+              "source": "@site/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
+              "sourceDirName": "Aws/StepFunctions/CardProcessWorkflow",
+              "slug": "/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Create State Machine",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Terminology",
+                "permalink": "/docs/Aws/StepFunctions/Basics/Terminology"
+              },
+              "next": {
+                "title": "ServiceIntegration",
+                "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "id": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "title": "ServiceIntegration",
+              "description": "1. Create and test the Lambda function",
+              "source": "@site/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+              "sourceDirName": "Aws/StepFunctions/CardProcessWorkflow",
+              "slug": "/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "StepFunctionsSidebar",
+              "previous": {
+                "title": "Create State Machine",
+                "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/Introduction",
+              "id": "Aws/StepFunctions/Introduction",
+              "title": "Introduction",
+              "description": "The Significance of AWS Step Functions",
+              "source": "@site/docs/Aws/StepFunctions/Introduction.mdx",
+              "sourceDirName": "Aws/StepFunctions",
+              "slug": "/Aws/StepFunctions/Introduction",
+              "permalink": "/docs/Aws/StepFunctions/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Introduction",
+                "author": "Sunny Ravindra"
+              },
+              "sidebar": "StepFunctionsSidebar",
+              "next": {
+                "title": "Basics",
+                "permalink": "/docs/Aws/StepFunctions/Basics/"
+              }
+            },
+            {
+              "unversionedId": "Aws/StepFunctions/StepFunctionsexcalidraw",
+              "id": "Aws/StepFunctions/StepFunctionsexcalidraw",
+              "title": "StepFunctionsexcalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Aws/StepFunctions/StepFunctionsexcalidraw.md",
+              "sourceDirName": "Aws/StepFunctions",
+              "slug": "/Aws/StepFunctions/StepFunctionsexcalidraw",
+              "permalink": "/docs/Aws/StepFunctions/StepFunctionsexcalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Devops/Devops",
+              "id": "Devops/Devops",
+              "title": "Devops",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Devops/Devops.md",
+              "sourceDirName": "Devops",
+              "slug": "/Devops/",
+              "permalink": "/docs/Devops/",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Devops/Docker Compose/Docker Compose",
+              "id": "Devops/Docker Compose/Docker Compose",
+              "title": "Docker Compose",
+              "description": "- Install Docker Compose",
+              "source": "@site/docs/Devops/Docker Compose/Docker Compose.md",
+              "sourceDirName": "Devops/Docker Compose",
+              "slug": "/Devops/Docker Compose/",
+              "permalink": "/docs/Devops/Docker Compose/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Build Docker Image",
+              "id": "Devops/Docker/Build Docker Image",
+              "title": "Build Docker Image",
+              "description": "",
+              "source": "@site/docs/Devops/Docker/Build Docker Image.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Build Docker Image",
+              "permalink": "/docs/Devops/Docker/Build Docker Image",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker",
+              "id": "Devops/Docker/Docker",
+              "title": "Docker",
+              "description": "- [[Linux Namespaces]]",
+              "source": "@site/docs/Devops/Docker/Docker.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/",
+              "permalink": "/docs/Devops/Docker/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker 1",
+              "id": "Devops/Docker/Docker 1",
+              "title": "Docker 1",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Devops/Docker/Docker 1.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker 1",
+              "permalink": "/docs/Devops/Docker/Docker 1",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Basics",
+              "id": "Devops/Docker/Docker Basics",
+              "title": "Docker Basics",
+              "description": "[[Run Commonds Inside Container]]",
+              "source": "@site/docs/Devops/Docker/Docker Basics.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Basics",
+              "permalink": "/docs/Devops/Docker/Docker Basics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Bind Mounts",
+              "id": "Devops/Docker/Docker Bind Mounts",
+              "title": "Docker Bind Mounts",
+              "description": "",
+              "source": "@site/docs/Devops/Docker/Docker Bind Mounts.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Bind Mounts",
+              "permalink": "/docs/Devops/Docker/Docker Bind Mounts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker DevEnv Setup",
+              "id": "Devops/Docker/Docker DevEnv Setup",
+              "title": "Docker DevEnv Setup",
+              "description": "- I pory for all my git projects",
+              "source": "@site/docs/Devops/Docker/Docker DevEnv Setup.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker DevEnv Setup",
+              "permalink": "/docs/Devops/Docker/Docker DevEnv Setup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Layer Caching",
+              "id": "Devops/Docker/Docker Layer Caching",
+              "title": "Docker Layer Caching",
+              "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages.",
+              "source": "@site/docs/Devops/Docker/Docker Layer Caching.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Layer Caching",
+              "permalink": "/docs/Devops/Docker/Docker Layer Caching",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Multi Stage Build",
+              "id": "Devops/Docker/Docker Multi Stage Build",
+              "title": "Docker Multi Stage Build",
+              "description": "- Advantages",
+              "source": "@site/docs/Devops/Docker/Docker Multi Stage Build.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Multi Stage Build",
+              "permalink": "/docs/Devops/Docker/Docker Multi Stage Build",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker MySQL Application",
+              "id": "Devops/Docker/Docker MySQL Application",
+              "title": "Docker MySQL Application",
+              "description": "- Create docker network for the MYSQL container",
+              "source": "@site/docs/Devops/Docker/Docker MySQL Application.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker MySQL Application",
+              "permalink": "/docs/Devops/Docker/Docker MySQL Application",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Networking",
+              "id": "Devops/Docker/Docker Networking",
+              "title": "Docker Networking",
+              "description": "",
+              "source": "@site/docs/Devops/Docker/Docker Networking.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Networking",
+              "permalink": "/docs/Devops/Docker/Docker Networking",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Nextjs Application",
+              "id": "Devops/Docker/Docker Nextjs Application",
+              "title": "Docker Nextjs Application",
+              "description": "- [[Create Nextjs App]] in local.",
+              "source": "@site/docs/Devops/Docker/Docker Nextjs Application.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Nextjs Application",
+              "permalink": "/docs/Devops/Docker/Docker Nextjs Application",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Nicolaka Netshoot",
+              "id": "Devops/Docker/Docker Nicolaka Netshoot",
+              "title": "Docker Nicolaka Netshoot",
+              "description": "- Start a new container using the nicolaka/netshoot image.",
+              "source": "@site/docs/Devops/Docker/Docker Nicolaka Netshoot.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Nicolaka Netshoot",
+              "permalink": "/docs/Devops/Docker/Docker Nicolaka Netshoot",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Secrets",
+              "id": "Devops/Docker/Docker Secrets",
+              "title": "Docker Secrets",
+              "description": "- ENV variables should not be used in Docker.",
+              "source": "@site/docs/Devops/Docker/Docker Secrets.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Secrets",
+              "permalink": "/docs/Devops/Docker/Docker Secrets",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Docker Volumes",
+              "id": "Devops/Docker/Docker Volumes",
+              "title": "Docker Volumes",
+              "description": "- Create Volume.",
+              "source": "@site/docs/Devops/Docker/Docker Volumes.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Docker Volumes",
+              "permalink": "/docs/Devops/Docker/Docker Volumes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/DockerFiles/Docker Ignore file",
+              "id": "Devops/Docker/DockerFiles/Docker Ignore file",
+              "title": "Docker Ignore file",
+              "description": "Step-by-step guide to creating a .dockerignore file:",
+              "source": "@site/docs/Devops/Docker/DockerFiles/Docker Ignore file.md",
+              "sourceDirName": "Devops/Docker/DockerFiles",
+              "slug": "/Devops/Docker/DockerFiles/Docker Ignore file",
+              "permalink": "/docs/Devops/Docker/DockerFiles/Docker Ignore file",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/DockerFiles/DockerFile",
+              "id": "Devops/Docker/DockerFiles/DockerFile",
+              "title": "DockerFile",
+              "description": "- [[Nextjs Docker File]]",
+              "source": "@site/docs/Devops/Docker/DockerFiles/DockerFile.md",
+              "sourceDirName": "Devops/Docker/DockerFiles",
+              "slug": "/Devops/Docker/DockerFiles/DockerFile",
+              "permalink": "/docs/Devops/Docker/DockerFiles/DockerFile",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/DockerFiles/Nextjs Docker File",
+              "id": "Devops/Docker/DockerFiles/Nextjs Docker File",
+              "title": "Nextjs Docker File",
+              "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json.",
+              "source": "@site/docs/Devops/Docker/DockerFiles/Nextjs Docker File.md",
+              "sourceDirName": "Devops/Docker/DockerFiles",
+              "slug": "/Devops/Docker/DockerFiles/Nextjs Docker File",
+              "permalink": "/docs/Devops/Docker/DockerFiles/Nextjs Docker File",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/DockerHub",
+              "id": "Devops/Docker/DockerHub",
+              "title": "DockerHub",
+              "description": "- DockerHub is the official docker registry from docker where all the images are stored public or private.",
+              "source": "@site/docs/Devops/Docker/DockerHub.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/DockerHub",
+              "permalink": "/docs/Devops/Docker/DockerHub",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/My Used Docker Commands",
+              "id": "Devops/Docker/My Used Docker Commands",
+              "title": "My Used Docker Commands",
+              "description": "- Login",
+              "source": "@site/docs/Devops/Docker/My Used Docker Commands.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/My Used Docker Commands",
+              "permalink": "/docs/Devops/Docker/My Used Docker Commands",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Run Commonds Inside Container",
+              "id": "Devops/Docker/Run Commonds Inside Container",
+              "title": "Run Commonds Inside Container",
+              "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
+              "source": "@site/docs/Devops/Docker/Run Commonds Inside Container.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Run Commonds Inside Container",
+              "permalink": "/docs/Devops/Docker/Run Commonds Inside Container",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Docker/Start Docker Container",
+              "id": "Devops/Docker/Start Docker Container",
+              "title": "Start Docker Container",
+              "description": "",
+              "source": "@site/docs/Devops/Docker/Start Docker Container.md",
+              "sourceDirName": "Devops/Docker",
+              "slug": "/Devops/Docker/Start Docker Container",
+              "permalink": "/docs/Devops/Docker/Start Docker Container",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git",
+              "id": "Devops/Git/Git",
+              "title": "Git",
+              "description": "To push your local project files to your GitHub repository, you can follow these steps:",
+              "source": "@site/docs/Devops/Git/Git.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/",
+              "permalink": "/docs/Devops/Git/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git add except __",
+              "id": "Devops/Git/Git add except __",
+              "title": "Git add except __",
+              "description": "To add all files in a Git repository except for a few specific files, you can use the following command:",
+              "source": "@site/docs/Devops/Git/Git add except __.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git add except __",
+              "permalink": "/docs/Devops/Git/Git add except __",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Commands",
+              "id": "Devops/Git/Git Commands",
+              "title": "Git Commands",
+              "description": "[[Git Show]]",
+              "source": "@site/docs/Devops/Git/Git Commands.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Commands",
+              "permalink": "/docs/Devops/Git/Git Commands",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Commits list",
+              "id": "Devops/Git/Git Commits list",
+              "title": "Git Commits list",
+              "description": "To check all the Git commits in a repository, you can use the git log command. It provides a detailed history of commits, showing information such as commit hashes, authors, dates, and commit messages. Here are some commonly used options with git log:",
+              "source": "@site/docs/Devops/Git/Git Commits list.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Commits list",
+              "permalink": "/docs/Devops/Git/Git Commits list",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Divergent Branch",
+              "id": "Devops/Git/Git Divergent Branch",
+              "title": "Git Divergent Branch",
+              "description": "Divergent Git branches refer to branches that have diverged from each other. This means that the branches have separate and distinct commits that are not present in the other branch. In other words, both branches have progressed independently and have different sets of commits.",
+              "source": "@site/docs/Devops/Git/Git Divergent Branch.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Divergent Branch",
+              "permalink": "/docs/Devops/Git/Git Divergent Branch",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git fast-forward",
+              "id": "Devops/Git/Git fast-forward",
+              "title": "Git fast-forward",
+              "description": "- Fast-forward is a merging scenario where Git can directly move the branch pointer forward to incorporate the changes, without creating a new merge commit.",
+              "source": "@site/docs/Devops/Git/Git fast-forward.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git fast-forward",
+              "permalink": "/docs/Devops/Git/Git fast-forward",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Ignore",
+              "id": "Devops/Git/Git Ignore",
+              "title": "Git Ignore",
+              "description": "To use the Git ignore file, you can follow these steps:",
+              "source": "@site/docs/Devops/Git/Git Ignore.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Ignore",
+              "permalink": "/docs/Devops/Git/Git Ignore",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git merge",
+              "id": "Devops/Git/Git merge",
+              "title": "Git merge",
+              "description": "- Merge is a Git operation that combines the changes from different branches into one branch, creating a new commit that represents the merge result.",
+              "source": "@site/docs/Devops/Git/Git merge.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git merge",
+              "permalink": "/docs/Devops/Git/Git merge",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Previous Commits",
+              "id": "Devops/Git/Git Previous Commits",
+              "title": "Git Previous Commits",
+              "description": "To check how your Git directory looked like and what files were present in previous commits, you can use the git log command in combination with the --name-only option. Here's how you can do it:",
+              "source": "@site/docs/Devops/Git/Git Previous Commits.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Previous Commits",
+              "permalink": "/docs/Devops/Git/Git Previous Commits",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git rebase",
+              "id": "Devops/Git/Git rebase",
+              "title": "Git rebase",
+              "description": "- Rebase is a Git operation that moves or reapplies commits from one branch onto another branch. It essentially modifies the commit history of the branch being rebased.",
+              "source": "@site/docs/Devops/Git/Git rebase.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git rebase",
+              "permalink": "/docs/Devops/Git/Git rebase",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Remove Cache",
+              "id": "Devops/Git/Git Remove Cache",
+              "title": "Git Remove Cache",
+              "description": "If your Git push is trying to commit nodemodules even though the nodemodules folder is not present in your Git repository, it may be due to the presence of the node_modules entry in the Git cache. To fix this issue, you can follow these steps:",
+              "source": "@site/docs/Devops/Git/Git Remove Cache.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Remove Cache",
+              "permalink": "/docs/Devops/Git/Git Remove Cache",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Show",
+              "id": "Devops/Git/Git Show",
+              "title": "Git Show",
+              "description": "To check the previous version of a specific file in your Git repository, you can use the git show command followed by the commit hash or branch name and the path to the file. Here's the syntax:",
+              "source": "@site/docs/Devops/Git/Git Show.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Show",
+              "permalink": "/docs/Devops/Git/Git Show",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Squashing",
+              "id": "Devops/Git/Git Squashing",
+              "title": "Git Squashing",
+              "description": "it is possible to rewrite Git history and merge multiple commits into a single commit. This process is commonly known as \"squashing\" commits. Here's how you can do it:",
+              "source": "@site/docs/Devops/Git/Git Squashing.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Squashing",
+              "permalink": "/docs/Devops/Git/Git Squashing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Git/Git Unstage All Files",
+              "id": "Devops/Git/Git Unstage All Files",
+              "title": "Git Unstage All Files",
+              "description": "To unstage all the staged files in Git, you can use the following command:",
+              "source": "@site/docs/Devops/Git/Git Unstage All Files.md",
+              "sourceDirName": "Devops/Git",
+              "slug": "/Devops/Git/Git Unstage All Files",
+              "permalink": "/docs/Devops/Git/Git Unstage All Files",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Markdown/Markdown",
+              "id": "Devops/Markdown/Markdown",
+              "title": "Markdown",
+              "description": "1. Lightweight Markup Language: Markdown is a lightweight markup language that uses plain text formatting to create structured documents without the need for complex HTML or formatting syntax.",
+              "source": "@site/docs/Devops/Markdown/Markdown.md",
+              "sourceDirName": "Devops/Markdown",
+              "slug": "/Devops/Markdown/",
+              "permalink": "/docs/Devops/Markdown/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Devops/Markdown/MDX",
+              "id": "Devops/Markdown/MDX",
+              "title": "MDX",
+              "description": "Certainly! Here are some key important points about MDX (Markdown + JSX) files:",
+              "source": "@site/docs/Devops/Markdown/MDX.md",
+              "sourceDirName": "Devops/Markdown",
+              "slug": "/Devops/Markdown/MDX",
+              "permalink": "/docs/Devops/Markdown/MDX",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Every Thing I Know/Everything I Know",
+              "id": "Every Thing I Know/Everything I Know",
+              "title": "Everything I Know",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Every Thing I Know/Everything I Know.md",
+              "sourceDirName": "Every Thing I Know",
+              "slug": "/Every Thing I Know/Everything I Know",
+              "permalink": "/docs/Every Thing I Know/Everything I Know",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+              "id": "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+              "title": "Drawing 2023-08-22 10.21.47.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+              "permalink": "/docs/Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+              "id": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+              "title": "Drawing 2023-08-22 10.22.23.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+              "permalink": "/docs/Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+              "id": "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+              "title": "Drawing 2023-08-23 14.07.32.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+              "permalink": "/docs/Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Excalidraw/QARoadMap.excalidraw",
+              "id": "Excalidraw/QARoadMap.excalidraw",
+              "title": "QARoadMap.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Excalidraw/QARoadMap.excalidraw.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/QARoadMap.excalidraw",
+              "permalink": "/docs/Excalidraw/QARoadMap.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Excalidraw/Scripts/Downloaded/Elbow connectors",
+              "id": "Excalidraw/Scripts/Downloaded/Elbow connectors",
+              "title": "Elbow connectors",
+              "description": "/*",
+              "source": "@site/docs/Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+              "sourceDirName": "Excalidraw/Scripts/Downloaded",
+              "slug": "/Excalidraw/Scripts/Downloaded/Elbow connectors",
+              "permalink": "/docs/Excalidraw/Scripts/Downloaded/Elbow connectors",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Finnish/Introduction",
+              "id": "Finnish/Introduction",
+              "title": "Introduction",
+              "description": "INtroduction To manual testing",
+              "source": "@site/docs/Finnish/Introduction.mdx",
+              "sourceDirName": "Finnish",
+              "slug": "/Finnish/Introduction",
+              "permalink": "/docs/Finnish/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "FinnishSidebar"
+            },
+            {
+              "unversionedId": "Frontend/Frontend",
+              "id": "Frontend/Frontend",
+              "title": "Frontend",
+              "description": "",
+              "source": "@site/docs/Frontend/Frontend.md",
+              "sourceDirName": "Frontend",
+              "slug": "/Frontend/",
+              "permalink": "/docs/Frontend/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Build Tools/Parcel",
+              "id": "Frontend/Frontend Build Tools/Parcel",
+              "title": "Parcel",
+              "description": "[Parcel]https://parceljs.org/",
+              "source": "@site/docs/Frontend/Frontend Build Tools/Parcel.md",
+              "sourceDirName": "Frontend/Frontend Build Tools",
+              "slug": "/Frontend/Frontend Build Tools/Parcel",
+              "permalink": "/docs/Frontend/Frontend Build Tools/Parcel",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Build Tools/Rollup",
+              "id": "Frontend/Frontend Build Tools/Rollup",
+              "title": "Rollup",
+              "description": "Rollup",
+              "source": "@site/docs/Frontend/Frontend Build Tools/Rollup.md",
+              "sourceDirName": "Frontend/Frontend Build Tools",
+              "slug": "/Frontend/Frontend Build Tools/Rollup",
+              "permalink": "/docs/Frontend/Frontend Build Tools/Rollup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Build Tools/Vite",
+              "id": "Frontend/Frontend Build Tools/Vite",
+              "title": "Vite",
+              "description": "Vite",
+              "source": "@site/docs/Frontend/Frontend Build Tools/Vite.md",
+              "sourceDirName": "Frontend/Frontend Build Tools",
+              "slug": "/Frontend/Frontend Build Tools/Vite",
+              "permalink": "/docs/Frontend/Frontend Build Tools/Vite",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Build Tools/webpack",
+              "id": "Frontend/Frontend Build Tools/webpack",
+              "title": "webpack",
+              "description": "webpack",
+              "source": "@site/docs/Frontend/Frontend Build Tools/webpack.md",
+              "sourceDirName": "Frontend/Frontend Build Tools",
+              "slug": "/Frontend/Frontend Build Tools/webpack",
+              "permalink": "/docs/Frontend/Frontend Build Tools/webpack",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Concepts/ES modules",
+              "id": "Frontend/Frontend Concepts/ES modules",
+              "title": "ES modules",
+              "description": "- Prior to the introduction of ES modules, developers relied on other mechanisms like CommonJS or AMD (Asynchronous Module Definition) to modularize their JavaScript code. These mechanisms required the use of additional tools and bundlers to combine and package the modules for the browser.",
+              "source": "@site/docs/Frontend/Frontend Concepts/ES modules.md",
+              "sourceDirName": "Frontend/Frontend Concepts",
+              "slug": "/Frontend/Frontend Concepts/ES modules",
+              "permalink": "/docs/Frontend/Frontend Concepts/ES modules",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Extra Tools/Algolia",
+              "id": "Frontend/Frontend Extra Tools/Algolia",
+              "title": "Algolia",
+              "description": "https://www.algolia.com/",
+              "source": "@site/docs/Frontend/Frontend Extra Tools/Algolia.md",
+              "sourceDirName": "Frontend/Frontend Extra Tools",
+              "slug": "/Frontend/Frontend Extra Tools/Algolia",
+              "permalink": "/docs/Frontend/Frontend Extra Tools/Algolia",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Extra Tools/Eslint",
+              "id": "Frontend/Frontend Extra Tools/Eslint",
+              "title": "Eslint",
+              "description": "https://eslint.org/",
+              "source": "@site/docs/Frontend/Frontend Extra Tools/Eslint.md",
+              "sourceDirName": "Frontend/Frontend Extra Tools",
+              "slug": "/Frontend/Frontend Extra Tools/Eslint",
+              "permalink": "/docs/Frontend/Frontend Extra Tools/Eslint",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Frontend Extra Tools/Prettier",
+              "id": "Frontend/Frontend Extra Tools/Prettier",
+              "title": "Prettier",
+              "description": "https://prettier.io/",
+              "source": "@site/docs/Frontend/Frontend Extra Tools/Prettier.md",
+              "sourceDirName": "Frontend/Frontend Extra Tools",
+              "slug": "/Frontend/Frontend Extra Tools/Prettier",
+              "permalink": "/docs/Frontend/Frontend Extra Tools/Prettier",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Client Components",
+              "id": "Frontend/Nextjs/Client Components",
+              "title": "Client Components",
+              "description": "",
+              "source": "@site/docs/Frontend/Nextjs/Client Components.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Client Components",
+              "permalink": "/docs/Frontend/Nextjs/Client Components",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Create Nextjs App",
+              "id": "Frontend/Nextjs/Create Nextjs App",
+              "title": "Create Nextjs App",
+              "description": "Select the choice accordingly",
+              "source": "@site/docs/Frontend/Nextjs/Create Nextjs App.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Create Nextjs App",
+              "permalink": "/docs/Frontend/Nextjs/Create Nextjs App",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/My Nextjs Approach",
+              "id": "Frontend/Nextjs/My Nextjs Approach",
+              "title": "My Nextjs Approach",
+              "description": "- Start Nextjs app",
+              "source": "@site/docs/Frontend/Nextjs/My Nextjs Approach.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/My Nextjs Approach",
+              "permalink": "/docs/Frontend/Nextjs/My Nextjs Approach",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs",
+              "id": "Frontend/Nextjs/Nextjs",
+              "title": "Nextjs",
+              "description": "Nextjs Key Points",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/",
+              "permalink": "/docs/Frontend/Nextjs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Application Guide",
+              "id": "Frontend/Nextjs/Nextjs Application Guide",
+              "title": "Nextjs Application Guide",
+              "description": "[[Create Nextjs App]]",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Application Guide.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Application Guide",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Application Guide",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Application Structure",
+              "id": "Frontend/Nextjs/Nextjs Application Structure",
+              "title": "Nextjs Application Structure",
+              "description": "Nextjs File Structure",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Application Structure.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Application Structure",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Application Structure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Basic Concepts",
+              "id": "Frontend/Nextjs/Nextjs Basic Concepts",
+              "title": "Nextjs Basic Concepts",
+              "description": "[[ Nextjs Server Components]]",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Basic Concepts.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Basic Concepts",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Basic Concepts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Client Components",
+              "id": "Frontend/Nextjs/Nextjs Client Components",
+              "title": "Nextjs Client Components",
+              "description": "1. Regular React components in Next.js.",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Client Components.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Client Components",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Client Components",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Project Structure",
+              "id": "Frontend/Nextjs/Nextjs Project Structure",
+              "title": "Nextjs Project Structure",
+              "description": "",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Project Structure.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Project Structure",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Project Structure",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Server Components",
+              "id": "Frontend/Nextjs/Nextjs Server Components",
+              "title": "Nextjs Server Components",
+              "description": "1. New feature in Next.js for dynamic server-rendered UI components.",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Server Components.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Server Components",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Server Components",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+              "id": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+              "title": "Nextjs Thinking in Server Components",
+              "description": "all components inside the App Router are Server Components by default, including special files and colocated components. This allows you to automatically adopt them with no extra work, and achieve great performance out of the box. You can also optionally opt-in to Client Components using the 'use client' directive.",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs Thinking in Server Components.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs Thinking in Server Components",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs Thinking in Server Components",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs to ghpages",
+              "id": "Frontend/Nextjs/Nextjs to ghpages",
+              "title": "Nextjs to ghpages",
+              "description": "",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs to ghpages.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs to ghpages",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs to ghpages",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextjs vs Remix",
+              "id": "Frontend/Nextjs/Nextjs vs Remix",
+              "title": "Nextjs vs Remix",
+              "description": "https://www.altogic.com/blog/nextjs-vs-remix",
+              "source": "@site/docs/Frontend/Nextjs/Nextjs vs Remix.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextjs vs Remix",
+              "permalink": "/docs/Frontend/Nextjs/Nextjs vs Remix",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Nextra",
+              "id": "Frontend/Nextjs/Nextra",
+              "title": "Nextra",
+              "description": "shttps://nextra.site/",
+              "source": "@site/docs/Frontend/Nextjs/Nextra.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Nextra",
+              "permalink": "/docs/Frontend/Nextjs/Nextra",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/NpmIgnore file",
+              "id": "Frontend/Nextjs/NpmIgnore file",
+              "title": "NpmIgnore file",
+              "description": "There is a commonly used file named .npmignore, which serves a similar purpose to .gitignore. The .npmignore file tells npm which files and directories should be excluded when your package is published to the npm registry.",
+              "source": "@site/docs/Frontend/Nextjs/NpmIgnore file.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/NpmIgnore file",
+              "permalink": "/docs/Frontend/Nextjs/NpmIgnore file",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Remix",
+              "id": "Frontend/Nextjs/Remix",
+              "title": "Remix",
+              "description": "https://remix.run/",
+              "source": "@site/docs/Frontend/Nextjs/Remix.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Remix",
+              "permalink": "/docs/Frontend/Nextjs/Remix",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Run Nextjs App",
+              "id": "Frontend/Nextjs/Run Nextjs App",
+              "title": "Run Nextjs App",
+              "description": "Development Server",
+              "source": "@site/docs/Frontend/Nextjs/Run Nextjs App.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Run Nextjs App",
+              "permalink": "/docs/Frontend/Nextjs/Run Nextjs App",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Nextjs/Server Components",
+              "id": "Frontend/Nextjs/Server Components",
+              "title": "Server Components",
+              "description": "1. New feature in Next.js for dynamic server-rendered UI components.",
+              "source": "@site/docs/Frontend/Nextjs/Server Components.md",
+              "sourceDirName": "Frontend/Nextjs",
+              "slug": "/Frontend/Nextjs/Server Components",
+              "permalink": "/docs/Frontend/Nextjs/Server Components",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/React/My React Approach",
+              "id": "Frontend/React/My React Approach",
+              "title": "My React Approach",
+              "description": "React Components",
+              "source": "@site/docs/Frontend/React/My React Approach.md",
+              "sourceDirName": "Frontend/React",
+              "slug": "/Frontend/React/My React Approach",
+              "permalink": "/docs/Frontend/React/My React Approach",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/React/React",
+              "id": "Frontend/React/React",
+              "title": "React",
+              "description": "React Key Points",
+              "source": "@site/docs/Frontend/React/React.md",
+              "sourceDirName": "Frontend/React",
+              "slug": "/Frontend/React/",
+              "permalink": "/docs/Frontend/React/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/React/React Native",
+              "id": "Frontend/React/React Native",
+              "title": "React Native",
+              "description": "https://reactnative.dev/",
+              "source": "@site/docs/Frontend/React/React Native.md",
+              "sourceDirName": "Frontend/React",
+              "slug": "/Frontend/React/React Native",
+              "permalink": "/docs/Frontend/React/React Native",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/React/React Quick Start",
+              "id": "Frontend/React/React Quick Start",
+              "title": "React Quick Start",
+              "description": "- Quick Start Guide",
+              "source": "@site/docs/Frontend/React/React Quick Start.md",
+              "sourceDirName": "Frontend/React",
+              "slug": "/Frontend/React/React Quick Start",
+              "permalink": "/docs/Frontend/React/React Quick Start",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Vercel/Deploy Nextjs to Vercel",
+              "id": "Frontend/Vercel/Deploy Nextjs to Vercel",
+              "title": "Deploy Nextjs to Vercel",
+              "description": "1. Login to Vercel.",
+              "source": "@site/docs/Frontend/Vercel/Deploy Nextjs to Vercel.md",
+              "sourceDirName": "Frontend/Vercel",
+              "slug": "/Frontend/Vercel/Deploy Nextjs to Vercel",
+              "permalink": "/docs/Frontend/Vercel/Deploy Nextjs to Vercel",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Frontend/Vercel/Vercel Introuction",
+              "id": "Frontend/Vercel/Vercel Introuction",
+              "title": "Vercel Introuction",
+              "description": "Vercel is a cloud platform that provides a serverless deployment infrastructure for web applications. It allows developers to build, deploy, and scale websites and web applications with ease. Key points about Vercel include:",
+              "source": "@site/docs/Frontend/Vercel/Vercel Introuction.md",
+              "sourceDirName": "Frontend/Vercel",
+              "slug": "/Frontend/Vercel/Vercel Introuction",
+              "permalink": "/docs/Frontend/Vercel/Vercel Introuction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "IDE/Emacs/Emacs",
+              "id": "IDE/Emacs/Emacs",
+              "title": "Emacs",
+              "description": "To install the changes you made to your Doom Emacs configuration, you need to recompile and refresh your configuration. Follow these steps:",
+              "source": "@site/docs/IDE/Emacs/Emacs.md",
+              "sourceDirName": "IDE/Emacs",
+              "slug": "/IDE/Emacs/",
+              "permalink": "/docs/IDE/Emacs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "DevOps Applications Automation Team Lead",
+              "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Language/Vocabulary/Vocabulary",
+              "id": "Language/Vocabulary/Vocabulary",
+              "title": "Vocabulary",
+              "description": "- Non-Trivial ->",
+              "source": "@site/docs/Language/Vocabulary/Vocabulary.md",
+              "sourceDirName": "Language/Vocabulary",
+              "slug": "/Language/Vocabulary/",
+              "permalink": "/docs/Language/Vocabulary/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Leetcode/Introduction",
+              "id": "Leetcode/Introduction",
+              "title": "Introduction",
+              "description": "INtroduction To manual testing",
+              "source": "@site/docs/Leetcode/Introduction.mdx",
+              "sourceDirName": "Leetcode",
+              "slug": "/Leetcode/Introduction",
+              "permalink": "/docs/Leetcode/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "LeetcodeSidebar"
+            },
+            {
+              "unversionedId": "Linux/Bash Script/Bash",
+              "id": "Linux/Bash Script/Bash",
+              "title": "Bash",
+              "description": "[[Bash vs Sh]]",
+              "source": "@site/docs/Linux/Bash Script/Bash.md",
+              "sourceDirName": "Linux/Bash Script",
+              "slug": "/Linux/Bash Script/Bash",
+              "permalink": "/docs/Linux/Bash Script/Bash",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Bash Script/Bash Commands",
+              "id": "Linux/Bash Script/Bash Commands",
+              "title": "Bash Commands",
+              "description": "- Gets the parent folder name.",
+              "source": "@site/docs/Linux/Bash Script/Bash Commands.md",
+              "sourceDirName": "Linux/Bash Script",
+              "slug": "/Linux/Bash Script/Bash Commands",
+              "permalink": "/docs/Linux/Bash Script/Bash Commands",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Bash Script/Bash vs Sh",
+              "id": "Linux/Bash Script/Bash vs Sh",
+              "title": "Bash vs Sh",
+              "description": "",
+              "source": "@site/docs/Linux/Bash Script/Bash vs Sh.md",
+              "sourceDirName": "Linux/Bash Script",
+              "slug": "/Linux/Bash Script/Bash vs Sh",
+              "permalink": "/docs/Linux/Bash Script/Bash vs Sh",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Bash Script/Passing Parameters In Bash",
+              "id": "Linux/Bash Script/Passing Parameters In Bash",
+              "title": "Passing Parameters In Bash",
+              "description": "In Bash scripts, you can pass parameters to the script when executing it from the command line. These parameters are accessed within the script using special variables. The most common variables used for parameter passing are $1, $2, $3, and so on, which represent the first, second, third, and subsequent parameters, respectively. Here's an example:",
+              "source": "@site/docs/Linux/Bash Script/Passing Parameters In Bash.md",
+              "sourceDirName": "Linux/Bash Script",
+              "slug": "/Linux/Bash Script/Passing Parameters In Bash",
+              "permalink": "/docs/Linux/Bash Script/Passing Parameters In Bash",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Chroot",
+              "id": "Linux/Chroot",
+              "title": "Chroot",
+              "description": "chroot is a command in Unix-like operating systems that allows you to change the root directory for a specific process or set of processes, creating a new environment isolated from the rest of the system.",
+              "source": "@site/docs/Linux/Chroot.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/Chroot",
+              "permalink": "/docs/Linux/Chroot",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Linux",
+              "id": "Linux/Linux",
+              "title": "Linux",
+              "description": "- [[Chroot]]",
+              "source": "@site/docs/Linux/Linux.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/",
+              "permalink": "/docs/Linux/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/Linux Namespaces",
+              "id": "Linux/Linux Namespaces",
+              "title": "Linux Namespaces",
+              "description": "- Linux namespaces provide process-level isolation by virtualizing system resources, allowing processes to have their own independent namespaces for process IDs, network interfaces, file systems, and other system resources.",
+              "source": "@site/docs/Linux/Linux Namespaces.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/Linux Namespaces",
+              "permalink": "/docs/Linux/Linux Namespaces",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/My Arch Rice/Asahi Linux Setup",
+              "id": "Linux/My Arch Rice/Asahi Linux Setup",
+              "title": "Asahi Linux Setup",
+              "description": "",
+              "source": "@site/docs/Linux/My Arch Rice/Asahi Linux Setup.md",
+              "sourceDirName": "Linux/My Arch Rice",
+              "slug": "/Linux/My Arch Rice/Asahi Linux Setup",
+              "permalink": "/docs/Linux/My Arch Rice/Asahi Linux Setup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/My Arch Rice/Install Docker on Arch Linux",
+              "id": "Linux/My Arch Rice/Install Docker on Arch Linux",
+              "title": "Install Docker on Arch Linux",
+              "description": "To install Docker on Arch Linux, you can follow these steps:",
+              "source": "@site/docs/Linux/My Arch Rice/Install Docker on Arch Linux.md",
+              "sourceDirName": "Linux/My Arch Rice",
+              "slug": "/Linux/My Arch Rice/Install Docker on Arch Linux",
+              "permalink": "/docs/Linux/My Arch Rice/Install Docker on Arch Linux",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/My Arch Rice/Install Touch pad config",
+              "id": "Linux/My Arch Rice/Install Touch pad config",
+              "title": "Install Touch pad config",
+              "description": "If you're experiencing issues with the touchpad on Arch Linux running on a MacBook M1 with Asahi Linux, you can try the following steps to potentially fix the problem:",
+              "source": "@site/docs/Linux/My Arch Rice/Install Touch pad config.md",
+              "sourceDirName": "Linux/My Arch Rice",
+              "slug": "/Linux/My Arch Rice/Install Touch pad config",
+              "permalink": "/docs/Linux/My Arch Rice/Install Touch pad config",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/My Arch Rice/Install Yay",
+              "id": "Linux/My Arch Rice/Install Yay",
+              "title": "Install Yay",
+              "description": "To install yay on Arch Linux, you can follow these steps:",
+              "source": "@site/docs/Linux/My Arch Rice/Install Yay.md",
+              "sourceDirName": "Linux/My Arch Rice",
+              "slug": "/Linux/My Arch Rice/Install Yay",
+              "permalink": "/docs/Linux/My Arch Rice/Install Yay",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/My Arch Rice/My Arch Rice",
+              "id": "Linux/My Arch Rice/My Arch Rice",
+              "title": "My Arch Rice",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Linux/My Arch Rice/My Arch Rice.md",
+              "sourceDirName": "Linux/My Arch Rice",
+              "slug": "/Linux/My Arch Rice/",
+              "permalink": "/docs/Linux/My Arch Rice/",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Linux/zsh/Sub Shell Output",
+              "id": "Linux/zsh/Sub Shell Output",
+              "title": "Sub Shell Output",
+              "description": "If you are calling a script inside your custom function in the .zshrc file and not seeing the output in the terminal, it could be because the script is running in a subshell. By default, a subshell does not inherit the I/O streams of the parent shell.",
+              "source": "@site/docs/Linux/zsh/Sub Shell Output.md",
+              "sourceDirName": "Linux/zsh",
+              "slug": "/Linux/zsh/Sub Shell Output",
+              "permalink": "/docs/Linux/zsh/Sub Shell Output",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Linux/zsh/zshrc",
+              "id": "Linux/zsh/zshrc",
+              "title": "zshrc",
+              "description": "To pass parameters to a custom command defined in your .zshrc file, you can modify the function to accept arguments and then call it with the desired parameters. Here's an example:",
+              "source": "@site/docs/Linux/zsh/zshrc.md",
+              "sourceDirName": "Linux/zsh",
+              "slug": "/Linux/zsh/zshrc",
+              "permalink": "/docs/Linux/zsh/zshrc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+              "id": "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+              "title": "Drawing 2023-08-24 20.24.52.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw.md",
+              "sourceDirName": "ManualTesting",
+              "slug": "/ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+              "permalink": "/docs/ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "ManualTesting/Introduction",
+              "id": "ManualTesting/Introduction",
+              "title": "Introduction",
+              "description": "Software Testing",
+              "source": "@site/docs/ManualTesting/Introduction.mdx",
+              "sourceDirName": "ManualTesting",
+              "slug": "/ManualTesting/Introduction",
+              "permalink": "/docs/ManualTesting/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "ApiTestingSidebar"
+            },
+            {
+              "unversionedId": "ManualTesting/Testing Types",
+              "id": "ManualTesting/Testing Types",
+              "title": "Testing Types",
+              "description": "",
+              "source": "@site/docs/ManualTesting/Testing Types.md",
+              "sourceDirName": "ManualTesting",
+              "slug": "/ManualTesting/Testing Types",
+              "permalink": "/docs/ManualTesting/Testing Types",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Mermaid/Mermaid",
+              "id": "Mermaid/Mermaid",
+              "title": "Mermaid",
+              "description": "- I use Mermaid for all my Diagrams are charting needs inside my project.",
+              "source": "@site/docs/Mermaid/Mermaid.md",
+              "sourceDirName": "Mermaid",
+              "slug": "/Mermaid/",
+              "permalink": "/docs/Mermaid/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "My Certifications/Certified AWS Solutions Architect Professional",
+              "id": "My Certifications/Certified AWS Solutions Architect Professional",
+              "title": "Certified AWS Solutions Architect Professional",
+              "description": "- Exam Guide - https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf",
+              "source": "@site/docs/My Certifications/Certified AWS Solutions Architect Professional.md",
+              "sourceDirName": "My Certifications",
+              "slug": "/My Certifications/Certified AWS Solutions Architect Professional",
+              "permalink": "/docs/My Certifications/Certified AWS Solutions Architect Professional",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "My Certifications/My Certifications",
+              "id": "My Certifications/My Certifications",
+              "title": "My Certifications",
+              "description": "- Certified AWS Solutions Architect Associate",
+              "source": "@site/docs/My Certifications/My Certifications.md",
+              "sourceDirName": "My Certifications",
+              "slug": "/My Certifications/",
+              "permalink": "/docs/My Certifications/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Obsidian/Obsidian",
+              "id": "Obsidian/Obsidian",
+              "title": "Obsidian",
+              "description": "- Obsidian is a note-taking app known for its flexibility and interconnectedness.",
+              "source": "@site/docs/Obsidian/Obsidian.md",
+              "sourceDirName": "Obsidian",
+              "slug": "/Obsidian/",
+              "permalink": "/docs/Obsidian/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Obsidian/Organizing notes in Obsidian",
+              "id": "Obsidian/Organizing notes in Obsidian",
+              "title": "Organizing notes in Obsidian",
+              "description": "- I prefer using tags and nested tags to organizing obsidian notes.",
+              "source": "@site/docs/Obsidian/Organizing notes in Obsidian.md",
+              "sourceDirName": "Obsidian",
+              "slug": "/Obsidian/Organizing notes in Obsidian",
+              "permalink": "/docs/Obsidian/Organizing notes in Obsidian",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Obsidian/Zettelkasten Approach",
+              "id": "Obsidian/Zettelkasten Approach",
+              "title": "Zettelkasten Approach",
+              "description": "- Zettelkasten Approach of note taking.",
+              "source": "@site/docs/Obsidian/Zettelkasten Approach.md",
+              "sourceDirName": "Obsidian",
+              "slug": "/Obsidian/Zettelkasten Approach",
+              "permalink": "/docs/Obsidian/Zettelkasten Approach",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Selenium/Introduction",
+              "id": "Selenium/Introduction",
+              "title": "Introduction",
+              "description": "INtroduction To manual testing",
+              "source": "@site/docs/Selenium/Introduction.mdx",
+              "sourceDirName": "Selenium",
+              "slug": "/Selenium/Introduction",
+              "permalink": "/docs/Selenium/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "SeleniumSidebar"
+            },
+            {
+              "unversionedId": "Skills/My Skills",
+              "id": "Skills/My Skills",
+              "title": "My Skills",
+              "description": "In my role as a test automation software engineer, I have developed a range of skills and qualities that contribute to my effectiveness in software testing. These attributes enable me to collaborate seamlessly with development teams and ensure the quality of software products. Here's a look at my key skills and qualities:",
+              "source": "@site/docs/Skills/My Skills.md",
+              "sourceDirName": "Skills",
+              "slug": "/Skills/My Skills",
+              "permalink": "/docs/Skills/My Skills",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            },
+            {
+              "unversionedId": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+              "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+              "title": "Drawing 2023-07-30 10.05.42.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw.md",
+              "sourceDirName": "Visual Personal Knowledge Management",
+              "slug": "/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+              "permalink": "/docs/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Visual Personal Knowledge Management/Excalidraw",
+              "id": "Visual Personal Knowledge Management/Excalidraw",
+              "title": "Excalidraw",
+              "description": "Reference",
+              "source": "@site/docs/Visual Personal Knowledge Management/Excalidraw.md",
+              "sourceDirName": "Visual Personal Knowledge Management",
+              "slug": "/Visual Personal Knowledge Management/Excalidraw",
+              "permalink": "/docs/Visual Personal Knowledge Management/Excalidraw",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Visual Personal Knowledge Management/MidJourney/MidJourney",
+              "id": "Visual Personal Knowledge Management/MidJourney/MidJourney",
+              "title": "MidJourney",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Visual Personal Knowledge Management/MidJourney/MidJourney.md",
+              "sourceDirName": "Visual Personal Knowledge Management/MidJourney",
+              "slug": "/Visual Personal Knowledge Management/MidJourney/",
+              "permalink": "/docs/Visual Personal Knowledge Management/MidJourney/",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Work in Progress/Elastic Search",
+              "id": "Work in Progress/Elastic Search",
+              "title": "Elastic Search",
+              "description": "https://www.elastic.co/what-is/elasticsearch",
+              "source": "@site/docs/Work in Progress/Elastic Search.md",
+              "sourceDirName": "Work in Progress",
+              "slug": "/Work in Progress/Elastic Search",
+              "permalink": "/docs/Work in Progress/Elastic Search",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Work in Progress/Observibility",
+              "id": "Work in Progress/Observibility",
+              "title": "Observibility",
+              "description": "1. Create a Dockerfile: Start by creating a text file called \"Dockerfile\" (with no file extension) in the root directory of your project.",
+              "source": "@site/docs/Work in Progress/Observibility.md",
+              "sourceDirName": "Work in Progress",
+              "slug": "/Work in Progress/Observibility",
+              "permalink": "/docs/Work in Progress/Observibility",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Xassets/docusaurus-asset-example-banner.png",
+              "id": "Xassets/docusaurus-asset-example-banner.png",
+              "title": "docusaurus-asset-example-banner.png",
+              "description": "",
+              "source": "@site/docs/Xassets/docusaurus-asset-example-banner.png.md",
+              "sourceDirName": "Xassets",
+              "slug": "/Xassets/docusaurus-asset-example-banner.png",
+              "permalink": "/docs/Xassets/docusaurus-asset-example-banner.png",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "StepFunctionsSidebar": [
+              {
+                "type": "doc",
+                "id": "Aws/StepFunctions/Introduction"
+              },
+              {
+                "type": "category",
+                "label": "StepFunctions Basics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/Basics/Basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/Basics/Workflows"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/Basics/Usecases"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/Basics/Terminology"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Card Processing Workflow",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ],
+            "ManualTestingSidebar": [
+              {
+                "type": "doc",
+                "id": "ManualTesting/Introduction"
+              }
+            ],
+            "ApiTestingSidebar": [
+              {
+                "type": "doc",
+                "id": "ManualTesting/Introduction"
+              }
+            ],
+            "SeleniumSidebar": [
+              {
+                "type": "doc",
+                "id": "Selenium/Introduction"
+              }
+            ],
+            "LeetcodeSidebar": [
+              {
+                "type": "doc",
+                "id": "Leetcode/Introduction"
+              }
+            ],
+            "FinnishSidebar": [
+              {
+                "type": "doc",
+                "id": "Finnish/Introduction"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2021/08/26/welcome",
+          "metadata": {
+            "permalink": "/blog/2021/08/26/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "QA RoadMap",
+            "description": "Navigating My QA Career Journey: A Roadmap",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [],
+            "readingTime": 0.105,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "title": "QA RoadMap"
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "**Navigating My QA Career Journey: A Roadmap**\n\n1. Manual testing concepts from Guru99 \n    -> https://www.guru99.com/software-testing.html\n2. Learn Manual Manual API testing."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "QA RoadMap",
+              "permalink": "/blog/2021/08/26/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2021/08/26/welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 3,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/aboutme/",
+        "source": "@site/src/pages/aboutme/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

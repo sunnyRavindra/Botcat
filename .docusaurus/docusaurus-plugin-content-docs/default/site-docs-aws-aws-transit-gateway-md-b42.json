@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/AWS Transit Gateway",
+  "id": "Aws/AWS Transit Gateway",
+  "title": "AWS Transit Gateway",
+  "description": "1. Cross Region and Hybrid connections with Transit gateway",
+  "source": "@site/docs/Aws/AWS Transit Gateway.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/AWS Transit Gateway",
+  "permalink": "/docs/Aws/AWS Transit Gateway",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

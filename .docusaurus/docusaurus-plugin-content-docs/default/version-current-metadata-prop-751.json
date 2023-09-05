@@ -1,0 +1,865 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "StepFunctionsSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/Aws/StepFunctions/Introduction",
+        "docId": "Aws/StepFunctions/Introduction"
+      },
+      {
+        "type": "category",
+        "label": "StepFunctions Basics",
+        "items": [
+          {
+            "type": "link",
+            "label": "Basics",
+            "href": "/docs/Aws/StepFunctions/Basics/",
+            "docId": "Aws/StepFunctions/Basics/Basics"
+          },
+          {
+            "type": "link",
+            "label": "Workflows",
+            "href": "/docs/Aws/StepFunctions/Basics/Workflows",
+            "docId": "Aws/StepFunctions/Basics/Workflows"
+          },
+          {
+            "type": "link",
+            "label": "Usecases",
+            "href": "/docs/Aws/StepFunctions/Basics/Usecases",
+            "docId": "Aws/StepFunctions/Basics/Usecases"
+          },
+          {
+            "type": "link",
+            "label": "Terminology",
+            "href": "/docs/Aws/StepFunctions/Basics/Terminology",
+            "docId": "Aws/StepFunctions/Basics/Terminology"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Card Processing Workflow",
+        "items": [
+          {
+            "type": "link",
+            "label": "Create State Machine",
+            "href": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+            "docId": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine"
+          },
+          {
+            "type": "link",
+            "label": "ServiceIntegration",
+            "href": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+            "docId": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ],
+    "ManualTestingSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/ManualTesting/Introduction",
+        "docId": "ManualTesting/Introduction"
+      }
+    ],
+    "ApiTestingSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/ManualTesting/Introduction",
+        "docId": "ManualTesting/Introduction"
+      }
+    ],
+    "SeleniumSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/Selenium/Introduction",
+        "docId": "Selenium/Introduction"
+      }
+    ],
+    "LeetcodeSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/Leetcode/Introduction",
+        "docId": "Leetcode/Introduction"
+      }
+    ],
+    "FinnishSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/Finnish/Introduction",
+        "docId": "Finnish/Introduction"
+      }
+    ]
+  },
+  "docs": {
+    "about": {
+      "id": "about",
+      "title": "DevOps Applications Automation Team Lead",
+      "description": "Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:"
+    },
+    "assets/docusaurus-asset-example-banner.png": {
+      "id": "assets/docusaurus-asset-example-banner.png",
+      "title": "docusaurus-asset-example-banner.png",
+      "description": ""
+    },
+    "Automation/Automation": {
+      "id": "Automation/Automation",
+      "title": "Automation",
+      "description": "THis is the Automation new details coming from daku"
+    },
+    "Automation/Introduction": {
+      "id": "Automation/Introduction",
+      "title": "Introduction",
+      "description": "this is the Introduction file"
+    },
+    "Aws/ Region Selection Criteria": {
+      "id": "Aws/ Region Selection Criteria",
+      "title": " Region Selection Criteria",
+      "description": "1. Latency"
+    },
+    "Aws/Attribute-based access control (ABAC)": {
+      "id": "Aws/Attribute-based access control (ABAC)",
+      "title": "Attribute-based access control (ABAC)",
+      "description": ""
+    },
+    "Aws/AWS": {
+      "id": "Aws/AWS",
+      "title": "AWS",
+      "description": "- [[AWS World Wide Infrastructure]]"
+    },
+    "Aws/AWS Account Structure": {
+      "id": "Aws/AWS Account Structure",
+      "title": "AWS Account Structure",
+      "description": "- Create a Root account."
+    },
+    "Aws/AWS Local Zones": {
+      "id": "Aws/AWS Local Zones",
+      "title": "AWS Local Zones",
+      "description": "- Run applications that require single-digit millisecond latency or local data processing by bringing AWS infrastructure closer to your end users and business centers."
+    },
+    "Aws/AWS Transit Gateway": {
+      "id": "Aws/AWS Transit Gateway",
+      "title": "AWS Transit Gateway",
+      "description": "1. Cross Region and Hybrid connections with Transit gateway"
+    },
+    "Aws/AWS World Wide Infrastructure": {
+      "id": "Aws/AWS World Wide Infrastructure",
+      "title": "AWS World Wide Infrastructure",
+      "description": ""
+    },
+    "Aws/AWSD": {
+      "id": "Aws/AWSD",
+      "title": "AWSD",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Aws/Cloud Computing": {
+      "id": "Aws/Cloud Computing",
+      "title": "Cloud Computing",
+      "description": "- Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS)."
+    },
+    "Aws/IAM": {
+      "id": "Aws/IAM",
+      "title": "IAM",
+      "description": "- Manages the users login access."
+    },
+    "Aws/IAM Identity Center": {
+      "id": "Aws/IAM Identity Center",
+      "title": "IAM Identity Center",
+      "description": "- Previously AWS Single Sign-On"
+    },
+    "Aws/IAM Policy": {
+      "id": "Aws/IAM Policy",
+      "title": "IAM Policy",
+      "description": "- Trust policy – Defines which principals can assume the role, and under which conditions. A trust policy is a specific type of resource-based policy for IAM roles. A role can have only one trust policy."
+    },
+    "Aws/IAM Roles": {
+      "id": "Aws/IAM Roles",
+      "title": "IAM Roles",
+      "description": "IAM Role"
+    },
+    "Aws/My AWS Approach": {
+      "id": "Aws/My AWS Approach",
+      "title": "My AWS Approach",
+      "description": "Design solutions for Organisational Complexities"
+    },
+    "Aws/StepFunctions/Basics/Basics": {
+      "id": "Aws/StepFunctions/Basics/Basics",
+      "title": "Basics",
+      "description": "1. Please have a look at the AWS Reference .",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/Basics/Terminology": {
+      "id": "Aws/StepFunctions/Basics/Terminology",
+      "title": "Terminology",
+      "description": "1.  Each step in the workflow is called a state.",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/Basics/Usecases": {
+      "id": "Aws/StepFunctions/Basics/Usecases",
+      "title": "Usecases",
+      "description": "Function Orchestration",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/Basics/Workflows": {
+      "id": "Aws/StepFunctions/Basics/Workflows",
+      "title": "Workflows",
+      "description": "1. Standard",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine": {
+      "id": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+      "title": "Create State Machine",
+      "description": "1.  Open the Step Functions console and choose Create state machine.",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration": {
+      "id": "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration",
+      "title": "ServiceIntegration",
+      "description": "1. Create and test the Lambda function",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/Introduction": {
+      "id": "Aws/StepFunctions/Introduction",
+      "title": "Introduction",
+      "description": "The Significance of AWS Step Functions",
+      "sidebar": "StepFunctionsSidebar"
+    },
+    "Aws/StepFunctions/StepFunctionsexcalidraw": {
+      "id": "Aws/StepFunctions/StepFunctionsexcalidraw",
+      "title": "StepFunctionsexcalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Devops/Devops": {
+      "id": "Devops/Devops",
+      "title": "Devops",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Devops/Docker Compose/Docker Compose": {
+      "id": "Devops/Docker Compose/Docker Compose",
+      "title": "Docker Compose",
+      "description": "- Install Docker Compose"
+    },
+    "Devops/Docker/Build Docker Image": {
+      "id": "Devops/Docker/Build Docker Image",
+      "title": "Build Docker Image",
+      "description": ""
+    },
+    "Devops/Docker/Docker": {
+      "id": "Devops/Docker/Docker",
+      "title": "Docker",
+      "description": "- [[Linux Namespaces]]"
+    },
+    "Devops/Docker/Docker 1": {
+      "id": "Devops/Docker/Docker 1",
+      "title": "Docker 1",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Devops/Docker/Docker Basics": {
+      "id": "Devops/Docker/Docker Basics",
+      "title": "Docker Basics",
+      "description": "[[Run Commonds Inside Container]]"
+    },
+    "Devops/Docker/Docker Bind Mounts": {
+      "id": "Devops/Docker/Docker Bind Mounts",
+      "title": "Docker Bind Mounts",
+      "description": ""
+    },
+    "Devops/Docker/Docker DevEnv Setup": {
+      "id": "Devops/Docker/Docker DevEnv Setup",
+      "title": "Docker DevEnv Setup",
+      "description": "- I pory for all my git projects"
+    },
+    "Devops/Docker/Docker Layer Caching": {
+      "id": "Devops/Docker/Docker Layer Caching",
+      "title": "Docker Layer Caching",
+      "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages."
+    },
+    "Devops/Docker/Docker Multi Stage Build": {
+      "id": "Devops/Docker/Docker Multi Stage Build",
+      "title": "Docker Multi Stage Build",
+      "description": "- Advantages"
+    },
+    "Devops/Docker/Docker MySQL Application": {
+      "id": "Devops/Docker/Docker MySQL Application",
+      "title": "Docker MySQL Application",
+      "description": "- Create docker network for the MYSQL container"
+    },
+    "Devops/Docker/Docker Networking": {
+      "id": "Devops/Docker/Docker Networking",
+      "title": "Docker Networking",
+      "description": ""
+    },
+    "Devops/Docker/Docker Nextjs Application": {
+      "id": "Devops/Docker/Docker Nextjs Application",
+      "title": "Docker Nextjs Application",
+      "description": "- [[Create Nextjs App]] in local."
+    },
+    "Devops/Docker/Docker Nicolaka Netshoot": {
+      "id": "Devops/Docker/Docker Nicolaka Netshoot",
+      "title": "Docker Nicolaka Netshoot",
+      "description": "- Start a new container using the nicolaka/netshoot image."
+    },
+    "Devops/Docker/Docker Secrets": {
+      "id": "Devops/Docker/Docker Secrets",
+      "title": "Docker Secrets",
+      "description": "- ENV variables should not be used in Docker."
+    },
+    "Devops/Docker/Docker Volumes": {
+      "id": "Devops/Docker/Docker Volumes",
+      "title": "Docker Volumes",
+      "description": "- Create Volume."
+    },
+    "Devops/Docker/DockerFiles/Docker Ignore file": {
+      "id": "Devops/Docker/DockerFiles/Docker Ignore file",
+      "title": "Docker Ignore file",
+      "description": "Step-by-step guide to creating a .dockerignore file:"
+    },
+    "Devops/Docker/DockerFiles/DockerFile": {
+      "id": "Devops/Docker/DockerFiles/DockerFile",
+      "title": "DockerFile",
+      "description": "- [[Nextjs Docker File]]"
+    },
+    "Devops/Docker/DockerFiles/Nextjs Docker File": {
+      "id": "Devops/Docker/DockerFiles/Nextjs Docker File",
+      "title": "Nextjs Docker File",
+      "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json."
+    },
+    "Devops/Docker/DockerHub": {
+      "id": "Devops/Docker/DockerHub",
+      "title": "DockerHub",
+      "description": "- DockerHub is the official docker registry from docker where all the images are stored public or private."
+    },
+    "Devops/Docker/My Used Docker Commands": {
+      "id": "Devops/Docker/My Used Docker Commands",
+      "title": "My Used Docker Commands",
+      "description": "- Login"
+    },
+    "Devops/Docker/Run Commonds Inside Container": {
+      "id": "Devops/Docker/Run Commonds Inside Container",
+      "title": "Run Commonds Inside Container",
+      "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:"
+    },
+    "Devops/Docker/Start Docker Container": {
+      "id": "Devops/Docker/Start Docker Container",
+      "title": "Start Docker Container",
+      "description": ""
+    },
+    "Devops/Git/Git": {
+      "id": "Devops/Git/Git",
+      "title": "Git",
+      "description": "To push your local project files to your GitHub repository, you can follow these steps:"
+    },
+    "Devops/Git/Git add except __": {
+      "id": "Devops/Git/Git add except __",
+      "title": "Git add except __",
+      "description": "To add all files in a Git repository except for a few specific files, you can use the following command:"
+    },
+    "Devops/Git/Git Commands": {
+      "id": "Devops/Git/Git Commands",
+      "title": "Git Commands",
+      "description": "[[Git Show]]"
+    },
+    "Devops/Git/Git Commits list": {
+      "id": "Devops/Git/Git Commits list",
+      "title": "Git Commits list",
+      "description": "To check all the Git commits in a repository, you can use the git log command. It provides a detailed history of commits, showing information such as commit hashes, authors, dates, and commit messages. Here are some commonly used options with git log:"
+    },
+    "Devops/Git/Git Divergent Branch": {
+      "id": "Devops/Git/Git Divergent Branch",
+      "title": "Git Divergent Branch",
+      "description": "Divergent Git branches refer to branches that have diverged from each other. This means that the branches have separate and distinct commits that are not present in the other branch. In other words, both branches have progressed independently and have different sets of commits."
+    },
+    "Devops/Git/Git fast-forward": {
+      "id": "Devops/Git/Git fast-forward",
+      "title": "Git fast-forward",
+      "description": "- Fast-forward is a merging scenario where Git can directly move the branch pointer forward to incorporate the changes, without creating a new merge commit."
+    },
+    "Devops/Git/Git Ignore": {
+      "id": "Devops/Git/Git Ignore",
+      "title": "Git Ignore",
+      "description": "To use the Git ignore file, you can follow these steps:"
+    },
+    "Devops/Git/Git merge": {
+      "id": "Devops/Git/Git merge",
+      "title": "Git merge",
+      "description": "- Merge is a Git operation that combines the changes from different branches into one branch, creating a new commit that represents the merge result."
+    },
+    "Devops/Git/Git Previous Commits": {
+      "id": "Devops/Git/Git Previous Commits",
+      "title": "Git Previous Commits",
+      "description": "To check how your Git directory looked like and what files were present in previous commits, you can use the git log command in combination with the --name-only option. Here's how you can do it:"
+    },
+    "Devops/Git/Git rebase": {
+      "id": "Devops/Git/Git rebase",
+      "title": "Git rebase",
+      "description": "- Rebase is a Git operation that moves or reapplies commits from one branch onto another branch. It essentially modifies the commit history of the branch being rebased."
+    },
+    "Devops/Git/Git Remove Cache": {
+      "id": "Devops/Git/Git Remove Cache",
+      "title": "Git Remove Cache",
+      "description": "If your Git push is trying to commit nodemodules even though the nodemodules folder is not present in your Git repository, it may be due to the presence of the node_modules entry in the Git cache. To fix this issue, you can follow these steps:"
+    },
+    "Devops/Git/Git Show": {
+      "id": "Devops/Git/Git Show",
+      "title": "Git Show",
+      "description": "To check the previous version of a specific file in your Git repository, you can use the git show command followed by the commit hash or branch name and the path to the file. Here's the syntax:"
+    },
+    "Devops/Git/Git Squashing": {
+      "id": "Devops/Git/Git Squashing",
+      "title": "Git Squashing",
+      "description": "it is possible to rewrite Git history and merge multiple commits into a single commit. This process is commonly known as \"squashing\" commits. Here's how you can do it:"
+    },
+    "Devops/Git/Git Unstage All Files": {
+      "id": "Devops/Git/Git Unstage All Files",
+      "title": "Git Unstage All Files",
+      "description": "To unstage all the staged files in Git, you can use the following command:"
+    },
+    "Devops/Markdown/Markdown": {
+      "id": "Devops/Markdown/Markdown",
+      "title": "Markdown",
+      "description": "1. Lightweight Markup Language: Markdown is a lightweight markup language that uses plain text formatting to create structured documents without the need for complex HTML or formatting syntax."
+    },
+    "Devops/Markdown/MDX": {
+      "id": "Devops/Markdown/MDX",
+      "title": "MDX",
+      "description": "Certainly! Here are some key important points about MDX (Markdown + JSX) files:"
+    },
+    "Every Thing I Know/Everything I Know": {
+      "id": "Every Thing I Know/Everything I Know",
+      "title": "Everything I Know",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw": {
+      "id": "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
+      "title": "Drawing 2023-08-22 10.21.47.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw": {
+      "id": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
+      "title": "Drawing 2023-08-22 10.22.23.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw": {
+      "id": "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
+      "title": "Drawing 2023-08-23 14.07.32.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Excalidraw/QARoadMap.excalidraw": {
+      "id": "Excalidraw/QARoadMap.excalidraw",
+      "title": "QARoadMap.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Excalidraw/Scripts/Downloaded/Elbow connectors": {
+      "id": "Excalidraw/Scripts/Downloaded/Elbow connectors",
+      "title": "Elbow connectors",
+      "description": "/*"
+    },
+    "Finnish/Introduction": {
+      "id": "Finnish/Introduction",
+      "title": "Introduction",
+      "description": "INtroduction To manual testing",
+      "sidebar": "FinnishSidebar"
+    },
+    "Frontend/Frontend": {
+      "id": "Frontend/Frontend",
+      "title": "Frontend",
+      "description": ""
+    },
+    "Frontend/Frontend Build Tools/Parcel": {
+      "id": "Frontend/Frontend Build Tools/Parcel",
+      "title": "Parcel",
+      "description": "[Parcel]https://parceljs.org/"
+    },
+    "Frontend/Frontend Build Tools/Rollup": {
+      "id": "Frontend/Frontend Build Tools/Rollup",
+      "title": "Rollup",
+      "description": "Rollup"
+    },
+    "Frontend/Frontend Build Tools/Vite": {
+      "id": "Frontend/Frontend Build Tools/Vite",
+      "title": "Vite",
+      "description": "Vite"
+    },
+    "Frontend/Frontend Build Tools/webpack": {
+      "id": "Frontend/Frontend Build Tools/webpack",
+      "title": "webpack",
+      "description": "webpack"
+    },
+    "Frontend/Frontend Concepts/ES modules": {
+      "id": "Frontend/Frontend Concepts/ES modules",
+      "title": "ES modules",
+      "description": "- Prior to the introduction of ES modules, developers relied on other mechanisms like CommonJS or AMD (Asynchronous Module Definition) to modularize their JavaScript code. These mechanisms required the use of additional tools and bundlers to combine and package the modules for the browser."
+    },
+    "Frontend/Frontend Extra Tools/Algolia": {
+      "id": "Frontend/Frontend Extra Tools/Algolia",
+      "title": "Algolia",
+      "description": "https://www.algolia.com/"
+    },
+    "Frontend/Frontend Extra Tools/Eslint": {
+      "id": "Frontend/Frontend Extra Tools/Eslint",
+      "title": "Eslint",
+      "description": "https://eslint.org/"
+    },
+    "Frontend/Frontend Extra Tools/Prettier": {
+      "id": "Frontend/Frontend Extra Tools/Prettier",
+      "title": "Prettier",
+      "description": "https://prettier.io/"
+    },
+    "Frontend/Nextjs/Client Components": {
+      "id": "Frontend/Nextjs/Client Components",
+      "title": "Client Components",
+      "description": ""
+    },
+    "Frontend/Nextjs/Create Nextjs App": {
+      "id": "Frontend/Nextjs/Create Nextjs App",
+      "title": "Create Nextjs App",
+      "description": "Select the choice accordingly"
+    },
+    "Frontend/Nextjs/My Nextjs Approach": {
+      "id": "Frontend/Nextjs/My Nextjs Approach",
+      "title": "My Nextjs Approach",
+      "description": "- Start Nextjs app"
+    },
+    "Frontend/Nextjs/Nextjs": {
+      "id": "Frontend/Nextjs/Nextjs",
+      "title": "Nextjs",
+      "description": "Nextjs Key Points"
+    },
+    "Frontend/Nextjs/Nextjs Application Guide": {
+      "id": "Frontend/Nextjs/Nextjs Application Guide",
+      "title": "Nextjs Application Guide",
+      "description": "[[Create Nextjs App]]"
+    },
+    "Frontend/Nextjs/Nextjs Application Structure": {
+      "id": "Frontend/Nextjs/Nextjs Application Structure",
+      "title": "Nextjs Application Structure",
+      "description": "Nextjs File Structure"
+    },
+    "Frontend/Nextjs/Nextjs Basic Concepts": {
+      "id": "Frontend/Nextjs/Nextjs Basic Concepts",
+      "title": "Nextjs Basic Concepts",
+      "description": "[[ Nextjs Server Components]]"
+    },
+    "Frontend/Nextjs/Nextjs Client Components": {
+      "id": "Frontend/Nextjs/Nextjs Client Components",
+      "title": "Nextjs Client Components",
+      "description": "1. Regular React components in Next.js."
+    },
+    "Frontend/Nextjs/Nextjs Project Structure": {
+      "id": "Frontend/Nextjs/Nextjs Project Structure",
+      "title": "Nextjs Project Structure",
+      "description": ""
+    },
+    "Frontend/Nextjs/Nextjs Server Components": {
+      "id": "Frontend/Nextjs/Nextjs Server Components",
+      "title": "Nextjs Server Components",
+      "description": "1. New feature in Next.js for dynamic server-rendered UI components."
+    },
+    "Frontend/Nextjs/Nextjs Thinking in Server Components": {
+      "id": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+      "title": "Nextjs Thinking in Server Components",
+      "description": "all components inside the App Router are Server Components by default, including special files and colocated components. This allows you to automatically adopt them with no extra work, and achieve great performance out of the box. You can also optionally opt-in to Client Components using the 'use client' directive."
+    },
+    "Frontend/Nextjs/Nextjs to ghpages": {
+      "id": "Frontend/Nextjs/Nextjs to ghpages",
+      "title": "Nextjs to ghpages",
+      "description": ""
+    },
+    "Frontend/Nextjs/Nextjs vs Remix": {
+      "id": "Frontend/Nextjs/Nextjs vs Remix",
+      "title": "Nextjs vs Remix",
+      "description": "https://www.altogic.com/blog/nextjs-vs-remix"
+    },
+    "Frontend/Nextjs/Nextra": {
+      "id": "Frontend/Nextjs/Nextra",
+      "title": "Nextra",
+      "description": "shttps://nextra.site/"
+    },
+    "Frontend/Nextjs/NpmIgnore file": {
+      "id": "Frontend/Nextjs/NpmIgnore file",
+      "title": "NpmIgnore file",
+      "description": "There is a commonly used file named .npmignore, which serves a similar purpose to .gitignore. The .npmignore file tells npm which files and directories should be excluded when your package is published to the npm registry."
+    },
+    "Frontend/Nextjs/Remix": {
+      "id": "Frontend/Nextjs/Remix",
+      "title": "Remix",
+      "description": "https://remix.run/"
+    },
+    "Frontend/Nextjs/Run Nextjs App": {
+      "id": "Frontend/Nextjs/Run Nextjs App",
+      "title": "Run Nextjs App",
+      "description": "Development Server"
+    },
+    "Frontend/Nextjs/Server Components": {
+      "id": "Frontend/Nextjs/Server Components",
+      "title": "Server Components",
+      "description": "1. New feature in Next.js for dynamic server-rendered UI components."
+    },
+    "Frontend/React/My React Approach": {
+      "id": "Frontend/React/My React Approach",
+      "title": "My React Approach",
+      "description": "React Components"
+    },
+    "Frontend/React/React": {
+      "id": "Frontend/React/React",
+      "title": "React",
+      "description": "React Key Points"
+    },
+    "Frontend/React/React Native": {
+      "id": "Frontend/React/React Native",
+      "title": "React Native",
+      "description": "https://reactnative.dev/"
+    },
+    "Frontend/React/React Quick Start": {
+      "id": "Frontend/React/React Quick Start",
+      "title": "React Quick Start",
+      "description": "- Quick Start Guide"
+    },
+    "Frontend/Vercel/Deploy Nextjs to Vercel": {
+      "id": "Frontend/Vercel/Deploy Nextjs to Vercel",
+      "title": "Deploy Nextjs to Vercel",
+      "description": "1. Login to Vercel."
+    },
+    "Frontend/Vercel/Vercel Introuction": {
+      "id": "Frontend/Vercel/Vercel Introuction",
+      "title": "Vercel Introuction",
+      "description": "Vercel is a cloud platform that provides a serverless deployment infrastructure for web applications. It allows developers to build, deploy, and scale websites and web applications with ease. Key points about Vercel include:"
+    },
+    "IDE/Emacs/Emacs": {
+      "id": "IDE/Emacs/Emacs",
+      "title": "Emacs",
+      "description": "To install the changes you made to your Doom Emacs configuration, you need to recompile and refresh your configuration. Follow these steps:"
+    },
+    "index": {
+      "id": "index",
+      "title": "DevOps Applications Automation Team Lead",
+      "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:"
+    },
+    "Language/Vocabulary/Vocabulary": {
+      "id": "Language/Vocabulary/Vocabulary",
+      "title": "Vocabulary",
+      "description": "- Non-Trivial ->"
+    },
+    "Leetcode/Introduction": {
+      "id": "Leetcode/Introduction",
+      "title": "Introduction",
+      "description": "INtroduction To manual testing",
+      "sidebar": "LeetcodeSidebar"
+    },
+    "Linux/Bash Script/Bash": {
+      "id": "Linux/Bash Script/Bash",
+      "title": "Bash",
+      "description": "[[Bash vs Sh]]"
+    },
+    "Linux/Bash Script/Bash Commands": {
+      "id": "Linux/Bash Script/Bash Commands",
+      "title": "Bash Commands",
+      "description": "- Gets the parent folder name."
+    },
+    "Linux/Bash Script/Bash vs Sh": {
+      "id": "Linux/Bash Script/Bash vs Sh",
+      "title": "Bash vs Sh",
+      "description": ""
+    },
+    "Linux/Bash Script/Passing Parameters In Bash": {
+      "id": "Linux/Bash Script/Passing Parameters In Bash",
+      "title": "Passing Parameters In Bash",
+      "description": "In Bash scripts, you can pass parameters to the script when executing it from the command line. These parameters are accessed within the script using special variables. The most common variables used for parameter passing are $1, $2, $3, and so on, which represent the first, second, third, and subsequent parameters, respectively. Here's an example:"
+    },
+    "Linux/Chroot": {
+      "id": "Linux/Chroot",
+      "title": "Chroot",
+      "description": "chroot is a command in Unix-like operating systems that allows you to change the root directory for a specific process or set of processes, creating a new environment isolated from the rest of the system."
+    },
+    "Linux/Linux": {
+      "id": "Linux/Linux",
+      "title": "Linux",
+      "description": "- [[Chroot]]"
+    },
+    "Linux/Linux Namespaces": {
+      "id": "Linux/Linux Namespaces",
+      "title": "Linux Namespaces",
+      "description": "- Linux namespaces provide process-level isolation by virtualizing system resources, allowing processes to have their own independent namespaces for process IDs, network interfaces, file systems, and other system resources."
+    },
+    "Linux/My Arch Rice/Asahi Linux Setup": {
+      "id": "Linux/My Arch Rice/Asahi Linux Setup",
+      "title": "Asahi Linux Setup",
+      "description": ""
+    },
+    "Linux/My Arch Rice/Install Docker on Arch Linux": {
+      "id": "Linux/My Arch Rice/Install Docker on Arch Linux",
+      "title": "Install Docker on Arch Linux",
+      "description": "To install Docker on Arch Linux, you can follow these steps:"
+    },
+    "Linux/My Arch Rice/Install Touch pad config": {
+      "id": "Linux/My Arch Rice/Install Touch pad config",
+      "title": "Install Touch pad config",
+      "description": "If you're experiencing issues with the touchpad on Arch Linux running on a MacBook M1 with Asahi Linux, you can try the following steps to potentially fix the problem:"
+    },
+    "Linux/My Arch Rice/Install Yay": {
+      "id": "Linux/My Arch Rice/Install Yay",
+      "title": "Install Yay",
+      "description": "To install yay on Arch Linux, you can follow these steps:"
+    },
+    "Linux/My Arch Rice/My Arch Rice": {
+      "id": "Linux/My Arch Rice/My Arch Rice",
+      "title": "My Arch Rice",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Linux/zsh/Sub Shell Output": {
+      "id": "Linux/zsh/Sub Shell Output",
+      "title": "Sub Shell Output",
+      "description": "If you are calling a script inside your custom function in the .zshrc file and not seeing the output in the terminal, it could be because the script is running in a subshell. By default, a subshell does not inherit the I/O streams of the parent shell."
+    },
+    "Linux/zsh/zshrc": {
+      "id": "Linux/zsh/zshrc",
+      "title": "zshrc",
+      "description": "To pass parameters to a custom command defined in your .zshrc file, you can modify the function to accept arguments and then call it with the desired parameters. Here's an example:"
+    },
+    "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw": {
+      "id": "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
+      "title": "Drawing 2023-08-24 20.24.52.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "ManualTesting/Introduction": {
+      "id": "ManualTesting/Introduction",
+      "title": "Introduction",
+      "description": "Software Testing",
+      "sidebar": "ApiTestingSidebar"
+    },
+    "ManualTesting/Testing Types": {
+      "id": "ManualTesting/Testing Types",
+      "title": "Testing Types",
+      "description": ""
+    },
+    "Mermaid/Mermaid": {
+      "id": "Mermaid/Mermaid",
+      "title": "Mermaid",
+      "description": "- I use Mermaid for all my Diagrams are charting needs inside my project."
+    },
+    "My Certifications/Certified AWS Solutions Architect Professional": {
+      "id": "My Certifications/Certified AWS Solutions Architect Professional",
+      "title": "Certified AWS Solutions Architect Professional",
+      "description": "- Exam Guide - https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf"
+    },
+    "My Certifications/My Certifications": {
+      "id": "My Certifications/My Certifications",
+      "title": "My Certifications",
+      "description": "- Certified AWS Solutions Architect Associate"
+    },
+    "Obsidian/Obsidian": {
+      "id": "Obsidian/Obsidian",
+      "title": "Obsidian",
+      "description": "- Obsidian is a note-taking app known for its flexibility and interconnectedness."
+    },
+    "Obsidian/Organizing notes in Obsidian": {
+      "id": "Obsidian/Organizing notes in Obsidian",
+      "title": "Organizing notes in Obsidian",
+      "description": "- I prefer using tags and nested tags to organizing obsidian notes."
+    },
+    "Obsidian/Zettelkasten Approach": {
+      "id": "Obsidian/Zettelkasten Approach",
+      "title": "Zettelkasten Approach",
+      "description": "- Zettelkasten Approach of note taking."
+    },
+    "Selenium/Introduction": {
+      "id": "Selenium/Introduction",
+      "title": "Introduction",
+      "description": "INtroduction To manual testing",
+      "sidebar": "SeleniumSidebar"
+    },
+    "Skills/My Skills": {
+      "id": "Skills/My Skills",
+      "title": "My Skills",
+      "description": "In my role as a test automation software engineer, I have developed a range of skills and qualities that contribute to my effectiveness in software testing. These attributes enable me to collaborate seamlessly with development teams and ensure the quality of software products. Here's a look at my key skills and qualities:"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template."
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed..."
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack)."
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features."
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs."
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French."
+    },
+    "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw": {
+      "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
+      "title": "Drawing 2023-07-30 10.05.42.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Visual Personal Knowledge Management/Excalidraw": {
+      "id": "Visual Personal Knowledge Management/Excalidraw",
+      "title": "Excalidraw",
+      "description": "Reference"
+    },
+    "Visual Personal Knowledge Management/MidJourney/MidJourney": {
+      "id": "Visual Personal Knowledge Management/MidJourney/MidJourney",
+      "title": "MidJourney",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Work in Progress/Elastic Search": {
+      "id": "Work in Progress/Elastic Search",
+      "title": "Elastic Search",
+      "description": "https://www.elastic.co/what-is/elasticsearch"
+    },
+    "Work in Progress/Observibility": {
+      "id": "Work in Progress/Observibility",
+      "title": "Observibility",
+      "description": "1. Create a Dockerfile: Start by creating a text file called \"Dockerfile\" (with no file extension) in the root directory of your project."
+    },
+    "Xassets/docusaurus-asset-example-banner.png": {
+      "id": "Xassets/docusaurus-asset-example-banner.png",
+      "title": "docusaurus-asset-example-banner.png",
+      "description": ""
+    }
+  }
+}

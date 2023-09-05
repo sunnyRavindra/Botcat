@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Leetcode/Introduction",
+  "id": "Leetcode/Introduction",
+  "title": "Introduction",
+  "description": "INtroduction To manual testing",
+  "source": "@site/docs/Leetcode/Introduction.mdx",
+  "sourceDirName": "Leetcode",
+  "slug": "/Leetcode/Introduction",
+  "permalink": "/docs/Leetcode/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "LeetcodeSidebar"
+}

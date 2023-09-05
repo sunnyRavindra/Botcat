@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Linux",
+  "id": "Linux/Linux",
+  "title": "Linux",
+  "description": "- [[Chroot]]",
+  "source": "@site/docs/Linux/Linux.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/",
+  "permalink": "/docs/Linux/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

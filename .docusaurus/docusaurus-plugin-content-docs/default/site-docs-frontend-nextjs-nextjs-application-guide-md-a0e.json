@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Nextjs Application Guide",
+  "id": "Frontend/Nextjs/Nextjs Application Guide",
+  "title": "Nextjs Application Guide",
+  "description": "[[Create Nextjs App]]",
+  "source": "@site/docs/Frontend/Nextjs/Nextjs Application Guide.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Nextjs Application Guide",
+  "permalink": "/docs/Frontend/Nextjs/Nextjs Application Guide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

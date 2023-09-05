@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Mermaid/Mermaid",
+  "id": "Mermaid/Mermaid",
+  "title": "Mermaid",
+  "description": "- I use Mermaid for all my Diagrams are charting needs inside my project.",
+  "source": "@site/docs/Mermaid/Mermaid.md",
+  "sourceDirName": "Mermaid",
+  "slug": "/Mermaid/",
+  "permalink": "/docs/Mermaid/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+  "id": "Frontend/Nextjs/Nextjs Thinking in Server Components",
+  "title": "Nextjs Thinking in Server Components",
+  "description": "all components inside the App Router are Server Components by default, including special files and colocated components. This allows you to automatically adopt them with no extra work, and achieve great performance out of the box. You can also optionally opt-in to Client Components using the 'use client' directive.",
+  "source": "@site/docs/Frontend/Nextjs/Nextjs Thinking in Server Components.md",
+  "sourceDirName": "Frontend/Nextjs",
+  "slug": "/Frontend/Nextjs/Nextjs Thinking in Server Components",
+  "permalink": "/docs/Frontend/Nextjs/Nextjs Thinking in Server Components",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/zsh/Sub Shell Output",
+  "id": "Linux/zsh/Sub Shell Output",
+  "title": "Sub Shell Output",
+  "description": "If you are calling a script inside your custom function in the .zshrc file and not seeing the output in the terminal, it could be because the script is running in a subshell. By default, a subshell does not inherit the I/O streams of the parent shell.",
+  "source": "@site/docs/Linux/zsh/Sub Shell Output.md",
+  "sourceDirName": "Linux/zsh",
+  "slug": "/Linux/zsh/Sub Shell Output",
+  "permalink": "/docs/Linux/zsh/Sub Shell Output",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

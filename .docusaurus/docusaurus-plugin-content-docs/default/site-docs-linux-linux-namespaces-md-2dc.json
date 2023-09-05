@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux/Linux Namespaces",
+  "id": "Linux/Linux Namespaces",
+  "title": "Linux Namespaces",
+  "description": "- Linux namespaces provide process-level isolation by virtualizing system resources, allowing processes to have their own independent namespaces for process IDs, network interfaces, file systems, and other system resources.",
+  "source": "@site/docs/Linux/Linux Namespaces.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/Linux Namespaces",
+  "permalink": "/docs/Linux/Linux Namespaces",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

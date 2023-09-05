@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Work in Progress/Observibility",
+  "id": "Work in Progress/Observibility",
+  "title": "Observibility",
+  "description": "1. Create a Dockerfile: Start by creating a text file called \"Dockerfile\" (with no file extension) in the root directory of your project.",
+  "source": "@site/docs/Work in Progress/Observibility.md",
+  "sourceDirName": "Work in Progress",
+  "slug": "/Work in Progress/Observibility",
+  "permalink": "/docs/Work in Progress/Observibility",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

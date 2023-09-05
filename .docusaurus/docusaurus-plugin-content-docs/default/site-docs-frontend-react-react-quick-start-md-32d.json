@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Frontend/React/React Quick Start",
+  "id": "Frontend/React/React Quick Start",
+  "title": "React Quick Start",
+  "description": "- Quick Start Guide",
+  "source": "@site/docs/Frontend/React/React Quick Start.md",
+  "sourceDirName": "Frontend/React",
+  "slug": "/Frontend/React/React Quick Start",
+  "permalink": "/docs/Frontend/React/React Quick Start",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

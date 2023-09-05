@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/My AWS Approach",
+  "id": "Aws/My AWS Approach",
+  "title": "My AWS Approach",
+  "description": "Design solutions for Organisational Complexities",
+  "source": "@site/docs/Aws/My AWS Approach.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/My AWS Approach",
+  "permalink": "/docs/Aws/My AWS Approach",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

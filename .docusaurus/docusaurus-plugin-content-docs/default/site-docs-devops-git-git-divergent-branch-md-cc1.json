@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git Divergent Branch",
+  "id": "Devops/Git/Git Divergent Branch",
+  "title": "Git Divergent Branch",
+  "description": "Divergent Git branches refer to branches that have diverged from each other. This means that the branches have separate and distinct commits that are not present in the other branch. In other words, both branches have progressed independently and have different sets of commits.",
+  "source": "@site/docs/Devops/Git/Git Divergent Branch.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git Divergent Branch",
+  "permalink": "/docs/Devops/Git/Git Divergent Branch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Aws/IAM Roles",
+  "id": "Aws/IAM Roles",
+  "title": "IAM Roles",
+  "description": "IAM Role",
+  "source": "@site/docs/Aws/IAM Roles.md",
+  "sourceDirName": "Aws",
+  "slug": "/Aws/IAM Roles",
+  "permalink": "/docs/Aws/IAM Roles",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

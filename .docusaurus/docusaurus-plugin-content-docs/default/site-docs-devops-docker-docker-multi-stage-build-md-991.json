@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Docker/Docker Multi Stage Build",
+  "id": "Devops/Docker/Docker Multi Stage Build",
+  "title": "Docker Multi Stage Build",
+  "description": "- Advantages",
+  "source": "@site/docs/Devops/Docker/Docker Multi Stage Build.md",
+  "sourceDirName": "Devops/Docker",
+  "slug": "/Devops/Docker/Docker Multi Stage Build",
+  "permalink": "/docs/Devops/Docker/Docker Multi Stage Build",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

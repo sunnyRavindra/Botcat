@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+  "id": "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+  "title": "Create State Machine",
+  "description": "1.  Open the Step Functions console and choose Create state machine.",
+  "source": "@site/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
+  "sourceDirName": "Aws/StepFunctions/CardProcessWorkflow",
+  "slug": "/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+  "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Create State Machine",
+    "author": "Sunny Ravindra"
+  },
+  "sidebar": "StepFunctionsSidebar",
+  "previous": {
+    "title": "Terminology",
+    "permalink": "/docs/Aws/StepFunctions/Basics/Terminology"
+  },
+  "next": {
+    "title": "ServiceIntegration",
+    "permalink": "/docs/Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration"
+  }
+}

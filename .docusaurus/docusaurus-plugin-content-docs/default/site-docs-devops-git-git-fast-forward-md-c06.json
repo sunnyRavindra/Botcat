@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Devops/Git/Git fast-forward",
+  "id": "Devops/Git/Git fast-forward",
+  "title": "Git fast-forward",
+  "description": "- Fast-forward is a merging scenario where Git can directly move the branch pointer forward to incorporate the changes, without creating a new merge commit.",
+  "source": "@site/docs/Devops/Git/Git fast-forward.md",
+  "sourceDirName": "Devops/Git",
+  "slug": "/Devops/Git/Git fast-forward",
+  "permalink": "/docs/Devops/Git/Git fast-forward",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
