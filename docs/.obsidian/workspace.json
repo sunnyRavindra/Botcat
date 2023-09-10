@@ -11,13 +11,24 @@
             "id": "f8e8eea891afc710",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Workflows.png"
+              }
+            }
+          },
+          {
+            "id": "3e0c06c3bd644908",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/QARoadMap.excalidraw.md"
+                "file": "My Social Docs/Banner.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "56a63d6912f69318",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/QARoadMap.excalidraw.md",
+                "file": "My Social Docs/Banner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/QARoadMap.excalidraw.md",
+                "file": "My Social Docs/Banner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/QARoadMap.excalidraw.md"
+                "file": "My Social Docs/Banner.md"
               }
             }
           }
@@ -145,8 +156,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "3e0c06c3bd644908",
   "lastOpenFiles": [
+    "Pasted Image 20230910222706_748.png",
+    "Pasted Image 20230910222635_835.png",
+    "Pasted Image 20230910222620_817.png",
+    "Pasted Image 20230910221848_186.png",
+    "Pasted Image 20230910221800_919.png",
+    "Pasted Image 20230910221726_527.png",
+    "Pasted Image 20230910221352_407.png",
+    "My Social Docs/Main.md",
+    "My Social Docs/Banner.md",
+    "My Social Docs/Selenium.png",
+    "Pasted Image 20230910210245_466.png",
+    "My Social Docs/TestAutomation.png",
+    "Profile.png",
+    "My Social Docs/Untitled.md",
+    "about.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "My Social Docs",
+    "Untitled.canvas",
+    "index.md",
+    "Excalidraw/QARoadMap.excalidraw.md",
     "Aws/ Region Selection Criteria.md",
     "Automation/Introduction.md",
     "Automation/Automation.md",
@@ -157,20 +189,8 @@
     "Work in Progress/Observibility.md",
     "Work in Progress/Elastic Search.md",
     "Xassets/docusaurus-asset-example-banner.png.md",
-    "Workflows.png",
-    "Untitled.canvas",
-    "TestingTypes.png",
-    "StateMachine.png",
-    "Pasted image 20230823171612.png",
-    "index.md",
-    "FunctionOrchestration.png",
-    "Branching.png",
-    "BasicsImage.png",
-    "about.md",
     "ManualTesting/Introduction.mdx",
     "ManualTesting/Testing Types.md",
-    "Excalidraw/QARoadMap.excalidraw.md",
-    "Untitled.md",
     "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw.md",
     "Skills/My Skills.md",
     "Skills",
@@ -182,17 +202,8 @@
     "Aws/StepFunctions/CardProcessWorkflow",
     "Aws/StepFunctions/Basics/Workflows.mdx",
     "Aws/StepFunctions/Basics/Usecases.mdx",
-    "Aws/StepFunctions/Basics/Basics.mdx",
-    "Aws/StepFunctions/StepFunctionsexcalidraw.png",
-    "Aws/te.png",
     "Pasted image 20230822133607.png.md",
     "excalibrain.md",
-    "Drawing 2023-08-22 22.41.10.excalidraw.md",
-    "Drawing 2023-08-22 21.30.28.excalidraw.md",
-    "Pasted image 20230822103941.png",
-    "My Kanban.md",
-    "intro.md",
-    "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw.md",
-    "Aws/StepFunctions Basics/Drawing 2023-08-22 13.35.29.excalidraw.md"
+    "Drawing 2023-08-22 22.41.10.excalidraw.md"
   ]
 }
