@@ -63,6 +63,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       docs: {
         sidebar: {
           hideable: true,
@@ -83,12 +88,12 @@ const config = {
           //   position: 'left',
           //   label: 'Step Functions',
           // },
-          {
-            type: 'docSidebar',
-            sidebarId: 'ApiTestingSidebar',
-            position: 'left',
-            label: 'API Testing',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'ApiTestingSidebar',
+          //   position: 'left',
+          //   label: 'API Testing',
+          // },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'SeleniumSidebar',
@@ -113,13 +118,16 @@ const config = {
           //   position: 'left',
           //   label: 'AWS',
           // },
-          {to: '/blog', label: 'QA RoadMap', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Email', position: 'right'},
+          {to: 'https://www.linkedin.com/in/sunnybharne/', label: 'LinkedIn', position: 'right'},
+          {to: 'https://github.com/sunnyRavindra', label: 'Github', position: 'right'},
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/sunnyravindra',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/sunnyravindra',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
           // {
           //   href: '/aboutme',
           //   label: 'AboutMe',
@@ -127,8 +135,8 @@ const config = {
           // },
         ],
       },
-      footer: {
-        style: 'dark',
+      // footer: {
+        // style: 'light',
         // links: [
         //   {
         //     title: 'Docs',
@@ -170,8 +178,8 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Devops Approach for Test Automation Engineers.`,
-      },
+        // copyright: `Copyright © ${new Date().getFullYear()} Devops Approach for Test Automation Engineers.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

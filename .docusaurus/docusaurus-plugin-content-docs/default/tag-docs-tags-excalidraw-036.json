@@ -2,13 +2,19 @@
   "label": "excalidraw",
   "permalink": "/docs/tags/excalidraw",
   "allTagsPath": "/docs/tags",
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "id": "Aws/AWSD",
       "title": "AWSD",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/docs/Aws/AWSD"
+    },
+    {
+      "id": "My Social Docs/Banner",
+      "title": "Banner",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/docs/My Social Docs/Banner"
     },
     {
       "id": "Devops/Devops",

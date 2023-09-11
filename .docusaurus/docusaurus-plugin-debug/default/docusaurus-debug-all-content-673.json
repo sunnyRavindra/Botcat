@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sunnybharne/code/SunnyRavindraPortfolio/sidebars.js",
-          "contentPath": "/Users/sunnybharne/code/SunnyRavindraPortfolio/docs",
-          "contentPathLocalized": "/Users/sunnybharne/code/SunnyRavindraPortfolio/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/sunnybharne/code/Botcat/sidebars.js",
+          "contentPath": "/Users/sunnybharne/code/Botcat/docs",
+          "contentPathLocalized": "/Users/sunnybharne/code/Botcat/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "about",
@@ -1668,7 +1668,7 @@
             {
               "unversionedId": "index",
               "id": "index",
-              "title": "DevOps Applications Automation Team Lead",
+              "title": "Index page",
               "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
               "source": "@site/docs/index.md",
               "sourceDirName": ".",
@@ -1677,7 +1677,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Index page"
+              }
             },
             {
               "unversionedId": "Language/Vocabulary/Vocabulary",
@@ -2010,6 +2012,44 @@
               "frontMatter": {}
             },
             {
+              "unversionedId": "My Social Docs/Banner",
+              "id": "My Social Docs/Banner",
+              "title": "Banner",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/My Social Docs/Banner.md",
+              "sourceDirName": "My Social Docs",
+              "slug": "/My Social Docs/Banner",
+              "permalink": "/docs/My Social Docs/Banner",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "My Social Docs/Main",
+              "id": "My Social Docs/Main",
+              "title": "Main",
+              "description": "![[Selenium.png]]",
+              "source": "@site/docs/My Social Docs/Main.md",
+              "sourceDirName": "My Social Docs",
+              "slug": "/My Social Docs/Main",
+              "permalink": "/docs/My Social Docs/Main",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
               "unversionedId": "Obsidian/Obsidian",
               "id": "Obsidian/Obsidian",
               "title": "Obsidian",
@@ -2215,6 +2255,34 @@
               "frontMatter": {
                 "sidebar_position": 2
               }
+            },
+            {
+              "unversionedId": "Untitled",
+              "id": "Untitled",
+              "title": "Untitled",
+              "description": "",
+              "source": "@site/docs/Untitled.md",
+              "sourceDirName": ".",
+              "slug": "/Untitled",
+              "permalink": "/docs/Untitled",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Untitled 1",
+              "id": "Untitled 1",
+              "title": "Untitled 1",
+              "description": "",
+              "source": "@site/docs/Untitled 1.md",
+              "sourceDirName": ".",
+              "slug": "/Untitled 1",
+              "permalink": "/docs/Untitled 1",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             },
             {
               "unversionedId": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
@@ -2685,24 +2753,15 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
-        "type": "jsx",
-        "permalink": "/",
-        "source": "@site/src/pages/index.tsx"
-      },
-      {
         "type": "mdx",
         "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
         "frontMatter": {
-          "title": "Markdown page example"
+          "title": "Markdown page example",
+          "slug": "/"
         }
-      },
-      {
-        "type": "jsx",
-        "permalink": "/aboutme/",
-        "source": "@site/src/pages/aboutme/index.tsx"
       }
     ]
   },

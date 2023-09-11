@@ -26,20 +26,25 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sunnybharne/code/SunnyRavindraPortfolio/sidebars.js"
+          "sidebarPath": "/Users/sunnybharne/code/Botcat/sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/sunnybharne/code/SunnyRavindraPortfolio/src/css/custom.css"
+          "customCss": "/Users/sunnybharne/code/Botcat/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
+    },
     "docs": {
       "sidebar": {
         "hideable": true,
@@ -56,27 +61,26 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "ApiTestingSidebar",
-          "position": "left",
-          "label": "API Testing"
-        },
-        {
           "to": "/blog",
-          "label": "QA RoadMap",
+          "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/sunnyravindra",
-          "label": "GitHub",
+          "to": "/blog",
+          "label": "Email",
+          "position": "right"
+        },
+        {
+          "to": "https://www.linkedin.com/in/sunnybharne/",
+          "label": "LinkedIn",
+          "position": "right"
+        },
+        {
+          "to": "https://github.com/sunnyRavindra",
+          "label": "Github",
           "position": "right"
         }
       ]
-    },
-    "footer": {
-      "style": "dark",
-      "copyright": "Copyright © 2023 Devops Approach for Test Automation Engineers.",
-      "links": []
     },
     "prism": {
       "theme": {
@@ -281,11 +285,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "metadata": [],
     "tableOfContents": {

@@ -1,3 +1,6 @@
+---
+title: Index page
+---
 # DevOps Applications Automation Team Lead
 
 Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:
@@ -32,3 +35,6 @@ I hold the AWS Solutions Architect Associate certification, which validates my k
 For more information about me, my projects, and my experience, please visit my [portfolio site](https://www.botcat.org/). The site provides additional details and showcases my work in the field of DevOps and software automation.
 
 Thank you for visiting my portfolio. I look forward to connecting with you and discussing exciting opportunities in the world of DevOps!
+
+
+

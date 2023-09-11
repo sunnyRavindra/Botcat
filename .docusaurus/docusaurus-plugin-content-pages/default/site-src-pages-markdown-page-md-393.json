@@ -5,6 +5,7 @@
   "title": "Markdown page example",
   "description": "You don't need React to write simple standalone pages.",
   "frontMatter": {
-    "title": "Markdown page example"
+    "title": "Markdown page example",
+    "slug": "/"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "index",
   "id": "index",
-  "title": "DevOps Applications Automation Team Lead",
+  "title": "Index page",
   "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
@@ -10,5 +10,7 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Index page"
+  }
 }

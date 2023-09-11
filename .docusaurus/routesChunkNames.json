@@ -1,58 +1,51 @@
 {
-  "/__docusaurus/debug-940": {
+  "/__docusaurus/debug-f97": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/__docusaurus/debug/config-863": {
+  "/__docusaurus/debug/config-c5a": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/__docusaurus/debug/content-999": {
+  "/__docusaurus/debug/content-997": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-4f7": {
+  "/__docusaurus/debug/globalData-74f": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/__docusaurus/debug/metadata-92e": {
+  "/__docusaurus/debug/metadata-3b0": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/__docusaurus/debug/registry-598": {
+  "/__docusaurus/debug/registry-656": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/__docusaurus/debug/routes-df2": {
+  "/__docusaurus/debug/routes-690": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-0-d-1-cd1"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     }
   },
-  "/aboutme/-a59": {
-    "__comp": "__comp---site-src-pages-aboutme-index-tsxe-0-f-73b",
-    "__context": {
-      "plugin": "plugin---aboutme-ab-9-335"
-    },
-    "config": "config---aboutme-5-e-9-208"
-  },
-  "/blog-81d": {
+  "/blog-9a3": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -71,57 +64,57 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2021/08/26/welcome-d4d": {
+  "/blog/2021/08/26/welcome-ffa": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2021-08-26-welcomed-9-f-8df"
   },
-  "/blog/archive-41f": {
+  "/blog/archive-419": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/first-blog-post-dcb": {
+  "/blog/first-blog-post-a94": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-c73": {
+  "/blog/long-blog-post-ae7": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-2a4": {
+  "/blog/mdx-blog-post-06d": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-93f": {
+  "/blog/tags-de9": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/docusaurus-04d": {
+  "/blog/tags/docusaurus-4cf": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -138,10 +131,10 @@
     "tag": "tag---blog-tags-docusaurusa-80-728",
     "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/blog/tags/hello-467": {
+  "/blog/tags/hello-f6d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -152,10 +145,10 @@
     "tag": "tag---blog-tags-hello-30-a-bed",
     "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
-  "/blog/tags/hola-346": {
+  "/blog/tags/hola-e62": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogd-74-f22"
+      "plugin": "plugin---blog-446-894"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -166,31 +159,31 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/docs/tags-95c": {
+  "/docs/tags-8e8": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "plugin---docs-tags-4-dc-b4d"
+      "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "tags": "tags---docs-tags-559-5e5"
   },
-  "/docs/tags/excalidraw-20b": {
+  "/docs/tags/excalidraw-3a7": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tags-4-dc-b4d"
+      "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
   },
-  "/markdown-page-8b6": {
+  "/markdown-page-b29": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---aboutme-ab-9-335"
+      "plugin": "plugin---aboutme-67-f-d33"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-aee": {
+  "/docs-37a": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-tags-4-dc-b4d"
+      "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -710,6 +703,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-my-certifications-certified-aws-solutions-architect-professionalf-3-c-727"
   },
+  "/docs/My Social Docs/Banner-bf1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-social-docs-bannere-34-626"
+  },
+  "/docs/My Social Docs/Main-8d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-social-docs-main-3-cc-651"
+  },
   "/docs/Obsidian/-6d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-obsidian-565-958"
@@ -762,6 +763,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
+  "/docs/Untitled-c2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-untitled-77-e-086"
+  },
+  "/docs/Untitled 1-550": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-untitled-1-aeb-495"
+  },
   "/docs/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw-eea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-visual-personal-knowledge-management-drawing-2023-07-30-10-05-42-excalidrawd-5-c-52a"
@@ -785,12 +794,5 @@
   "/docs/Xassets/docusaurus-asset-example-banner.png-eed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-xassets-docusaurus-asset-example-banner-png-65-b-04d"
-  },
-  "/-b53": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
-    "__context": {
-      "plugin": "plugin---aboutme-ab-9-335"
-    },
-    "config": "config---aboutme-5-e-9-208"
   }
 }

@@ -650,7 +650,7 @@
     },
     "index": {
       "id": "index",
-      "title": "DevOps Applications Automation Team Lead",
+      "title": "Index page",
       "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:"
     },
     "Language/Vocabulary/Vocabulary": {
@@ -765,6 +765,16 @@
       "title": "My Certifications",
       "description": "- Certified AWS Solutions Architect Associate"
     },
+    "My Social Docs/Banner": {
+      "id": "My Social Docs/Banner",
+      "title": "Banner",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "My Social Docs/Main": {
+      "id": "My Social Docs/Main",
+      "title": "Main",
+      "description": "![[Selenium.png]]"
+    },
     "Obsidian/Obsidian": {
       "id": "Obsidian/Obsidian",
       "title": "Obsidian",
@@ -830,6 +840,16 @@
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French."
+    },
+    "Untitled": {
+      "id": "Untitled",
+      "title": "Untitled",
+      "description": ""
+    },
+    "Untitled 1": {
+      "id": "Untitled 1",
+      "title": "Untitled 1",
+      "description": ""
     },
     "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw": {
       "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",

@@ -537,6 +537,14 @@
               "path": "/docs/My Certifications/"
             },
             {
+              "id": "My Social Docs/Banner",
+              "path": "/docs/My Social Docs/Banner"
+            },
+            {
+              "id": "My Social Docs/Main",
+              "path": "/docs/My Social Docs/Main"
+            },
+            {
               "id": "Obsidian/Obsidian",
               "path": "/docs/Obsidian/"
             },
@@ -588,6 +596,14 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "Untitled",
+              "path": "/docs/Untitled"
+            },
+            {
+              "id": "Untitled 1",
+              "path": "/docs/Untitled 1"
             },
             {
               "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",

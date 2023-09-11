@@ -1,34 +1,29 @@
-# DevOps Applications Automation Team Lead
+![TestAutomationAndDevopsTechnicalLead](./img/TestAutomationLead.svg)
+<h1></h1>
+<p>     I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
+<p>I am a seasoned IT professional with extensive experience in Test Automation and DevOps transformation, and team leadership. I have managed teams and ensured the smooth functioning of multiple Selenium Frameworks and AWS Devops pipelines while providing automation support to several daily tasks as well as test Automation.</b></p>
 
-Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:
 
-- 🔭 I'm currently working on My DevOps Large Enterprise Practical Guide, where I share my knowledge and insights on DevOps practices for large enterprise environments.
-- 🌱 I'm currently learning CI/CD in Test Automation Frameworks to enhance my skills in building robust and automated software delivery pipelines.
-- 👯 I'm looking to collaborate on DevOps projects and work with like-minded professionals to drive innovation and improve software development processes.
-- 🤔 I'm looking for help with open source DevOps projects where I can contribute my expertise and learn from the community.
-- 💬 Feel free to ask me about anything related to DevOps. I'm always happy to share my knowledge and engage in meaningful discussions.
-- 📫 You can reach me via email at sunnyravbusiness@gmail.com. I'm open to networking, collaboration, and discussing new opportunities.
-- ⚡ Fun fact: I enjoy doing squats as a form of exercise to stay active and maintain a healthy lifestyle.
+![Banner](./img/Banner.svg)
 
-## Skills
 
-Here are some of my key skills and proficiencies:
+#### `Test Automation`
+| ![Selenium](img/Selenium.svg) | ![TestNG](img/TestNG.svg) | ![Java](img/Java.svg) | ![Cucumber](img/Cucumber.svg) | ![Playwright](img/Playwright.svg) |
+| -- | -- | -- | -- | -- |
+| [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
+| Page Object Model (POM) | Annotations | 
+| Extent Reports | Data Provider |  
+|  | Parametrization |
 
-- DevOps: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
-- Docker: ⭐⭐⭐⭐⭐⭐⭐⭐⭐ (9/10)
-- AWS Pipelines: ⭐⭐⭐⭐⭐⭐⭐⭐ (8/10)
-- AWS: ⭐⭐⭐⭐⭐⭐⭐ (7/10)
-- Java: ⭐⭐⭐⭐⭐⭐ (6/10)
-- Selenium: ⭐⭐⭐⭐⭐ (5/10)
+#### `Devops`
+| ![AWS](img/AWS.svg) | ![Docker](img/Docker.svg) | ![Jenkins](img/Jenkins.svg) | 
+| -- | -- | -- |
+| CDK IAC (Infrastructure as code) | Test Dockerization |
+| Code Commit | 
+| Code Build |  
 
-These skills reflect my experience and proficiency in various aspects of DevOps, containerization with Docker, AWS pipelines, AWS services, Java programming, and test automation with Selenium.
+<h1></h1>
 
-## Certification
+#### `Contact Me`
+[![LinkedIn](img/Linkedin.svg)](https://www.linkedin.com/in/sunnybharne)  [![Github](img/Github.svg)](https://github.com/sunnyRavindra)  [![Website](img/Website.svg)](https://www.botcat.org)  [![Email](img/Email.svg)](mailto:sunny.bharne.devops@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-I hold the AWS Solutions Architect Associate certification, which validates my knowledge and expertise in architecting solutions on the Amazon Web Services (AWS) platform. This certification demonstrates my ability to design and deploy scalable, reliable, and cost-effective applications on AWS.
-
-## Visit My Site
-
-For more information about me, my projects, and my experience, please visit my [portfolio site](https://www.botcat.org/). The site provides additional details and showcases my work in the field of DevOps and software automation.
-
-Thank you for visiting my portfolio. I look forward to connecting with you and discussing exciting opportunities in the world of DevOps!

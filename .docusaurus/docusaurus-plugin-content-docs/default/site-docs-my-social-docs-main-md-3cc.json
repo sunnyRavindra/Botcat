@@ -1,0 +1,14 @@
+{
+  "unversionedId": "My Social Docs/Main",
+  "id": "My Social Docs/Main",
+  "title": "Main",
+  "description": "![[Selenium.png]]",
+  "source": "@site/docs/My Social Docs/Main.md",
+  "sourceDirName": "My Social Docs",
+  "slug": "/My Social Docs/Main",
+  "permalink": "/docs/My Social Docs/Main",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
