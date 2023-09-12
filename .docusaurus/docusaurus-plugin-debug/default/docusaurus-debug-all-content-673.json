@@ -18,20 +18,6 @@
           "contentPathLocalized": "/Users/sunnybharne/code/Botcat/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "about",
-              "id": "about",
-              "title": "DevOps Applications Automation Team Lead",
-              "description": "Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
-              "source": "@site/docs/about.md",
-              "sourceDirName": ".",
-              "slug": "/about",
-              "permalink": "/docs/about",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {}
-            },
-            {
               "unversionedId": "assets/docusaurus-asset-example-banner.png",
               "id": "assets/docusaurus-asset-example-banner.png",
               "title": "docusaurus-asset-example-banner.png",
@@ -1666,22 +1652,6 @@
               "frontMatter": {}
             },
             {
-              "unversionedId": "index",
-              "id": "index",
-              "title": "Index page",
-              "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:",
-              "source": "@site/docs/index.md",
-              "sourceDirName": ".",
-              "slug": "/",
-              "permalink": "/docs/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Index page"
-              }
-            },
-            {
               "unversionedId": "Language/Vocabulary/Vocabulary",
               "id": "Language/Vocabulary/Vocabulary",
               "title": "Vocabulary",
@@ -2754,12 +2724,12 @@
     "default": [
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
+        "permalink": "/",
+        "source": "@site/src/pages/index.mdx",
+        "title": "Home Page",
+        "description": "TestAutomationAndDevopsTechnicalLead",
         "frontMatter": {
-          "title": "Markdown page example",
+          "title": "Home Page",
           "slug": "/"
         }
       }

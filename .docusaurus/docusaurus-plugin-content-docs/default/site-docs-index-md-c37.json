@@ -11,6 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Index page"
+    "title": "Index page",
+    "slug": "/"
   }
 }

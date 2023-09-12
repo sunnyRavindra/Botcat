@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.mdx",
+  "title": "Home Page",
+  "description": "TestAutomationAndDevopsTechnicalLead",
+  "frontMatter": {
+    "title": "Home Page",
+    "slug": "/"
+  }
+}

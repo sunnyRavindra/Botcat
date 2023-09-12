@@ -88,12 +88,12 @@ const config = {
           //   position: 'left',
           //   label: 'Step Functions',
           // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'ApiTestingSidebar',
-          //   position: 'left',
-          //   label: 'API Testing',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'ApiTestingSidebar',
+            position: 'left',
+            label: 'API Testing',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'SeleniumSidebar',
@@ -120,6 +120,7 @@ const config = {
           // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blog', label: 'Email', position: 'right'},
+          {to: 'https://github.com/sunnyRavindra', label: 'Resume', position: 'right'},
           {to: 'https://www.linkedin.com/in/sunnybharne/', label: 'LinkedIn', position: 'right'},
           {to: 'https://github.com/sunnyRavindra', label: 'Github', position: 'right'},
           // {to: '/blog', label: 'Blog', position: 'left'},

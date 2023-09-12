@@ -98,24 +98,9 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'b29'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '37a'),
+    component: ComponentCreator('/docs', '219'),
     routes: [
-      {
-        path: '/docs/',
-        component: ComponentCreator('/docs/', 'b00'),
-        exact: true
-      },
-      {
-        path: '/docs/about',
-        component: ComponentCreator('/docs/about', 'df2'),
-        exact: true
-      },
       {
         path: '/docs/assets/docusaurus-asset-example-banner.png',
         component: ComponentCreator('/docs/assets/docusaurus-asset-example-banner.png', '0d3'),
@@ -878,6 +863,11 @@ export default [
         exact: true
       }
     ]
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', 'dd1'),
+    exact: true
   },
   {
     path: '*',

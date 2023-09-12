@@ -110,11 +110,6 @@
     ]
   },
   "docs": {
-    "about": {
-      "id": "about",
-      "title": "DevOps Applications Automation Team Lead",
-      "description": "Welcome to my portfolio site! I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:"
-    },
     "assets/docusaurus-asset-example-banner.png": {
       "id": "assets/docusaurus-asset-example-banner.png",
       "title": "docusaurus-asset-example-banner.png",
@@ -647,11 +642,6 @@
       "id": "IDE/Emacs/Emacs",
       "title": "Emacs",
       "description": "To install the changes you made to your Doom Emacs configuration, you need to recompile and refresh your configuration. Follow these steps:"
-    },
-    "index": {
-      "id": "index",
-      "title": "Index page",
-      "description": "Hi, I am a DevOps Applications Automation Team Lead with a passion for building efficient and scalable software solutions. Here's some information about me:"
     },
     "Language/Vocabulary/Vocabulary": {
       "id": "Language/Vocabulary/Vocabulary",

@@ -61,6 +61,12 @@ export default {
       },
       "items": [
         {
+          "type": "docSidebar",
+          "sidebarId": "ApiTestingSidebar",
+          "position": "left",
+          "label": "API Testing"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
@@ -68,6 +74,11 @@ export default {
         {
           "to": "/blog",
           "label": "Email",
+          "position": "right"
+        },
+        {
+          "to": "https://github.com/sunnyRavindra",
+          "label": "Resume",
           "position": "right"
         },
         {

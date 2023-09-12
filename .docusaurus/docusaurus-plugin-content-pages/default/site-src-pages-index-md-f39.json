@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/",
+  "source": "@site/src/pages/index.md",
+  "title": "Home Page",
+  "description": "I'm Sunny, Test Automation and Devops Technical Lead, currently living in Pune , India",
+  "frontMatter": {
+    "title": "Home Page",
+    "slug": "/"
+  }
+}

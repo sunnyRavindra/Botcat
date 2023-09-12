@@ -173,27 +173,12 @@
     },
     "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
   },
-  "/markdown-page-b29": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---aboutme-67-f-d33"
-    },
-    "content": "content---markdown-page-393-028"
-  },
-  "/docs-37a": {
+  "/docs-219": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
-  },
-  "/docs/-b00": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-c-37-4d0"
-  },
-  "/docs/about-df2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-about-3-d-8-538"
   },
   "/docs/assets/docusaurus-asset-example-banner.png-0d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -794,5 +779,12 @@
   "/docs/Xassets/docusaurus-asset-example-banner.png-eed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-xassets-docusaurus-asset-example-banner-png-65-b-04d"
+  },
+  "/-dd1": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-67-f-7e2"
+    },
+    "content": "content---e-7-c-0a5"
   }
 }

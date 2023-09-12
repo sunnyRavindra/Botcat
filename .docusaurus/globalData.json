@@ -8,12 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "index",
+          "mainDocId": "Aws/StepFunctions/Introduction",
           "docs": [
-            {
-              "id": "about",
-              "path": "/docs/about"
-            },
             {
               "id": "assets/docusaurus-asset-example-banner.png",
               "path": "/docs/assets/docusaurus-asset-example-banner.png"
@@ -441,10 +437,6 @@
             {
               "id": "IDE/Emacs/Emacs",
               "path": "/docs/IDE/Emacs/"
-            },
-            {
-              "id": "index",
-              "path": "/docs/"
             },
             {
               "id": "Language/Vocabulary/Vocabulary",
