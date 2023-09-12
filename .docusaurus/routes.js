@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '219'),
+    component: ComponentCreator('/docs', 'be6'),
     routes: [
       {
         path: '/docs/assets/docusaurus-asset-example-banner.png',
@@ -231,6 +231,11 @@ export default [
       {
         path: '/docs/Aws/StepFunctions/StepFunctionsexcalidraw',
         component: ComponentCreator('/docs/Aws/StepFunctions/StepFunctionsexcalidraw', '11a'),
+        exact: true
+      },
+      {
+        path: '/docs/ContactMe',
+        component: ComponentCreator('/docs/ContactMe', 'fcd'),
         exact: true
       },
       {

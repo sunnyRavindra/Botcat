@@ -61,25 +61,14 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "ApiTestingSidebar",
-          "position": "left",
-          "label": "API Testing"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "to": "/blog",
-          "label": "Email",
+          "to": "/docs/ContactMe",
+          "label": "Contact Me",
           "position": "right"
         },
         {
-          "to": "https://github.com/sunnyRavindra",
-          "label": "Resume",
-          "position": "right"
+          "type": "html",
+          "position": "right",
+          "value": "<a href=\"/resume/SunnyRavindra_Resume.pdf\" download>Resume</a>"
         },
         {
           "to": "https://www.linkedin.com/in/sunnybharne/",
