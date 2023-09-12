@@ -136,8 +136,8 @@ const config = {
           // },
         ],
       },
-      // footer: {
-        // style: 'light',
+      footer: {
+        style: 'light',
         // links: [
         //   {
         //     title: 'Docs',
@@ -179,8 +179,9 @@ const config = {
         //     ],
         //   },
         // ],
-        // copyright: `Copyright © ${new Date().getFullYear()} Devops Approach for Test Automation Engineers.`,
-      // },
+        // copyright: `Copyright © ${new Date().getFullYear()}. Developer Sunny Ravindra Bharne.`,
+        copyright: `Sunny Ravindra Bharne`,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

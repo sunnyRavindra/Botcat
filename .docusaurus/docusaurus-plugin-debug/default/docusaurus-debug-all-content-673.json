@@ -2725,7 +2725,7 @@
       {
         "type": "mdx",
         "permalink": "/",
-        "source": "@site/src/pages/index.mdx",
+        "source": "@site/src/pages/index.md",
         "title": "Home Page",
         "description": "TestAutomationAndDevopsTechnicalLead",
         "frontMatter": {

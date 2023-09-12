@@ -93,6 +93,11 @@ export default {
         }
       ]
     },
+    "footer": {
+      "style": "light",
+      "copyright": "Sunny Ravindra Bharne",
+      "links": []
+    },
     "prism": {
       "theme": {
         "plain": {

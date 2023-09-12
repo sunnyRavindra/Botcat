@@ -866,7 +866,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'dd1'),
+    component: ComponentCreator('/', '759'),
     exact: true
   },
   {
