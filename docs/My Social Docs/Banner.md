@@ -65,7 +65,7 @@ Test Automation ^ZQJeqrwe
 
 Sunny Ravindra Bharne ^H90BIgXG
 
-DownLoad Resume ^wPlr4DbY
+Lead Test Automation and Devops Engineer ^wPlr4DbY
 
    Resume  ^1PNMDA55
 
@@ -3905,8 +3905,8 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 704,
-			"versionNonce": 1496176950,
+			"version": 813,
+			"versionNonce": 414262262,
 			"isDeleted": false,
 			"id": "o-ehciwRaVMoYFQ8EQWqy",
 			"fillStyle": "solid",
@@ -3916,10 +3916,10 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -633.6982421875,
-			"y": 994.8253076870496,
+			"y": 994.9717920620496,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1048.2421875,
+			"width": 847.0556640625,
 			"height": 297.32251648509174,
 			"seed": 2118119670,
 			"groupIds": [],
@@ -3928,15 +3928,15 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694540303222,
+			"updated": 1694542452498,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "Xylc8d_i5SNpa8AzrGnSH",
 			"type": "image",
-			"x": 117.1416015625,
-			"y": 1004.3557065545956,
+			"x": -78.1708984375,
+			"y": 1002.9396909295956,
 			"width": 281.83593749999994,
 			"height": 281.83593749999994,
 			"angle": 0,
@@ -3951,11 +3951,11 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 748544746,
-			"version": 883,
-			"versionNonce": 2082471210,
+			"version": 967,
+			"versionNonce": 2116804010,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1694540303222,
+			"updated": 1694542446397,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4005,8 +4005,8 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 		{
 			"id": "4trsQijEqZ0u8U2QyU6As",
 			"type": "rectangle",
-			"x": -555.37841796875,
-			"y": 1163.5270932733456,
+			"x": -555.38330078125,
+			"y": 1163.6638120233456,
 			"width": 389,
 			"height": 63,
 			"angle": 0,
@@ -4023,8 +4023,8 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 				"type": 3
 			},
 			"seed": 902296298,
-			"version": 165,
-			"versionNonce": 440059882,
+			"version": 170,
+			"versionNonce": 280165226,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -4032,17 +4032,17 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 					"id": "wPlr4DbY"
 				}
 			],
-			"updated": 1694540303222,
+			"updated": 1694542525762,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "wPlr4DbY",
 			"type": "text",
-			"x": -519.5483703613281,
-			"y": 1172.5270932733456,
-			"width": 317.33990478515625,
-			"height": 45,
+			"x": -535.1552124023438,
+			"y": 1185.1638120233456,
+			"width": 348.5438232421875,
+			"height": 20,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4055,22 +4055,22 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1028772650,
-			"version": 112,
-			"versionNonce": 1369801654,
+			"version": 216,
+			"versionNonce": 408157738,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1694540303223,
+			"updated": 1694542525762,
 			"link": null,
 			"locked": false,
-			"text": "DownLoad Resume",
-			"rawText": "DownLoad Resume",
-			"fontSize": 36,
+			"text": "Lead Test Automation and Devops Engineer",
+			"rawText": "Lead Test Automation and Devops Engineer",
+			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 32,
+			"baseline": 14,
 			"containerId": "4trsQijEqZ0u8U2QyU6As",
-			"originalText": "DownLoad Resume",
+			"originalText": "Lead Test Automation and Devops Engineer",
 			"lineHeight": 1.25
 		},
 		{
@@ -4424,6 +4424,43 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 			"originalText": "   Linkedin ",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"id": "gxyh3DUA",
+			"type": "text",
+			"x": 78.15625,
+			"y": 1150.5959409295956,
+			"width": 18,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffc9c9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 998521706,
+			"version": 2,
+			"versionNonce": 287084918,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1694542444053,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 32,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -4437,12 +4474,12 @@ f1731bdba714f4b61e77338e5c64076fda413629: [[Pasted Image 20230912230841_354.png]
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 36,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 930.96875,
-		"scrollY": -96.1818784295956,
+		"scrollX": 885.96875,
+		"scrollY": -513.6818784295956,
 		"zoom": {
 			"value": 0.8
 		},
