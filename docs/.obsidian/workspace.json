@@ -11,24 +11,15 @@
             "id": "f8e8eea891afc710",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Workflows.png"
-              }
-            }
-          },
-          {
-            "id": "3e0c06c3bd644908",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "My Social Docs/Banner.md"
+                "file": "Automation/Playwright.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Social Docs/Banner.md",
+                "file": "Automation/Playwright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Social Docs/Banner.md",
+                "file": "Automation/Playwright.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Social Docs/Banner.md"
+                "file": "Automation/Playwright.md"
               }
             }
           }
@@ -156,54 +147,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e0c06c3bd644908",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
-    "ContactMe.md",
-    "Pasted Image 20230912230841_354.png",
-    "My Social Docs/Banner.png",
-    "My Social Docs/Banner.md",
-    "index.mdx",
-    "Pasted Image 20230911160818_048.png",
-    "Pasted Image 20230911160801_040.png",
-    "Pasted Image 20230911160731_020.png",
-    "Pasted Image 20230911155119_198.png",
-    "Pasted Image 20230910222706_748.png",
-    "Pasted Image 20230910222635_835.png",
-    "Pasted Image 20230910222620_817.png",
-    "Pasted Image 20230910221848_186.png",
-    "My Social Docs/Main.md",
-    "My Social Docs/Untitled.md",
-    "about.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "My Social Docs",
-    "Untitled.canvas",
-    "index.md",
-    "Excalidraw/QARoadMap.excalidraw.md",
-    "Aws/ Region Selection Criteria.md",
-    "Automation/Introduction.md",
-    "Automation/Automation.md",
-    "assets/docusaurus-asset-example-banner.png.md",
-    "Visual Personal Knowledge Management/Excalidraw.md",
-    "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw.md",
-    "Visual Personal Knowledge Management/MidJourney/MidJourney.md",
-    "Work in Progress/Observibility.md",
-    "Work in Progress/Elastic Search.md",
-    "Xassets/docusaurus-asset-example-banner.png.md",
+    "ManualTesting/QARoadMap.excalidraw.md",
     "ManualTesting/Introduction.mdx",
-    "ManualTesting/Testing Types.md",
-    "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw.md",
-    "Skills/My Skills.md",
-    "Skills",
-    "Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration.mdx",
+    "My Social Docs/Profile.png",
+    "My Social Docs/Pasted Image 20230912230841_354.png",
+    "My Social Docs/Pasted Image 20230910210245_466.png",
+    "My Social Docs/Banner.md",
+    "Automation/Playwright.md",
+    "Vocabulary.md",
+    "ContactMe.md",
+    "My Social Docs/Pasted Image 20230911155119_198.png",
+    "My Social Docs/Pasted Image 20230910221726_527.png",
     "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
-    "Aws/StepFunctions/StepFunctionsexcalidraw.md",
+    "Aws/ Region Selection Criteria.md",
+    "Aws/Attribute-based access control (ABAC).md",
+    "Aws/AWS.md",
+    "Aws/My AWS Approach.md",
+    "Aws/IAM Roles.md",
+    "Aws/IAM Policy.md",
+    "Aws/IAM Identity Center.md",
+    "Aws/IAM.md",
+    "Linux/Bash Script/Passing Parameters In Bash.md",
+    "Linux/Bash Script/Bash vs Sh.md",
+    "Linux/Bash Script/Bash Commands.md",
+    "Linux/Bash Script/Bash.md",
+    "Linux/My Arch Rice/Asahi Linux Setup.md",
+    "Linux/My Arch Rice/Install Yay.md",
+    "Linux/My Arch Rice/Install Docker on Arch Linux.md",
+    "Linux/My Arch Rice/Install Touch pad config.md",
+    "Linux/My Arch Rice/My Arch Rice.md",
+    "Linux/Linux.md",
+    "Linux/Linux Namespaces.md",
+    "Linux/Chroot.md",
+    "Linux/zsh/zshrc.md",
     "Aws/StepFunctions/Introduction.mdx",
+    "Aws/StepFunctions/Basics/Usecases.mdx",
     "Aws/StepFunctions/Basics/Terminology.mdx",
-    "Aws/StepFunctions/CardProcessWorkflow",
-    "Aws/StepFunctions/Basics/Workflows.mdx",
-    "Pasted image 20230822133607.png.md",
-    "excalibrain.md",
-    "Drawing 2023-08-22 22.41.10.excalidraw.md"
+    "Finnish/Introduction.mdx",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Leetcode/Introduction.mdx",
+    "StateMachine.png",
+    "FunctionOrchestration.png",
+    "TestingTypes.png",
+    "StepFunctions.png",
+    "Selenium/Introduction.mdx",
+    "tutorial-basics/markdown-features.mdx",
+    "Untitled.canvas",
+    "index.mdx"
   ]
 }

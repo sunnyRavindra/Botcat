@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Docker/Docker Nicolaka Netshoot",
+  "id": "Docker/Docker Nicolaka Netshoot",
+  "title": "Docker Nicolaka Netshoot",
+  "description": "- Start a new container using the nicolaka/netshoot image.",
+  "source": "@site/docs/Docker/Docker Nicolaka Netshoot.md",
+  "sourceDirName": "Docker",
+  "slug": "/Docker/Docker Nicolaka Netshoot",
+  "permalink": "/docs/Docker/Docker Nicolaka Netshoot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

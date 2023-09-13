@@ -1,0 +1,17 @@
+{
+  "unversionedId": "Automation/Playwright",
+  "id": "Automation/Playwright",
+  "title": "Playwright",
+  "description": "Reference https://playwright.dev/",
+  "source": "@site/docs/Automation/Playwright.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/Playwright",
+  "permalink": "/docs/Automation/Playwright",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Playwright"
+  },
+  "sidebar": "AutomationSidebar"
+}

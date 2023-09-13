@@ -13,52 +13,51 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-
-  StepFunctionsSidebar: [
-    'Aws/StepFunctions/Introduction',
-    {
-      type: 'category',
-      label: 'StepFunctions Basics',
-      items: [
-        'Aws/StepFunctions/Basics/Basics',
-        'Aws/StepFunctions/Basics/Workflows',
-        'Aws/StepFunctions/Basics/Usecases',
-        'Aws/StepFunctions/Basics/Terminology',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Card Processing Workflow',
-      items: [
-        'Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine',
-        'Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration',
-      ],
-    },
-  ],
-
-  ManualTestingSidebar: [
-    'ManualTesting/Introduction',
-  ],
-
+  //
+  // StepFunctionsSidebar: [
+  //   'Aws/StepFunctions/Introduction',
+  //   {
+  //     type: 'category',
+  //     label: 'StepFunctions Basics',
+  //     items: [
+  //       'Aws/StepFunctions/Basics/Basics',
+  //       'Aws/StepFunctions/Basics/Workflows',
+  //       'Aws/StepFunctions/Basics/Usecases',
+  //       'Aws/StepFunctions/Basics/Terminology',
+  //     ],
+  //   },
+  //   {
+  //     type: 'category',
+  //     label: 'Card Processing Workflow',
+  //     items: [
+  //       'Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine',
+  //       'Aws/StepFunctions/CardProcessWorkflow/ServiceIntegration',
+  //     ],
+  //   },
+  // ],
+  //
+  // ManualTestingSidebar: [
+  //   'ManualTesting/Introduction',
+  // ],
+  //
   AutomationSidebar: [
-    'Automation/Introduction',
+    'Automation/Playwright',
   ],
-
-  ApiTestingSidebar: [
-    'ManualTesting/Introduction',
-  ],
-  SeleniumSidebar: [
-    'Selenium/Introduction',
-  ],
-
-  LeetcodeSidebar: [
-    'Leetcode/Introduction',
-  ],
-
-  FinnishSidebar: [
-    'Finnish/Introduction',
-  ],
-
+  //
+  // ApiTestingSidebar: [
+  //   'ManualTesting/Introduction',
+  // ],
+  // SeleniumSidebar: [
+  //   'Selenium/Introduction',
+  // ],
+  //
+  // LeetcodeSidebar: [
+  //   'Leetcode/Introduction',
+  // ],
+  //
+  // FinnishSidebar: [
+  //   'Finnish/Introduction',
+  // ],
 };
 
 module.exports = sidebars;

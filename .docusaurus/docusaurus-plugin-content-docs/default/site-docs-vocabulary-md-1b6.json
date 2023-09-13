@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Vocabulary",
+  "id": "Vocabulary",
+  "title": "Vocabulary",
+  "description": "- Non-Trivial ->",
+  "source": "@site/docs/Vocabulary.md",
+  "sourceDirName": ".",
+  "slug": "/Vocabulary",
+  "permalink": "/docs/Vocabulary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

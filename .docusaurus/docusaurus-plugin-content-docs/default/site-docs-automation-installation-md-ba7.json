@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Installation",
+  "id": "Automation/Installation",
+  "title": "Installation",
+  "description": "",
+  "source": "@site/docs/Automation/Installation.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/Installation",
+  "permalink": "/docs/Automation/Installation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

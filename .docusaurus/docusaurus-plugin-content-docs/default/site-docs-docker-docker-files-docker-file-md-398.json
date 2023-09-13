@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Docker/DockerFiles/DockerFile",
+  "id": "Docker/DockerFiles/DockerFile",
+  "title": "DockerFile",
+  "description": "- [[Nextjs Docker File]]",
+  "source": "@site/docs/Docker/DockerFiles/DockerFile.md",
+  "sourceDirName": "Docker/DockerFiles",
+  "slug": "/Docker/DockerFiles/DockerFile",
+  "permalink": "/docs/Docker/DockerFiles/DockerFile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Docker/Docker DevEnv Setup",
+  "id": "Docker/Docker DevEnv Setup",
+  "title": "Docker DevEnv Setup",
+  "description": "- I pory for all my git projects",
+  "source": "@site/docs/Docker/Docker DevEnv Setup.md",
+  "sourceDirName": "Docker",
+  "slug": "/Docker/Docker DevEnv Setup",
+  "permalink": "/docs/Docker/Docker DevEnv Setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

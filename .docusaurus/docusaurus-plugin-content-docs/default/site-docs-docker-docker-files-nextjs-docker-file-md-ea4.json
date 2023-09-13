@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Docker/DockerFiles/Nextjs Docker File",
+  "id": "Docker/DockerFiles/Nextjs Docker File",
+  "title": "Nextjs Docker File",
+  "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json.",
+  "source": "@site/docs/Docker/DockerFiles/Nextjs Docker File.md",
+  "sourceDirName": "Docker/DockerFiles",
+  "slug": "/Docker/DockerFiles/Nextjs Docker File",
+  "permalink": "/docs/Docker/DockerFiles/Nextjs Docker File",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

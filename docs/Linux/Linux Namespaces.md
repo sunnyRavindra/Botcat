@@ -1,1 +1,0 @@
-- Linux namespaces provide process-level isolation by virtualizing system resources, allowing processes to have their own independent namespaces for process IDs, network interfaces, file systems, and other system resources.

@@ -2,14 +2,8 @@
   "label": "excalidraw",
   "permalink": "/docs/tags/excalidraw",
   "allTagsPath": "/docs/tags",
-  "count": 14,
+  "count": 3,
   "items": [
-    {
-      "id": "Aws/AWSD",
-      "title": "AWSD",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Aws/AWSD"
-    },
     {
       "id": "My Social Docs/Banner",
       "title": "Banner",
@@ -17,76 +11,16 @@
       "permalink": "/docs/My Social Docs/Banner"
     },
     {
-      "id": "Devops/Devops",
-      "title": "Devops",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Devops/"
-    },
-    {
-      "id": "Devops/Docker/Docker 1",
+      "id": "Docker/Docker 1",
       "title": "Docker 1",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Devops/Docker/Docker 1"
+      "permalink": "/docs/Docker/Docker 1"
     },
     {
-      "id": "Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw",
-      "title": "Drawing 2023-07-30 10.05.42.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Visual Personal Knowledge Management/Drawing 2023-07-30 10.05.42.excalidraw"
-    },
-    {
-      "id": "Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw",
-      "title": "Drawing 2023-08-22 10.21.47.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Excalidraw/Drawing 2023-08-22 10.21.47.excalidraw"
-    },
-    {
-      "id": "Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw",
-      "title": "Drawing 2023-08-22 10.22.23.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Excalidraw/Drawing 2023-08-22 10.22.23.excalidraw"
-    },
-    {
-      "id": "Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw",
-      "title": "Drawing 2023-08-23 14.07.32.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Excalidraw/Drawing 2023-08-23 14.07.32.excalidraw"
-    },
-    {
-      "id": "ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw",
-      "title": "Drawing 2023-08-24 20.24.52.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/ManualTesting/Drawing 2023-08-24 20.24.52.excalidraw"
-    },
-    {
-      "id": "Every Thing I Know/Everything I Know",
-      "title": "Everything I Know",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Every Thing I Know/Everything I Know"
-    },
-    {
-      "id": "Visual Personal Knowledge Management/MidJourney/MidJourney",
-      "title": "MidJourney",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Visual Personal Knowledge Management/MidJourney/"
-    },
-    {
-      "id": "Linux/My Arch Rice/My Arch Rice",
-      "title": "My Arch Rice",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Linux/My Arch Rice/"
-    },
-    {
-      "id": "Excalidraw/QARoadMap.excalidraw",
+      "id": "ManualTesting/QARoadMap.excalidraw",
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Excalidraw/QARoadMap.excalidraw"
-    },
-    {
-      "id": "Aws/StepFunctions/StepFunctionsexcalidraw",
-      "title": "StepFunctionsexcalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Aws/StepFunctions/StepFunctionsexcalidraw"
+      "permalink": "/docs/ManualTesting/QARoadMap.excalidraw"
     }
   ]
 }

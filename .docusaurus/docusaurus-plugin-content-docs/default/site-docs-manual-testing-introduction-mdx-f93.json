@@ -10,6 +10,5 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "ApiTestingSidebar"
+  "frontMatter": {}
 }

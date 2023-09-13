@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Docker/Docker Volumes",
+  "id": "Docker/Docker Volumes",
+  "title": "Docker Volumes",
+  "description": "- Create Volume.",
+  "source": "@site/docs/Docker/Docker Volumes.md",
+  "sourceDirName": "Docker",
+  "slug": "/Docker/Docker Volumes",
+  "permalink": "/docs/Docker/Docker Volumes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
