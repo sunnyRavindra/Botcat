@@ -76,6 +76,14 @@
         "docId": "ManualTesting/Introduction"
       }
     ],
+    "AutomationSidebar": [
+      {
+        "type": "link",
+        "label": "Playwright",
+        "href": "/docs/Automation/Introduction",
+        "docId": "Automation/Introduction"
+      }
+    ],
     "ApiTestingSidebar": [
       {
         "type": "link",
@@ -115,15 +123,11 @@
       "title": "docusaurus-asset-example-banner.png",
       "description": ""
     },
-    "Automation/Automation": {
-      "id": "Automation/Automation",
-      "title": "Automation",
-      "description": "THis is the Automation new details coming from daku"
-    },
     "Automation/Introduction": {
       "id": "Automation/Introduction",
-      "title": "Introduction",
-      "description": "this is the Introduction file"
+      "title": "Playwright",
+      "description": "Reference https://playwright.dev/",
+      "sidebar": "AutomationSidebar"
     },
     "Aws/ Region Selection Criteria": {
       "id": "Aws/ Region Selection Criteria",

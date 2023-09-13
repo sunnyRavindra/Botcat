@@ -61,6 +61,12 @@ export default {
       },
       "items": [
         {
+          "type": "docSidebar",
+          "sidebarId": "AutomationSidebar",
+          "position": "left",
+          "label": "Automation"
+        },
+        {
           "to": "/docs/ContactMe",
           "label": "Contact Me",
           "position": "right"

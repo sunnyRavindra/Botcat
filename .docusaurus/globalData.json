@@ -15,12 +15,9 @@
               "path": "/docs/assets/docusaurus-asset-example-banner.png"
             },
             {
-              "id": "Automation/Automation",
-              "path": "/docs/Automation/"
-            },
-            {
               "id": "Automation/Introduction",
-              "path": "/docs/Automation/Introduction"
+              "path": "/docs/Automation/Introduction",
+              "sidebar": "AutomationSidebar"
             },
             {
               "id": "Aws/ Region Selection Criteria",
@@ -638,6 +635,12 @@
               "link": {
                 "path": "/docs/ManualTesting/Introduction",
                 "label": "ManualTesting/Introduction"
+              }
+            },
+            "AutomationSidebar": {
+              "link": {
+                "path": "/docs/Automation/Introduction",
+                "label": "Automation/Introduction"
               }
             },
             "ApiTestingSidebar": {

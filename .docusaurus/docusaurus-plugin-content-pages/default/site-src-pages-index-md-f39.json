@@ -2,10 +2,10 @@
   "type": "mdx",
   "permalink": "/",
   "source": "@site/src/pages/index.md",
-  "title": "Home Page",
+  "title": "Sunny Ravindra Bharne",
   "description": "TestAutomationAndDevopsTechnicalLead",
   "frontMatter": {
-    "title": "Home Page",
+    "title": "Sunny Ravindra Bharne",
     "slug": "/"
   }
 }

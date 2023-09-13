@@ -82,6 +82,12 @@ const config = {
           src: 'img/Logo.svg',
         },
         items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'AutomationSidebar',
+            position: 'left',
+            label: 'Automation',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'StepFunctionsSidebar',

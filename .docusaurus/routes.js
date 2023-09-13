@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'be6'),
+    component: ComponentCreator('/docs', '83b'),
     routes: [
       {
         path: '/docs/assets/docusaurus-asset-example-banner.png',
@@ -107,14 +107,10 @@ export default [
         exact: true
       },
       {
-        path: '/docs/Automation/',
-        component: ComponentCreator('/docs/Automation/', 'b33'),
-        exact: true
-      },
-      {
         path: '/docs/Automation/Introduction',
-        component: ComponentCreator('/docs/Automation/Introduction', '996'),
-        exact: true
+        component: ComponentCreator('/docs/Automation/Introduction', '813'),
+        exact: true,
+        sidebar: "AutomationSidebar"
       },
       {
         path: '/docs/Aws/',

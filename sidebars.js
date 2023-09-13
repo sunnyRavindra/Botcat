@@ -40,6 +40,10 @@ const sidebars = {
     'ManualTesting/Introduction',
   ],
 
+  AutomationSidebar: [
+    'Automation/Introduction',
+  ],
+
   ApiTestingSidebar: [
     'ManualTesting/Introduction',
   ],

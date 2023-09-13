@@ -32,24 +32,10 @@
               "frontMatter": {}
             },
             {
-              "unversionedId": "Automation/Automation",
-              "id": "Automation/Automation",
-              "title": "Automation",
-              "description": "THis is the Automation new details coming from daku",
-              "source": "@site/docs/Automation/Automation.md",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/",
-              "permalink": "/docs/Automation/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {}
-            },
-            {
               "unversionedId": "Automation/Introduction",
               "id": "Automation/Introduction",
-              "title": "Introduction",
-              "description": "this is the Introduction file",
+              "title": "Playwright",
+              "description": "Reference https://playwright.dev/",
               "source": "@site/docs/Automation/Introduction.md",
               "sourceDirName": "Automation",
               "slug": "/Automation/Introduction",
@@ -57,7 +43,10 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Playwright"
+              },
+              "sidebar": "AutomationSidebar"
             },
             {
               "unversionedId": "Aws/ Region Selection Criteria",
@@ -2427,6 +2416,12 @@
                 "id": "ManualTesting/Introduction"
               }
             ],
+            "AutomationSidebar": [
+              {
+                "type": "doc",
+                "id": "Automation/Introduction"
+              }
+            ],
             "ApiTestingSidebar": [
               {
                 "type": "doc",
@@ -2740,10 +2735,10 @@
         "type": "mdx",
         "permalink": "/",
         "source": "@site/src/pages/index.md",
-        "title": "Home Page",
+        "title": "Sunny Ravindra Bharne",
         "description": "TestAutomationAndDevopsTechnicalLead",
         "frontMatter": {
-          "title": "Home Page",
+          "title": "Sunny Ravindra Bharne",
           "slug": "/"
         }
       }

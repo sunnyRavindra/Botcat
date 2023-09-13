@@ -1,8 +1,8 @@
 {
   "unversionedId": "Automation/Introduction",
   "id": "Automation/Introduction",
-  "title": "Introduction",
-  "description": "this is the Introduction file",
+  "title": "Playwright",
+  "description": "Reference https://playwright.dev/",
   "source": "@site/docs/Automation/Introduction.md",
   "sourceDirName": "Automation",
   "slug": "/Automation/Introduction",
@@ -10,5 +10,8 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Playwright"
+  },
+  "sidebar": "AutomationSidebar"
 }
