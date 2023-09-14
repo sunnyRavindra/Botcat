@@ -173,16 +173,36 @@
     },
     "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
   },
-  "/docs-b23": {
+  "/docs-5ac": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/Automation/Playwright-a76": {
+  "/docs/Automation/Playwright-365": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-automation-playwright-245-c48"
+  },
+  "/docs/Automation/Selenium-9a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-automation-selenium-73-a-63a"
+  },
+  "/docs/Automation/Selenium/-234": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-automation-selenium-f-29-650"
+  },
+  "/docs/Automation/SeleniumArchitecture-699": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-automation-selenium-architecturebe-9-071"
+  },
+  "/docs/Automation/Synchronisation-726": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-automation-synchronisationa-9-d-f57"
+  },
+  "/docs/Automation/WebDriver-c80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-automation-web-driverd-6-b-677"
   },
   "/docs/ContactMe-fcd": {
     "__comp": "__comp---theme-doc-item-178-a40",

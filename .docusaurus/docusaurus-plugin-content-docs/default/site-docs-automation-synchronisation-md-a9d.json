@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Synchronisation",
+  "id": "Automation/Synchronisation",
+  "title": "Synchronisation",
+  "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
+  "source": "@site/docs/Automation/Synchronisation.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/Synchronisation",
+  "permalink": "/docs/Automation/Synchronisation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

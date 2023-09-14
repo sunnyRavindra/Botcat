@@ -8,12 +8,32 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Automation/Playwright",
+          "mainDocId": "Automation/Selenium",
           "docs": [
             {
               "id": "Automation/Playwright",
-              "path": "/docs/Automation/Playwright",
+              "path": "/docs/Automation/Playwright"
+            },
+            {
+              "id": "Automation/Selenium",
+              "path": "/docs/Automation/Selenium",
               "sidebar": "AutomationSidebar"
+            },
+            {
+              "id": "Automation/Selenium/Selenium",
+              "path": "/docs/Automation/Selenium/"
+            },
+            {
+              "id": "Automation/SeleniumArchitecture",
+              "path": "/docs/Automation/SeleniumArchitecture"
+            },
+            {
+              "id": "Automation/Synchronisation",
+              "path": "/docs/Automation/Synchronisation"
+            },
+            {
+              "id": "Automation/WebDriver",
+              "path": "/docs/Automation/WebDriver"
             },
             {
               "id": "ContactMe",
@@ -128,8 +148,8 @@
           "sidebars": {
             "AutomationSidebar": {
               "link": {
-                "path": "/docs/Automation/Playwright",
-                "label": "Automation/Playwright"
+                "path": "/docs/Automation/Selenium",
+                "label": "Automation/Selenium"
               }
             }
           }

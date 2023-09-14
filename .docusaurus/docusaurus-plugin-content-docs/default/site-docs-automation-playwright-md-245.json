@@ -12,6 +12,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Playwright"
-  },
-  "sidebar": "AutomationSidebar"
+  }
 }

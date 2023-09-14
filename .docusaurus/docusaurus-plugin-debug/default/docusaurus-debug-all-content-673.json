@@ -31,8 +31,94 @@
               "version": "current",
               "frontMatter": {
                 "title": "Playwright"
+              }
+            },
+            {
+              "unversionedId": "Automation/Selenium",
+              "id": "Automation/Selenium",
+              "title": "Selenium",
+              "description": "Components",
+              "source": "@site/docs/Automation/Selenium.md",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/Selenium",
+              "permalink": "/docs/Automation/Selenium",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Selenium"
               },
               "sidebar": "AutomationSidebar"
+            },
+            {
+              "unversionedId": "Automation/Selenium/Selenium",
+              "id": "Automation/Selenium/Selenium",
+              "title": "Selenium",
+              "description": "Components",
+              "source": "@site/docs/Automation/Selenium/Selenium.md",
+              "sourceDirName": "Automation/Selenium",
+              "slug": "/Automation/Selenium/",
+              "permalink": "/docs/Automation/Selenium/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Selenium"
+              }
+            },
+            {
+              "unversionedId": "Automation/SeleniumArchitecture",
+              "id": "Automation/SeleniumArchitecture",
+              "title": "SeleniumArchitecture",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Automation/SeleniumArchitecture.md",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/SeleniumArchitecture",
+              "permalink": "/docs/Automation/SeleniumArchitecture",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "Automation/Synchronisation",
+              "id": "Automation/Synchronisation",
+              "title": "Synchronisation",
+              "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
+              "source": "@site/docs/Automation/Synchronisation.md",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/Synchronisation",
+              "permalink": "/docs/Automation/Synchronisation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "Automation/WebDriver",
+              "id": "Automation/WebDriver",
+              "title": "WebDriver",
+              "description": "2. Supports Auto-wait, Assertions for Dynammic pages (like react pages), Tracing using Test retry stratagy and ditching Same origin policy.",
+              "source": "@site/docs/Automation/WebDriver.mdx",
+              "sourceDirName": "Automation",
+              "slug": "/Automation/WebDriver",
+              "permalink": "/docs/Automation/WebDriver",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "WebDriver"
+              }
             },
             {
               "unversionedId": "ContactMe",
@@ -448,7 +534,7 @@
             "AutomationSidebar": [
               {
                 "type": "doc",
-                "id": "Automation/Playwright"
+                "id": "Automation/Selenium"
               }
             ]
           }

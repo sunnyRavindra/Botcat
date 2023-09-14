@@ -52,8 +52,9 @@ h6 {
   --ifm-background-color: #23272f;
 }
 
-
-/**/
+svg text {
+    font-family: "Comic Sans MS", cursive;
+}/**/
 /* .navbar { */
 /*   background-color: #1B1B1D; */
 /* } */

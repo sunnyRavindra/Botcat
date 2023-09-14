@@ -2,16 +2,6 @@
   <!-- svg-source:excalidraw -->
   
   <defs>
-    <style class="style-fonts">
-      @font-face {
-        font-family: "Virgil";
-        src: url("https://excalidraw.com/Virgil.woff2");
-      }
-      @font-face {
-        font-family: "Cascadia";
-        src: url("https://excalidraw.com/Cascadia.woff2");
-      }
-    </style>
-    
+   
   </defs>
   <rect x="0" y="0" width="124" height="50" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 52 15)"><path d="M7.5 0 M7.5 0 C37.6 1.28, 69.46 0.94, 96.5 0 M7.5 0 C27.08 -0.44, 47.6 0.12, 96.5 0 M96.5 0 C100.25 -0.37, 105.85 1.31, 104 7.5 M96.5 0 C100.21 0, 104.8 0.32, 104 7.5 M104 7.5 C103.86 14.16, 102.57 17.2, 104 22.5 M104 7.5 C103.96 12.19, 103.94 17.13, 104 22.5 M104 22.5 C102.93 28.63, 100.63 30.2, 96.5 30 M104 22.5 C102.45 26.22, 102.21 29.73, 96.5 30 M96.5 30 C75.82 30.6, 54.91 27.29, 7.5 30 M96.5 30 C73.67 30.87, 49.24 31.33, 7.5 30 M7.5 30 C3.16 28.75, 0.12 26.62, 0 22.5 M7.5 30 C1.61 28.98, -0.29 28.17, 0 22.5 M0 22.5 C-0.6 16.83, 1.27 11.66, 0 7.5 M0 22.5 C0.01 16.92, -0.69 10.46, 0 7.5 M0 7.5 C0.56 3.97, 2.77 -1.81, 7.5 0 M0 7.5 C1.13 3.42, 4.23 -2.24, 7.5 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path></g><g transform="translate(15.184013366699219 15) rotate(0 46.81598663330078 10)"><text x="46.81598663330078" y="0" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">    Selenium</text></g><g transform="translate(14.645182291666572 12.700843121532273) rotate(0 12.117838541666714 12.117838541666714)"><use href="#image-908f052c5dbfc39fddf8a43508c2e26520f8d511" width="24" height="24" opacity="1"></use></g></svg>

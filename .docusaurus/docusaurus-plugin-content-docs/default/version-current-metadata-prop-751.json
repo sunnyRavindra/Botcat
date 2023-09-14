@@ -11,9 +11,9 @@
     "AutomationSidebar": [
       {
         "type": "link",
-        "label": "Playwright",
-        "href": "/docs/Automation/Playwright",
-        "docId": "Automation/Playwright"
+        "label": "Selenium",
+        "href": "/docs/Automation/Selenium",
+        "docId": "Automation/Selenium"
       }
     ]
   },
@@ -21,8 +21,33 @@
     "Automation/Playwright": {
       "id": "Automation/Playwright",
       "title": "Playwright",
-      "description": "Reference https://playwright.dev/",
+      "description": "Reference https://playwright.dev/"
+    },
+    "Automation/Selenium": {
+      "id": "Automation/Selenium",
+      "title": "Selenium",
+      "description": "Components",
       "sidebar": "AutomationSidebar"
+    },
+    "Automation/Selenium/Selenium": {
+      "id": "Automation/Selenium/Selenium",
+      "title": "Selenium",
+      "description": "Components"
+    },
+    "Automation/SeleniumArchitecture": {
+      "id": "Automation/SeleniumArchitecture",
+      "title": "SeleniumArchitecture",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "Automation/Synchronisation": {
+      "id": "Automation/Synchronisation",
+      "title": "Synchronisation",
+      "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
+    },
+    "Automation/WebDriver": {
+      "id": "Automation/WebDriver",
+      "title": "WebDriver",
+      "description": "2. Supports Auto-wait, Assertions for Dynammic pages (like react pages), Tracing using Test retry stratagy and ditching Same origin policy."
     },
     "ContactMe": {
       "id": "ContactMe",

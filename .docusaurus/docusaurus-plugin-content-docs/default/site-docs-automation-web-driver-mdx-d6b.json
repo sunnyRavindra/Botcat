@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Automation/WebDriver",
+  "id": "Automation/WebDriver",
+  "title": "WebDriver",
+  "description": "2. Supports Auto-wait, Assertions for Dynammic pages (like react pages), Tracing using Test retry stratagy and ditching Same origin policy.",
+  "source": "@site/docs/Automation/WebDriver.mdx",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/WebDriver",
+  "permalink": "/docs/Automation/WebDriver",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WebDriver"
+  }
+}

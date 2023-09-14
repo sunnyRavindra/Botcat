@@ -99,13 +99,38 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b23'),
+    component: ComponentCreator('/docs', '5ac'),
     routes: [
       {
         path: '/docs/Automation/Playwright',
-        component: ComponentCreator('/docs/Automation/Playwright', 'a76'),
+        component: ComponentCreator('/docs/Automation/Playwright', '365'),
+        exact: true
+      },
+      {
+        path: '/docs/Automation/Selenium',
+        component: ComponentCreator('/docs/Automation/Selenium', '9a7'),
         exact: true,
         sidebar: "AutomationSidebar"
+      },
+      {
+        path: '/docs/Automation/Selenium/',
+        component: ComponentCreator('/docs/Automation/Selenium/', '234'),
+        exact: true
+      },
+      {
+        path: '/docs/Automation/SeleniumArchitecture',
+        component: ComponentCreator('/docs/Automation/SeleniumArchitecture', '699'),
+        exact: true
+      },
+      {
+        path: '/docs/Automation/Synchronisation',
+        component: ComponentCreator('/docs/Automation/Synchronisation', '726'),
+        exact: true
+      },
+      {
+        path: '/docs/Automation/WebDriver',
+        component: ComponentCreator('/docs/Automation/WebDriver', 'c80'),
+        exact: true
       },
       {
         path: '/docs/ContactMe',

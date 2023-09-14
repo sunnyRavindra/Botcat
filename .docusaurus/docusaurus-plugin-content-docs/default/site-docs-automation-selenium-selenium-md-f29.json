@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Automation/Selenium/Selenium",
+  "id": "Automation/Selenium/Selenium",
+  "title": "Selenium",
+  "description": "Components",
+  "source": "@site/docs/Automation/Selenium/Selenium.md",
+  "sourceDirName": "Automation/Selenium",
+  "slug": "/Automation/Selenium/",
+  "permalink": "/docs/Automation/Selenium/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Selenium"
+  }
+}

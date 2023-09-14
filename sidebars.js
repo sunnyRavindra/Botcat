@@ -41,7 +41,16 @@ const sidebars = {
   // ],
   //
   AutomationSidebar: [
-    'Automation/Playwright',
+    'Automation/Selenium',
+    // 'Automation/WebDriver',
+    // 'Automation/Playwright',
+    // {
+    //   type: 'category',
+    //   label: 'Selenium',
+    //   items: [
+    //     'Automation/Selenium/Selenium',
+    //   ],
+    // },
   ],
   //
   // ApiTestingSidebar: [

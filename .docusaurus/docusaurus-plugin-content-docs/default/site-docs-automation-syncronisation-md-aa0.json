@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Syncronisation",
+  "id": "Automation/Syncronisation",
+  "title": "Syncronisation",
+  "description": "",
+  "source": "@site/docs/Automation/Syncronisation.md",
+  "sourceDirName": "Automation",
+  "slug": "/Automation/Syncronisation",
+  "permalink": "/docs/Automation/Syncronisation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -2,7 +2,7 @@
   "label": "excalidraw",
   "permalink": "/docs/tags/excalidraw",
   "allTagsPath": "/docs/tags",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "id": "My Social Docs/Banner",
@@ -21,6 +21,12 @@
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/docs/ManualTesting/QARoadMap.excalidraw"
+    },
+    {
+      "id": "Automation/SeleniumArchitecture",
+      "title": "SeleniumArchitecture",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/docs/Automation/SeleniumArchitecture"
     }
   ]
 }
