@@ -11,11 +11,9 @@
             "id": "f8e8eea891afc710",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SDET/Selenium/Grid.md",
-                "mode": "source",
-                "source": false
+                "file": "SDET/Selenium/static/SeleniumExcalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Selenium/Grid.md",
+                "file": "SDET/Selenium/static/SeleniumExcalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Selenium/Grid.md",
+                "file": "SDET/Selenium/static/SeleniumExcalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Selenium/Grid.md"
+                "file": "SDET/Selenium/static/SeleniumExcalidraw.md"
               }
             }
           }
@@ -149,10 +147,10 @@
   },
   "active": "f8e8eea891afc710",
   "lastOpenFiles": [
+    "SDET/Selenium/Grid.md",
     "SDET/Docker/Introduction.md",
     "SDET/Docker",
     "SDET/Selenium/static/gridOfficial.png",
-    "SDET/Selenium/Grid.md",
     "static/GridOfficial.png.md",
     "static",
     "SDET/Selenium/static/GirdOfficial.png",
