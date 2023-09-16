@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Selenium/Synchronisation",
+  "id": "SDET/Selenium/Synchronisation",
+  "title": "Synchronisation",
+  "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
+  "source": "@site/docs/SDET/Selenium/Synchronisation.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/Synchronisation",
+  "permalink": "/docs/SDET/Selenium/Synchronisation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/Selenium/SeleniumExcalidraw",
+  "id": "SDET/Selenium/SeleniumExcalidraw",
+  "title": "SeleniumExcalidraw",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/Selenium/SeleniumExcalidraw.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/SeleniumExcalidraw",
+  "permalink": "/docs/SDET/Selenium/SeleniumExcalidraw",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/docs/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

@@ -18,109 +18,6 @@
           "contentPathLocalized": "/Users/sunnybharne/code/Botcat/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "Automation/Playwright",
-              "id": "Automation/Playwright",
-              "title": "Playwright",
-              "description": "Reference https://playwright.dev/",
-              "source": "@site/docs/Automation/Playwright.md",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/Playwright",
-              "permalink": "/docs/Automation/Playwright",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Playwright"
-              }
-            },
-            {
-              "unversionedId": "Automation/Selenium",
-              "id": "Automation/Selenium",
-              "title": "Selenium",
-              "description": "Components",
-              "source": "@site/docs/Automation/Selenium.md",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/Selenium",
-              "permalink": "/docs/Automation/Selenium",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Selenium"
-              },
-              "sidebar": "AutomationSidebar"
-            },
-            {
-              "unversionedId": "Automation/Selenium/Selenium",
-              "id": "Automation/Selenium/Selenium",
-              "title": "Selenium",
-              "description": "Components",
-              "source": "@site/docs/Automation/Selenium/Selenium.md",
-              "sourceDirName": "Automation/Selenium",
-              "slug": "/Automation/Selenium/",
-              "permalink": "/docs/Automation/Selenium/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Selenium"
-              }
-            },
-            {
-              "unversionedId": "Automation/SeleniumArchitecture",
-              "id": "Automation/SeleniumArchitecture",
-              "title": "SeleniumArchitecture",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/Automation/SeleniumArchitecture.md",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/SeleniumArchitecture",
-              "permalink": "/docs/Automation/SeleniumArchitecture",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
-              }
-            },
-            {
-              "unversionedId": "Automation/Synchronisation",
-              "id": "Automation/Synchronisation",
-              "title": "Synchronisation",
-              "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
-              "source": "@site/docs/Automation/Synchronisation.md",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/Synchronisation",
-              "permalink": "/docs/Automation/Synchronisation",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {}
-            },
-            {
-              "unversionedId": "Automation/WebDriver",
-              "id": "Automation/WebDriver",
-              "title": "WebDriver",
-              "description": "2. Supports Auto-wait, Assertions for Dynammic pages (like react pages), Tracing using Test retry stratagy and ditching Same origin policy.",
-              "source": "@site/docs/Automation/WebDriver.mdx",
-              "sourceDirName": "Automation",
-              "slug": "/Automation/WebDriver",
-              "permalink": "/docs/Automation/WebDriver",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "WebDriver"
-              }
-            },
-            {
               "unversionedId": "ContactMe",
               "id": "ContactMe",
               "title": "ContactMe",
@@ -135,42 +32,42 @@
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Build Docker Image",
-              "id": "Docker/Build Docker Image",
+              "unversionedId": "DevOps/Docker/Build Docker Image",
+              "id": "DevOps/Docker/Build Docker Image",
               "title": "Build Docker Image",
               "description": "",
-              "source": "@site/docs/Docker/Build Docker Image.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Build Docker Image",
-              "permalink": "/docs/Docker/Build Docker Image",
+              "source": "@site/docs/DevOps/Docker/Build Docker Image.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Build Docker Image",
+              "permalink": "/docs/DevOps/Docker/Build Docker Image",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker",
-              "id": "Docker/Docker",
+              "unversionedId": "DevOps/Docker/Docker",
+              "id": "DevOps/Docker/Docker",
               "title": "Docker",
               "description": "- [[Linux Namespaces]]",
-              "source": "@site/docs/Docker/Docker.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/",
-              "permalink": "/docs/Docker/",
+              "source": "@site/docs/DevOps/Docker/Docker.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/",
+              "permalink": "/docs/DevOps/Docker/",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker 1",
-              "id": "Docker/Docker 1",
+              "unversionedId": "DevOps/Docker/Docker 1",
+              "id": "DevOps/Docker/Docker 1",
               "title": "Docker 1",
               "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/Docker/Docker 1.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker 1",
-              "permalink": "/docs/Docker/Docker 1",
+              "source": "@site/docs/DevOps/Docker/Docker 1.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker 1",
+              "permalink": "/docs/DevOps/Docker/Docker 1",
               "draft": false,
               "tags": [
                 {
@@ -187,318 +84,280 @@
               }
             },
             {
-              "unversionedId": "Docker/Docker Basics",
-              "id": "Docker/Docker Basics",
+              "unversionedId": "DevOps/Docker/Docker Basics",
+              "id": "DevOps/Docker/Docker Basics",
               "title": "Docker Basics",
               "description": "[[Run Commonds Inside Container]]",
-              "source": "@site/docs/Docker/Docker Basics.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Basics",
-              "permalink": "/docs/Docker/Docker Basics",
+              "source": "@site/docs/DevOps/Docker/Docker Basics.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Basics",
+              "permalink": "/docs/DevOps/Docker/Docker Basics",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Bind Mounts",
-              "id": "Docker/Docker Bind Mounts",
+              "unversionedId": "DevOps/Docker/Docker Bind Mounts",
+              "id": "DevOps/Docker/Docker Bind Mounts",
               "title": "Docker Bind Mounts",
               "description": "",
-              "source": "@site/docs/Docker/Docker Bind Mounts.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Bind Mounts",
-              "permalink": "/docs/Docker/Docker Bind Mounts",
+              "source": "@site/docs/DevOps/Docker/Docker Bind Mounts.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Bind Mounts",
+              "permalink": "/docs/DevOps/Docker/Docker Bind Mounts",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Compose/Docker Compose",
-              "id": "Docker/Docker Compose/Docker Compose",
+              "unversionedId": "DevOps/Docker/Docker Compose/Docker Compose",
+              "id": "DevOps/Docker/Docker Compose/Docker Compose",
               "title": "Docker Compose",
               "description": "- Install Docker Compose",
-              "source": "@site/docs/Docker/Docker Compose/Docker Compose.md",
-              "sourceDirName": "Docker/Docker Compose",
-              "slug": "/Docker/Docker Compose/",
-              "permalink": "/docs/Docker/Docker Compose/",
+              "source": "@site/docs/DevOps/Docker/Docker Compose/Docker Compose.md",
+              "sourceDirName": "DevOps/Docker/Docker Compose",
+              "slug": "/DevOps/Docker/Docker Compose/",
+              "permalink": "/docs/DevOps/Docker/Docker Compose/",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker DevEnv Setup",
-              "id": "Docker/Docker DevEnv Setup",
+              "unversionedId": "DevOps/Docker/Docker DevEnv Setup",
+              "id": "DevOps/Docker/Docker DevEnv Setup",
               "title": "Docker DevEnv Setup",
               "description": "- I pory for all my git projects",
-              "source": "@site/docs/Docker/Docker DevEnv Setup.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker DevEnv Setup",
-              "permalink": "/docs/Docker/Docker DevEnv Setup",
+              "source": "@site/docs/DevOps/Docker/Docker DevEnv Setup.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker DevEnv Setup",
+              "permalink": "/docs/DevOps/Docker/Docker DevEnv Setup",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Layer Caching",
-              "id": "Docker/Docker Layer Caching",
+              "unversionedId": "DevOps/Docker/Docker Layer Caching",
+              "id": "DevOps/Docker/Docker Layer Caching",
               "title": "Docker Layer Caching",
               "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages.",
-              "source": "@site/docs/Docker/Docker Layer Caching.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Layer Caching",
-              "permalink": "/docs/Docker/Docker Layer Caching",
+              "source": "@site/docs/DevOps/Docker/Docker Layer Caching.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Layer Caching",
+              "permalink": "/docs/DevOps/Docker/Docker Layer Caching",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Multi Stage Build",
-              "id": "Docker/Docker Multi Stage Build",
+              "unversionedId": "DevOps/Docker/Docker Multi Stage Build",
+              "id": "DevOps/Docker/Docker Multi Stage Build",
               "title": "Docker Multi Stage Build",
               "description": "- Advantages",
-              "source": "@site/docs/Docker/Docker Multi Stage Build.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Multi Stage Build",
-              "permalink": "/docs/Docker/Docker Multi Stage Build",
+              "source": "@site/docs/DevOps/Docker/Docker Multi Stage Build.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Multi Stage Build",
+              "permalink": "/docs/DevOps/Docker/Docker Multi Stage Build",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker MySQL Application",
-              "id": "Docker/Docker MySQL Application",
+              "unversionedId": "DevOps/Docker/Docker MySQL Application",
+              "id": "DevOps/Docker/Docker MySQL Application",
               "title": "Docker MySQL Application",
               "description": "- Create docker network for the MYSQL container",
-              "source": "@site/docs/Docker/Docker MySQL Application.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker MySQL Application",
-              "permalink": "/docs/Docker/Docker MySQL Application",
+              "source": "@site/docs/DevOps/Docker/Docker MySQL Application.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker MySQL Application",
+              "permalink": "/docs/DevOps/Docker/Docker MySQL Application",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Networking",
-              "id": "Docker/Docker Networking",
+              "unversionedId": "DevOps/Docker/Docker Networking",
+              "id": "DevOps/Docker/Docker Networking",
               "title": "Docker Networking",
               "description": "",
-              "source": "@site/docs/Docker/Docker Networking.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Networking",
-              "permalink": "/docs/Docker/Docker Networking",
+              "source": "@site/docs/DevOps/Docker/Docker Networking.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Networking",
+              "permalink": "/docs/DevOps/Docker/Docker Networking",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Nextjs Application",
-              "id": "Docker/Docker Nextjs Application",
+              "unversionedId": "DevOps/Docker/Docker Nextjs Application",
+              "id": "DevOps/Docker/Docker Nextjs Application",
               "title": "Docker Nextjs Application",
               "description": "- [[Create Nextjs App]] in local.",
-              "source": "@site/docs/Docker/Docker Nextjs Application.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Nextjs Application",
-              "permalink": "/docs/Docker/Docker Nextjs Application",
+              "source": "@site/docs/DevOps/Docker/Docker Nextjs Application.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Nextjs Application",
+              "permalink": "/docs/DevOps/Docker/Docker Nextjs Application",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Nicolaka Netshoot",
-              "id": "Docker/Docker Nicolaka Netshoot",
+              "unversionedId": "DevOps/Docker/Docker Nicolaka Netshoot",
+              "id": "DevOps/Docker/Docker Nicolaka Netshoot",
               "title": "Docker Nicolaka Netshoot",
               "description": "- Start a new container using the nicolaka/netshoot image.",
-              "source": "@site/docs/Docker/Docker Nicolaka Netshoot.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Nicolaka Netshoot",
-              "permalink": "/docs/Docker/Docker Nicolaka Netshoot",
+              "source": "@site/docs/DevOps/Docker/Docker Nicolaka Netshoot.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Nicolaka Netshoot",
+              "permalink": "/docs/DevOps/Docker/Docker Nicolaka Netshoot",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Secrets",
-              "id": "Docker/Docker Secrets",
+              "unversionedId": "DevOps/Docker/Docker Secrets",
+              "id": "DevOps/Docker/Docker Secrets",
               "title": "Docker Secrets",
               "description": "- ENV variables should not be used in Docker.",
-              "source": "@site/docs/Docker/Docker Secrets.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Secrets",
-              "permalink": "/docs/Docker/Docker Secrets",
+              "source": "@site/docs/DevOps/Docker/Docker Secrets.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Secrets",
+              "permalink": "/docs/DevOps/Docker/Docker Secrets",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Docker Volumes",
-              "id": "Docker/Docker Volumes",
+              "unversionedId": "DevOps/Docker/Docker Volumes",
+              "id": "DevOps/Docker/Docker Volumes",
               "title": "Docker Volumes",
               "description": "- Create Volume.",
-              "source": "@site/docs/Docker/Docker Volumes.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Docker Volumes",
-              "permalink": "/docs/Docker/Docker Volumes",
+              "source": "@site/docs/DevOps/Docker/Docker Volumes.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Docker Volumes",
+              "permalink": "/docs/DevOps/Docker/Docker Volumes",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/DockerFiles/Docker Ignore file",
-              "id": "Docker/DockerFiles/Docker Ignore file",
+              "unversionedId": "DevOps/Docker/DockerFiles/Docker Ignore file",
+              "id": "DevOps/Docker/DockerFiles/Docker Ignore file",
               "title": "Docker Ignore file",
               "description": "Step-by-step guide to creating a .dockerignore file:",
-              "source": "@site/docs/Docker/DockerFiles/Docker Ignore file.md",
-              "sourceDirName": "Docker/DockerFiles",
-              "slug": "/Docker/DockerFiles/Docker Ignore file",
-              "permalink": "/docs/Docker/DockerFiles/Docker Ignore file",
+              "source": "@site/docs/DevOps/Docker/DockerFiles/Docker Ignore file.md",
+              "sourceDirName": "DevOps/Docker/DockerFiles",
+              "slug": "/DevOps/Docker/DockerFiles/Docker Ignore file",
+              "permalink": "/docs/DevOps/Docker/DockerFiles/Docker Ignore file",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/DockerFiles/DockerFile",
-              "id": "Docker/DockerFiles/DockerFile",
+              "unversionedId": "DevOps/Docker/DockerFiles/DockerFile",
+              "id": "DevOps/Docker/DockerFiles/DockerFile",
               "title": "DockerFile",
               "description": "- [[Nextjs Docker File]]",
-              "source": "@site/docs/Docker/DockerFiles/DockerFile.md",
-              "sourceDirName": "Docker/DockerFiles",
-              "slug": "/Docker/DockerFiles/DockerFile",
-              "permalink": "/docs/Docker/DockerFiles/DockerFile",
+              "source": "@site/docs/DevOps/Docker/DockerFiles/DockerFile.md",
+              "sourceDirName": "DevOps/Docker/DockerFiles",
+              "slug": "/DevOps/Docker/DockerFiles/DockerFile",
+              "permalink": "/docs/DevOps/Docker/DockerFiles/DockerFile",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/DockerFiles/Nextjs Docker File",
-              "id": "Docker/DockerFiles/Nextjs Docker File",
+              "unversionedId": "DevOps/Docker/DockerFiles/Nextjs Docker File",
+              "id": "DevOps/Docker/DockerFiles/Nextjs Docker File",
               "title": "Nextjs Docker File",
               "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json.",
-              "source": "@site/docs/Docker/DockerFiles/Nextjs Docker File.md",
-              "sourceDirName": "Docker/DockerFiles",
-              "slug": "/Docker/DockerFiles/Nextjs Docker File",
-              "permalink": "/docs/Docker/DockerFiles/Nextjs Docker File",
+              "source": "@site/docs/DevOps/Docker/DockerFiles/Nextjs Docker File.md",
+              "sourceDirName": "DevOps/Docker/DockerFiles",
+              "slug": "/DevOps/Docker/DockerFiles/Nextjs Docker File",
+              "permalink": "/docs/DevOps/Docker/DockerFiles/Nextjs Docker File",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/DockerHub",
-              "id": "Docker/DockerHub",
+              "unversionedId": "DevOps/Docker/DockerHub",
+              "id": "DevOps/Docker/DockerHub",
               "title": "DockerHub",
               "description": "- DockerHub is the official docker registry from docker where all the images are stored public or private.",
-              "source": "@site/docs/Docker/DockerHub.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/DockerHub",
-              "permalink": "/docs/Docker/DockerHub",
+              "source": "@site/docs/DevOps/Docker/DockerHub.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/DockerHub",
+              "permalink": "/docs/DevOps/Docker/DockerHub",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/My Used Docker Commands",
-              "id": "Docker/My Used Docker Commands",
+              "unversionedId": "DevOps/Docker/My Used Docker Commands",
+              "id": "DevOps/Docker/My Used Docker Commands",
               "title": "My Used Docker Commands",
               "description": "- Login",
-              "source": "@site/docs/Docker/My Used Docker Commands.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/My Used Docker Commands",
-              "permalink": "/docs/Docker/My Used Docker Commands",
+              "source": "@site/docs/DevOps/Docker/My Used Docker Commands.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/My Used Docker Commands",
+              "permalink": "/docs/DevOps/Docker/My Used Docker Commands",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Run Commonds Inside Container",
-              "id": "Docker/Run Commonds Inside Container",
+              "unversionedId": "DevOps/Docker/Run Commonds Inside Container",
+              "id": "DevOps/Docker/Run Commonds Inside Container",
               "title": "Run Commonds Inside Container",
               "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
-              "source": "@site/docs/Docker/Run Commonds Inside Container.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Run Commonds Inside Container",
-              "permalink": "/docs/Docker/Run Commonds Inside Container",
+              "source": "@site/docs/DevOps/Docker/Run Commonds Inside Container.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Run Commonds Inside Container",
+              "permalink": "/docs/DevOps/Docker/Run Commonds Inside Container",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "Docker/Start Docker Container",
-              "id": "Docker/Start Docker Container",
+              "unversionedId": "DevOps/Docker/Start Docker Container",
+              "id": "DevOps/Docker/Start Docker Container",
               "title": "Start Docker Container",
               "description": "",
-              "source": "@site/docs/Docker/Start Docker Container.md",
-              "sourceDirName": "Docker",
-              "slug": "/Docker/Start Docker Container",
-              "permalink": "/docs/Docker/Start Docker Container",
+              "source": "@site/docs/DevOps/Docker/Start Docker Container.md",
+              "sourceDirName": "DevOps/Docker",
+              "slug": "/DevOps/Docker/Start Docker Container",
+              "permalink": "/docs/DevOps/Docker/Start Docker Container",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "ManualTesting/Introduction",
-              "id": "ManualTesting/Introduction",
-              "title": "Introduction",
-              "description": "Software Testing",
-              "source": "@site/docs/ManualTesting/Introduction.mdx",
-              "sourceDirName": "ManualTesting",
-              "slug": "/ManualTesting/Introduction",
-              "permalink": "/docs/ManualTesting/Introduction",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {}
-            },
-            {
-              "unversionedId": "ManualTesting/QARoadMap.excalidraw",
-              "id": "ManualTesting/QARoadMap.excalidraw",
-              "title": "QARoadMap.excalidraw",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/ManualTesting/QARoadMap.excalidraw.md",
-              "sourceDirName": "ManualTesting",
-              "slug": "/ManualTesting/QARoadMap.excalidraw",
-              "permalink": "/docs/ManualTesting/QARoadMap.excalidraw",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
-              }
-            },
-            {
-              "unversionedId": "My Social Docs/Banner",
-              "id": "My Social Docs/Banner",
+              "unversionedId": "Excalidraw/Banner",
+              "id": "Excalidraw/Banner",
               "title": "Banner",
               "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/My Social Docs/Banner.md",
-              "sourceDirName": "My Social Docs",
-              "slug": "/My Social Docs/Banner",
-              "permalink": "/docs/My Social Docs/Banner",
+              "source": "@site/docs/Excalidraw/Banner.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/Banner",
+              "permalink": "/docs/Excalidraw/Banner",
               "draft": false,
               "tags": [
                 {
@@ -515,14 +374,159 @@
               }
             },
             {
-              "unversionedId": "Vocabulary",
-              "id": "Vocabulary",
-              "title": "Vocabulary",
-              "description": "- Non-Trivial ->",
-              "source": "@site/docs/Vocabulary.md",
-              "sourceDirName": ".",
-              "slug": "/Vocabulary",
-              "permalink": "/docs/Vocabulary",
+              "unversionedId": "Excalidraw/QARoadMap.excalidraw",
+              "id": "Excalidraw/QARoadMap.excalidraw",
+              "title": "QARoadMap.excalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/Excalidraw/QARoadMap.excalidraw.md",
+              "sourceDirName": "Excalidraw",
+              "slug": "/Excalidraw/QARoadMap.excalidraw",
+              "permalink": "/docs/Excalidraw/QARoadMap.excalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "SDET/Playwright",
+              "id": "SDET/Playwright",
+              "title": "Playwright",
+              "description": "Reference https://playwright.dev/",
+              "source": "@site/docs/SDET/Playwright.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Playwright",
+              "permalink": "/docs/SDET/Playwright",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Playwright"
+              }
+            },
+            {
+              "unversionedId": "SDET/Selenium/BrowserOptions",
+              "id": "SDET/Selenium/BrowserOptions",
+              "title": "Browser Options",
+              "description": "Browser Options",
+              "source": "@site/docs/SDET/Selenium/BrowserOptions.md",
+              "sourceDirName": "SDET/Selenium",
+              "slug": "/SDET/Selenium/BrowserOptions",
+              "permalink": "/docs/SDET/Selenium/BrowserOptions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Browser Options"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Grid",
+                "permalink": "/docs/SDET/Selenium/Grid"
+              }
+            },
+            {
+              "unversionedId": "SDET/Selenium/Grid",
+              "id": "SDET/Selenium/Grid",
+              "title": "Grid",
+              "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
+              "source": "@site/docs/SDET/Selenium/Grid.md",
+              "sourceDirName": "SDET/Selenium",
+              "slug": "/SDET/Selenium/Grid",
+              "permalink": "/docs/SDET/Selenium/Grid",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Grid"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Selenium",
+                "permalink": "/docs/SDET/Selenium/"
+              },
+              "next": {
+                "title": "Browser Options",
+                "permalink": "/docs/SDET/Selenium/BrowserOptions"
+              }
+            },
+            {
+              "unversionedId": "SDET/Selenium/notes",
+              "id": "SDET/Selenium/notes",
+              "title": "notes",
+              "description": "Desired Capabilties",
+              "source": "@site/docs/SDET/Selenium/notes.md",
+              "sourceDirName": "SDET/Selenium",
+              "slug": "/SDET/Selenium/notes",
+              "permalink": "/docs/SDET/Selenium/notes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "SDET/Selenium/Selenium",
+              "id": "SDET/Selenium/Selenium",
+              "title": "Selenium",
+              "description": "Components",
+              "source": "@site/docs/SDET/Selenium/Selenium.md",
+              "sourceDirName": "SDET/Selenium",
+              "slug": "/SDET/Selenium/",
+              "permalink": "/docs/SDET/Selenium/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Selenium"
+              },
+              "sidebar": "SDETSidebar",
+              "next": {
+                "title": "Grid",
+                "permalink": "/docs/SDET/Selenium/Grid"
+              }
+            },
+            {
+              "unversionedId": "SDET/Selenium/static/SeleniumExcalidraw",
+              "id": "SDET/Selenium/static/SeleniumExcalidraw",
+              "title": "SeleniumExcalidraw",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/Selenium/static/SeleniumExcalidraw.md",
+              "sourceDirName": "SDET/Selenium/static",
+              "slug": "/SDET/Selenium/static/SeleniumExcalidraw",
+              "permalink": "/docs/SDET/Selenium/static/SeleniumExcalidraw",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/docs/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "SDET/Selenium/Synchronisation",
+              "id": "SDET/Selenium/Synchronisation",
+              "title": "Synchronisation",
+              "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
+              "source": "@site/docs/SDET/Selenium/Synchronisation.md",
+              "sourceDirName": "SDET/Selenium",
+              "slug": "/SDET/Selenium/Synchronisation",
+              "permalink": "/docs/SDET/Selenium/Synchronisation",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -531,10 +535,39 @@
           ],
           "drafts": [],
           "sidebars": {
-            "AutomationSidebar": [
+            "SDETSidebar": [
               {
-                "type": "doc",
-                "id": "Automation/Selenium"
+                "type": "category",
+                "label": "Selenium",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Selenium/Selenium"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Selenium/Grid"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Selenium/BrowserOptions"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Reference",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Selenium Official",
+                        "href": "https://www.selenium.dev/"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           }

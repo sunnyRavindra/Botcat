@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/Selenium/Synchronisation",
+  "id": "Automation/Selenium/Synchronisation",
+  "title": "Synchronisation",
+  "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));",
+  "source": "@site/docs/Automation/Selenium/Synchronisation.md",
+  "sourceDirName": "Automation/Selenium",
+  "slug": "/Automation/Selenium/Synchronisation",
+  "permalink": "/docs/Automation/Selenium/Synchronisation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

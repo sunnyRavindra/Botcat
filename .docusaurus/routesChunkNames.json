@@ -173,144 +173,140 @@
     },
     "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
   },
-  "/docs-5ac": {
+  "/docs-4dd": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tagsa-0-a-db8"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/Automation/Playwright-365": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-playwright-245-c48"
-  },
-  "/docs/Automation/Selenium-9a7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-selenium-73-a-63a"
-  },
-  "/docs/Automation/Selenium/-234": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-selenium-f-29-650"
-  },
-  "/docs/Automation/SeleniumArchitecture-699": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-selenium-architecturebe-9-071"
-  },
-  "/docs/Automation/Synchronisation-726": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-synchronisationa-9-d-f57"
-  },
-  "/docs/Automation/WebDriver-c80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-automation-web-driverd-6-b-677"
-  },
   "/docs/ContactMe-fcd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-contact-meafd-3c6"
   },
-  "/docs/Docker/-a09": {
+  "/docs/DevOps/Docker/-f9e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-a-03-7a1"
+    "content": "content---docs-dev-ops-docker-1-d-5-5f7"
   },
-  "/docs/Docker/Build Docker Image-a5e": {
+  "/docs/DevOps/Docker/Build Docker Image-297": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-build-docker-image-0-c-4-44a"
+    "content": "content---docs-dev-ops-docker-build-docker-image-20-d-b53"
   },
-  "/docs/Docker/Docker 1-ba7": {
+  "/docs/DevOps/Docker/Docker 1-4bf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-1818-304"
+    "content": "content---docs-dev-ops-docker-docker-1871-98d"
   },
-  "/docs/Docker/Docker Basics-551": {
+  "/docs/DevOps/Docker/Docker Basics-91c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-basics-3-b-6-f6d"
+    "content": "content---docs-dev-ops-docker-docker-basicsc-34-29b"
   },
-  "/docs/Docker/Docker Bind Mounts-31f": {
+  "/docs/DevOps/Docker/Docker Bind Mounts-74b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-bind-mountsb-79-578"
+    "content": "content---docs-dev-ops-docker-docker-bind-mounts-857-27c"
   },
-  "/docs/Docker/Docker Compose/-f8a": {
+  "/docs/DevOps/Docker/Docker Compose/-b48": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-compose-e-6-e-87f"
+    "content": "content---docs-dev-ops-docker-docker-compose-d-6-e-94f"
   },
-  "/docs/Docker/Docker DevEnv Setup-cca": {
+  "/docs/DevOps/Docker/Docker DevEnv Setup-f4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-dev-env-setup-1-ed-d64"
+    "content": "content---docs-dev-ops-docker-docker-dev-env-setupca-9-c23"
   },
-  "/docs/Docker/Docker Layer Caching-c95": {
+  "/docs/DevOps/Docker/Docker Layer Caching-e99": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-layer-caching-308-015"
+    "content": "content---docs-dev-ops-docker-docker-layer-caching-8-c-6-8f5"
   },
-  "/docs/Docker/Docker Multi Stage Build-37a": {
+  "/docs/DevOps/Docker/Docker Multi Stage Build-70e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-multi-stage-build-315-86b"
+    "content": "content---docs-dev-ops-docker-docker-multi-stage-build-777-362"
   },
-  "/docs/Docker/Docker MySQL Application-dab": {
+  "/docs/DevOps/Docker/Docker MySQL Application-57e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-my-sql-application-226-d5f"
+    "content": "content---docs-dev-ops-docker-docker-my-sql-applicationa-55-a8a"
   },
-  "/docs/Docker/Docker Networking-6da": {
+  "/docs/DevOps/Docker/Docker Networking-f49": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-networkingf-98-b58"
+    "content": "content---docs-dev-ops-docker-docker-networkingcdc-6a8"
   },
-  "/docs/Docker/Docker Nextjs Application-2ea": {
+  "/docs/DevOps/Docker/Docker Nextjs Application-b6d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-nextjs-applicationb-38-4ef"
+    "content": "content---docs-dev-ops-docker-docker-nextjs-applicationd-7-d-c9e"
   },
-  "/docs/Docker/Docker Nicolaka Netshoot-54c": {
+  "/docs/DevOps/Docker/Docker Nicolaka Netshoot-9dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-nicolaka-netshoot-53-a-773"
+    "content": "content---docs-dev-ops-docker-docker-nicolaka-netshootecd-440"
   },
-  "/docs/Docker/Docker Secrets-d9b": {
+  "/docs/DevOps/Docker/Docker Secrets-7ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-secretscc-1-82f"
+    "content": "content---docs-dev-ops-docker-docker-secrets-457-d2e"
   },
-  "/docs/Docker/Docker Volumes-998": {
+  "/docs/DevOps/Docker/Docker Volumes-41f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-volumes-829-48d"
+    "content": "content---docs-dev-ops-docker-docker-volumes-7-a-2-0b4"
   },
-  "/docs/Docker/DockerFiles/Docker Ignore file-7f3": {
+  "/docs/DevOps/Docker/DockerFiles/Docker Ignore file-dfd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-files-docker-ignore-filed-16-33c"
+    "content": "content---docs-dev-ops-docker-docker-files-docker-ignore-file-71-d-752"
   },
-  "/docs/Docker/DockerFiles/DockerFile-3c1": {
+  "/docs/DevOps/Docker/DockerFiles/DockerFile-a30": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-files-docker-file-398-85a"
+    "content": "content---docs-dev-ops-docker-docker-files-docker-file-5-e-3-f62"
   },
-  "/docs/Docker/DockerFiles/Nextjs Docker File-7b8": {
+  "/docs/DevOps/Docker/DockerFiles/Nextjs Docker File-dde": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-files-nextjs-docker-fileea-4-cc0"
+    "content": "content---docs-dev-ops-docker-docker-files-nextjs-docker-filecd-5-ec4"
   },
-  "/docs/Docker/DockerHub-337": {
+  "/docs/DevOps/Docker/DockerHub-625": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-docker-hubd-04-285"
+    "content": "content---docs-dev-ops-docker-docker-hub-465-a3e"
   },
-  "/docs/Docker/My Used Docker Commands-3a4": {
+  "/docs/DevOps/Docker/My Used Docker Commands-a47": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-my-used-docker-commandse-04-8bb"
+    "content": "content---docs-dev-ops-docker-my-used-docker-commands-64-a-07b"
   },
-  "/docs/Docker/Run Commonds Inside Container-7a9": {
+  "/docs/DevOps/Docker/Run Commonds Inside Container-41f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-run-commonds-inside-container-72-b-3dc"
+    "content": "content---docs-dev-ops-docker-run-commonds-inside-container-64-f-1a9"
   },
-  "/docs/Docker/Start Docker Container-c7c": {
+  "/docs/DevOps/Docker/Start Docker Container-a7c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docker-start-docker-container-56-d-a7a"
+    "content": "content---docs-dev-ops-docker-start-docker-containere-6-c-36e"
   },
-  "/docs/ManualTesting/Introduction-544": {
+  "/docs/Excalidraw/Banner-74b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-testing-introductionf-93-ecb"
+    "content": "content---docs-excalidraw-banner-67-d-f19"
   },
-  "/docs/ManualTesting/QARoadMap.excalidraw-a28": {
+  "/docs/Excalidraw/QARoadMap.excalidraw-f7c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-testing-qa-road-map-excalidraw-626-d24"
+    "content": "content---docs-excalidraw-qa-road-map-excalidrawa-4-d-fcb"
   },
-  "/docs/My Social Docs/Banner-bf1": {
+  "/docs/SDET/Playwright-739": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-social-docs-bannere-34-626"
+    "content": "content---docs-sdet-playwright-59-f-ad6"
   },
-  "/docs/Vocabulary-881": {
+  "/docs/SDET/Selenium/-b71": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vocabulary-1-b-6-eaf"
+    "content": "content---docs-sdet-selenium-900-516"
+  },
+  "/docs/SDET/Selenium/BrowserOptions-f58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdet-selenium-browser-options-634-d2a"
+  },
+  "/docs/SDET/Selenium/Grid-39e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdet-selenium-grid-79-e-489"
+  },
+  "/docs/SDET/Selenium/notes-b96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdet-selenium-notes-7-c-9-ece"
+  },
+  "/docs/SDET/Selenium/static/SeleniumExcalidraw-a21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdet-selenium-static-selenium-excalidrawb-13-d89"
+  },
+  "/docs/SDET/Selenium/Synchronisation-1ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sdet-selenium-synchronisation-419-d23"
   },
   "/-759": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

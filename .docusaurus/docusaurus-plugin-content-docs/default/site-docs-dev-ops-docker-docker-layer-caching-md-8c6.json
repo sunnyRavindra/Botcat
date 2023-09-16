@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Docker Layer Caching",
+  "id": "DevOps/Docker/Docker Layer Caching",
+  "title": "Docker Layer Caching",
+  "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages.",
+  "source": "@site/docs/DevOps/Docker/Docker Layer Caching.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/Docker Layer Caching",
+  "permalink": "/docs/DevOps/Docker/Docker Layer Caching",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

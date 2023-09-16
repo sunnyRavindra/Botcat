@@ -99,172 +99,169 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5ac'),
+    component: ComponentCreator('/docs', '4dd'),
     routes: [
-      {
-        path: '/docs/Automation/Playwright',
-        component: ComponentCreator('/docs/Automation/Playwright', '365'),
-        exact: true
-      },
-      {
-        path: '/docs/Automation/Selenium',
-        component: ComponentCreator('/docs/Automation/Selenium', '9a7'),
-        exact: true,
-        sidebar: "AutomationSidebar"
-      },
-      {
-        path: '/docs/Automation/Selenium/',
-        component: ComponentCreator('/docs/Automation/Selenium/', '234'),
-        exact: true
-      },
-      {
-        path: '/docs/Automation/SeleniumArchitecture',
-        component: ComponentCreator('/docs/Automation/SeleniumArchitecture', '699'),
-        exact: true
-      },
-      {
-        path: '/docs/Automation/Synchronisation',
-        component: ComponentCreator('/docs/Automation/Synchronisation', '726'),
-        exact: true
-      },
-      {
-        path: '/docs/Automation/WebDriver',
-        component: ComponentCreator('/docs/Automation/WebDriver', 'c80'),
-        exact: true
-      },
       {
         path: '/docs/ContactMe',
         component: ComponentCreator('/docs/ContactMe', 'fcd'),
         exact: true
       },
       {
-        path: '/docs/Docker/',
-        component: ComponentCreator('/docs/Docker/', 'a09'),
+        path: '/docs/DevOps/Docker/',
+        component: ComponentCreator('/docs/DevOps/Docker/', 'f9e'),
         exact: true
       },
       {
-        path: '/docs/Docker/Build Docker Image',
-        component: ComponentCreator('/docs/Docker/Build Docker Image', 'a5e'),
+        path: '/docs/DevOps/Docker/Build Docker Image',
+        component: ComponentCreator('/docs/DevOps/Docker/Build Docker Image', '297'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker 1',
-        component: ComponentCreator('/docs/Docker/Docker 1', 'ba7'),
+        path: '/docs/DevOps/Docker/Docker 1',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker 1', '4bf'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Basics',
-        component: ComponentCreator('/docs/Docker/Docker Basics', '551'),
+        path: '/docs/DevOps/Docker/Docker Basics',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Basics', '91c'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Bind Mounts',
-        component: ComponentCreator('/docs/Docker/Docker Bind Mounts', '31f'),
+        path: '/docs/DevOps/Docker/Docker Bind Mounts',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Bind Mounts', '74b'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Compose/',
-        component: ComponentCreator('/docs/Docker/Docker Compose/', 'f8a'),
+        path: '/docs/DevOps/Docker/Docker Compose/',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Compose/', 'b48'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker DevEnv Setup',
-        component: ComponentCreator('/docs/Docker/Docker DevEnv Setup', 'cca'),
+        path: '/docs/DevOps/Docker/Docker DevEnv Setup',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker DevEnv Setup', 'f4f'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Layer Caching',
-        component: ComponentCreator('/docs/Docker/Docker Layer Caching', 'c95'),
+        path: '/docs/DevOps/Docker/Docker Layer Caching',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Layer Caching', 'e99'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Multi Stage Build',
-        component: ComponentCreator('/docs/Docker/Docker Multi Stage Build', '37a'),
+        path: '/docs/DevOps/Docker/Docker Multi Stage Build',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Multi Stage Build', '70e'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker MySQL Application',
-        component: ComponentCreator('/docs/Docker/Docker MySQL Application', 'dab'),
+        path: '/docs/DevOps/Docker/Docker MySQL Application',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker MySQL Application', '57e'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Networking',
-        component: ComponentCreator('/docs/Docker/Docker Networking', '6da'),
+        path: '/docs/DevOps/Docker/Docker Networking',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Networking', 'f49'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Nextjs Application',
-        component: ComponentCreator('/docs/Docker/Docker Nextjs Application', '2ea'),
+        path: '/docs/DevOps/Docker/Docker Nextjs Application',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Nextjs Application', 'b6d'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Nicolaka Netshoot',
-        component: ComponentCreator('/docs/Docker/Docker Nicolaka Netshoot', '54c'),
+        path: '/docs/DevOps/Docker/Docker Nicolaka Netshoot',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Nicolaka Netshoot', '9dc'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Secrets',
-        component: ComponentCreator('/docs/Docker/Docker Secrets', 'd9b'),
+        path: '/docs/DevOps/Docker/Docker Secrets',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Secrets', '7ef'),
         exact: true
       },
       {
-        path: '/docs/Docker/Docker Volumes',
-        component: ComponentCreator('/docs/Docker/Docker Volumes', '998'),
+        path: '/docs/DevOps/Docker/Docker Volumes',
+        component: ComponentCreator('/docs/DevOps/Docker/Docker Volumes', '41f'),
         exact: true
       },
       {
-        path: '/docs/Docker/DockerFiles/Docker Ignore file',
-        component: ComponentCreator('/docs/Docker/DockerFiles/Docker Ignore file', '7f3'),
+        path: '/docs/DevOps/Docker/DockerFiles/Docker Ignore file',
+        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/Docker Ignore file', 'dfd'),
         exact: true
       },
       {
-        path: '/docs/Docker/DockerFiles/DockerFile',
-        component: ComponentCreator('/docs/Docker/DockerFiles/DockerFile', '3c1'),
+        path: '/docs/DevOps/Docker/DockerFiles/DockerFile',
+        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/DockerFile', 'a30'),
         exact: true
       },
       {
-        path: '/docs/Docker/DockerFiles/Nextjs Docker File',
-        component: ComponentCreator('/docs/Docker/DockerFiles/Nextjs Docker File', '7b8'),
+        path: '/docs/DevOps/Docker/DockerFiles/Nextjs Docker File',
+        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/Nextjs Docker File', 'dde'),
         exact: true
       },
       {
-        path: '/docs/Docker/DockerHub',
-        component: ComponentCreator('/docs/Docker/DockerHub', '337'),
+        path: '/docs/DevOps/Docker/DockerHub',
+        component: ComponentCreator('/docs/DevOps/Docker/DockerHub', '625'),
         exact: true
       },
       {
-        path: '/docs/Docker/My Used Docker Commands',
-        component: ComponentCreator('/docs/Docker/My Used Docker Commands', '3a4'),
+        path: '/docs/DevOps/Docker/My Used Docker Commands',
+        component: ComponentCreator('/docs/DevOps/Docker/My Used Docker Commands', 'a47'),
         exact: true
       },
       {
-        path: '/docs/Docker/Run Commonds Inside Container',
-        component: ComponentCreator('/docs/Docker/Run Commonds Inside Container', '7a9'),
+        path: '/docs/DevOps/Docker/Run Commonds Inside Container',
+        component: ComponentCreator('/docs/DevOps/Docker/Run Commonds Inside Container', '41f'),
         exact: true
       },
       {
-        path: '/docs/Docker/Start Docker Container',
-        component: ComponentCreator('/docs/Docker/Start Docker Container', 'c7c'),
+        path: '/docs/DevOps/Docker/Start Docker Container',
+        component: ComponentCreator('/docs/DevOps/Docker/Start Docker Container', 'a7c'),
         exact: true
       },
       {
-        path: '/docs/ManualTesting/Introduction',
-        component: ComponentCreator('/docs/ManualTesting/Introduction', '544'),
+        path: '/docs/Excalidraw/Banner',
+        component: ComponentCreator('/docs/Excalidraw/Banner', '74b'),
         exact: true
       },
       {
-        path: '/docs/ManualTesting/QARoadMap.excalidraw',
-        component: ComponentCreator('/docs/ManualTesting/QARoadMap.excalidraw', 'a28'),
+        path: '/docs/Excalidraw/QARoadMap.excalidraw',
+        component: ComponentCreator('/docs/Excalidraw/QARoadMap.excalidraw', 'f7c'),
         exact: true
       },
       {
-        path: '/docs/My Social Docs/Banner',
-        component: ComponentCreator('/docs/My Social Docs/Banner', 'bf1'),
+        path: '/docs/SDET/Playwright',
+        component: ComponentCreator('/docs/SDET/Playwright', '739'),
         exact: true
       },
       {
-        path: '/docs/Vocabulary',
-        component: ComponentCreator('/docs/Vocabulary', '881'),
+        path: '/docs/SDET/Selenium/',
+        component: ComponentCreator('/docs/SDET/Selenium/', 'b71'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Selenium/BrowserOptions',
+        component: ComponentCreator('/docs/SDET/Selenium/BrowserOptions', 'f58'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Selenium/Grid',
+        component: ComponentCreator('/docs/SDET/Selenium/Grid', '39e'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Selenium/notes',
+        component: ComponentCreator('/docs/SDET/Selenium/notes', 'b96'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Selenium/static/SeleniumExcalidraw',
+        component: ComponentCreator('/docs/SDET/Selenium/static/SeleniumExcalidraw', 'a21'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Selenium/Synchronisation',
+        component: ComponentCreator('/docs/SDET/Selenium/Synchronisation', '1ee'),
         exact: true
       }
     ]

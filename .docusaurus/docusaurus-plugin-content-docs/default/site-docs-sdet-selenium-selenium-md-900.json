@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Selenium/Selenium",
+  "id": "SDET/Selenium/Selenium",
+  "title": "Selenium",
+  "description": "Components",
+  "source": "@site/docs/SDET/Selenium/Selenium.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/",
+  "permalink": "/docs/SDET/Selenium/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Selenium"
+  },
+  "sidebar": "SDETSidebar",
+  "next": {
+    "title": "Grid",
+    "permalink": "/docs/SDET/Selenium/Grid"
+  }
+}

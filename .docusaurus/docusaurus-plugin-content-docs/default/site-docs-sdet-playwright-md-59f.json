@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Playwright",
+  "id": "SDET/Playwright",
+  "title": "Playwright",
+  "description": "Reference https://playwright.dev/",
+  "source": "@site/docs/SDET/Playwright.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Playwright",
+  "permalink": "/docs/SDET/Playwright",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Playwright"
+  }
+}

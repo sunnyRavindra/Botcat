@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Automation/Selenium/Grid",
+  "id": "Automation/Selenium/Grid",
+  "title": "Grid",
+  "description": "Parallel Tests on Multiple Machines",
+  "source": "@site/docs/Automation/Selenium/Grid.md",
+  "sourceDirName": "Automation/Selenium",
+  "slug": "/Automation/Selenium/Grid",
+  "permalink": "/docs/Automation/Selenium/Grid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Grid"
+  },
+  "sidebar": "InterviewQuestionsSidebar",
+  "previous": {
+    "title": "Browser Options",
+    "permalink": "/docs/Automation/Selenium/BrowserOptions"
+  }
+}

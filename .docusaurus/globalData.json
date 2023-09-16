@@ -8,148 +8,146 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Automation/Selenium",
+          "mainDocId": "SDET/Selenium/Selenium",
           "docs": [
-            {
-              "id": "Automation/Playwright",
-              "path": "/docs/Automation/Playwright"
-            },
-            {
-              "id": "Automation/Selenium",
-              "path": "/docs/Automation/Selenium",
-              "sidebar": "AutomationSidebar"
-            },
-            {
-              "id": "Automation/Selenium/Selenium",
-              "path": "/docs/Automation/Selenium/"
-            },
-            {
-              "id": "Automation/SeleniumArchitecture",
-              "path": "/docs/Automation/SeleniumArchitecture"
-            },
-            {
-              "id": "Automation/Synchronisation",
-              "path": "/docs/Automation/Synchronisation"
-            },
-            {
-              "id": "Automation/WebDriver",
-              "path": "/docs/Automation/WebDriver"
-            },
             {
               "id": "ContactMe",
               "path": "/docs/ContactMe"
             },
             {
-              "id": "Docker/Build Docker Image",
-              "path": "/docs/Docker/Build Docker Image"
+              "id": "DevOps/Docker/Build Docker Image",
+              "path": "/docs/DevOps/Docker/Build Docker Image"
             },
             {
-              "id": "Docker/Docker",
-              "path": "/docs/Docker/"
+              "id": "DevOps/Docker/Docker",
+              "path": "/docs/DevOps/Docker/"
             },
             {
-              "id": "Docker/Docker 1",
-              "path": "/docs/Docker/Docker 1"
+              "id": "DevOps/Docker/Docker 1",
+              "path": "/docs/DevOps/Docker/Docker 1"
             },
             {
-              "id": "Docker/Docker Basics",
-              "path": "/docs/Docker/Docker Basics"
+              "id": "DevOps/Docker/Docker Basics",
+              "path": "/docs/DevOps/Docker/Docker Basics"
             },
             {
-              "id": "Docker/Docker Bind Mounts",
-              "path": "/docs/Docker/Docker Bind Mounts"
+              "id": "DevOps/Docker/Docker Bind Mounts",
+              "path": "/docs/DevOps/Docker/Docker Bind Mounts"
             },
             {
-              "id": "Docker/Docker Compose/Docker Compose",
-              "path": "/docs/Docker/Docker Compose/"
+              "id": "DevOps/Docker/Docker Compose/Docker Compose",
+              "path": "/docs/DevOps/Docker/Docker Compose/"
             },
             {
-              "id": "Docker/Docker DevEnv Setup",
-              "path": "/docs/Docker/Docker DevEnv Setup"
+              "id": "DevOps/Docker/Docker DevEnv Setup",
+              "path": "/docs/DevOps/Docker/Docker DevEnv Setup"
             },
             {
-              "id": "Docker/Docker Layer Caching",
-              "path": "/docs/Docker/Docker Layer Caching"
+              "id": "DevOps/Docker/Docker Layer Caching",
+              "path": "/docs/DevOps/Docker/Docker Layer Caching"
             },
             {
-              "id": "Docker/Docker Multi Stage Build",
-              "path": "/docs/Docker/Docker Multi Stage Build"
+              "id": "DevOps/Docker/Docker Multi Stage Build",
+              "path": "/docs/DevOps/Docker/Docker Multi Stage Build"
             },
             {
-              "id": "Docker/Docker MySQL Application",
-              "path": "/docs/Docker/Docker MySQL Application"
+              "id": "DevOps/Docker/Docker MySQL Application",
+              "path": "/docs/DevOps/Docker/Docker MySQL Application"
             },
             {
-              "id": "Docker/Docker Networking",
-              "path": "/docs/Docker/Docker Networking"
+              "id": "DevOps/Docker/Docker Networking",
+              "path": "/docs/DevOps/Docker/Docker Networking"
             },
             {
-              "id": "Docker/Docker Nextjs Application",
-              "path": "/docs/Docker/Docker Nextjs Application"
+              "id": "DevOps/Docker/Docker Nextjs Application",
+              "path": "/docs/DevOps/Docker/Docker Nextjs Application"
             },
             {
-              "id": "Docker/Docker Nicolaka Netshoot",
-              "path": "/docs/Docker/Docker Nicolaka Netshoot"
+              "id": "DevOps/Docker/Docker Nicolaka Netshoot",
+              "path": "/docs/DevOps/Docker/Docker Nicolaka Netshoot"
             },
             {
-              "id": "Docker/Docker Secrets",
-              "path": "/docs/Docker/Docker Secrets"
+              "id": "DevOps/Docker/Docker Secrets",
+              "path": "/docs/DevOps/Docker/Docker Secrets"
             },
             {
-              "id": "Docker/Docker Volumes",
-              "path": "/docs/Docker/Docker Volumes"
+              "id": "DevOps/Docker/Docker Volumes",
+              "path": "/docs/DevOps/Docker/Docker Volumes"
             },
             {
-              "id": "Docker/DockerFiles/Docker Ignore file",
-              "path": "/docs/Docker/DockerFiles/Docker Ignore file"
+              "id": "DevOps/Docker/DockerFiles/Docker Ignore file",
+              "path": "/docs/DevOps/Docker/DockerFiles/Docker Ignore file"
             },
             {
-              "id": "Docker/DockerFiles/DockerFile",
-              "path": "/docs/Docker/DockerFiles/DockerFile"
+              "id": "DevOps/Docker/DockerFiles/DockerFile",
+              "path": "/docs/DevOps/Docker/DockerFiles/DockerFile"
             },
             {
-              "id": "Docker/DockerFiles/Nextjs Docker File",
-              "path": "/docs/Docker/DockerFiles/Nextjs Docker File"
+              "id": "DevOps/Docker/DockerFiles/Nextjs Docker File",
+              "path": "/docs/DevOps/Docker/DockerFiles/Nextjs Docker File"
             },
             {
-              "id": "Docker/DockerHub",
-              "path": "/docs/Docker/DockerHub"
+              "id": "DevOps/Docker/DockerHub",
+              "path": "/docs/DevOps/Docker/DockerHub"
             },
             {
-              "id": "Docker/My Used Docker Commands",
-              "path": "/docs/Docker/My Used Docker Commands"
+              "id": "DevOps/Docker/My Used Docker Commands",
+              "path": "/docs/DevOps/Docker/My Used Docker Commands"
             },
             {
-              "id": "Docker/Run Commonds Inside Container",
-              "path": "/docs/Docker/Run Commonds Inside Container"
+              "id": "DevOps/Docker/Run Commonds Inside Container",
+              "path": "/docs/DevOps/Docker/Run Commonds Inside Container"
             },
             {
-              "id": "Docker/Start Docker Container",
-              "path": "/docs/Docker/Start Docker Container"
+              "id": "DevOps/Docker/Start Docker Container",
+              "path": "/docs/DevOps/Docker/Start Docker Container"
             },
             {
-              "id": "ManualTesting/Introduction",
-              "path": "/docs/ManualTesting/Introduction"
+              "id": "Excalidraw/Banner",
+              "path": "/docs/Excalidraw/Banner"
             },
             {
-              "id": "ManualTesting/QARoadMap.excalidraw",
-              "path": "/docs/ManualTesting/QARoadMap.excalidraw"
+              "id": "Excalidraw/QARoadMap.excalidraw",
+              "path": "/docs/Excalidraw/QARoadMap.excalidraw"
             },
             {
-              "id": "My Social Docs/Banner",
-              "path": "/docs/My Social Docs/Banner"
+              "id": "SDET/Playwright",
+              "path": "/docs/SDET/Playwright"
             },
             {
-              "id": "Vocabulary",
-              "path": "/docs/Vocabulary"
+              "id": "SDET/Selenium/BrowserOptions",
+              "path": "/docs/SDET/Selenium/BrowserOptions",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Selenium/Grid",
+              "path": "/docs/SDET/Selenium/Grid",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Selenium/notes",
+              "path": "/docs/SDET/Selenium/notes"
+            },
+            {
+              "id": "SDET/Selenium/Selenium",
+              "path": "/docs/SDET/Selenium/",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Selenium/static/SeleniumExcalidraw",
+              "path": "/docs/SDET/Selenium/static/SeleniumExcalidraw"
+            },
+            {
+              "id": "SDET/Selenium/Synchronisation",
+              "path": "/docs/SDET/Selenium/Synchronisation"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "AutomationSidebar": {
+            "SDETSidebar": {
               "link": {
-                "path": "/docs/Automation/Selenium",
-                "label": "Automation/Selenium"
+                "path": "/docs/SDET/Selenium/",
+                "label": "SDET/Selenium/Selenium"
               }
             }
           }

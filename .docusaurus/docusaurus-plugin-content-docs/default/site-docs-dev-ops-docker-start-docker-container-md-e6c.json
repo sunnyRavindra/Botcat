@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Start Docker Container",
+  "id": "DevOps/Docker/Start Docker Container",
+  "title": "Start Docker Container",
+  "description": "",
+  "source": "@site/docs/DevOps/Docker/Start Docker Container.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/Start Docker Container",
+  "permalink": "/docs/DevOps/Docker/Start Docker Container",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

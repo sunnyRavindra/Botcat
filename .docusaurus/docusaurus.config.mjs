@@ -62,9 +62,9 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "AutomationSidebar",
+          "sidebarId": "SDETSidebar",
           "position": "left",
-          "label": "Automation"
+          "label": "SDET Docs"
         },
         {
           "to": "/docs/ContactMe",

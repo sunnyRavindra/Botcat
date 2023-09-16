@@ -8,181 +8,211 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "AutomationSidebar": [
+    "SDETSidebar": [
       {
-        "type": "link",
+        "type": "category",
         "label": "Selenium",
-        "href": "/docs/Automation/Selenium",
-        "docId": "Automation/Selenium"
+        "items": [
+          {
+            "type": "link",
+            "label": "Selenium",
+            "href": "/docs/SDET/Selenium/",
+            "docId": "SDET/Selenium/Selenium"
+          },
+          {
+            "type": "link",
+            "label": "Grid",
+            "href": "/docs/SDET/Selenium/Grid",
+            "docId": "SDET/Selenium/Grid"
+          },
+          {
+            "type": "link",
+            "label": "Browser Options",
+            "href": "/docs/SDET/Selenium/BrowserOptions",
+            "docId": "SDET/Selenium/BrowserOptions"
+          },
+          {
+            "type": "category",
+            "label": "Reference",
+            "items": [
+              {
+                "type": "link",
+                "label": "Selenium Official",
+                "href": "https://www.selenium.dev/"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
   "docs": {
-    "Automation/Playwright": {
-      "id": "Automation/Playwright",
-      "title": "Playwright",
-      "description": "Reference https://playwright.dev/"
-    },
-    "Automation/Selenium": {
-      "id": "Automation/Selenium",
-      "title": "Selenium",
-      "description": "Components",
-      "sidebar": "AutomationSidebar"
-    },
-    "Automation/Selenium/Selenium": {
-      "id": "Automation/Selenium/Selenium",
-      "title": "Selenium",
-      "description": "Components"
-    },
-    "Automation/SeleniumArchitecture": {
-      "id": "Automation/SeleniumArchitecture",
-      "title": "SeleniumArchitecture",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "Automation/Synchronisation": {
-      "id": "Automation/Synchronisation",
-      "title": "Synchronisation",
-      "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
-    },
-    "Automation/WebDriver": {
-      "id": "Automation/WebDriver",
-      "title": "WebDriver",
-      "description": "2. Supports Auto-wait, Assertions for Dynammic pages (like react pages), Tracing using Test retry stratagy and ditching Same origin policy."
-    },
     "ContactMe": {
       "id": "ContactMe",
       "title": "ContactMe",
       "description": "*"
     },
-    "Docker/Build Docker Image": {
-      "id": "Docker/Build Docker Image",
+    "DevOps/Docker/Build Docker Image": {
+      "id": "DevOps/Docker/Build Docker Image",
       "title": "Build Docker Image",
       "description": ""
     },
-    "Docker/Docker": {
-      "id": "Docker/Docker",
+    "DevOps/Docker/Docker": {
+      "id": "DevOps/Docker/Docker",
       "title": "Docker",
       "description": "- [[Linux Namespaces]]"
     },
-    "Docker/Docker 1": {
-      "id": "Docker/Docker 1",
+    "DevOps/Docker/Docker 1": {
+      "id": "DevOps/Docker/Docker 1",
       "title": "Docker 1",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "Docker/Docker Basics": {
-      "id": "Docker/Docker Basics",
+    "DevOps/Docker/Docker Basics": {
+      "id": "DevOps/Docker/Docker Basics",
       "title": "Docker Basics",
       "description": "[[Run Commonds Inside Container]]"
     },
-    "Docker/Docker Bind Mounts": {
-      "id": "Docker/Docker Bind Mounts",
+    "DevOps/Docker/Docker Bind Mounts": {
+      "id": "DevOps/Docker/Docker Bind Mounts",
       "title": "Docker Bind Mounts",
       "description": ""
     },
-    "Docker/Docker Compose/Docker Compose": {
-      "id": "Docker/Docker Compose/Docker Compose",
+    "DevOps/Docker/Docker Compose/Docker Compose": {
+      "id": "DevOps/Docker/Docker Compose/Docker Compose",
       "title": "Docker Compose",
       "description": "- Install Docker Compose"
     },
-    "Docker/Docker DevEnv Setup": {
-      "id": "Docker/Docker DevEnv Setup",
+    "DevOps/Docker/Docker DevEnv Setup": {
+      "id": "DevOps/Docker/Docker DevEnv Setup",
       "title": "Docker DevEnv Setup",
       "description": "- I pory for all my git projects"
     },
-    "Docker/Docker Layer Caching": {
-      "id": "Docker/Docker Layer Caching",
+    "DevOps/Docker/Docker Layer Caching": {
+      "id": "DevOps/Docker/Docker Layer Caching",
       "title": "Docker Layer Caching",
       "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages."
     },
-    "Docker/Docker Multi Stage Build": {
-      "id": "Docker/Docker Multi Stage Build",
+    "DevOps/Docker/Docker Multi Stage Build": {
+      "id": "DevOps/Docker/Docker Multi Stage Build",
       "title": "Docker Multi Stage Build",
       "description": "- Advantages"
     },
-    "Docker/Docker MySQL Application": {
-      "id": "Docker/Docker MySQL Application",
+    "DevOps/Docker/Docker MySQL Application": {
+      "id": "DevOps/Docker/Docker MySQL Application",
       "title": "Docker MySQL Application",
       "description": "- Create docker network for the MYSQL container"
     },
-    "Docker/Docker Networking": {
-      "id": "Docker/Docker Networking",
+    "DevOps/Docker/Docker Networking": {
+      "id": "DevOps/Docker/Docker Networking",
       "title": "Docker Networking",
       "description": ""
     },
-    "Docker/Docker Nextjs Application": {
-      "id": "Docker/Docker Nextjs Application",
+    "DevOps/Docker/Docker Nextjs Application": {
+      "id": "DevOps/Docker/Docker Nextjs Application",
       "title": "Docker Nextjs Application",
       "description": "- [[Create Nextjs App]] in local."
     },
-    "Docker/Docker Nicolaka Netshoot": {
-      "id": "Docker/Docker Nicolaka Netshoot",
+    "DevOps/Docker/Docker Nicolaka Netshoot": {
+      "id": "DevOps/Docker/Docker Nicolaka Netshoot",
       "title": "Docker Nicolaka Netshoot",
       "description": "- Start a new container using the nicolaka/netshoot image."
     },
-    "Docker/Docker Secrets": {
-      "id": "Docker/Docker Secrets",
+    "DevOps/Docker/Docker Secrets": {
+      "id": "DevOps/Docker/Docker Secrets",
       "title": "Docker Secrets",
       "description": "- ENV variables should not be used in Docker."
     },
-    "Docker/Docker Volumes": {
-      "id": "Docker/Docker Volumes",
+    "DevOps/Docker/Docker Volumes": {
+      "id": "DevOps/Docker/Docker Volumes",
       "title": "Docker Volumes",
       "description": "- Create Volume."
     },
-    "Docker/DockerFiles/Docker Ignore file": {
-      "id": "Docker/DockerFiles/Docker Ignore file",
+    "DevOps/Docker/DockerFiles/Docker Ignore file": {
+      "id": "DevOps/Docker/DockerFiles/Docker Ignore file",
       "title": "Docker Ignore file",
       "description": "Step-by-step guide to creating a .dockerignore file:"
     },
-    "Docker/DockerFiles/DockerFile": {
-      "id": "Docker/DockerFiles/DockerFile",
+    "DevOps/Docker/DockerFiles/DockerFile": {
+      "id": "DevOps/Docker/DockerFiles/DockerFile",
       "title": "DockerFile",
       "description": "- [[Nextjs Docker File]]"
     },
-    "Docker/DockerFiles/Nextjs Docker File": {
-      "id": "Docker/DockerFiles/Nextjs Docker File",
+    "DevOps/Docker/DockerFiles/Nextjs Docker File": {
+      "id": "DevOps/Docker/DockerFiles/Nextjs Docker File",
       "title": "Nextjs Docker File",
       "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json."
     },
-    "Docker/DockerHub": {
-      "id": "Docker/DockerHub",
+    "DevOps/Docker/DockerHub": {
+      "id": "DevOps/Docker/DockerHub",
       "title": "DockerHub",
       "description": "- DockerHub is the official docker registry from docker where all the images are stored public or private."
     },
-    "Docker/My Used Docker Commands": {
-      "id": "Docker/My Used Docker Commands",
+    "DevOps/Docker/My Used Docker Commands": {
+      "id": "DevOps/Docker/My Used Docker Commands",
       "title": "My Used Docker Commands",
       "description": "- Login"
     },
-    "Docker/Run Commonds Inside Container": {
-      "id": "Docker/Run Commonds Inside Container",
+    "DevOps/Docker/Run Commonds Inside Container": {
+      "id": "DevOps/Docker/Run Commonds Inside Container",
       "title": "Run Commonds Inside Container",
       "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:"
     },
-    "Docker/Start Docker Container": {
-      "id": "Docker/Start Docker Container",
+    "DevOps/Docker/Start Docker Container": {
+      "id": "DevOps/Docker/Start Docker Container",
       "title": "Start Docker Container",
       "description": ""
     },
-    "ManualTesting/Introduction": {
-      "id": "ManualTesting/Introduction",
-      "title": "Introduction",
-      "description": "Software Testing"
-    },
-    "ManualTesting/QARoadMap.excalidraw": {
-      "id": "ManualTesting/QARoadMap.excalidraw",
-      "title": "QARoadMap.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "My Social Docs/Banner": {
-      "id": "My Social Docs/Banner",
+    "Excalidraw/Banner": {
+      "id": "Excalidraw/Banner",
       "title": "Banner",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "Vocabulary": {
-      "id": "Vocabulary",
-      "title": "Vocabulary",
-      "description": "- Non-Trivial ->"
+    "Excalidraw/QARoadMap.excalidraw": {
+      "id": "Excalidraw/QARoadMap.excalidraw",
+      "title": "QARoadMap.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Playwright": {
+      "id": "SDET/Playwright",
+      "title": "Playwright",
+      "description": "Reference https://playwright.dev/"
+    },
+    "SDET/Selenium/BrowserOptions": {
+      "id": "SDET/Selenium/BrowserOptions",
+      "title": "Browser Options",
+      "description": "Browser Options",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Selenium/Grid": {
+      "id": "SDET/Selenium/Grid",
+      "title": "Grid",
+      "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Selenium/notes": {
+      "id": "SDET/Selenium/notes",
+      "title": "notes",
+      "description": "Desired Capabilties"
+    },
+    "SDET/Selenium/Selenium": {
+      "id": "SDET/Selenium/Selenium",
+      "title": "Selenium",
+      "description": "Components",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Selenium/static/SeleniumExcalidraw": {
+      "id": "SDET/Selenium/static/SeleniumExcalidraw",
+      "title": "SeleniumExcalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Selenium/Synchronisation": {
+      "id": "SDET/Selenium/Synchronisation",
+      "title": "Synchronisation",
+      "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
     }
   }
 }

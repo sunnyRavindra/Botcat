@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Selenium/Grid",
+  "id": "SDET/Selenium/Grid",
+  "title": "Grid",
+  "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
+  "source": "@site/docs/SDET/Selenium/Grid.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/Grid",
+  "permalink": "/docs/SDET/Selenium/Grid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Grid"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Selenium",
+    "permalink": "/docs/SDET/Selenium/"
+  },
+  "next": {
+    "title": "Browser Options",
+    "permalink": "/docs/SDET/Selenium/BrowserOptions"
+  }
+}

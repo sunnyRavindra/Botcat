@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Selenium/BrowserOptions",
+  "id": "SDET/Selenium/BrowserOptions",
+  "title": "Browser Options",
+  "description": "Browser Options",
+  "source": "@site/docs/SDET/Selenium/BrowserOptions.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/BrowserOptions",
+  "permalink": "/docs/SDET/Selenium/BrowserOptions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Browser Options"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Grid",
+    "permalink": "/docs/SDET/Selenium/Grid"
+  }
+}

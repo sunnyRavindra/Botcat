@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Docker Basics",
+  "id": "DevOps/Docker/Docker Basics",
+  "title": "Docker Basics",
+  "description": "[[Run Commonds Inside Container]]",
+  "source": "@site/docs/DevOps/Docker/Docker Basics.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/Docker Basics",
+  "permalink": "/docs/DevOps/Docker/Docker Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

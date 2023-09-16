@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Build Docker Image",
+  "id": "DevOps/Docker/Build Docker Image",
+  "title": "Build Docker Image",
+  "description": "",
+  "source": "@site/docs/DevOps/Docker/Build Docker Image.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/Build Docker Image",
+  "permalink": "/docs/DevOps/Docker/Build Docker Image",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

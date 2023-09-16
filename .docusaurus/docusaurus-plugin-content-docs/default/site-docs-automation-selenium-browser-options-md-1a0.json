@@ -1,0 +1,21 @@
+{
+  "unversionedId": "Automation/Selenium/BrowserOptions",
+  "id": "Automation/Selenium/BrowserOptions",
+  "title": "Browser Options",
+  "description": "Browser Options",
+  "source": "@site/docs/Automation/Selenium/BrowserOptions.md",
+  "sourceDirName": "Automation/Selenium",
+  "slug": "/Automation/Selenium/BrowserOptions",
+  "permalink": "/docs/Automation/Selenium/BrowserOptions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Browser Options"
+  },
+  "sidebar": "InterviewQuestionsSidebar",
+  "next": {
+    "title": "Grid",
+    "permalink": "/docs/Automation/Selenium/Grid"
+  }
+}

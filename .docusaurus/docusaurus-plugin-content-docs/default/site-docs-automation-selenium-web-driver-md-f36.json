@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Automation/Selenium/WebDriver",
+  "id": "Automation/Selenium/WebDriver",
+  "title": "WebDriver",
+  "description": "Components",
+  "source": "@site/docs/Automation/Selenium/WebDriver.md",
+  "sourceDirName": "Automation/Selenium",
+  "slug": "/Automation/Selenium/WebDriver",
+  "permalink": "/docs/Automation/Selenium/WebDriver",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WebDriver"
+  },
+  "sidebar": "AutomationSidebar",
+  "previous": {
+    "title": "Synchronisation",
+    "permalink": "/docs/Automation/Selenium/Synchronisation"
+  },
+  "next": {
+    "title": "Synchronisation",
+    "permalink": "/docs/Automation/Selenium/Synchronisation"
+  }
+}

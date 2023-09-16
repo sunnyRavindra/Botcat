@@ -5,28 +5,28 @@
   "count": 4,
   "items": [
     {
-      "id": "My Social Docs/Banner",
+      "id": "Excalidraw/Banner",
       "title": "Banner",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/My Social Docs/Banner"
+      "permalink": "/docs/Excalidraw/Banner"
     },
     {
-      "id": "Docker/Docker 1",
+      "id": "DevOps/Docker/Docker 1",
       "title": "Docker 1",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Docker/Docker 1"
+      "permalink": "/docs/DevOps/Docker/Docker 1"
     },
     {
-      "id": "ManualTesting/QARoadMap.excalidraw",
+      "id": "Excalidraw/QARoadMap.excalidraw",
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/ManualTesting/QARoadMap.excalidraw"
+      "permalink": "/docs/Excalidraw/QARoadMap.excalidraw"
     },
     {
-      "id": "Automation/SeleniumArchitecture",
-      "title": "SeleniumArchitecture",
+      "id": "SDET/Selenium/static/SeleniumExcalidraw",
+      "title": "SeleniumExcalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/docs/Automation/SeleniumArchitecture"
+      "permalink": "/docs/SDET/Selenium/static/SeleniumExcalidraw"
     }
   ]
 }

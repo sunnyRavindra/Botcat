@@ -84,46 +84,10 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'AutomationSidebar',
+            sidebarId: 'SDETSidebar',
             position: 'left',
-            label: 'Automation',
+            label: 'SDET Docs',
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'StepFunctionsSidebar',
-          //   position: 'left',
-          //   label: 'Step Functions',
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'ApiTestingSidebar',
-          //   position: 'left',
-          //   label: 'API Testing',
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'SeleniumSidebar',
-          //   position: 'left',
-          //   label: 'Selenium',
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'LeetcodeSidebar',
-          //   position: 'left',
-          //   label: 'Leetcode',
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'FinnishSidebar',
-          //   position: 'left',
-          //   label: 'Finnish',
-          // },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'awsSidebar',
-          //   position: 'left',
-          //   label: 'AWS',
-          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/ContactMe', label: 'Contact Me', position: 'right'},
           {

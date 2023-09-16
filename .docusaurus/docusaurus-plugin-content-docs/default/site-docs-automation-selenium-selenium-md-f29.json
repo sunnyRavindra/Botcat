@@ -12,5 +12,10 @@
   "version": "current",
   "frontMatter": {
     "title": "Selenium"
+  },
+  "sidebar": "AutomationSidebar",
+  "next": {
+    "title": "Browser Options",
+    "permalink": "/docs/Automation/Selenium/BrowserOptions"
   }
 }

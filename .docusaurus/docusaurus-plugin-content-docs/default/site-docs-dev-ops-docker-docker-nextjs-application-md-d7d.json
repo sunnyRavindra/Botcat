@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Docker Nextjs Application",
+  "id": "DevOps/Docker/Docker Nextjs Application",
+  "title": "Docker Nextjs Application",
+  "description": "- [[Create Nextjs App]] in local.",
+  "source": "@site/docs/DevOps/Docker/Docker Nextjs Application.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/Docker Nextjs Application",
+  "permalink": "/docs/DevOps/Docker/Docker Nextjs Application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

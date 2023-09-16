@@ -1,0 +1,14 @@
+{
+  "unversionedId": "DevOps/Docker/Docker",
+  "id": "DevOps/Docker/Docker",
+  "title": "Docker",
+  "description": "- [[Linux Namespaces]]",
+  "source": "@site/docs/DevOps/Docker/Docker.md",
+  "sourceDirName": "DevOps/Docker",
+  "slug": "/DevOps/Docker/",
+  "permalink": "/docs/DevOps/Docker/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

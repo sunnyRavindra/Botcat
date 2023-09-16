@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Automation/ManualTesting/Introduction",
+  "id": "Automation/ManualTesting/Introduction",
+  "title": "Introduction",
+  "description": "Software Testing",
+  "source": "@site/docs/Automation/ManualTesting/Introduction.mdx",
+  "sourceDirName": "Automation/ManualTesting",
+  "slug": "/Automation/ManualTesting/Introduction",
+  "permalink": "/docs/Automation/ManualTesting/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
