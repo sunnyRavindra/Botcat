@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4dd'),
+    component: ComponentCreator('/docs', 'a9d'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -225,6 +225,12 @@ export default [
         path: '/docs/Excalidraw/QARoadMap.excalidraw',
         component: ComponentCreator('/docs/Excalidraw/QARoadMap.excalidraw', 'f7c'),
         exact: true
+      },
+      {
+        path: '/docs/SDET/Docker/Introduction',
+        component: ComponentCreator('/docs/SDET/Docker/Introduction', '425'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/docs/SDET/Playwright',

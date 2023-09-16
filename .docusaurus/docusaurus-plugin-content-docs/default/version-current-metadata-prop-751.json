@@ -47,6 +47,33 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Docker",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/SDET/Docker/Introduction",
+            "docId": "SDET/Docker/Introduction"
+          },
+          {
+            "type": "category",
+            "label": "Reference",
+            "items": [
+              {
+                "type": "link",
+                "label": "Selenium Official",
+                "href": "https://www.selenium.dev/"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -175,6 +202,12 @@
       "id": "Excalidraw/QARoadMap.excalidraw",
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Docker/Introduction": {
+      "id": "SDET/Docker/Introduction",
+      "title": "Introduction",
+      "description": "",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Playwright": {
       "id": "SDET/Playwright",

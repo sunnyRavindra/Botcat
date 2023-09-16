@@ -398,6 +398,25 @@
               }
             },
             {
+              "unversionedId": "SDET/Docker/Introduction",
+              "id": "SDET/Docker/Introduction",
+              "title": "Introduction",
+              "description": "",
+              "source": "@site/docs/SDET/Docker/Introduction.md",
+              "sourceDirName": "SDET/Docker",
+              "slug": "/SDET/Docker/Introduction",
+              "permalink": "/docs/SDET/Docker/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Browser Options",
+                "permalink": "/docs/SDET/Selenium/BrowserOptions"
+              }
+            },
+            {
               "unversionedId": "SDET/Playwright",
               "id": "SDET/Playwright",
               "title": "Playwright",
@@ -432,6 +451,10 @@
               "previous": {
                 "title": "Grid",
                 "permalink": "/docs/SDET/Selenium/Grid"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/SDET/Docker/Introduction"
               }
             },
             {
@@ -551,6 +574,31 @@
                   {
                     "type": "doc",
                     "id": "SDET/Selenium/BrowserOptions"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Reference",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Selenium Official",
+                        "href": "https://www.selenium.dev/"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Docker",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Docker/Introduction"
                   },
                   {
                     "type": "category",

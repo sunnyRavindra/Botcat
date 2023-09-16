@@ -17,5 +17,9 @@
   "previous": {
     "title": "Grid",
     "permalink": "/docs/SDET/Selenium/Grid"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/SDET/Docker/Introduction"
   }
 }

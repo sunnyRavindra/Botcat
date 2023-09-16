@@ -111,6 +111,11 @@
               "path": "/docs/Excalidraw/QARoadMap.excalidraw"
             },
             {
+              "id": "SDET/Docker/Introduction",
+              "path": "/docs/SDET/Docker/Introduction",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Playwright",
               "path": "/docs/SDET/Playwright"
             },

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ba24473fc56bf417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Selenium/Grid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 355.5
   },
   "right": {
     "id": "56a63d6912f69318",
@@ -160,10 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba24473fc56bf417",
+  "active": "f8e8eea891afc710",
   "lastOpenFiles": [
-    "SDET/Selenium/static/GridFacts.png",
+    "SDET/Docker/Introduction.md",
+    "SDET/Docker",
+    "SDET/Selenium/static/gridOfficial.png",
     "SDET/Selenium/Grid.md",
+    "static/GridOfficial.png.md",
+    "static",
+    "SDET/Selenium/static/GirdOfficial.png",
+    "static/GridOfficial/Architecture.png.md",
+    "static/GridOfficial",
+    "SDET/Selenium/static/GridFacts.png",
     "SDET/Selenium/static/Grid.png",
     "SDET/Selenium/static/SeleniumExcalidraw.md",
     "SDET/Selenium/BrowserOptions.md",
@@ -183,8 +178,6 @@
     "Excalidraw/Pasted Image 20230910221352_407.png",
     "ContactMe.md",
     "Vocabulary.md",
-    "Excalidraw/Profile.png",
-    "Excalidraw/Pasted image 20230914225333.png",
     "DevOps",
     "SDET/ManualTesting",
     "Automation/Selenium/WebDriver.md",
@@ -194,7 +187,6 @@
     "SDET/Selenium",
     "ManualTesting/QARoadMap.excalidraw.md",
     "ManualTesting/Introduction.mdx",
-    "Aws/StepFunctions/CardProcessWorkflow/Create-State-Machine.mdx",
     "Aws/ Region Selection Criteria.md",
     "Aws/Attribute-based access control (ABAC).md",
     "Aws/AWS.md",
@@ -203,10 +195,6 @@
     "Aws/IAM Policy.md",
     "Aws/IAM Identity Center.md",
     "Aws/IAM.md",
-    "Linux/Bash Script/Passing Parameters In Bash.md",
-    "Linux/Bash Script/Bash vs Sh.md",
-    "Aws/StepFunctions/Introduction.mdx",
-    "Aws/StepFunctions/Basics/Usecases.mdx",
     "Untitled.canvas"
   ]
 }

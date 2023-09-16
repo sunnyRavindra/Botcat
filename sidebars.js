@@ -3,7 +3,6 @@ const sidebars = {
     {
       type: 'category',
       label: 'Selenium',
-      // link: {type: 'doc', id: 'SDET/Selenium/Selenium'},
       items: [
         'SDET/Selenium/Selenium',
         'SDET/Selenium/Grid',
@@ -21,6 +20,24 @@ const sidebars = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Docker',
+      items: [
+        'SDET/Docker/Introduction',
+        {
+          type: 'category',
+          label: 'Reference',
+          items: [
+          {
+            type: 'link',
+            label: 'Selenium Official', 
+            href: 'https://www.selenium.dev/'
+          },
+          ],
+        },
+      ],
+    }
   ],
 };
 
