@@ -180,24 +180,16 @@
     },
     "content": "content---f-39-267"
   },
-  "/-739": {
+  "/-2f9": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/ContactMe-42b": {
+  "/docs/ContactMe-fcd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---contact-meafd-123"
-  },
-  "/Excalidraw/Banner-ddb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---excalidraw-banner-67-d-3a4"
-  },
-  "/Excalidraw/QARoadMap.excalidraw-33a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---excalidraw-qa-road-map-excalidrawa-4-d-0c8"
+    "content": "content---docs-contact-meafd-3c6"
   },
   "/SDET/API-Automation/Introduction-1f2": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -234,14 +226,6 @@
   "/SDET/Docker/static/Docker-5f5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-docker-static-docker-064-a47"
-  },
-  "/SDET/Excalidraw/Banner-e18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-excalidraw-banner-20-a-f2a"
-  },
-  "/SDET/Excalidraw/QARoadMap.excalidraw-409": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-excalidraw-qa-road-map-excalidraw-794-207"
   },
   "/SDET/Jackson/Introduction-486": {
     "__comp": "__comp---theme-doc-item-178-a40",

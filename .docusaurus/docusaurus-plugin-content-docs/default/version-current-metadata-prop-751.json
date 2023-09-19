@@ -114,18 +114,8 @@
   "docs": {
     "ContactMe": {
       "id": "ContactMe",
-      "title": "ContactMe",
+      "title": "Contact Me",
       "description": "*"
-    },
-    "Excalidraw/Banner": {
-      "id": "Excalidraw/Banner",
-      "title": "Banner",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "Excalidraw/QARoadMap.excalidraw": {
-      "id": "Excalidraw/QARoadMap.excalidraw",
-      "title": "QARoadMap.excalidraw",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/API-Automation/Introduction": {
       "id": "SDET/API-Automation/Introduction",
@@ -174,16 +164,6 @@
     "SDET/Docker/static/Docker": {
       "id": "SDET/Docker/static/Docker",
       "title": "Docker",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "SDET/Excalidraw/Banner": {
-      "id": "SDET/Excalidraw/Banner",
-      "title": "Banner",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "SDET/Excalidraw/QARoadMap.excalidraw": {
-      "id": "SDET/Excalidraw/QARoadMap.excalidraw",
-      "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/Jackson/Introduction": {

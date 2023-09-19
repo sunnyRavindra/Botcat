@@ -104,21 +104,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '739'),
+    component: ComponentCreator('/', '2f9'),
     routes: [
       {
-        path: '/ContactMe',
-        component: ComponentCreator('/ContactMe', '42b'),
-        exact: true
-      },
-      {
-        path: '/Excalidraw/Banner',
-        component: ComponentCreator('/Excalidraw/Banner', 'ddb'),
-        exact: true
-      },
-      {
-        path: '/Excalidraw/QARoadMap.excalidraw',
-        component: ComponentCreator('/Excalidraw/QARoadMap.excalidraw', '33a'),
+        path: '/docs/ContactMe',
+        component: ComponentCreator('/docs/ContactMe', 'fcd'),
         exact: true
       },
       {
@@ -168,16 +158,6 @@ export default [
       {
         path: '/SDET/Docker/static/Docker',
         component: ComponentCreator('/SDET/Docker/static/Docker', '5f5'),
-        exact: true
-      },
-      {
-        path: '/SDET/Excalidraw/Banner',
-        component: ComponentCreator('/SDET/Excalidraw/Banner', 'e18'),
-        exact: true
-      },
-      {
-        path: '/SDET/Excalidraw/QARoadMap.excalidraw',
-        component: ComponentCreator('/SDET/Excalidraw/QARoadMap.excalidraw', '409'),
         exact: true
       },
       {

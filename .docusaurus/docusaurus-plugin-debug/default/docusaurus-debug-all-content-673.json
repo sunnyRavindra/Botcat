@@ -20,63 +20,18 @@
             {
               "unversionedId": "ContactMe",
               "id": "ContactMe",
-              "title": "ContactMe",
+              "title": "Contact Me",
               "description": "*",
               "source": "@site/docs/ContactMe.md",
               "sourceDirName": ".",
-              "slug": "/ContactMe",
-              "permalink": "/ContactMe",
+              "slug": "/docs/ContactMe",
+              "permalink": "/docs/ContactMe",
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
-            },
-            {
-              "unversionedId": "Excalidraw/Banner",
-              "id": "Excalidraw/Banner",
-              "title": "Banner",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/Excalidraw/Banner.md",
-              "sourceDirName": "Excalidraw",
-              "slug": "/Excalidraw/Banner",
-              "permalink": "/Excalidraw/Banner",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/tags/excalidraw"
-                }
-              ],
-              "version": "current",
               "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
-              }
-            },
-            {
-              "unversionedId": "Excalidraw/QARoadMap.excalidraw",
-              "id": "Excalidraw/QARoadMap.excalidraw",
-              "title": "QARoadMap.excalidraw",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/Excalidraw/QARoadMap.excalidraw.md",
-              "sourceDirName": "Excalidraw",
-              "slug": "/Excalidraw/QARoadMap.excalidraw",
-              "permalink": "/Excalidraw/QARoadMap.excalidraw",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/tags/excalidraw"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
+                "title": "Contact Me",
+                "slug": "/docs/ContactMe"
               }
             },
             {
@@ -246,54 +201,6 @@
               "sourceDirName": "SDET/Docker/static",
               "slug": "/SDET/Docker/static/Docker",
               "permalink": "/SDET/Docker/static/Docker",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/tags/excalidraw"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
-              }
-            },
-            {
-              "unversionedId": "SDET/Excalidraw/Banner",
-              "id": "SDET/Excalidraw/Banner",
-              "title": "Banner",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/SDET/Excalidraw/Banner.md",
-              "sourceDirName": "SDET/Excalidraw",
-              "slug": "/SDET/Excalidraw/Banner",
-              "permalink": "/SDET/Excalidraw/Banner",
-              "draft": false,
-              "tags": [
-                {
-                  "label": "excalidraw",
-                  "permalink": "/tags/excalidraw"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "excalidraw-plugin": "parsed",
-                "tags": [
-                  "excalidraw"
-                ]
-              }
-            },
-            {
-              "unversionedId": "SDET/Excalidraw/QARoadMap.excalidraw",
-              "id": "SDET/Excalidraw/QARoadMap.excalidraw",
-              "title": "QARoadMap.excalidraw",
-              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/SDET/Excalidraw/QARoadMap.excalidraw.md",
-              "sourceDirName": "SDET/Excalidraw",
-              "slug": "/SDET/Excalidraw/QARoadMap.excalidraw",
-              "permalink": "/SDET/Excalidraw/QARoadMap.excalidraw",
               "draft": false,
               "tags": [
                 {

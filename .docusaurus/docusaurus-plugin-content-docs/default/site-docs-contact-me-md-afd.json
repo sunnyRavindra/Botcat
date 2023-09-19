@@ -1,14 +1,17 @@
 {
   "unversionedId": "ContactMe",
   "id": "ContactMe",
-  "title": "ContactMe",
+  "title": "Contact Me",
   "description": "*",
   "source": "@site/docs/ContactMe.md",
   "sourceDirName": ".",
-  "slug": "/ContactMe",
-  "permalink": "/ContactMe",
+  "slug": "/docs/ContactMe",
+  "permalink": "/docs/ContactMe",
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Contact Me",
+    "slug": "/docs/ContactMe"
+  }
 }
