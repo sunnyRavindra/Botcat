@@ -112,6 +112,10 @@
               "previous": {
                 "title": "Interacting with container",
                 "permalink": "/docs/SDET/Docker/ContainerInteractions"
+              },
+              "next": {
+                "title": "Package Names",
+                "permalink": "/docs/SDET/Java/JavaPackage"
               }
             },
             {
@@ -301,6 +305,59 @@
                 "tags": [
                   "excalidraw"
                 ]
+              }
+            },
+            {
+              "unversionedId": "SDET/Jackson/Introduction",
+              "id": "SDET/Jackson/Introduction",
+              "title": "Jackson Intro",
+              "description": "Jackson coming from the md file",
+              "source": "@site/docs/SDET/Jackson/Introduction.md",
+              "sourceDirName": "SDET/Jackson",
+              "slug": "/SDET/Jackson/Introduction",
+              "permalink": "/docs/SDET/Jackson/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Jackson Intro"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/JavaPackage",
+              "id": "SDET/Java/JavaPackage",
+              "title": "Package Names",
+              "description": "When naming a package in Java using Eclipse, it's essential to follow best practices to ensure code clarity, maintainability, and adherence to coding standards. Proper package naming contributes to the overall organization of your project. Here are some best practices:",
+              "source": "@site/docs/SDET/Java/JavaPackage.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/JavaPackage",
+              "permalink": "/docs/SDET/Java/JavaPackage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Package Names"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Docker Compose",
+                "permalink": "/docs/SDET/Docker/Compose"
+              }
+            },
+            {
+              "unversionedId": "SDET/Maven/Introduction",
+              "id": "SDET/Maven/Introduction",
+              "title": "Maven Introduction",
+              "description": "POM(Project Object Model)",
+              "source": "@site/docs/SDET/Maven/Introduction.md",
+              "sourceDirName": "SDET/Maven",
+              "slug": "/SDET/Maven/Introduction",
+              "permalink": "/docs/SDET/Maven/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Maven Introduction"
               }
             },
             {
@@ -506,6 +563,31 @@
                       {
                         "type": "link",
                         "label": "Docker Official",
+                        "href": "https://www.selenium.dev/"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Java",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Java/JavaPackage"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Reference",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Java Official",
                         "href": "https://www.selenium.dev/"
                       }
                     ],

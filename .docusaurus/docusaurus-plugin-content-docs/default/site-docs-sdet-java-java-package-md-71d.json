@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Java/JavaPackage",
+  "id": "SDET/Java/JavaPackage",
+  "title": "Package Names",
+  "description": "When naming a package in Java using Eclipse, it's essential to follow best practices to ensure code clarity, maintainability, and adherence to coding standards. Proper package naming contributes to the overall organization of your project. Here are some best practices:",
+  "source": "@site/docs/SDET/Java/JavaPackage.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/JavaPackage",
+  "permalink": "/docs/SDET/Java/JavaPackage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Package Names"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Docker Compose",
+    "permalink": "/docs/SDET/Docker/Compose"
+  }
+}

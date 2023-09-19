@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Jackson/Introduction",
+  "id": "SDET/Jackson/Introduction",
+  "title": "Jackson Intro",
+  "description": "Jackson coming from the md file",
+  "source": "@site/docs/SDET/Jackson/Introduction.md",
+  "sourceDirName": "SDET/Jackson",
+  "slug": "/SDET/Jackson/Introduction",
+  "permalink": "/docs/SDET/Jackson/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Jackson Intro"
+  }
+}

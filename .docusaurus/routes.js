@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e66'),
+    component: ComponentCreator('/docs', 'bc3'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -173,6 +173,22 @@ export default [
       {
         path: '/docs/SDET/Excalidraw/QARoadMap.excalidraw',
         component: ComponentCreator('/docs/SDET/Excalidraw/QARoadMap.excalidraw', '7fe'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Jackson/Introduction',
+        component: ComponentCreator('/docs/SDET/Jackson/Introduction', '47a'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Java/JavaPackage',
+        component: ComponentCreator('/docs/SDET/Java/JavaPackage', '3ba'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Maven/Introduction',
+        component: ComponentCreator('/docs/SDET/Maven/Introduction', '686'),
         exact: true
       },
       {

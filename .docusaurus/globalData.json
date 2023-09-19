@@ -71,6 +71,19 @@
               "path": "/docs/SDET/Excalidraw/QARoadMap.excalidraw"
             },
             {
+              "id": "SDET/Jackson/Introduction",
+              "path": "/docs/SDET/Jackson/Introduction"
+            },
+            {
+              "id": "SDET/Java/JavaPackage",
+              "path": "/docs/SDET/Java/JavaPackage",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Maven/Introduction",
+              "path": "/docs/SDET/Maven/Introduction"
+            },
+            {
               "id": "SDET/Playwright",
               "path": "/docs/SDET/Playwright"
             },

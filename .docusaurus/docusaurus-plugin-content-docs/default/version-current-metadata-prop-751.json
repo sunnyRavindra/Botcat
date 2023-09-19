@@ -92,6 +92,33 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Java",
+        "items": [
+          {
+            "type": "link",
+            "label": "Package Names",
+            "href": "/docs/SDET/Java/JavaPackage",
+            "docId": "SDET/Java/JavaPackage"
+          },
+          {
+            "type": "category",
+            "label": "Reference",
+            "items": [
+              {
+                "type": "link",
+                "label": "Java Official",
+                "href": "https://www.selenium.dev/"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -169,6 +196,22 @@
       "id": "SDET/Excalidraw/QARoadMap.excalidraw",
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Jackson/Introduction": {
+      "id": "SDET/Jackson/Introduction",
+      "title": "Jackson Intro",
+      "description": "Jackson coming from the md file"
+    },
+    "SDET/Java/JavaPackage": {
+      "id": "SDET/Java/JavaPackage",
+      "title": "Package Names",
+      "description": "When naming a package in Java using Eclipse, it's essential to follow best practices to ensure code clarity, maintainability, and adherence to coding standards. Proper package naming contributes to the overall organization of your project. Here are some best practices:",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Maven/Introduction": {
+      "id": "SDET/Maven/Introduction",
+      "title": "Maven Introduction",
+      "description": "POM(Project Object Model)"
     },
     "SDET/Playwright": {
       "id": "SDET/Playwright",

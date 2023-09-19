@@ -21,8 +21,8 @@ npx playwright test //Run tests
 npx playwright test --ui //Run tests with debugging
 npx playwright show-report //Show test resuts
 ```
-
 #### 
+
 ```JavaScript
 import { test, expect } from '@playwright/test'; //Basic import
 

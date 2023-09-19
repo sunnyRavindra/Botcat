@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Maven/Introduction",
+  "id": "SDET/Maven/Introduction",
+  "title": "Maven Introduction",
+  "description": "POM(Project Object Model)",
+  "source": "@site/docs/SDET/Maven/Introduction.md",
+  "sourceDirName": "SDET/Maven",
+  "slug": "/SDET/Maven/Introduction",
+  "permalink": "/docs/SDET/Maven/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Maven Introduction"
+  }
+}

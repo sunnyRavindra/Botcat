@@ -17,5 +17,9 @@
   "previous": {
     "title": "Interacting with container",
     "permalink": "/docs/SDET/Docker/ContainerInteractions"
+  },
+  "next": {
+    "title": "Package Names",
+    "permalink": "/docs/SDET/Java/JavaPackage"
   }
 }
