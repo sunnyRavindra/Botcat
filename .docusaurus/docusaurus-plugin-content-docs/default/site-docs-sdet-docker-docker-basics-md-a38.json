@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker Basics",
+  "id": "SDET/Docker/Docker Basics",
+  "title": "Docker Basics",
+  "description": "[[Run Commonds Inside Container]]",
+  "source": "@site/docs/SDET/Docker/Docker Basics.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker Basics",
+  "permalink": "/docs/SDET/Docker/Docker Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

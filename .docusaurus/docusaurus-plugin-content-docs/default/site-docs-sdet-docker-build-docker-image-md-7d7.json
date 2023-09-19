@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Build Docker Image",
+  "id": "SDET/Docker/Build Docker Image",
+  "title": "Build Docker Image",
+  "description": "",
+  "source": "@site/docs/SDET/Docker/Build Docker Image.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Build Docker Image",
+  "permalink": "/docs/SDET/Docker/Build Docker Image",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

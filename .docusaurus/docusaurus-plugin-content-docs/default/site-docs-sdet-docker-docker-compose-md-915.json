@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker Compose",
+  "id": "SDET/Docker/Docker Compose",
+  "title": "Docker Compose",
+  "description": "---",
+  "source": "@site/docs/SDET/Docker/Docker Compose.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker Compose",
+  "permalink": "/docs/SDET/Docker/Docker Compose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

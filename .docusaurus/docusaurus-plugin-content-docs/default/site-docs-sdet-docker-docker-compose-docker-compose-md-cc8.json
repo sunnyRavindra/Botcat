@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker Compose/Docker Compose",
+  "id": "SDET/Docker/Docker Compose/Docker Compose",
+  "title": "Docker Compose",
+  "description": "- Install Docker Compose",
+  "source": "@site/docs/SDET/Docker/Docker Compose/Docker Compose.md",
+  "sourceDirName": "SDET/Docker/Docker Compose",
+  "slug": "/SDET/Docker/Docker Compose/",
+  "permalink": "/docs/SDET/Docker/Docker Compose/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

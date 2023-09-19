@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Linux Namespaces",
+  "id": "Linux Namespaces",
+  "title": "Linux Namespaces",
+  "description": "",
+  "source": "@site/docs/Linux Namespaces.md",
+  "sourceDirName": ".",
+  "slug": "/Linux Namespaces",
+  "permalink": "/docs/Linux Namespaces",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

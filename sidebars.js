@@ -4,12 +4,12 @@ const sidebars = {
       type: 'category',
       label: 'Selenium',
       items: [
-        'SDET/Selenium/Selenium',
+        'SDET/Selenium/Introduction',
         'SDET/Selenium/Grid',
         'SDET/Selenium/BrowserOptions',
         {
           type: 'category',
-          label: 'Reference',
+          label: 'Selenium Reference',
           items: [
           {
             type: 'link',
@@ -24,14 +24,35 @@ const sidebars = {
       type: 'category',
       label: 'Docker',
       items: [
-        'SDET/Docker/Introduction',
+        'SDET/Docker/Docker-Introduction',
+        'SDET/Docker/Docker-Commands',
+        'SDET/Docker/ContainerInteractions',
+        'SDET/Docker/Compose',
         {
           type: 'category',
           label: 'Reference',
           items: [
           {
             type: 'link',
-            label: 'Selenium Official', 
+            label: 'Docker Official', 
+            href: 'https://www.selenium.dev/'
+          },
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Java',
+      items: [
+        'SDET/Java/JavaPackage',
+        {
+          type: 'category',
+          label: 'Reference',
+          items: [
+          {
+            type: 'link',
+            label: 'Java Official', 
             href: 'https://www.selenium.dev/'
           },
           ],

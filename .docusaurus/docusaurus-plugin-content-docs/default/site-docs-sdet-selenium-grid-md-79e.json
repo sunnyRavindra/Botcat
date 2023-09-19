@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Selenium",
-    "permalink": "/docs/SDET/Selenium/"
+    "title": "Introduction",
+    "permalink": "/docs/SDET/Selenium/Introduction"
   },
   "next": {
     "title": "Browser Options",

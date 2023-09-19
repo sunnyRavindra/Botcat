@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Selenium/Introduction",
+  "id": "SDET/Selenium/Introduction",
+  "title": "Introduction",
+  "description": "Components",
+  "source": "@site/docs/SDET/Selenium/Introduction.md",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/Introduction",
+  "permalink": "/docs/SDET/Selenium/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction"
+  },
+  "sidebar": "SDETSidebar",
+  "next": {
+    "title": "Grid",
+    "permalink": "/docs/SDET/Selenium/Grid"
+  }
+}

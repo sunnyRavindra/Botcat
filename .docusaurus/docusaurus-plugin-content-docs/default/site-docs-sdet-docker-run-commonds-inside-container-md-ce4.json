@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Run Commonds Inside Container",
+  "id": "SDET/Docker/Run Commonds Inside Container",
+  "title": "Run Commonds Inside Container",
+  "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
+  "source": "@site/docs/SDET/Docker/Run Commonds Inside Container.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Run Commonds Inside Container",
+  "permalink": "/docs/SDET/Docker/Run Commonds Inside Container",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

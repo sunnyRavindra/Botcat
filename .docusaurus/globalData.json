@@ -8,99 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "SDET/Selenium/Selenium",
+          "mainDocId": "SDET/Selenium/Introduction",
           "docs": [
             {
               "id": "ContactMe",
               "path": "/docs/ContactMe"
-            },
-            {
-              "id": "DevOps/Docker/Build Docker Image",
-              "path": "/docs/DevOps/Docker/Build Docker Image"
-            },
-            {
-              "id": "DevOps/Docker/Docker",
-              "path": "/docs/DevOps/Docker/"
-            },
-            {
-              "id": "DevOps/Docker/Docker 1",
-              "path": "/docs/DevOps/Docker/Docker 1"
-            },
-            {
-              "id": "DevOps/Docker/Docker Basics",
-              "path": "/docs/DevOps/Docker/Docker Basics"
-            },
-            {
-              "id": "DevOps/Docker/Docker Bind Mounts",
-              "path": "/docs/DevOps/Docker/Docker Bind Mounts"
-            },
-            {
-              "id": "DevOps/Docker/Docker Compose/Docker Compose",
-              "path": "/docs/DevOps/Docker/Docker Compose/"
-            },
-            {
-              "id": "DevOps/Docker/Docker DevEnv Setup",
-              "path": "/docs/DevOps/Docker/Docker DevEnv Setup"
-            },
-            {
-              "id": "DevOps/Docker/Docker Layer Caching",
-              "path": "/docs/DevOps/Docker/Docker Layer Caching"
-            },
-            {
-              "id": "DevOps/Docker/Docker Multi Stage Build",
-              "path": "/docs/DevOps/Docker/Docker Multi Stage Build"
-            },
-            {
-              "id": "DevOps/Docker/Docker MySQL Application",
-              "path": "/docs/DevOps/Docker/Docker MySQL Application"
-            },
-            {
-              "id": "DevOps/Docker/Docker Networking",
-              "path": "/docs/DevOps/Docker/Docker Networking"
-            },
-            {
-              "id": "DevOps/Docker/Docker Nextjs Application",
-              "path": "/docs/DevOps/Docker/Docker Nextjs Application"
-            },
-            {
-              "id": "DevOps/Docker/Docker Nicolaka Netshoot",
-              "path": "/docs/DevOps/Docker/Docker Nicolaka Netshoot"
-            },
-            {
-              "id": "DevOps/Docker/Docker Secrets",
-              "path": "/docs/DevOps/Docker/Docker Secrets"
-            },
-            {
-              "id": "DevOps/Docker/Docker Volumes",
-              "path": "/docs/DevOps/Docker/Docker Volumes"
-            },
-            {
-              "id": "DevOps/Docker/DockerFiles/Docker Ignore file",
-              "path": "/docs/DevOps/Docker/DockerFiles/Docker Ignore file"
-            },
-            {
-              "id": "DevOps/Docker/DockerFiles/DockerFile",
-              "path": "/docs/DevOps/Docker/DockerFiles/DockerFile"
-            },
-            {
-              "id": "DevOps/Docker/DockerFiles/Nextjs Docker File",
-              "path": "/docs/DevOps/Docker/DockerFiles/Nextjs Docker File"
-            },
-            {
-              "id": "DevOps/Docker/DockerHub",
-              "path": "/docs/DevOps/Docker/DockerHub"
-            },
-            {
-              "id": "DevOps/Docker/My Used Docker Commands",
-              "path": "/docs/DevOps/Docker/My Used Docker Commands"
-            },
-            {
-              "id": "DevOps/Docker/Run Commonds Inside Container",
-              "path": "/docs/DevOps/Docker/Run Commonds Inside Container"
-            },
-            {
-              "id": "DevOps/Docker/Start Docker Container",
-              "path": "/docs/DevOps/Docker/Start Docker Container"
             },
             {
               "id": "Excalidraw/Banner",
@@ -111,9 +23,52 @@
               "path": "/docs/Excalidraw/QARoadMap.excalidraw"
             },
             {
-              "id": "SDET/Docker/Introduction",
-              "path": "/docs/SDET/Docker/Introduction",
+              "id": "Linux Namespaces",
+              "path": "/docs/Linux Namespaces"
+            },
+            {
+              "id": "SDET/Docker/Compose",
+              "path": "/docs/SDET/Docker/Compose",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Docker/ContainerInteractions",
+              "path": "/docs/SDET/Docker/ContainerInteractions",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Docker/Docker-Commands",
+              "path": "/docs/SDET/Docker/Docker-Commands",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Docker/Docker-Introduction",
+              "path": "/docs/SDET/Docker/Docker-Introduction",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Docker/DockerFiles/Docker Ignore file",
+              "path": "/docs/SDET/Docker/DockerFiles/Docker Ignore file"
+            },
+            {
+              "id": "SDET/Docker/DockerFiles/DockerFile",
+              "path": "/docs/SDET/Docker/DockerFiles/DockerFile"
+            },
+            {
+              "id": "SDET/Docker/DockerFiles/Nextjs Docker File",
+              "path": "/docs/SDET/Docker/DockerFiles/Nextjs Docker File"
+            },
+            {
+              "id": "SDET/Docker/static/Docker",
+              "path": "/docs/SDET/Docker/static/Docker"
+            },
+            {
+              "id": "SDET/Excalidraw/Banner",
+              "path": "/docs/SDET/Excalidraw/Banner"
+            },
+            {
+              "id": "SDET/Excalidraw/QARoadMap.excalidraw",
+              "path": "/docs/SDET/Excalidraw/QARoadMap.excalidraw"
             },
             {
               "id": "SDET/Playwright",
@@ -130,13 +85,13 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Selenium/notes",
-              "path": "/docs/SDET/Selenium/notes"
+              "id": "SDET/Selenium/Introduction",
+              "path": "/docs/SDET/Selenium/Introduction",
+              "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Selenium/Selenium",
-              "path": "/docs/SDET/Selenium/",
-              "sidebar": "SDETSidebar"
+              "id": "SDET/Selenium/notes",
+              "path": "/docs/SDET/Selenium/notes"
             },
             {
               "id": "SDET/Selenium/static/SeleniumExcalidraw",
@@ -151,8 +106,8 @@
           "sidebars": {
             "SDETSidebar": {
               "link": {
-                "path": "/docs/SDET/Selenium/",
-                "label": "SDET/Selenium/Selenium"
+                "path": "/docs/SDET/Selenium/Introduction",
+                "label": "SDET/Selenium/Introduction"
               }
             }
           }

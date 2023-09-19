@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Docker/ContainerInteractions",
+  "id": "SDET/Docker/ContainerInteractions",
+  "title": "Interacting with container",
+  "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
+  "source": "@site/docs/SDET/Docker/ContainerInteractions.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/ContainerInteractions",
+  "permalink": "/docs/SDET/Docker/ContainerInteractions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Interacting with container"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Docker Commands",
+    "permalink": "/docs/SDET/Docker/Docker-Commands"
+  },
+  "next": {
+    "title": "Docker Compose",
+    "permalink": "/docs/SDET/Docker/Compose"
+  }
+}

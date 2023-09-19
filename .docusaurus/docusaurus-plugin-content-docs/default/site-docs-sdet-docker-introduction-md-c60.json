@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Docker/Introduction",
   "id": "SDET/Docker/Introduction",
   "title": "Introduction",
-  "description": "",
+  "description": "Architecture",
   "source": "@site/docs/SDET/Docker/Introduction.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/Introduction",

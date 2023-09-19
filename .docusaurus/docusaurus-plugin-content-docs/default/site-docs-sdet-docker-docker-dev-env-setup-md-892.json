@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker DevEnv Setup",
+  "id": "SDET/Docker/Docker DevEnv Setup",
+  "title": "Docker DevEnv Setup",
+  "description": "- I pory for all my git projects",
+  "source": "@site/docs/SDET/Docker/Docker DevEnv Setup.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker DevEnv Setup",
+  "permalink": "/docs/SDET/Docker/Docker DevEnv Setup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

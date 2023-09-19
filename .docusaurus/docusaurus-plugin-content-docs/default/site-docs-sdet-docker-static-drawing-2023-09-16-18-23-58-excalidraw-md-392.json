@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/Docker/static/Drawing 2023-09-16 18.23.58.excalidraw",
+  "id": "SDET/Docker/static/Drawing 2023-09-16 18.23.58.excalidraw",
+  "title": "Drawing 2023-09-16 18.23.58.excalidraw",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/Docker/static/Drawing 2023-09-16 18.23.58.excalidraw.md",
+  "sourceDirName": "SDET/Docker/static",
+  "slug": "/SDET/Docker/static/Drawing 2023-09-16 18.23.58.excalidraw",
+  "permalink": "/docs/SDET/Docker/static/Drawing 2023-09-16 18.23.58.excalidraw",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/docs/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

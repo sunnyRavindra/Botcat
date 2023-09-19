@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Docker/Docker-Commands",
+  "id": "SDET/Docker/Docker-Commands",
+  "title": "Docker Commands",
+  "description": "- Login",
+  "source": "@site/docs/SDET/Docker/Docker-Commands.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker-Commands",
+  "permalink": "/docs/SDET/Docker/Docker-Commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Docker Commands"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/docs/SDET/Docker/Docker-Introduction"
+  },
+  "next": {
+    "title": "Interacting with container",
+    "permalink": "/docs/SDET/Docker/ContainerInteractions"
+  }
+}

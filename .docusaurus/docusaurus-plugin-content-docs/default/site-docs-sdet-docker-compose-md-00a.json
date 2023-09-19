@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Docker/Compose",
+  "id": "SDET/Docker/Compose",
+  "title": "Docker Compose",
+  "description": "- Install Docker Compose",
+  "source": "@site/docs/SDET/Docker/Compose.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Compose",
+  "permalink": "/docs/SDET/Docker/Compose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Docker Compose"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Interacting with container",
+    "permalink": "/docs/SDET/Docker/ContainerInteractions"
+  }
+}

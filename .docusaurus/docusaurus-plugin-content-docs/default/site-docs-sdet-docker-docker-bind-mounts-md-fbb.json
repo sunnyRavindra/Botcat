@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker Bind Mounts",
+  "id": "SDET/Docker/Docker Bind Mounts",
+  "title": "Docker Bind Mounts",
+  "description": "",
+  "source": "@site/docs/SDET/Docker/Docker Bind Mounts.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker Bind Mounts",
+  "permalink": "/docs/SDET/Docker/Docker Bind Mounts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

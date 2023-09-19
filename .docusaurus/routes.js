@@ -99,121 +99,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a9d'),
+    component: ComponentCreator('/docs', 'e66'),
     routes: [
       {
         path: '/docs/ContactMe',
         component: ComponentCreator('/docs/ContactMe', 'fcd'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/',
-        component: ComponentCreator('/docs/DevOps/Docker/', 'f9e'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Build Docker Image',
-        component: ComponentCreator('/docs/DevOps/Docker/Build Docker Image', '297'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker 1',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker 1', '4bf'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Basics',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Basics', '91c'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Bind Mounts',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Bind Mounts', '74b'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Compose/',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Compose/', 'b48'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker DevEnv Setup',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker DevEnv Setup', 'f4f'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Layer Caching',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Layer Caching', 'e99'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Multi Stage Build',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Multi Stage Build', '70e'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker MySQL Application',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker MySQL Application', '57e'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Networking',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Networking', 'f49'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Nextjs Application',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Nextjs Application', 'b6d'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Nicolaka Netshoot',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Nicolaka Netshoot', '9dc'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Secrets',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Secrets', '7ef'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Docker Volumes',
-        component: ComponentCreator('/docs/DevOps/Docker/Docker Volumes', '41f'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/DockerFiles/Docker Ignore file',
-        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/Docker Ignore file', 'dfd'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/DockerFiles/DockerFile',
-        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/DockerFile', 'a30'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/DockerFiles/Nextjs Docker File',
-        component: ComponentCreator('/docs/DevOps/Docker/DockerFiles/Nextjs Docker File', 'dde'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/DockerHub',
-        component: ComponentCreator('/docs/DevOps/Docker/DockerHub', '625'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/My Used Docker Commands',
-        component: ComponentCreator('/docs/DevOps/Docker/My Used Docker Commands', 'a47'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Run Commonds Inside Container',
-        component: ComponentCreator('/docs/DevOps/Docker/Run Commonds Inside Container', '41f'),
-        exact: true
-      },
-      {
-        path: '/docs/DevOps/Docker/Start Docker Container',
-        component: ComponentCreator('/docs/DevOps/Docker/Start Docker Container', 'a7c'),
         exact: true
       },
       {
@@ -227,21 +117,68 @@ export default [
         exact: true
       },
       {
-        path: '/docs/SDET/Docker/Introduction',
-        component: ComponentCreator('/docs/SDET/Docker/Introduction', '425'),
+        path: '/docs/Linux Namespaces',
+        component: ComponentCreator('/docs/Linux Namespaces', 'b5b'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Docker/Compose',
+        component: ComponentCreator('/docs/SDET/Docker/Compose', '4f8'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Docker/ContainerInteractions',
+        component: ComponentCreator('/docs/SDET/Docker/ContainerInteractions', 'e4f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Docker/Docker-Commands',
+        component: ComponentCreator('/docs/SDET/Docker/Docker-Commands', 'e41'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Docker/Docker-Introduction',
+        component: ComponentCreator('/docs/SDET/Docker/Docker-Introduction', '2e6'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Docker/DockerFiles/Docker Ignore file',
+        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/Docker Ignore file', '3bd'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Docker/DockerFiles/DockerFile',
+        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/DockerFile', '030'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Docker/DockerFiles/Nextjs Docker File',
+        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/Nextjs Docker File', '1d6'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Docker/static/Docker',
+        component: ComponentCreator('/docs/SDET/Docker/static/Docker', '2ca'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Excalidraw/Banner',
+        component: ComponentCreator('/docs/SDET/Excalidraw/Banner', '40f'),
+        exact: true
+      },
+      {
+        path: '/docs/SDET/Excalidraw/QARoadMap.excalidraw',
+        component: ComponentCreator('/docs/SDET/Excalidraw/QARoadMap.excalidraw', '7fe'),
+        exact: true
       },
       {
         path: '/docs/SDET/Playwright',
         component: ComponentCreator('/docs/SDET/Playwright', '739'),
         exact: true
-      },
-      {
-        path: '/docs/SDET/Selenium/',
-        component: ComponentCreator('/docs/SDET/Selenium/', 'b71'),
-        exact: true,
-        sidebar: "SDETSidebar"
       },
       {
         path: '/docs/SDET/Selenium/BrowserOptions',
@@ -252,6 +189,12 @@ export default [
       {
         path: '/docs/SDET/Selenium/Grid',
         component: ComponentCreator('/docs/SDET/Selenium/Grid', '39e'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/docs/SDET/Selenium/Introduction',
+        component: ComponentCreator('/docs/SDET/Selenium/Introduction', '7bb'),
         exact: true,
         sidebar: "SDETSidebar"
       },

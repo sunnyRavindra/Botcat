@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Docker/Docker MySQL Application",
+  "id": "SDET/Docker/Docker MySQL Application",
+  "title": "Docker MySQL Application",
+  "description": "- Create docker network for the MYSQL container",
+  "source": "@site/docs/SDET/Docker/Docker MySQL Application.md",
+  "sourceDirName": "SDET/Docker",
+  "slug": "/SDET/Docker/Docker MySQL Application",
+  "permalink": "/docs/SDET/Docker/Docker MySQL Application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

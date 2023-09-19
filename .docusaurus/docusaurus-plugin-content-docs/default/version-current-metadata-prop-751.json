@@ -15,9 +15,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Selenium",
-            "href": "/docs/SDET/Selenium/",
-            "docId": "SDET/Selenium/Selenium"
+            "label": "Introduction",
+            "href": "/docs/SDET/Selenium/Introduction",
+            "docId": "SDET/Selenium/Introduction"
           },
           {
             "type": "link",
@@ -33,7 +33,7 @@
           },
           {
             "type": "category",
-            "label": "Reference",
+            "label": "Selenium Reference",
             "items": [
               {
                 "type": "link",
@@ -54,9 +54,27 @@
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
-            "href": "/docs/SDET/Docker/Introduction",
-            "docId": "SDET/Docker/Introduction"
+            "label": "Docker",
+            "href": "/docs/SDET/Docker/Docker-Introduction",
+            "docId": "SDET/Docker/Docker-Introduction"
+          },
+          {
+            "type": "link",
+            "label": "Docker Commands",
+            "href": "/docs/SDET/Docker/Docker-Commands",
+            "docId": "SDET/Docker/Docker-Commands"
+          },
+          {
+            "type": "link",
+            "label": "Interacting with container",
+            "href": "/docs/SDET/Docker/ContainerInteractions",
+            "docId": "SDET/Docker/ContainerInteractions"
+          },
+          {
+            "type": "link",
+            "label": "Docker Compose",
+            "href": "/docs/SDET/Docker/Compose",
+            "docId": "SDET/Docker/Compose"
           },
           {
             "type": "category",
@@ -64,7 +82,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "Selenium Official",
+                "label": "Docker Official",
                 "href": "https://www.selenium.dev/"
               }
             ],
@@ -83,116 +101,6 @@
       "title": "ContactMe",
       "description": "*"
     },
-    "DevOps/Docker/Build Docker Image": {
-      "id": "DevOps/Docker/Build Docker Image",
-      "title": "Build Docker Image",
-      "description": ""
-    },
-    "DevOps/Docker/Docker": {
-      "id": "DevOps/Docker/Docker",
-      "title": "Docker",
-      "description": "- [[Linux Namespaces]]"
-    },
-    "DevOps/Docker/Docker 1": {
-      "id": "DevOps/Docker/Docker 1",
-      "title": "Docker 1",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "DevOps/Docker/Docker Basics": {
-      "id": "DevOps/Docker/Docker Basics",
-      "title": "Docker Basics",
-      "description": "[[Run Commonds Inside Container]]"
-    },
-    "DevOps/Docker/Docker Bind Mounts": {
-      "id": "DevOps/Docker/Docker Bind Mounts",
-      "title": "Docker Bind Mounts",
-      "description": ""
-    },
-    "DevOps/Docker/Docker Compose/Docker Compose": {
-      "id": "DevOps/Docker/Docker Compose/Docker Compose",
-      "title": "Docker Compose",
-      "description": "- Install Docker Compose"
-    },
-    "DevOps/Docker/Docker DevEnv Setup": {
-      "id": "DevOps/Docker/Docker DevEnv Setup",
-      "title": "Docker DevEnv Setup",
-      "description": "- I pory for all my git projects"
-    },
-    "DevOps/Docker/Docker Layer Caching": {
-      "id": "DevOps/Docker/Docker Layer Caching",
-      "title": "Docker Layer Caching",
-      "description": "- We can arrange the dockerfile commands in such a sequence that the most frequently changed files are coped to the docker container at the last and the the build files which are not changed often are copied in the initial stages."
-    },
-    "DevOps/Docker/Docker Multi Stage Build": {
-      "id": "DevOps/Docker/Docker Multi Stage Build",
-      "title": "Docker Multi Stage Build",
-      "description": "- Advantages"
-    },
-    "DevOps/Docker/Docker MySQL Application": {
-      "id": "DevOps/Docker/Docker MySQL Application",
-      "title": "Docker MySQL Application",
-      "description": "- Create docker network for the MYSQL container"
-    },
-    "DevOps/Docker/Docker Networking": {
-      "id": "DevOps/Docker/Docker Networking",
-      "title": "Docker Networking",
-      "description": ""
-    },
-    "DevOps/Docker/Docker Nextjs Application": {
-      "id": "DevOps/Docker/Docker Nextjs Application",
-      "title": "Docker Nextjs Application",
-      "description": "- [[Create Nextjs App]] in local."
-    },
-    "DevOps/Docker/Docker Nicolaka Netshoot": {
-      "id": "DevOps/Docker/Docker Nicolaka Netshoot",
-      "title": "Docker Nicolaka Netshoot",
-      "description": "- Start a new container using the nicolaka/netshoot image."
-    },
-    "DevOps/Docker/Docker Secrets": {
-      "id": "DevOps/Docker/Docker Secrets",
-      "title": "Docker Secrets",
-      "description": "- ENV variables should not be used in Docker."
-    },
-    "DevOps/Docker/Docker Volumes": {
-      "id": "DevOps/Docker/Docker Volumes",
-      "title": "Docker Volumes",
-      "description": "- Create Volume."
-    },
-    "DevOps/Docker/DockerFiles/Docker Ignore file": {
-      "id": "DevOps/Docker/DockerFiles/Docker Ignore file",
-      "title": "Docker Ignore file",
-      "description": "Step-by-step guide to creating a .dockerignore file:"
-    },
-    "DevOps/Docker/DockerFiles/DockerFile": {
-      "id": "DevOps/Docker/DockerFiles/DockerFile",
-      "title": "DockerFile",
-      "description": "- [[Nextjs Docker File]]"
-    },
-    "DevOps/Docker/DockerFiles/Nextjs Docker File": {
-      "id": "DevOps/Docker/DockerFiles/Nextjs Docker File",
-      "title": "Nextjs Docker File",
-      "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json."
-    },
-    "DevOps/Docker/DockerHub": {
-      "id": "DevOps/Docker/DockerHub",
-      "title": "DockerHub",
-      "description": "- DockerHub is the official docker registry from docker where all the images are stored public or private."
-    },
-    "DevOps/Docker/My Used Docker Commands": {
-      "id": "DevOps/Docker/My Used Docker Commands",
-      "title": "My Used Docker Commands",
-      "description": "- Login"
-    },
-    "DevOps/Docker/Run Commonds Inside Container": {
-      "id": "DevOps/Docker/Run Commonds Inside Container",
-      "title": "Run Commonds Inside Container",
-      "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:"
-    },
-    "DevOps/Docker/Start Docker Container": {
-      "id": "DevOps/Docker/Start Docker Container",
-      "title": "Start Docker Container",
-      "description": ""
-    },
     "Excalidraw/Banner": {
       "id": "Excalidraw/Banner",
       "title": "Banner",
@@ -203,11 +111,64 @@
       "title": "QARoadMap.excalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "SDET/Docker/Introduction": {
-      "id": "SDET/Docker/Introduction",
-      "title": "Introduction",
-      "description": "",
+    "Linux Namespaces": {
+      "id": "Linux Namespaces",
+      "title": "Linux Namespaces",
+      "description": ""
+    },
+    "SDET/Docker/Compose": {
+      "id": "SDET/Docker/Compose",
+      "title": "Docker Compose",
+      "description": "- Install Docker Compose",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Docker/ContainerInteractions": {
+      "id": "SDET/Docker/ContainerInteractions",
+      "title": "Interacting with container",
+      "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Docker/Docker-Commands": {
+      "id": "SDET/Docker/Docker-Commands",
+      "title": "Docker Commands",
+      "description": "- Login",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Docker/Docker-Introduction": {
+      "id": "SDET/Docker/Docker-Introduction",
+      "title": "Docker",
+      "description": "Architecture",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Docker/DockerFiles/Docker Ignore file": {
+      "id": "SDET/Docker/DockerFiles/Docker Ignore file",
+      "title": "Docker Ignore file",
+      "description": "Step-by-step guide to creating a .dockerignore file:"
+    },
+    "SDET/Docker/DockerFiles/DockerFile": {
+      "id": "SDET/Docker/DockerFiles/DockerFile",
+      "title": "DockerFile",
+      "description": "- [[Nextjs Docker File]]"
+    },
+    "SDET/Docker/DockerFiles/Nextjs Docker File": {
+      "id": "SDET/Docker/DockerFiles/Nextjs Docker File",
+      "title": "Nextjs Docker File",
+      "description": "Make sure to replace 3000 with the actual port number your Next.js application listens on. This Dockerfile assumes that your project structure includes package.json, package-lock.json, and a build script defined in scripts section of package.json."
+    },
+    "SDET/Docker/static/Docker": {
+      "id": "SDET/Docker/static/Docker",
+      "title": "Docker",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Excalidraw/Banner": {
+      "id": "SDET/Excalidraw/Banner",
+      "title": "Banner",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Excalidraw/QARoadMap.excalidraw": {
+      "id": "SDET/Excalidraw/QARoadMap.excalidraw",
+      "title": "QARoadMap.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/Playwright": {
       "id": "SDET/Playwright",
@@ -226,16 +187,16 @@
       "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Selenium/Introduction": {
+      "id": "SDET/Selenium/Introduction",
+      "title": "Introduction",
+      "description": "Components",
+      "sidebar": "SDETSidebar"
+    },
     "SDET/Selenium/notes": {
       "id": "SDET/Selenium/notes",
       "title": "notes",
       "description": "Desired Capabilties"
-    },
-    "SDET/Selenium/Selenium": {
-      "id": "SDET/Selenium/Selenium",
-      "title": "Selenium",
-      "description": "Components",
-      "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/static/SeleniumExcalidraw": {
       "id": "SDET/Selenium/static/SeleniumExcalidraw",
