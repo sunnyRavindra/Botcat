@@ -149,6 +149,8 @@
   },
   "active": "f9753ca96f69ebba",
   "lastOpenFiles": [
+    "SDET/Cucumber/Introduction.md",
+    "SDET/Cucumber",
     "Excalidraw/QARoadMap.excalidraw.md",
     "Excalidraw/Profile.png",
     "Excalidraw/Pasted image 20230914225333.png",
@@ -192,9 +194,7 @@
     "SDET/Docker/static/Docker.md",
     "SDET/Docker/Docker Bind Mounts.md",
     "SDET/Docker/Docker Multi Stage Build.md",
-    "Docker Secrets.md",
     "SDET/Docker/static",
-    "SDET/Docker/Introduction",
     "Untitled.canvas"
   ]
 }

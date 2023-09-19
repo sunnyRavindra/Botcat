@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Browser Options",
-    "permalink": "/SDET/Selenium/BrowserOptions"
+    "title": "Cucumber",
+    "permalink": "/SDET/Cucumber/Introduction"
   },
   "next": {
     "title": "Docker Commands",

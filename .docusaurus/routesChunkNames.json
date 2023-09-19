@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-2f9": {
+  "/-8e0": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -191,9 +191,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-contact-meafd-3c6"
   },
-  "/SDET/API-Automation/Introduction-1f2": {
+  "/SDET/API-Automation/Introduction-42b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-api-automation-introduction-999-151"
+  },
+  "/SDET/Cucumber/Introduction-c56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-introduction-8-c-9-742"
   },
   "/SDET/Docker/Compose-f37": {
     "__comp": "__comp---theme-doc-item-178-a40",

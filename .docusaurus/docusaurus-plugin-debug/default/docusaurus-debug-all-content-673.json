@@ -48,6 +48,40 @@
               "version": "current",
               "frontMatter": {
                 "title": "API Automation"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Browser Options",
+                "permalink": "/SDET/Selenium/BrowserOptions"
+              },
+              "next": {
+                "title": "Cucumber",
+                "permalink": "/SDET/Cucumber/Introduction"
+              }
+            },
+            {
+              "unversionedId": "SDET/Cucumber/Introduction",
+              "id": "SDET/Cucumber/Introduction",
+              "title": "Cucumber",
+              "description": "This is into to Cucumber",
+              "source": "@site/docs/SDET/Cucumber/Introduction.md",
+              "sourceDirName": "SDET/Cucumber",
+              "slug": "/SDET/Cucumber/Introduction",
+              "permalink": "/SDET/Cucumber/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Cucumber"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "API Automation",
+                "permalink": "/SDET/API-Automation/Introduction"
+              },
+              "next": {
+                "title": "Docker",
+                "permalink": "/SDET/Docker/Docker-Introduction"
               }
             },
             {
@@ -142,8 +176,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Browser Options",
-                "permalink": "/SDET/Selenium/BrowserOptions"
+                "title": "Cucumber",
+                "permalink": "/SDET/Cucumber/Introduction"
               },
               "next": {
                 "title": "Docker Commands",
@@ -324,8 +358,8 @@
                 "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
-                "title": "Docker",
-                "permalink": "/SDET/Docker/Docker-Introduction"
+                "title": "API Automation",
+                "permalink": "/SDET/API-Automation/Introduction"
               }
             },
             {
@@ -445,6 +479,30 @@
                   {
                     "type": "doc",
                     "id": "SDET/Selenium/BrowserOptions"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "API Automation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/API-Automation/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Cucumber",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Cucumber/Introduction"
                   }
                 ],
                 "collapsed": true,

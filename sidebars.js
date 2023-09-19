@@ -11,6 +11,20 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'API Automation',
+      items: [
+        'SDET/API-Automation/Introduction',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Cucumber',
+      items: [
+        'SDET/Cucumber/Introduction',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Docker',
       items: [
         'SDET/Docker/Docker-Introduction',

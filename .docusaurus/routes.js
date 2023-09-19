@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2f9'),
+    component: ComponentCreator('/', '8e0'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -113,8 +113,15 @@ export default [
       },
       {
         path: '/SDET/API-Automation/Introduction',
-        component: ComponentCreator('/SDET/API-Automation/Introduction', '1f2'),
-        exact: true
+        component: ComponentCreator('/SDET/API-Automation/Introduction', '42b'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Cucumber/Introduction',
+        component: ComponentCreator('/SDET/Cucumber/Introduction', 'c56'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Docker/Compose',

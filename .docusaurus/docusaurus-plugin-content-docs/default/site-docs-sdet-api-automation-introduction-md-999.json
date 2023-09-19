@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "API Automation"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Browser Options",
+    "permalink": "/SDET/Selenium/BrowserOptions"
+  },
+  "next": {
+    "title": "Cucumber",
+    "permalink": "/SDET/Cucumber/Introduction"
   }
 }

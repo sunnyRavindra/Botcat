@@ -37,6 +37,34 @@
       },
       {
         "type": "category",
+        "label": "API Automation",
+        "items": [
+          {
+            "type": "link",
+            "label": "API Automation",
+            "href": "/SDET/API-Automation/Introduction",
+            "docId": "SDET/API-Automation/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Cucumber",
+        "items": [
+          {
+            "type": "link",
+            "label": "Cucumber",
+            "href": "/SDET/Cucumber/Introduction",
+            "docId": "SDET/Cucumber/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Docker",
         "items": [
           {
@@ -120,7 +148,14 @@
     "SDET/API-Automation/Introduction": {
       "id": "SDET/API-Automation/Introduction",
       "title": "API Automation",
-      "description": "This is into to API automation"
+      "description": "This is into to API automation",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Cucumber/Introduction": {
+      "id": "SDET/Cucumber/Introduction",
+      "title": "Cucumber",
+      "description": "This is into to Cucumber",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Docker/Compose": {
       "id": "SDET/Docker/Compose",
