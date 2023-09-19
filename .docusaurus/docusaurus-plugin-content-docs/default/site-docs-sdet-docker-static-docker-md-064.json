@@ -6,12 +6,12 @@
   "source": "@site/docs/SDET/Docker/static/Docker.md",
   "sourceDirName": "SDET/Docker/static",
   "slug": "/SDET/Docker/static/Docker",
-  "permalink": "/docs/SDET/Docker/static/Docker",
+  "permalink": "/SDET/Docker/static/Docker",
   "draft": false,
   "tags": [
     {
       "label": "excalidraw",
-      "permalink": "/docs/tags/excalidraw"
+      "permalink": "/tags/excalidraw"
     }
   ],
   "version": "current",

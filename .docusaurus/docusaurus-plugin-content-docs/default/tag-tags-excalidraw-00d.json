@@ -1,0 +1,44 @@
+{
+  "label": "excalidraw",
+  "permalink": "/tags/excalidraw",
+  "allTagsPath": "/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "Excalidraw/Banner",
+      "title": "Banner",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/Excalidraw/Banner"
+    },
+    {
+      "id": "SDET/Excalidraw/Banner",
+      "title": "Banner",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Excalidraw/Banner"
+    },
+    {
+      "id": "SDET/Docker/static/Docker",
+      "title": "Docker",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Docker/static/Docker"
+    },
+    {
+      "id": "Excalidraw/QARoadMap.excalidraw",
+      "title": "QARoadMap.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/Excalidraw/QARoadMap.excalidraw"
+    },
+    {
+      "id": "SDET/Excalidraw/QARoadMap.excalidraw",
+      "title": "QARoadMap.excalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Excalidraw/QARoadMap.excalidraw"
+    },
+    {
+      "id": "SDET/Selenium/static/SeleniumExcalidraw",
+      "title": "SeleniumExcalidraw",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Selenium/static/SeleniumExcalidraw"
+    }
+  ]
+}

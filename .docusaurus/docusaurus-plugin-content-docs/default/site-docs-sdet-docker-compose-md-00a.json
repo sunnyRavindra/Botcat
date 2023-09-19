@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Docker/Compose.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/Compose",
-  "permalink": "/docs/SDET/Docker/Compose",
+  "permalink": "/SDET/Docker/Compose",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Interacting with container",
-    "permalink": "/docs/SDET/Docker/ContainerInteractions"
+    "permalink": "/SDET/Docker/ContainerInteractions"
   },
   "next": {
     "title": "Package Names",
-    "permalink": "/docs/SDET/Java/JavaPackage"
+    "permalink": "/SDET/Java/JavaPackage"
   }
 }

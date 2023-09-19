@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Maven/Introduction.md",
   "sourceDirName": "SDET/Maven",
   "slug": "/SDET/Maven/Introduction",
-  "permalink": "/docs/SDET/Maven/Introduction",
+  "permalink": "/SDET/Maven/Introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,6 +16,6 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Playwright Into",
-    "permalink": "/docs/SDET/Playwright/Introduction"
+    "permalink": "/SDET/Playwright/Introduction"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Selenium/Introduction.md",
   "sourceDirName": "SDET/Selenium",
   "slug": "/SDET/Selenium/Introduction",
-  "permalink": "/docs/SDET/Selenium/Introduction",
+  "permalink": "/SDET/Selenium/Introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,6 +16,6 @@
   "sidebar": "SDETSidebar",
   "next": {
     "title": "Grid",
-    "permalink": "/docs/SDET/Selenium/Grid"
+    "permalink": "/SDET/Selenium/Grid"
   }
 }

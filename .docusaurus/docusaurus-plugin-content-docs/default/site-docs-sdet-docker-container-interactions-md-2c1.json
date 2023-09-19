@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Docker/ContainerInteractions.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/ContainerInteractions",
-  "permalink": "/docs/SDET/Docker/ContainerInteractions",
+  "permalink": "/SDET/Docker/ContainerInteractions",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Docker Commands",
-    "permalink": "/docs/SDET/Docker/Docker-Commands"
+    "permalink": "/SDET/Docker/Docker-Commands"
   },
   "next": {
     "title": "Docker Compose",
-    "permalink": "/docs/SDET/Docker/Compose"
+    "permalink": "/SDET/Docker/Compose"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Playwright/Introduction.md",
   "sourceDirName": "SDET/Playwright",
   "slug": "/SDET/Playwright/Introduction",
-  "permalink": "/docs/SDET/Playwright/Introduction",
+  "permalink": "/SDET/Playwright/Introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Package Names",
-    "permalink": "/docs/SDET/Java/JavaPackage"
+    "permalink": "/SDET/Java/JavaPackage"
   },
   "next": {
     "title": "Maven Introduction",
-    "permalink": "/docs/SDET/Maven/Introduction"
+    "permalink": "/SDET/Maven/Introduction"
   }
 }

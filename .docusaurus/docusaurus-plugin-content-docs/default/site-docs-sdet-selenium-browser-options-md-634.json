@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Selenium/BrowserOptions.md",
   "sourceDirName": "SDET/Selenium",
   "slug": "/SDET/Selenium/BrowserOptions",
-  "permalink": "/docs/SDET/Selenium/BrowserOptions",
+  "permalink": "/SDET/Selenium/BrowserOptions",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Grid",
-    "permalink": "/docs/SDET/Selenium/Grid"
+    "permalink": "/SDET/Selenium/Grid"
   },
   "next": {
     "title": "Docker",
-    "permalink": "/docs/SDET/Docker/Docker-Introduction"
+    "permalink": "/SDET/Docker/Docker-Introduction"
   }
 }

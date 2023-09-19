@@ -6,12 +6,12 @@
   "source": "@site/docs/Excalidraw/Banner.md",
   "sourceDirName": "Excalidraw",
   "slug": "/Excalidraw/Banner",
-  "permalink": "/docs/Excalidraw/Banner",
+  "permalink": "/Excalidraw/Banner",
   "draft": false,
   "tags": [
     {
       "label": "excalidraw",
-      "permalink": "/docs/tags/excalidraw"
+      "permalink": "/tags/excalidraw"
     }
   ],
   "version": "current",

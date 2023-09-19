@@ -16,19 +16,19 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/docs/SDET/Selenium/Introduction",
+            "href": "/SDET/Selenium/Introduction",
             "docId": "SDET/Selenium/Introduction"
           },
           {
             "type": "link",
             "label": "Grid",
-            "href": "/docs/SDET/Selenium/Grid",
+            "href": "/SDET/Selenium/Grid",
             "docId": "SDET/Selenium/Grid"
           },
           {
             "type": "link",
             "label": "Browser Options",
-            "href": "/docs/SDET/Selenium/BrowserOptions",
+            "href": "/SDET/Selenium/BrowserOptions",
             "docId": "SDET/Selenium/BrowserOptions"
           }
         ],
@@ -42,25 +42,25 @@
           {
             "type": "link",
             "label": "Docker",
-            "href": "/docs/SDET/Docker/Docker-Introduction",
+            "href": "/SDET/Docker/Docker-Introduction",
             "docId": "SDET/Docker/Docker-Introduction"
           },
           {
             "type": "link",
             "label": "Docker Commands",
-            "href": "/docs/SDET/Docker/Docker-Commands",
+            "href": "/SDET/Docker/Docker-Commands",
             "docId": "SDET/Docker/Docker-Commands"
           },
           {
             "type": "link",
             "label": "Interacting with container",
-            "href": "/docs/SDET/Docker/ContainerInteractions",
+            "href": "/SDET/Docker/ContainerInteractions",
             "docId": "SDET/Docker/ContainerInteractions"
           },
           {
             "type": "link",
             "label": "Docker Compose",
-            "href": "/docs/SDET/Docker/Compose",
+            "href": "/SDET/Docker/Compose",
             "docId": "SDET/Docker/Compose"
           }
         ],
@@ -74,7 +74,7 @@
           {
             "type": "link",
             "label": "Package Names",
-            "href": "/docs/SDET/Java/JavaPackage",
+            "href": "/SDET/Java/JavaPackage",
             "docId": "SDET/Java/JavaPackage"
           }
         ],
@@ -88,7 +88,7 @@
           {
             "type": "link",
             "label": "Playwright Into",
-            "href": "/docs/SDET/Playwright/Introduction",
+            "href": "/SDET/Playwright/Introduction",
             "docId": "SDET/Playwright/Introduction"
           }
         ],
@@ -102,7 +102,7 @@
           {
             "type": "link",
             "label": "Maven Introduction",
-            "href": "/docs/SDET/Maven/Introduction",
+            "href": "/SDET/Maven/Introduction",
             "docId": "SDET/Maven/Introduction"
           }
         ],

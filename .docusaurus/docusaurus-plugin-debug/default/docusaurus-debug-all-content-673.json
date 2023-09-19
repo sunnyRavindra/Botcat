@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/",
+          "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/sunnybharne/code/Botcat/sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/ContactMe.md",
               "sourceDirName": ".",
               "slug": "/ContactMe",
-              "permalink": "/docs/ContactMe",
+              "permalink": "/ContactMe",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -39,12 +39,12 @@
               "source": "@site/docs/Excalidraw/Banner.md",
               "sourceDirName": "Excalidraw",
               "slug": "/Excalidraw/Banner",
-              "permalink": "/docs/Excalidraw/Banner",
+              "permalink": "/Excalidraw/Banner",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -63,12 +63,12 @@
               "source": "@site/docs/Excalidraw/QARoadMap.excalidraw.md",
               "sourceDirName": "Excalidraw",
               "slug": "/Excalidraw/QARoadMap.excalidraw",
-              "permalink": "/docs/Excalidraw/QARoadMap.excalidraw",
+              "permalink": "/Excalidraw/QARoadMap.excalidraw",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -87,7 +87,7 @@
               "source": "@site/docs/SDET/API-Automation/Introduction.md",
               "sourceDirName": "SDET/API-Automation",
               "slug": "/SDET/API-Automation/Introduction",
-              "permalink": "/docs/SDET/API-Automation/Introduction",
+              "permalink": "/SDET/API-Automation/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -103,7 +103,7 @@
               "source": "@site/docs/SDET/Docker/Compose.md",
               "sourceDirName": "SDET/Docker",
               "slug": "/SDET/Docker/Compose",
-              "permalink": "/docs/SDET/Docker/Compose",
+              "permalink": "/SDET/Docker/Compose",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -113,11 +113,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Interacting with container",
-                "permalink": "/docs/SDET/Docker/ContainerInteractions"
+                "permalink": "/SDET/Docker/ContainerInteractions"
               },
               "next": {
                 "title": "Package Names",
-                "permalink": "/docs/SDET/Java/JavaPackage"
+                "permalink": "/SDET/Java/JavaPackage"
               }
             },
             {
@@ -128,7 +128,7 @@
               "source": "@site/docs/SDET/Docker/ContainerInteractions.md",
               "sourceDirName": "SDET/Docker",
               "slug": "/SDET/Docker/ContainerInteractions",
-              "permalink": "/docs/SDET/Docker/ContainerInteractions",
+              "permalink": "/SDET/Docker/ContainerInteractions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -138,11 +138,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Docker Commands",
-                "permalink": "/docs/SDET/Docker/Docker-Commands"
+                "permalink": "/SDET/Docker/Docker-Commands"
               },
               "next": {
                 "title": "Docker Compose",
-                "permalink": "/docs/SDET/Docker/Compose"
+                "permalink": "/SDET/Docker/Compose"
               }
             },
             {
@@ -153,7 +153,7 @@
               "source": "@site/docs/SDET/Docker/Docker-Commands.md",
               "sourceDirName": "SDET/Docker",
               "slug": "/SDET/Docker/Docker-Commands",
-              "permalink": "/docs/SDET/Docker/Docker-Commands",
+              "permalink": "/SDET/Docker/Docker-Commands",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -163,11 +163,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Docker",
-                "permalink": "/docs/SDET/Docker/Docker-Introduction"
+                "permalink": "/SDET/Docker/Docker-Introduction"
               },
               "next": {
                 "title": "Interacting with container",
-                "permalink": "/docs/SDET/Docker/ContainerInteractions"
+                "permalink": "/SDET/Docker/ContainerInteractions"
               }
             },
             {
@@ -178,7 +178,7 @@
               "source": "@site/docs/SDET/Docker/Docker-Introduction.md",
               "sourceDirName": "SDET/Docker",
               "slug": "/SDET/Docker/Docker-Introduction",
-              "permalink": "/docs/SDET/Docker/Docker-Introduction",
+              "permalink": "/SDET/Docker/Docker-Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -188,11 +188,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Browser Options",
-                "permalink": "/docs/SDET/Selenium/BrowserOptions"
+                "permalink": "/SDET/Selenium/BrowserOptions"
               },
               "next": {
                 "title": "Docker Commands",
-                "permalink": "/docs/SDET/Docker/Docker-Commands"
+                "permalink": "/SDET/Docker/Docker-Commands"
               }
             },
             {
@@ -203,7 +203,7 @@
               "source": "@site/docs/SDET/Docker/DockerFiles/Docker Ignore file.md",
               "sourceDirName": "SDET/Docker/DockerFiles",
               "slug": "/SDET/Docker/DockerFiles/Docker Ignore file",
-              "permalink": "/docs/SDET/Docker/DockerFiles/Docker Ignore file",
+              "permalink": "/SDET/Docker/DockerFiles/Docker Ignore file",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -217,7 +217,7 @@
               "source": "@site/docs/SDET/Docker/DockerFiles/DockerFile.md",
               "sourceDirName": "SDET/Docker/DockerFiles",
               "slug": "/SDET/Docker/DockerFiles/DockerFile",
-              "permalink": "/docs/SDET/Docker/DockerFiles/DockerFile",
+              "permalink": "/SDET/Docker/DockerFiles/DockerFile",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -231,7 +231,7 @@
               "source": "@site/docs/SDET/Docker/DockerFiles/Nextjs Docker File.md",
               "sourceDirName": "SDET/Docker/DockerFiles",
               "slug": "/SDET/Docker/DockerFiles/Nextjs Docker File",
-              "permalink": "/docs/SDET/Docker/DockerFiles/Nextjs Docker File",
+              "permalink": "/SDET/Docker/DockerFiles/Nextjs Docker File",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -245,12 +245,12 @@
               "source": "@site/docs/SDET/Docker/static/Docker.md",
               "sourceDirName": "SDET/Docker/static",
               "slug": "/SDET/Docker/static/Docker",
-              "permalink": "/docs/SDET/Docker/static/Docker",
+              "permalink": "/SDET/Docker/static/Docker",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -269,12 +269,12 @@
               "source": "@site/docs/SDET/Excalidraw/Banner.md",
               "sourceDirName": "SDET/Excalidraw",
               "slug": "/SDET/Excalidraw/Banner",
-              "permalink": "/docs/SDET/Excalidraw/Banner",
+              "permalink": "/SDET/Excalidraw/Banner",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -293,12 +293,12 @@
               "source": "@site/docs/SDET/Excalidraw/QARoadMap.excalidraw.md",
               "sourceDirName": "SDET/Excalidraw",
               "slug": "/SDET/Excalidraw/QARoadMap.excalidraw",
-              "permalink": "/docs/SDET/Excalidraw/QARoadMap.excalidraw",
+              "permalink": "/SDET/Excalidraw/QARoadMap.excalidraw",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -317,7 +317,7 @@
               "source": "@site/docs/SDET/Jackson/Introduction.md",
               "sourceDirName": "SDET/Jackson",
               "slug": "/SDET/Jackson/Introduction",
-              "permalink": "/docs/SDET/Jackson/Introduction",
+              "permalink": "/SDET/Jackson/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -333,7 +333,7 @@
               "source": "@site/docs/SDET/Java/JavaPackage.md",
               "sourceDirName": "SDET/Java",
               "slug": "/SDET/Java/JavaPackage",
-              "permalink": "/docs/SDET/Java/JavaPackage",
+              "permalink": "/SDET/Java/JavaPackage",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -343,11 +343,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Docker Compose",
-                "permalink": "/docs/SDET/Docker/Compose"
+                "permalink": "/SDET/Docker/Compose"
               },
               "next": {
                 "title": "Playwright Into",
-                "permalink": "/docs/SDET/Playwright/Introduction"
+                "permalink": "/SDET/Playwright/Introduction"
               }
             },
             {
@@ -358,7 +358,7 @@
               "source": "@site/docs/SDET/Maven/Introduction.md",
               "sourceDirName": "SDET/Maven",
               "slug": "/SDET/Maven/Introduction",
-              "permalink": "/docs/SDET/Maven/Introduction",
+              "permalink": "/SDET/Maven/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -368,7 +368,7 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Playwright Into",
-                "permalink": "/docs/SDET/Playwright/Introduction"
+                "permalink": "/SDET/Playwright/Introduction"
               }
             },
             {
@@ -379,7 +379,7 @@
               "source": "@site/docs/SDET/Playwright/Introduction.md",
               "sourceDirName": "SDET/Playwright",
               "slug": "/SDET/Playwright/Introduction",
-              "permalink": "/docs/SDET/Playwright/Introduction",
+              "permalink": "/SDET/Playwright/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -389,11 +389,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Package Names",
-                "permalink": "/docs/SDET/Java/JavaPackage"
+                "permalink": "/SDET/Java/JavaPackage"
               },
               "next": {
                 "title": "Maven Introduction",
-                "permalink": "/docs/SDET/Maven/Introduction"
+                "permalink": "/SDET/Maven/Introduction"
               }
             },
             {
@@ -404,7 +404,7 @@
               "source": "@site/docs/SDET/Selenium/BrowserOptions.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/BrowserOptions",
-              "permalink": "/docs/SDET/Selenium/BrowserOptions",
+              "permalink": "/SDET/Selenium/BrowserOptions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -414,11 +414,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Grid",
-                "permalink": "/docs/SDET/Selenium/Grid"
+                "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
                 "title": "Docker",
-                "permalink": "/docs/SDET/Docker/Docker-Introduction"
+                "permalink": "/SDET/Docker/Docker-Introduction"
               }
             },
             {
@@ -429,7 +429,7 @@
               "source": "@site/docs/SDET/Selenium/Grid.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/Grid",
-              "permalink": "/docs/SDET/Selenium/Grid",
+              "permalink": "/SDET/Selenium/Grid",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -439,11 +439,11 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/SDET/Selenium/Introduction"
+                "permalink": "/SDET/Selenium/Introduction"
               },
               "next": {
                 "title": "Browser Options",
-                "permalink": "/docs/SDET/Selenium/BrowserOptions"
+                "permalink": "/SDET/Selenium/BrowserOptions"
               }
             },
             {
@@ -454,7 +454,7 @@
               "source": "@site/docs/SDET/Selenium/Introduction.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/Introduction",
-              "permalink": "/docs/SDET/Selenium/Introduction",
+              "permalink": "/SDET/Selenium/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -464,7 +464,7 @@
               "sidebar": "SDETSidebar",
               "next": {
                 "title": "Grid",
-                "permalink": "/docs/SDET/Selenium/Grid"
+                "permalink": "/SDET/Selenium/Grid"
               }
             },
             {
@@ -475,7 +475,7 @@
               "source": "@site/docs/SDET/Selenium/notes.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/notes",
-              "permalink": "/docs/SDET/Selenium/notes",
+              "permalink": "/SDET/Selenium/notes",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -489,12 +489,12 @@
               "source": "@site/docs/SDET/Selenium/static/SeleniumExcalidraw.md",
               "sourceDirName": "SDET/Selenium/static",
               "slug": "/SDET/Selenium/static/SeleniumExcalidraw",
-              "permalink": "/docs/SDET/Selenium/static/SeleniumExcalidraw",
+              "permalink": "/SDET/Selenium/static/SeleniumExcalidraw",
               "draft": false,
               "tags": [
                 {
                   "label": "excalidraw",
-                  "permalink": "/docs/tags/excalidraw"
+                  "permalink": "/tags/excalidraw"
                 }
               ],
               "version": "current",
@@ -513,7 +513,7 @@
               "source": "@site/docs/SDET/Selenium/Synchronisation.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/Synchronisation",
-              "permalink": "/docs/SDET/Selenium/Synchronisation",
+              "permalink": "/SDET/Selenium/Synchronisation",
               "draft": false,
               "tags": [],
               "version": "current",

@@ -1,127 +1,127 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/",
           "mainDocId": "SDET/Selenium/Introduction",
           "docs": [
             {
               "id": "ContactMe",
-              "path": "/docs/ContactMe"
+              "path": "/ContactMe"
             },
             {
               "id": "Excalidraw/Banner",
-              "path": "/docs/Excalidraw/Banner"
+              "path": "/Excalidraw/Banner"
             },
             {
               "id": "Excalidraw/QARoadMap.excalidraw",
-              "path": "/docs/Excalidraw/QARoadMap.excalidraw"
+              "path": "/Excalidraw/QARoadMap.excalidraw"
             },
             {
               "id": "SDET/API-Automation/Introduction",
-              "path": "/docs/SDET/API-Automation/Introduction"
+              "path": "/SDET/API-Automation/Introduction"
             },
             {
               "id": "SDET/Docker/Compose",
-              "path": "/docs/SDET/Docker/Compose",
+              "path": "/SDET/Docker/Compose",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Docker/ContainerInteractions",
-              "path": "/docs/SDET/Docker/ContainerInteractions",
+              "path": "/SDET/Docker/ContainerInteractions",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Docker/Docker-Commands",
-              "path": "/docs/SDET/Docker/Docker-Commands",
+              "path": "/SDET/Docker/Docker-Commands",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Docker/Docker-Introduction",
-              "path": "/docs/SDET/Docker/Docker-Introduction",
+              "path": "/SDET/Docker/Docker-Introduction",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Docker/DockerFiles/Docker Ignore file",
-              "path": "/docs/SDET/Docker/DockerFiles/Docker Ignore file"
+              "path": "/SDET/Docker/DockerFiles/Docker Ignore file"
             },
             {
               "id": "SDET/Docker/DockerFiles/DockerFile",
-              "path": "/docs/SDET/Docker/DockerFiles/DockerFile"
+              "path": "/SDET/Docker/DockerFiles/DockerFile"
             },
             {
               "id": "SDET/Docker/DockerFiles/Nextjs Docker File",
-              "path": "/docs/SDET/Docker/DockerFiles/Nextjs Docker File"
+              "path": "/SDET/Docker/DockerFiles/Nextjs Docker File"
             },
             {
               "id": "SDET/Docker/static/Docker",
-              "path": "/docs/SDET/Docker/static/Docker"
+              "path": "/SDET/Docker/static/Docker"
             },
             {
               "id": "SDET/Excalidraw/Banner",
-              "path": "/docs/SDET/Excalidraw/Banner"
+              "path": "/SDET/Excalidraw/Banner"
             },
             {
               "id": "SDET/Excalidraw/QARoadMap.excalidraw",
-              "path": "/docs/SDET/Excalidraw/QARoadMap.excalidraw"
+              "path": "/SDET/Excalidraw/QARoadMap.excalidraw"
             },
             {
               "id": "SDET/Jackson/Introduction",
-              "path": "/docs/SDET/Jackson/Introduction"
+              "path": "/SDET/Jackson/Introduction"
             },
             {
               "id": "SDET/Java/JavaPackage",
-              "path": "/docs/SDET/Java/JavaPackage",
+              "path": "/SDET/Java/JavaPackage",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Maven/Introduction",
-              "path": "/docs/SDET/Maven/Introduction",
+              "path": "/SDET/Maven/Introduction",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Playwright/Introduction",
-              "path": "/docs/SDET/Playwright/Introduction",
+              "path": "/SDET/Playwright/Introduction",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/BrowserOptions",
-              "path": "/docs/SDET/Selenium/BrowserOptions",
+              "path": "/SDET/Selenium/BrowserOptions",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/Grid",
-              "path": "/docs/SDET/Selenium/Grid",
+              "path": "/SDET/Selenium/Grid",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/Introduction",
-              "path": "/docs/SDET/Selenium/Introduction",
+              "path": "/SDET/Selenium/Introduction",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/notes",
-              "path": "/docs/SDET/Selenium/notes"
+              "path": "/SDET/Selenium/notes"
             },
             {
               "id": "SDET/Selenium/static/SeleniumExcalidraw",
-              "path": "/docs/SDET/Selenium/static/SeleniumExcalidraw"
+              "path": "/SDET/Selenium/static/SeleniumExcalidraw"
             },
             {
               "id": "SDET/Selenium/Synchronisation",
-              "path": "/docs/SDET/Selenium/Synchronisation"
+              "path": "/SDET/Selenium/Synchronisation"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "SDETSidebar": {
               "link": {
-                "path": "/docs/SDET/Selenium/Introduction",
+                "path": "/SDET/Selenium/Introduction",
                 "label": "SDET/Selenium/Introduction"
               }
             }

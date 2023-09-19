@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Selenium/Grid.md",
   "sourceDirName": "SDET/Selenium",
   "slug": "/SDET/Selenium/Grid",
-  "permalink": "/docs/SDET/Selenium/Grid",
+  "permalink": "/SDET/Selenium/Grid",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/SDET/Selenium/Introduction"
+    "permalink": "/SDET/Selenium/Introduction"
   },
   "next": {
     "title": "Browser Options",
-    "permalink": "/docs/SDET/Selenium/BrowserOptions"
+    "permalink": "/SDET/Selenium/BrowserOptions"
   }
 }

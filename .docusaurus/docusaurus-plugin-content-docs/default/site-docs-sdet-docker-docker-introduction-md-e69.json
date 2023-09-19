@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Docker/Docker-Introduction.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/Docker-Introduction",
-  "permalink": "/docs/SDET/Docker/Docker-Introduction",
+  "permalink": "/SDET/Docker/Docker-Introduction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Browser Options",
-    "permalink": "/docs/SDET/Selenium/BrowserOptions"
+    "permalink": "/SDET/Selenium/BrowserOptions"
   },
   "next": {
     "title": "Docker Commands",
-    "permalink": "/docs/SDET/Docker/Docker-Commands"
+    "permalink": "/SDET/Docker/Docker-Commands"
   }
 }

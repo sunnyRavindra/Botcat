@@ -26,7 +26,8 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sunnybharne/code/Botcat/sidebars.js"
+          "sidebarPath": "/Users/sunnybharne/code/Botcat/sidebars.js",
+          "routeBasePath": "/"
         },
         "blog": {
           "showReadingTime": true,

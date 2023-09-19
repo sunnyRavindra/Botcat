@@ -6,12 +6,12 @@
   "source": "@site/docs/SDET/Excalidraw/Banner.md",
   "sourceDirName": "SDET/Excalidraw",
   "slug": "/SDET/Excalidraw/Banner",
-  "permalink": "/docs/SDET/Excalidraw/Banner",
+  "permalink": "/SDET/Excalidraw/Banner",
   "draft": false,
   "tags": [
     {
       "label": "excalidraw",
-      "permalink": "/docs/tags/excalidraw"
+      "permalink": "/tags/excalidraw"
     }
   ],
   "version": "current",

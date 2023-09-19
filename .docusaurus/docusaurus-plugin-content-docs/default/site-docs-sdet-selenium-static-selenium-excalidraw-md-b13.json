@@ -6,12 +6,12 @@
   "source": "@site/docs/SDET/Selenium/static/SeleniumExcalidraw.md",
   "sourceDirName": "SDET/Selenium/static",
   "slug": "/SDET/Selenium/static/SeleniumExcalidraw",
-  "permalink": "/docs/SDET/Selenium/static/SeleniumExcalidraw",
+  "permalink": "/SDET/Selenium/static/SeleniumExcalidraw",
   "draft": false,
   "tags": [
     {
       "label": "excalidraw",
-      "permalink": "/docs/tags/excalidraw"
+      "permalink": "/tags/excalidraw"
     }
   ],
   "version": "current",

@@ -6,7 +6,7 @@
   "source": "@site/docs/SDET/Docker/Docker-Commands.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/Docker-Commands",
-  "permalink": "/docs/SDET/Docker/Docker-Commands",
+  "permalink": "/SDET/Docker/Docker-Commands",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "Docker",
-    "permalink": "/docs/SDET/Docker/Docker-Introduction"
+    "permalink": "/SDET/Docker/Docker-Introduction"
   },
   "next": {
     "title": "Interacting with container",
-    "permalink": "/docs/SDET/Docker/ContainerInteractions"
+    "permalink": "/SDET/Docker/ContainerInteractions"
   }
 }

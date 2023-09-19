@@ -159,122 +159,19 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/docs/tags-8e8": {
+  "/tags-e49": {
     "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "plugin---docs-tagsa-0-a-db8"
+      "plugin": "plugin---tagsa-0-a-4e3"
     },
-    "tags": "tags---docs-tags-559-5e5"
+    "tags": "tags---tags-559-690"
   },
-  "/docs/tags/excalidraw-3a7": {
+  "/tags/excalidraw-faa": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "plugin---docs-tagsa-0-a-db8"
+      "plugin": "plugin---tagsa-0-a-4e3"
     },
-    "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
-  },
-  "/docs-b6c": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---docs-tagsa-0-a-db8"
-    },
-    "versionMetadata": "versionMetadata---docs-935-398"
-  },
-  "/docs/ContactMe-fcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contact-meafd-3c6"
-  },
-  "/docs/Excalidraw/Banner-74b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-excalidraw-banner-67-d-f19"
-  },
-  "/docs/Excalidraw/QARoadMap.excalidraw-f7c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-excalidraw-qa-road-map-excalidrawa-4-d-fcb"
-  },
-  "/docs/SDET/API-Automation/Introduction-89c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-api-automation-introduction-999-3ee"
-  },
-  "/docs/SDET/Docker/Compose-4f8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-compose-00-a-b03"
-  },
-  "/docs/SDET/Docker/ContainerInteractions-e4f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-container-interactions-2-c-1-3c8"
-  },
-  "/docs/SDET/Docker/Docker-Commands-e41": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-docker-commands-768-3d4"
-  },
-  "/docs/SDET/Docker/Docker-Introduction-2e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-docker-introductione-69-b33"
-  },
-  "/docs/SDET/Docker/DockerFiles/Docker Ignore file-3bd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-docker-files-docker-ignore-filec-33-c37"
-  },
-  "/docs/SDET/Docker/DockerFiles/DockerFile-030": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-docker-files-docker-file-7-c-1-dcb"
-  },
-  "/docs/SDET/Docker/DockerFiles/Nextjs Docker File-1d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-docker-files-nextjs-docker-fileae-0-1bd"
-  },
-  "/docs/SDET/Docker/static/Docker-2ca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-docker-static-docker-064-0ba"
-  },
-  "/docs/SDET/Excalidraw/Banner-40f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-excalidraw-banner-20-a-d7e"
-  },
-  "/docs/SDET/Excalidraw/QARoadMap.excalidraw-7fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-excalidraw-qa-road-map-excalidraw-794-b55"
-  },
-  "/docs/SDET/Jackson/Introduction-47a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-jackson-introduction-721-1cf"
-  },
-  "/docs/SDET/Java/JavaPackage-3ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-java-java-package-71-d-134"
-  },
-  "/docs/SDET/Maven/Introduction-f35": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-maven-introduction-4-d-8-e5b"
-  },
-  "/docs/SDET/Playwright/Introduction-2ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-playwright-introductionf-07-c97"
-  },
-  "/docs/SDET/Selenium/BrowserOptions-f58": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-browser-options-634-d2a"
-  },
-  "/docs/SDET/Selenium/Grid-39e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-grid-79-e-489"
-  },
-  "/docs/SDET/Selenium/Introduction-7bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-introductionc-20-4c8"
-  },
-  "/docs/SDET/Selenium/notes-b96": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-notes-7-c-9-ece"
-  },
-  "/docs/SDET/Selenium/static/SeleniumExcalidraw-a21": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-static-selenium-excalidrawb-13-d89"
-  },
-  "/docs/SDET/Selenium/Synchronisation-1ee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-selenium-synchronisation-419-d23"
+    "tag": "tag---tags-excalidraw-761-7c0"
   },
   "/-759": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
@@ -282,5 +179,108 @@
       "plugin": "plugin---67-f-8f5"
     },
     "content": "content---f-39-267"
+  },
+  "/-739": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---tagsa-0-a-4e3"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/ContactMe-42b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contact-meafd-123"
+  },
+  "/Excalidraw/Banner-ddb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---excalidraw-banner-67-d-3a4"
+  },
+  "/Excalidraw/QARoadMap.excalidraw-33a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---excalidraw-qa-road-map-excalidrawa-4-d-0c8"
+  },
+  "/SDET/API-Automation/Introduction-1f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-automation-introduction-999-151"
+  },
+  "/SDET/Docker/Compose-f37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-compose-00-a-718"
+  },
+  "/SDET/Docker/ContainerInteractions-44d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-container-interactions-2-c-1-b5a"
+  },
+  "/SDET/Docker/Docker-Commands-229": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-commands-768-ec8"
+  },
+  "/SDET/Docker/Docker-Introduction-91f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-introductione-69-316"
+  },
+  "/SDET/Docker/DockerFiles/Docker Ignore file-d93": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-docker-ignore-filec-33-293"
+  },
+  "/SDET/Docker/DockerFiles/DockerFile-e35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-docker-file-7-c-1-c23"
+  },
+  "/SDET/Docker/DockerFiles/Nextjs Docker File-4e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-nextjs-docker-fileae-0-b49"
+  },
+  "/SDET/Docker/static/Docker-5f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-static-docker-064-a47"
+  },
+  "/SDET/Excalidraw/Banner-e18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-excalidraw-banner-20-a-f2a"
+  },
+  "/SDET/Excalidraw/QARoadMap.excalidraw-409": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-excalidraw-qa-road-map-excalidraw-794-207"
+  },
+  "/SDET/Jackson/Introduction-486": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jackson-introduction-721-3fe"
+  },
+  "/SDET/Java/JavaPackage-d17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-java-package-71-d-24d"
+  },
+  "/SDET/Maven/Introduction-159": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-maven-introduction-4-d-8-a53"
+  },
+  "/SDET/Playwright/Introduction-1e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-playwright-introductionf-07-a6f"
+  },
+  "/SDET/Selenium/BrowserOptions-90f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-browser-options-634-8b2"
+  },
+  "/SDET/Selenium/Grid-8f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-grid-79-e-ff7"
+  },
+  "/SDET/Selenium/Introduction-dc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-introductionc-20-b81"
+  },
+  "/SDET/Selenium/notes-f01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-notes-7-c-9-b4a"
+  },
+  "/SDET/Selenium/static/SeleniumExcalidraw-add": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-static-selenium-excalidrawb-13-31a"
+  },
+  "/SDET/Selenium/Synchronisation-178": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-synchronisation-419-3b9"
   }
 }

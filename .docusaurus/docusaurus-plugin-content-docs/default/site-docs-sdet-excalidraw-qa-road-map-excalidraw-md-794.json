@@ -6,12 +6,12 @@
   "source": "@site/docs/SDET/Excalidraw/QARoadMap.excalidraw.md",
   "sourceDirName": "SDET/Excalidraw",
   "slug": "/SDET/Excalidraw/QARoadMap.excalidraw",
-  "permalink": "/docs/SDET/Excalidraw/QARoadMap.excalidraw",
+  "permalink": "/SDET/Excalidraw/QARoadMap.excalidraw",
   "draft": false,
   "tags": [
     {
       "label": "excalidraw",
-      "permalink": "/docs/tags/excalidraw"
+      "permalink": "/tags/excalidraw"
     }
   ],
   "version": "current",

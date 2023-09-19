@@ -88,155 +88,155 @@ export default [
     exact: true
   },
   {
-    path: '/docs/tags',
-    component: ComponentCreator('/docs/tags', '8e8'),
+    path: '/tags',
+    component: ComponentCreator('/tags', 'e49'),
     exact: true
   },
   {
-    path: '/docs/tags/excalidraw',
-    component: ComponentCreator('/docs/tags/excalidraw', '3a7'),
+    path: '/tags/excalidraw',
+    component: ComponentCreator('/tags/excalidraw', 'faa'),
     exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'b6c'),
-    routes: [
-      {
-        path: '/docs/ContactMe',
-        component: ComponentCreator('/docs/ContactMe', 'fcd'),
-        exact: true
-      },
-      {
-        path: '/docs/Excalidraw/Banner',
-        component: ComponentCreator('/docs/Excalidraw/Banner', '74b'),
-        exact: true
-      },
-      {
-        path: '/docs/Excalidraw/QARoadMap.excalidraw',
-        component: ComponentCreator('/docs/Excalidraw/QARoadMap.excalidraw', 'f7c'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/API-Automation/Introduction',
-        component: ComponentCreator('/docs/SDET/API-Automation/Introduction', '89c'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Docker/Compose',
-        component: ComponentCreator('/docs/SDET/Docker/Compose', '4f8'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Docker/ContainerInteractions',
-        component: ComponentCreator('/docs/SDET/Docker/ContainerInteractions', 'e4f'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Docker/Docker-Commands',
-        component: ComponentCreator('/docs/SDET/Docker/Docker-Commands', 'e41'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Docker/Docker-Introduction',
-        component: ComponentCreator('/docs/SDET/Docker/Docker-Introduction', '2e6'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Docker/DockerFiles/Docker Ignore file',
-        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/Docker Ignore file', '3bd'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Docker/DockerFiles/DockerFile',
-        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/DockerFile', '030'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Docker/DockerFiles/Nextjs Docker File',
-        component: ComponentCreator('/docs/SDET/Docker/DockerFiles/Nextjs Docker File', '1d6'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Docker/static/Docker',
-        component: ComponentCreator('/docs/SDET/Docker/static/Docker', '2ca'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Excalidraw/Banner',
-        component: ComponentCreator('/docs/SDET/Excalidraw/Banner', '40f'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Excalidraw/QARoadMap.excalidraw',
-        component: ComponentCreator('/docs/SDET/Excalidraw/QARoadMap.excalidraw', '7fe'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Jackson/Introduction',
-        component: ComponentCreator('/docs/SDET/Jackson/Introduction', '47a'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Java/JavaPackage',
-        component: ComponentCreator('/docs/SDET/Java/JavaPackage', '3ba'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Maven/Introduction',
-        component: ComponentCreator('/docs/SDET/Maven/Introduction', 'f35'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Playwright/Introduction',
-        component: ComponentCreator('/docs/SDET/Playwright/Introduction', '2ff'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Selenium/BrowserOptions',
-        component: ComponentCreator('/docs/SDET/Selenium/BrowserOptions', 'f58'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Selenium/Grid',
-        component: ComponentCreator('/docs/SDET/Selenium/Grid', '39e'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Selenium/Introduction',
-        component: ComponentCreator('/docs/SDET/Selenium/Introduction', '7bb'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/docs/SDET/Selenium/notes',
-        component: ComponentCreator('/docs/SDET/Selenium/notes', 'b96'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Selenium/static/SeleniumExcalidraw',
-        component: ComponentCreator('/docs/SDET/Selenium/static/SeleniumExcalidraw', 'a21'),
-        exact: true
-      },
-      {
-        path: '/docs/SDET/Selenium/Synchronisation',
-        component: ComponentCreator('/docs/SDET/Selenium/Synchronisation', '1ee'),
-        exact: true
-      }
-    ]
   },
   {
     path: '/',
     component: ComponentCreator('/', '759'),
     exact: true
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '739'),
+    routes: [
+      {
+        path: '/ContactMe',
+        component: ComponentCreator('/ContactMe', '42b'),
+        exact: true
+      },
+      {
+        path: '/Excalidraw/Banner',
+        component: ComponentCreator('/Excalidraw/Banner', 'ddb'),
+        exact: true
+      },
+      {
+        path: '/Excalidraw/QARoadMap.excalidraw',
+        component: ComponentCreator('/Excalidraw/QARoadMap.excalidraw', '33a'),
+        exact: true
+      },
+      {
+        path: '/SDET/API-Automation/Introduction',
+        component: ComponentCreator('/SDET/API-Automation/Introduction', '1f2'),
+        exact: true
+      },
+      {
+        path: '/SDET/Docker/Compose',
+        component: ComponentCreator('/SDET/Docker/Compose', 'f37'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Docker/ContainerInteractions',
+        component: ComponentCreator('/SDET/Docker/ContainerInteractions', '44d'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Docker/Docker-Commands',
+        component: ComponentCreator('/SDET/Docker/Docker-Commands', '229'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Docker/Docker-Introduction',
+        component: ComponentCreator('/SDET/Docker/Docker-Introduction', '91f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Docker/DockerFiles/Docker Ignore file',
+        component: ComponentCreator('/SDET/Docker/DockerFiles/Docker Ignore file', 'd93'),
+        exact: true
+      },
+      {
+        path: '/SDET/Docker/DockerFiles/DockerFile',
+        component: ComponentCreator('/SDET/Docker/DockerFiles/DockerFile', 'e35'),
+        exact: true
+      },
+      {
+        path: '/SDET/Docker/DockerFiles/Nextjs Docker File',
+        component: ComponentCreator('/SDET/Docker/DockerFiles/Nextjs Docker File', '4e9'),
+        exact: true
+      },
+      {
+        path: '/SDET/Docker/static/Docker',
+        component: ComponentCreator('/SDET/Docker/static/Docker', '5f5'),
+        exact: true
+      },
+      {
+        path: '/SDET/Excalidraw/Banner',
+        component: ComponentCreator('/SDET/Excalidraw/Banner', 'e18'),
+        exact: true
+      },
+      {
+        path: '/SDET/Excalidraw/QARoadMap.excalidraw',
+        component: ComponentCreator('/SDET/Excalidraw/QARoadMap.excalidraw', '409'),
+        exact: true
+      },
+      {
+        path: '/SDET/Jackson/Introduction',
+        component: ComponentCreator('/SDET/Jackson/Introduction', '486'),
+        exact: true
+      },
+      {
+        path: '/SDET/Java/JavaPackage',
+        component: ComponentCreator('/SDET/Java/JavaPackage', 'd17'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Maven/Introduction',
+        component: ComponentCreator('/SDET/Maven/Introduction', '159'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Playwright/Introduction',
+        component: ComponentCreator('/SDET/Playwright/Introduction', '1e0'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Selenium/BrowserOptions',
+        component: ComponentCreator('/SDET/Selenium/BrowserOptions', '90f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Selenium/Grid',
+        component: ComponentCreator('/SDET/Selenium/Grid', '8f1'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Selenium/Introduction',
+        component: ComponentCreator('/SDET/Selenium/Introduction', 'dc4'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Selenium/notes',
+        component: ComponentCreator('/SDET/Selenium/notes', 'f01'),
+        exact: true
+      },
+      {
+        path: '/SDET/Selenium/static/SeleniumExcalidraw',
+        component: ComponentCreator('/SDET/Selenium/static/SeleniumExcalidraw', 'add'),
+        exact: true
+      },
+      {
+        path: '/SDET/Selenium/Synchronisation',
+        component: ComponentCreator('/SDET/Selenium/Synchronisation', '178'),
+        exact: true
+      }
+    ]
   },
   {
     path: '*',
