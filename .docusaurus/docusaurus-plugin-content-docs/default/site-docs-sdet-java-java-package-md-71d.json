@@ -17,5 +17,9 @@
   "previous": {
     "title": "Docker Compose",
     "permalink": "/docs/SDET/Docker/Compose"
+  },
+  "next": {
+    "title": "Playwright Into",
+    "permalink": "/docs/SDET/Playwright/Introduction"
   }
 }

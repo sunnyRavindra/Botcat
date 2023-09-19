@@ -23,8 +23,8 @@
               "path": "/docs/Excalidraw/QARoadMap.excalidraw"
             },
             {
-              "id": "Linux Namespaces",
-              "path": "/docs/Linux Namespaces"
+              "id": "SDET/API-Automation/Introduction",
+              "path": "/docs/SDET/API-Automation/Introduction"
             },
             {
               "id": "SDET/Docker/Compose",
@@ -81,11 +81,13 @@
             },
             {
               "id": "SDET/Maven/Introduction",
-              "path": "/docs/SDET/Maven/Introduction"
+              "path": "/docs/SDET/Maven/Introduction",
+              "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Playwright",
-              "path": "/docs/SDET/Playwright"
+              "id": "SDET/Playwright/Introduction",
+              "path": "/docs/SDET/Playwright/Introduction",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/BrowserOptions",

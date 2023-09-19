@@ -12,5 +12,10 @@
   "version": "current",
   "frontMatter": {
     "title": "Maven Introduction"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Playwright Into",
+    "permalink": "/docs/SDET/Playwright/Introduction"
   }
 }

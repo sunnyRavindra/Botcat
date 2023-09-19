@@ -80,18 +80,20 @@
               }
             },
             {
-              "unversionedId": "Linux Namespaces",
-              "id": "Linux Namespaces",
-              "title": "Linux Namespaces",
-              "description": "",
-              "source": "@site/docs/Linux Namespaces.md",
-              "sourceDirName": ".",
-              "slug": "/Linux Namespaces",
-              "permalink": "/docs/Linux Namespaces",
+              "unversionedId": "SDET/API-Automation/Introduction",
+              "id": "SDET/API-Automation/Introduction",
+              "title": "API Automation",
+              "description": "This is into to API automation",
+              "source": "@site/docs/SDET/API-Automation/Introduction.md",
+              "sourceDirName": "SDET/API-Automation",
+              "slug": "/SDET/API-Automation/Introduction",
+              "permalink": "/docs/SDET/API-Automation/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "API Automation"
+              }
             },
             {
               "unversionedId": "SDET/Docker/Compose",
@@ -342,6 +344,10 @@
               "previous": {
                 "title": "Docker Compose",
                 "permalink": "/docs/SDET/Docker/Compose"
+              },
+              "next": {
+                "title": "Playwright Into",
+                "permalink": "/docs/SDET/Playwright/Introduction"
               }
             },
             {
@@ -358,22 +364,36 @@
               "version": "current",
               "frontMatter": {
                 "title": "Maven Introduction"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Playwright Into",
+                "permalink": "/docs/SDET/Playwright/Introduction"
               }
             },
             {
-              "unversionedId": "SDET/Playwright",
-              "id": "SDET/Playwright",
-              "title": "Playwright",
+              "unversionedId": "SDET/Playwright/Introduction",
+              "id": "SDET/Playwright/Introduction",
+              "title": "Playwright Into",
               "description": "Reference https://playwright.dev/",
-              "source": "@site/docs/SDET/Playwright.md",
-              "sourceDirName": "SDET",
-              "slug": "/SDET/Playwright",
-              "permalink": "/docs/SDET/Playwright",
+              "source": "@site/docs/SDET/Playwright/Introduction.md",
+              "sourceDirName": "SDET/Playwright",
+              "slug": "/SDET/Playwright/Introduction",
+              "permalink": "/docs/SDET/Playwright/Introduction",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Playwright"
+                "title": "Playwright Into"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Package Names",
+                "permalink": "/docs/SDET/Java/JavaPackage"
+              },
+              "next": {
+                "title": "Maven Introduction",
+                "permalink": "/docs/SDET/Maven/Introduction"
               }
             },
             {
@@ -518,19 +538,6 @@
                   {
                     "type": "doc",
                     "id": "SDET/Selenium/BrowserOptions"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Selenium Reference",
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "Selenium Official",
-                        "href": "https://www.selenium.dev/"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -555,19 +562,6 @@
                   {
                     "type": "doc",
                     "id": "SDET/Docker/Compose"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Reference",
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "Docker Official",
-                        "href": "https://www.selenium.dev/"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -580,19 +574,30 @@
                   {
                     "type": "doc",
                     "id": "SDET/Java/JavaPackage"
-                  },
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "PlayWright",
+                "items": [
                   {
-                    "type": "category",
-                    "label": "Reference",
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "Java Official",
-                        "href": "https://www.selenium.dev/"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
+                    "type": "doc",
+                    "id": "SDET/Playwright/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Maven",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Maven/Introduction"
                   }
                 ],
                 "collapsed": true,

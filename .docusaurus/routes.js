@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bc3'),
+    component: ComponentCreator('/docs', 'b6c'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -117,8 +117,8 @@ export default [
         exact: true
       },
       {
-        path: '/docs/Linux Namespaces',
-        component: ComponentCreator('/docs/Linux Namespaces', 'b5b'),
+        path: '/docs/SDET/API-Automation/Introduction',
+        component: ComponentCreator('/docs/SDET/API-Automation/Introduction', '89c'),
         exact: true
       },
       {
@@ -188,13 +188,15 @@ export default [
       },
       {
         path: '/docs/SDET/Maven/Introduction',
-        component: ComponentCreator('/docs/SDET/Maven/Introduction', '686'),
-        exact: true
+        component: ComponentCreator('/docs/SDET/Maven/Introduction', 'f35'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
-        path: '/docs/SDET/Playwright',
-        component: ComponentCreator('/docs/SDET/Playwright', '739'),
-        exact: true
+        path: '/docs/SDET/Playwright/Introduction',
+        component: ComponentCreator('/docs/SDET/Playwright/Introduction', '2ff'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/docs/SDET/Selenium/BrowserOptions',

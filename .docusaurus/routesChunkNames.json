@@ -173,7 +173,7 @@
     },
     "tag": "tag---docs-tags-excalidraw-1-c-7-55a"
   },
-  "/docs-bc3": {
+  "/docs-b6c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-tagsa-0-a-db8"
@@ -192,9 +192,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-excalidraw-qa-road-map-excalidrawa-4-d-fcb"
   },
-  "/docs/Linux Namespaces-b5b": {
+  "/docs/SDET/API-Automation/Introduction-89c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-linux-namespacesf-8-e-fc9"
+    "content": "content---docs-sdet-api-automation-introduction-999-3ee"
   },
   "/docs/SDET/Docker/Compose-4f8": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -244,13 +244,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sdet-java-java-package-71-d-134"
   },
-  "/docs/SDET/Maven/Introduction-686": {
+  "/docs/SDET/Maven/Introduction-f35": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sdet-maven-introduction-4-d-8-e5b"
   },
-  "/docs/SDET/Playwright-739": {
+  "/docs/SDET/Playwright/Introduction-2ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sdet-playwright-59-f-ad6"
+    "content": "content---docs-sdet-playwright-introductionf-07-c97"
   },
   "/docs/SDET/Selenium/BrowserOptions-f58": {
     "__comp": "__comp---theme-doc-item-178-a40",
