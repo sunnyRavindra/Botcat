@@ -8,7 +8,7 @@ title: Grid
 java -jar selenium-server-<version>.jar standalone
 ```
 ### Architecture
-![GridOfficialArchitecture](./static/GridOfficial.png)
+![GridOfficialArchitecture](./static/gridOfficial.png)
 ![Grid.png](./static/Grid.png)
 
 ![GridFacts.png](./static/GridFacts.png)
