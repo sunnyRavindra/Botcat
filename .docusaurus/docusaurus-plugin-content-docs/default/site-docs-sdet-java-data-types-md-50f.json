@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/Data Types",
+  "id": "SDET/Java/Data Types",
+  "title": "Java Intro",
+  "description": "System.out.printf(\"%d + %s this is string\")",
+  "source": "@site/docs/SDET/Java/Data Types.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/Data Types",
+  "permalink": "/SDET/Java/Data Types",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Java Intro"
+  }
+}

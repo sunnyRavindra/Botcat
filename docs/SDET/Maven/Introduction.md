@@ -25,7 +25,7 @@ brew install maven
 ```Maven
 mvn -h
 mvn verify
-mvn -B archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+mvn archetype:generate -DgroupId=com.example -DartifactId=my-java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 mvn compile
 mvn test
 mvn test-compile  //complile without running tests

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/DSA/Introduction",
+  "id": "SDET/DSA/Introduction",
+  "title": "DSA Intro",
+  "description": "",
+  "source": "@site/docs/SDET/DSA/Introduction.md",
+  "sourceDirName": "SDET/DSA",
+  "slug": "/SDET/DSA/Introduction",
+  "permalink": "/SDET/DSA/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DSA Intro"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Maven Introduction",
+    "permalink": "/SDET/Maven/Introduction"
+  }
+}

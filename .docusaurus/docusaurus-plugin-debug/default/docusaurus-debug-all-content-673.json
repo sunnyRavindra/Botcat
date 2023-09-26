@@ -38,7 +38,7 @@
               "unversionedId": "SDET/API-Automation/Introduction",
               "id": "SDET/API-Automation/Introduction",
               "title": "API Automation",
-              "description": "This is into to API automation",
+              "description": "https://www.kiwi.com/in/booking?activeStep=0&affilid=kayakin&clickid=web-57%24RZ1l%24qLnNSlUy%24lkPig&currency=inr&deeplinkId=28721428970&flightsId=04911a144cc60000c8a6bfcf0-04911a144cc60000c8a6bfcf1-1a141db84cca0000797c54280-1db8043c4ccb00005ce57c1f0-043c04914ccb0000a444c3550&handBags=0&holdBags=null&lang=in&passengers=1&price=625.11&sessionidentifier=YbBk9Zoa8kzQyPJPaEDvG9YbstSd8DDlfQPQarGcGsJ9SV7uS%2BQ8BfP9TUl0N4GDJ%2FAYTwHfaSBrhbKlP%2F86mA%3D%3D&sessiontoken=DkrRwhHWb%2F6Qog7%2BuryzGNbmPLsLEGpoXtnVWy7suq0fpZw3NxwlrLNA8X%2FT9S3C1NqglVHwEWuUbGRyxabFNMfyXvOk%2B3HJ%2F%2FiY6leZOUDU%2BhRcPc3K%2F5uBHmTZZEqHBq%2BDcsGzGuAPXNciv%2FVoe%2BVx8yu0N5DQ6OlgiUYWpBHQy%2FFUEs8ILQLZF2UzIWrUAhAxMELqhNJTEA5TJZHxIIUzy027X3GAxElrvU%2FJklwPBKbTe6Nt8nFYZLdgfJf5G%2FboubCDrcUkb2hDvBwnJe7NW5k80EeUIaWyy8hI4K7TJH%2B1G21s6fT%2FF1FQIggkgVp6ZHQbjhUWBw0SP6VeICjK4Wg2iCMVXu0rhl3VIYBBOet%2BPBkcUN0eVxn322uq&sourcepage=kayak&sub1=web-57%24RZ1l%24qLnNSlUy%24lkPig&token=E7YLcqgnVMSx8Z6mtLZ1MHYhrlPlyUfs4Ynv6wb4m6P2-jJKPiZKSC31ysyGh42vpH8f-vtua77yElAzsMYFXg2ms8HAp0hZPVGva9PlUFZM8s25epGy5Kc21NrgOCdzgITGt1a6v7lhAmRTwnhFzl3J0ELNAov8dQeA-0PLZeCWuazER5LGUXCY-8RxeaCRMbkUpRLkHVdHgBvn9X7fAZidKfg3I1FNhiedTz-rVky2Smi3H35cHZ-MEaQW--qDHfT8EgHnrBpCtTQa93Glxrc4Oued544FqpI5AeiJeD2LVMSezg0BGsO1Yg0my8qjTEwTheQx1DOnQJzlweXyLneQFoiYJnxUyWnP2OVr64tG4GXxC9gUzPyRgohiRBjDLEgvx3K6Sal37iD3zSdR3R2ozJ3HfikbFeL7hEcmd9E0HJJ-bRIt6XLjTnrgbuxo8nVWu3ztsEKJjc8Soubs-sF34ypl1q3jQ6ggDXZJnG6lzdm5LVPIaxn9kxsQBddmSe-Fv9HNoYCX3xv5bjCOAOT3OsuQkedn5GA7TP50itv3w1vSxJkwQ9hDTtuIiW-e5iXlP2tzgG2rR1z4G9oYY-Ba5sFGAqOYz34ONpettVi1XTt-To0Dfdf-F1Udth4EbXWViINW9OpvbaxCCXeidUvoRBPJkyNbev-RqufPeQMU8TNkaUHMI8rr5pXpnB58DuPQvfnk7BfTUDinS9CMPsNps3fXmVB97d51P2lCjWoJBXyYmddaNOKrVEyx0OeUv9RkzZE7enJQaBZhhm8nk8h9EIOquoisGzab-3yQyIvUW3XS3BoER0miVTFg1ud5TCuvyV8az0mo5fiLFCborJPn8UDZ0Hg3bZvp7AkaEm68Syep1ckHp1ylyEjEhNFENa9m3hcQvazMFbIdWlwFuY0YsUma8elhZZSGuayIbBBleRis58xUYiB-WcMozxz8eluQuJLCY94rC3QORbJWiH8cTZWISPzEOfJWg2KbWzMAPJMpcC47G96KDV0biliTTAY46Ytlsc5E7VpLpFNx5mlORhHrCkONvoG5gBst6tZ3-0oiIkcoSpdq7duJ5bvO0-DopLhKQCYUS3zfJkq2DOFkk9FR5gR-m94Juh0WBj3tjYx-wUp9CVZz6-GCqVoagTYH27WAUQzVXqH9oVXjrFwMOcNB44AT0pwsMqxlwwzqD5Sqtji27qWemBTa44ZqXHiyCwN7zZLwT5ykJ4YdP05mLJSVaGHYkbY44uXcGOCXimac4zZ0Bnaq7n8Tt-TrGa-gbWK6MuaOGvOh8agQ%3D&userid=12fcd5b1473c7aad8fd51fb75ed4865c",
               "source": "@site/docs/SDET/API-Automation/Introduction.md",
               "sourceDirName": "SDET/API-Automation",
               "slug": "/SDET/API-Automation/Introduction",
@@ -57,6 +57,30 @@
               "next": {
                 "title": "Cucumber",
                 "permalink": "/SDET/Cucumber/Introduction"
+              }
+            },
+            {
+              "unversionedId": "SDET/API-Automation/static/API",
+              "id": "SDET/API-Automation/static/API",
+              "title": "API",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/API-Automation/static/API.md",
+              "sourceDirName": "SDET/API-Automation/static",
+              "slug": "/SDET/API-Automation/static/API",
+              "permalink": "/SDET/API-Automation/static/API",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
               }
             },
             {
@@ -251,6 +275,27 @@
               }
             },
             {
+              "unversionedId": "SDET/DSA/Introduction",
+              "id": "SDET/DSA/Introduction",
+              "title": "DSA Intro",
+              "description": "",
+              "source": "@site/docs/SDET/DSA/Introduction.md",
+              "sourceDirName": "SDET/DSA",
+              "slug": "/SDET/DSA/Introduction",
+              "permalink": "/SDET/DSA/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "DSA Intro"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Maven Introduction",
+                "permalink": "/SDET/Maven/Introduction"
+              }
+            },
+            {
               "unversionedId": "SDET/Jackson/Introduction",
               "id": "SDET/Jackson/Introduction",
               "title": "Jackson Intro",
@@ -264,6 +309,22 @@
               "version": "current",
               "frontMatter": {
                 "title": "Jackson Intro"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/Data Types",
+              "id": "SDET/Java/Data Types",
+              "title": "Java Intro",
+              "description": "System.out.printf(\"%d + %s this is string\")",
+              "source": "@site/docs/SDET/Java/Data Types.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/Data Types",
+              "permalink": "/SDET/Java/Data Types",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Java Intro"
               }
             },
             {
@@ -292,6 +353,30 @@
               }
             },
             {
+              "unversionedId": "SDET/Java/static/Java",
+              "id": "SDET/Java/static/Java",
+              "title": "Java",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/Java/static/Java.md",
+              "sourceDirName": "SDET/Java/static",
+              "slug": "/SDET/Java/static/Java",
+              "permalink": "/SDET/Java/static/Java",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
               "unversionedId": "SDET/Maven/Introduction",
               "id": "SDET/Maven/Introduction",
               "title": "Maven Introduction",
@@ -310,6 +395,10 @@
               "previous": {
                 "title": "Playwright Into",
                 "permalink": "/SDET/Playwright/Introduction"
+              },
+              "next": {
+                "title": "DSA Intro",
+                "permalink": "/SDET/DSA/Introduction"
               }
             },
             {
@@ -336,6 +425,20 @@
                 "title": "Maven Introduction",
                 "permalink": "/SDET/Maven/Introduction"
               }
+            },
+            {
+              "unversionedId": "SDET/Rest-Assured/Introduction",
+              "id": "SDET/Rest-Assured/Introduction",
+              "title": "Introduction",
+              "description": "",
+              "source": "@site/docs/SDET/Rest-Assured/Introduction.md",
+              "sourceDirName": "SDET/Rest-Assured",
+              "slug": "/SDET/Rest-Assured/Introduction",
+              "permalink": "/SDET/Rest-Assured/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             },
             {
               "unversionedId": "SDET/Selenium/BrowserOptions",
@@ -563,6 +666,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/Maven/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "DSA",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/DSA/Introduction"
                   }
                 ],
                 "collapsed": true,

@@ -53,7 +53,15 @@ const sidebars = {
       items: [
         'SDET/Maven/Introduction',
       ],
+    },
+    {
+      type: 'category',
+      label: 'DSA',
+      items: [
+        'SDET/DSA/Introduction',
+      ],
     }
+
   ],
 };
 

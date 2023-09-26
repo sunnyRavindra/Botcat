@@ -20,6 +20,10 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/API-Automation/static/API",
+              "path": "/SDET/API-Automation/static/API"
+            },
+            {
               "id": "SDET/Cucumber/Introduction",
               "path": "/SDET/Cucumber/Introduction",
               "sidebar": "SDETSidebar"
@@ -61,13 +65,26 @@
               "path": "/SDET/Docker/static/Docker"
             },
             {
+              "id": "SDET/DSA/Introduction",
+              "path": "/SDET/DSA/Introduction",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Jackson/Introduction",
               "path": "/SDET/Jackson/Introduction"
+            },
+            {
+              "id": "SDET/Java/Data Types",
+              "path": "/SDET/Java/Data Types"
             },
             {
               "id": "SDET/Java/JavaPackage",
               "path": "/SDET/Java/JavaPackage",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Java/static/Java",
+              "path": "/SDET/Java/static/Java"
             },
             {
               "id": "SDET/Maven/Introduction",
@@ -78,6 +95,10 @@
               "id": "SDET/Playwright/Introduction",
               "path": "/SDET/Playwright/Introduction",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Rest-Assured/Introduction",
+              "path": "/SDET/Rest-Assured/Introduction"
             },
             {
               "id": "SDET/Selenium/BrowserOptions",

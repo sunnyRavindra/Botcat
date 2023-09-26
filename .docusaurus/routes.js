@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '8e0'),
+    component: ComponentCreator('/', 'f1c'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -116,6 +116,11 @@ export default [
         component: ComponentCreator('/SDET/API-Automation/Introduction', '42b'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/API-Automation/static/API',
+        component: ComponentCreator('/SDET/API-Automation/static/API', 'de0'),
+        exact: true
       },
       {
         path: '/SDET/Cucumber/Introduction',
@@ -168,8 +173,19 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/DSA/Introduction',
+        component: ComponentCreator('/SDET/DSA/Introduction', '1c8'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Jackson/Introduction',
         component: ComponentCreator('/SDET/Jackson/Introduction', '486'),
+        exact: true
+      },
+      {
+        path: '/SDET/Java/Data Types',
+        component: ComponentCreator('/SDET/Java/Data Types', '7aa'),
         exact: true
       },
       {
@@ -177,6 +193,11 @@ export default [
         component: ComponentCreator('/SDET/Java/JavaPackage', 'd17'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Java/static/Java',
+        component: ComponentCreator('/SDET/Java/static/Java', 'ebf'),
+        exact: true
       },
       {
         path: '/SDET/Maven/Introduction',
@@ -189,6 +210,11 @@ export default [
         component: ComponentCreator('/SDET/Playwright/Introduction', '1e0'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Rest-Assured/Introduction',
+        component: ComponentCreator('/SDET/Rest-Assured/Introduction', '7be'),
+        exact: true
       },
       {
         path: '/SDET/Selenium/BrowserOptions',

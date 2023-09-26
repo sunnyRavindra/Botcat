@@ -17,5 +17,9 @@
   "previous": {
     "title": "Playwright Into",
     "permalink": "/SDET/Playwright/Introduction"
+  },
+  "next": {
+    "title": "DSA Intro",
+    "permalink": "/SDET/DSA/Introduction"
   }
 }

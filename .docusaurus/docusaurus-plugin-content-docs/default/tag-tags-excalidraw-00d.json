@@ -2,13 +2,25 @@
   "label": "excalidraw",
   "permalink": "/tags/excalidraw",
   "allTagsPath": "/tags",
-  "count": 2,
+  "count": 4,
   "items": [
+    {
+      "id": "SDET/API-Automation/static/API",
+      "title": "API",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/API-Automation/static/API"
+    },
     {
       "id": "SDET/Docker/static/Docker",
       "title": "Docker",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/SDET/Docker/static/Docker"
+    },
+    {
+      "id": "SDET/Java/static/Java",
+      "title": "Java",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Java/static/Java"
     },
     {
       "id": "SDET/Selenium/static/SeleniumExcalidraw",
