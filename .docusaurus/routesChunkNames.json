@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-f1c": {
+  "/-092": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -255,9 +255,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-java-static-java-040-431"
   },
+  "/SDET/JobApplications/AppliedJobsDetails-665": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-job-applications-applied-jobs-detailsfac-776"
+  },
   "/SDET/Maven/Introduction-159": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-maven-introduction-4-d-8-a53"
+  },
+  "/SDET/Overview-b6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-overviewf-3-c-526"
   },
   "/SDET/Playwright/Introduction-1e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -290,5 +298,13 @@
   "/SDET/Selenium/Synchronisation-178": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-selenium-synchronisation-419-3b9"
+  },
+  "/SDET/SQL/DataTypes-41a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-sql-data-typesc-08-3e4"
+  },
+  "/SDET/SQL/Introduction-921": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-sql-introductiond-75-994"
   }
 }

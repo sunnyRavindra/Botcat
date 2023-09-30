@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/SQL/Introduction",
+  "id": "SDET/SQL/Introduction",
+  "title": "My SQL",
+  "description": "MY SQL Docker server",
+  "source": "@site/docs/SDET/SQL/Introduction.md",
+  "sourceDirName": "SDET/SQL",
+  "slug": "/SDET/SQL/Introduction",
+  "permalink": "/SDET/SQL/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "My SQL"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DSA Intro",
+    "permalink": "/SDET/DSA/Introduction"
+  },
+  "next": {
+    "title": "Applied Jobs",
+    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+  }
+}

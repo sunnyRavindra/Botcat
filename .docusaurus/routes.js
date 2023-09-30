@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'f1c'),
+    component: ComponentCreator('/', '092'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -200,10 +200,21 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/JobApplications/AppliedJobsDetails',
+        component: ComponentCreator('/SDET/JobApplications/AppliedJobsDetails', '665'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Maven/Introduction',
         component: ComponentCreator('/SDET/Maven/Introduction', '159'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Overview',
+        component: ComponentCreator('/SDET/Overview', 'b6e'),
+        exact: true
       },
       {
         path: '/SDET/Playwright/Introduction',
@@ -248,6 +259,17 @@ export default [
         path: '/SDET/Selenium/Synchronisation',
         component: ComponentCreator('/SDET/Selenium/Synchronisation', '178'),
         exact: true
+      },
+      {
+        path: '/SDET/SQL/DataTypes',
+        component: ComponentCreator('/SDET/SQL/DataTypes', '41a'),
+        exact: true
+      },
+      {
+        path: '/SDET/SQL/Introduction',
+        component: ComponentCreator('/SDET/SQL/Introduction', '921'),
+        exact: true,
+        sidebar: "SDETSidebar"
       }
     ]
   },

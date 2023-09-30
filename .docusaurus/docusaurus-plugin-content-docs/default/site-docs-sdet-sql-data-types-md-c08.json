@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SQL/DataTypes",
+  "id": "SDET/SQL/DataTypes",
+  "title": "DataTypes",
+  "description": "",
+  "source": "@site/docs/SDET/SQL/DataTypes.md",
+  "sourceDirName": "SDET/SQL",
+  "slug": "/SDET/SQL/DataTypes",
+  "permalink": "/SDET/SQL/DataTypes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DataTypes"
+  }
+}

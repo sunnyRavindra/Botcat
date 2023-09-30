@@ -60,8 +60,21 @@ const sidebars = {
       items: [
         'SDET/DSA/Introduction',
       ],
+    },
+    {
+      type: 'category',
+      label: 'SQL',
+      items: [
+        'SDET/SQL/Introduction',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Jobs Applied',
+      items: [
+        'SDET/JobApplications/AppliedJobsDetails',
+      ],
     }
-
   ],
 };
 

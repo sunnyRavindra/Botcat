@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Overview",
+  "id": "SDET/Overview",
+  "title": "My Second Brain",
+  "description": "",
+  "source": "@site/docs/SDET/Overview.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Overview",
+  "permalink": "/SDET/Overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "My Second Brain"
+  }
+}

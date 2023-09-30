@@ -150,6 +150,34 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "SQL",
+        "items": [
+          {
+            "type": "link",
+            "label": "My SQL",
+            "href": "/SDET/SQL/Introduction",
+            "docId": "SDET/SQL/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Jobs Applied",
+        "items": [
+          {
+            "type": "link",
+            "label": "Applied Jobs",
+            "href": "/SDET/JobApplications/AppliedJobsDetails",
+            "docId": "SDET/JobApplications/AppliedJobsDetails"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -247,11 +275,22 @@
       "title": "Java",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
+    "SDET/JobApplications/AppliedJobsDetails": {
+      "id": "SDET/JobApplications/AppliedJobsDetails",
+      "title": "Applied Jobs",
+      "description": "Nigel Frank International",
+      "sidebar": "SDETSidebar"
+    },
     "SDET/Maven/Introduction": {
       "id": "SDET/Maven/Introduction",
       "title": "Maven Introduction",
       "description": "POM(Project Object Model)",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Overview": {
+      "id": "SDET/Overview",
+      "title": "My Second Brain",
+      "description": ""
     },
     "SDET/Playwright/Introduction": {
       "id": "SDET/Playwright/Introduction",
@@ -296,6 +335,17 @@
       "id": "SDET/Selenium/Synchronisation",
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
+    },
+    "SDET/SQL/DataTypes": {
+      "id": "SDET/SQL/DataTypes",
+      "title": "DataTypes",
+      "description": ""
+    },
+    "SDET/SQL/Introduction": {
+      "id": "SDET/SQL/Introduction",
+      "title": "My SQL",
+      "description": "MY SQL Docker server",
+      "sidebar": "SDETSidebar"
     }
   }
 }

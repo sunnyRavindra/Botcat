@@ -65,7 +65,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "SDETSidebar",
           "position": "left",
-          "label": "SDET Docs"
+          "label": "SDET Blogs"
         },
         {
           "to": "/docs/ContactMe",

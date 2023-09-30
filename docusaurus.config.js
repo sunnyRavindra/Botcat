@@ -64,7 +64,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'SDETSidebar',
             position: 'left',
-            label: 'SDET Docs',
+            label: 'SDET Blogs',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           { to: '/docs/ContactMe', label: 'Contact Me', position: 'right' },

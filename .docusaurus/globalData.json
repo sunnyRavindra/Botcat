@@ -87,9 +87,18 @@
               "path": "/SDET/Java/static/Java"
             },
             {
+              "id": "SDET/JobApplications/AppliedJobsDetails",
+              "path": "/SDET/JobApplications/AppliedJobsDetails",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Maven/Introduction",
               "path": "/SDET/Maven/Introduction",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Overview",
+              "path": "/SDET/Overview"
             },
             {
               "id": "SDET/Playwright/Introduction",
@@ -126,6 +135,15 @@
             {
               "id": "SDET/Selenium/Synchronisation",
               "path": "/SDET/Selenium/Synchronisation"
+            },
+            {
+              "id": "SDET/SQL/DataTypes",
+              "path": "/SDET/SQL/DataTypes"
+            },
+            {
+              "id": "SDET/SQL/Introduction",
+              "path": "/SDET/SQL/Introduction",
+              "sidebar": "SDETSidebar"
             }
           ],
           "draftIds": [],

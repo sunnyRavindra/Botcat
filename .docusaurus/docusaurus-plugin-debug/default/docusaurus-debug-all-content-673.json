@@ -293,6 +293,10 @@
               "previous": {
                 "title": "Maven Introduction",
                 "permalink": "/SDET/Maven/Introduction"
+              },
+              "next": {
+                "title": "My SQL",
+                "permalink": "/SDET/SQL/Introduction"
               }
             },
             {
@@ -377,6 +381,27 @@
               }
             },
             {
+              "unversionedId": "SDET/JobApplications/AppliedJobsDetails",
+              "id": "SDET/JobApplications/AppliedJobsDetails",
+              "title": "Applied Jobs",
+              "description": "Nigel Frank International",
+              "source": "@site/docs/SDET/JobApplications/AppliedJobsDetails.md",
+              "sourceDirName": "SDET/JobApplications",
+              "slug": "/SDET/JobApplications/AppliedJobsDetails",
+              "permalink": "/SDET/JobApplications/AppliedJobsDetails",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Applied Jobs"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "My SQL",
+                "permalink": "/SDET/SQL/Introduction"
+              }
+            },
+            {
               "unversionedId": "SDET/Maven/Introduction",
               "id": "SDET/Maven/Introduction",
               "title": "Maven Introduction",
@@ -399,6 +424,22 @@
               "next": {
                 "title": "DSA Intro",
                 "permalink": "/SDET/DSA/Introduction"
+              }
+            },
+            {
+              "unversionedId": "SDET/Overview",
+              "id": "SDET/Overview",
+              "title": "My Second Brain",
+              "description": "",
+              "source": "@site/docs/SDET/Overview.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Overview",
+              "permalink": "/SDET/Overview",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "My Second Brain"
               }
             },
             {
@@ -562,6 +603,47 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
+            },
+            {
+              "unversionedId": "SDET/SQL/DataTypes",
+              "id": "SDET/SQL/DataTypes",
+              "title": "DataTypes",
+              "description": "",
+              "source": "@site/docs/SDET/SQL/DataTypes.md",
+              "sourceDirName": "SDET/SQL",
+              "slug": "/SDET/SQL/DataTypes",
+              "permalink": "/SDET/SQL/DataTypes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "DataTypes"
+              }
+            },
+            {
+              "unversionedId": "SDET/SQL/Introduction",
+              "id": "SDET/SQL/Introduction",
+              "title": "My SQL",
+              "description": "MY SQL Docker server",
+              "source": "@site/docs/SDET/SQL/Introduction.md",
+              "sourceDirName": "SDET/SQL",
+              "slug": "/SDET/SQL/Introduction",
+              "permalink": "/SDET/SQL/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "My SQL"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DSA Intro",
+                "permalink": "/SDET/DSA/Introduction"
+              },
+              "next": {
+                "title": "Applied Jobs",
+                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+              }
             }
           ],
           "drafts": [],
@@ -678,6 +760,30 @@
                   {
                     "type": "doc",
                     "id": "SDET/DSA/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "SQL",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/SQL/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Jobs Applied",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/JobApplications/AppliedJobsDetails"
                   }
                 ],
                 "collapsed": true,

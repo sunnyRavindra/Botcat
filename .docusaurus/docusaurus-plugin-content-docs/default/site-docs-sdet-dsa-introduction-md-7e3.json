@@ -17,5 +17,9 @@
   "previous": {
     "title": "Maven Introduction",
     "permalink": "/SDET/Maven/Introduction"
+  },
+  "next": {
+    "title": "My SQL",
+    "permalink": "/SDET/SQL/Introduction"
   }
 }

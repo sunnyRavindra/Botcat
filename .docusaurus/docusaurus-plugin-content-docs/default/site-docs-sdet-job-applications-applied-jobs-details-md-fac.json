@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/JobApplications/AppliedJobsDetails",
+  "id": "SDET/JobApplications/AppliedJobsDetails",
+  "title": "Applied Jobs",
+  "description": "Nigel Frank International",
+  "source": "@site/docs/SDET/JobApplications/AppliedJobsDetails.md",
+  "sourceDirName": "SDET/JobApplications",
+  "slug": "/SDET/JobApplications/AppliedJobsDetails",
+  "permalink": "/SDET/JobApplications/AppliedJobsDetails",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Applied Jobs"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "My SQL",
+    "permalink": "/SDET/SQL/Introduction"
+  }
+}
