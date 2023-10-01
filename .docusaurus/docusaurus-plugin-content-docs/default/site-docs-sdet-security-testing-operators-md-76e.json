@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/Operators",
+  "id": "SDET/Security-Testing/Operators",
+  "title": "Operators",
+  "description": "Comparision",
+  "source": "@site/docs/SDET/Security-Testing/Operators.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/Operators",
+  "permalink": "/SDET/Security-Testing/Operators",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Operators"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DataTypes",
+    "permalink": "/SDET/Security-Testing/DataTypes"
+  },
+  "next": {
+    "title": "Applied Jobs",
+    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+  }
+}

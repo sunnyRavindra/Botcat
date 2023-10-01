@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '092'),
+    component: ComponentCreator('/', 'aac'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -200,6 +200,11 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Jira/Introduction',
+        component: ComponentCreator('/SDET/Jira/Introduction', '40a'),
+        exact: true
+      },
+      {
         path: '/SDET/JobApplications/AppliedJobsDetails',
         component: ComponentCreator('/SDET/JobApplications/AppliedJobsDetails', '665'),
         exact: true,
@@ -226,6 +231,24 @@ export default [
         path: '/SDET/Rest-Assured/Introduction',
         component: ComponentCreator('/SDET/Rest-Assured/Introduction', '7be'),
         exact: true
+      },
+      {
+        path: '/SDET/Security-Testing/DataTypes',
+        component: ComponentCreator('/SDET/Security-Testing/DataTypes', '28a'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/Introduction',
+        component: ComponentCreator('/SDET/Security-Testing/Introduction', '49c'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/Operators',
+        component: ComponentCreator('/SDET/Security-Testing/Operators', 'f0f'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Selenium/BrowserOptions',
@@ -259,17 +282,6 @@ export default [
         path: '/SDET/Selenium/Synchronisation',
         component: ComponentCreator('/SDET/Selenium/Synchronisation', '178'),
         exact: true
-      },
-      {
-        path: '/SDET/SQL/DataTypes',
-        component: ComponentCreator('/SDET/SQL/DataTypes', '41a'),
-        exact: true
-      },
-      {
-        path: '/SDET/SQL/Introduction',
-        component: ComponentCreator('/SDET/SQL/Introduction', '921'),
-        exact: true,
-        sidebar: "SDETSidebar"
       }
     ]
   },

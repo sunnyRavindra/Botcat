@@ -153,13 +153,25 @@
       },
       {
         "type": "category",
-        "label": "SQL",
+        "label": "Security Testing",
         "items": [
           {
             "type": "link",
             "label": "My SQL",
-            "href": "/SDET/SQL/Introduction",
-            "docId": "SDET/SQL/Introduction"
+            "href": "/SDET/Security-Testing/Introduction",
+            "docId": "SDET/Security-Testing/Introduction"
+          },
+          {
+            "type": "link",
+            "label": "DataTypes",
+            "href": "/SDET/Security-Testing/DataTypes",
+            "docId": "SDET/Security-Testing/DataTypes"
+          },
+          {
+            "type": "link",
+            "label": "Operators",
+            "href": "/SDET/Security-Testing/Operators",
+            "docId": "SDET/Security-Testing/Operators"
           }
         ],
         "collapsed": true,
@@ -275,6 +287,11 @@
       "title": "Java",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
+    "SDET/Jira/Introduction": {
+      "id": "SDET/Jira/Introduction",
+      "title": "Introduction",
+      "description": ""
+    },
     "SDET/JobApplications/AppliedJobsDetails": {
       "id": "SDET/JobApplications/AppliedJobsDetails",
       "title": "Applied Jobs",
@@ -302,6 +319,24 @@
       "id": "SDET/Rest-Assured/Introduction",
       "title": "Introduction",
       "description": ""
+    },
+    "SDET/Security-Testing/DataTypes": {
+      "id": "SDET/Security-Testing/DataTypes",
+      "title": "DataTypes",
+      "description": "Numeric Types",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/Introduction": {
+      "id": "SDET/Security-Testing/Introduction",
+      "title": "My SQL",
+      "description": "DBMS (Database Management system)",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/Operators": {
+      "id": "SDET/Security-Testing/Operators",
+      "title": "Operators",
+      "description": "Comparision",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/BrowserOptions": {
       "id": "SDET/Selenium/BrowserOptions",
@@ -335,17 +370,6 @@
       "id": "SDET/Selenium/Synchronisation",
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
-    },
-    "SDET/SQL/DataTypes": {
-      "id": "SDET/SQL/DataTypes",
-      "title": "DataTypes",
-      "description": ""
-    },
-    "SDET/SQL/Introduction": {
-      "id": "SDET/SQL/Introduction",
-      "title": "My SQL",
-      "description": "MY SQL Docker server",
-      "sidebar": "SDETSidebar"
     }
   }
 }

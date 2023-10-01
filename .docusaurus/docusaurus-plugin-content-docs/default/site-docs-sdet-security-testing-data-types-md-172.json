@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/DataTypes",
+  "id": "SDET/Security-Testing/DataTypes",
+  "title": "DataTypes",
+  "description": "Numeric Types",
+  "source": "@site/docs/SDET/Security-Testing/DataTypes.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/DataTypes",
+  "permalink": "/SDET/Security-Testing/DataTypes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DataTypes"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "My SQL",
+    "permalink": "/SDET/Security-Testing/Introduction"
+  },
+  "next": {
+    "title": "Operators",
+    "permalink": "/SDET/Security-Testing/Operators"
+  }
+}

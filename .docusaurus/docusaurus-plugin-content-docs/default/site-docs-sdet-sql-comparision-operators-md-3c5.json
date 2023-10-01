@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/SQL/ComparisionOperators",
+  "id": "SDET/SQL/ComparisionOperators",
+  "title": "Comparision Operators",
+  "description": "",
+  "source": "@site/docs/SDET/SQL/ComparisionOperators.md",
+  "sourceDirName": "SDET/SQL",
+  "slug": "/SDET/SQL/ComparisionOperators",
+  "permalink": "/SDET/SQL/ComparisionOperators",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Comparision Operators"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DataTypes",
+    "permalink": "/SDET/SQL/DataTypes"
+  },
+  "next": {
+    "title": "Applied Jobs",
+    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+  }
+}

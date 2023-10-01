@@ -296,7 +296,7 @@
               },
               "next": {
                 "title": "My SQL",
-                "permalink": "/SDET/SQL/Introduction"
+                "permalink": "/SDET/Security-Testing/Introduction"
               }
             },
             {
@@ -381,6 +381,20 @@
               }
             },
             {
+              "unversionedId": "SDET/Jira/Introduction",
+              "id": "SDET/Jira/Introduction",
+              "title": "Introduction",
+              "description": "",
+              "source": "@site/docs/SDET/Jira/Introduction.md",
+              "sourceDirName": "SDET/Jira",
+              "slug": "/SDET/Jira/Introduction",
+              "permalink": "/SDET/Jira/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
               "unversionedId": "SDET/JobApplications/AppliedJobsDetails",
               "id": "SDET/JobApplications/AppliedJobsDetails",
               "title": "Applied Jobs",
@@ -397,8 +411,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "My SQL",
-                "permalink": "/SDET/SQL/Introduction"
+                "title": "Operators",
+                "permalink": "/SDET/Security-Testing/Operators"
               }
             },
             {
@@ -480,6 +494,81 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/DataTypes",
+              "id": "SDET/Security-Testing/DataTypes",
+              "title": "DataTypes",
+              "description": "Numeric Types",
+              "source": "@site/docs/SDET/Security-Testing/DataTypes.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/DataTypes",
+              "permalink": "/SDET/Security-Testing/DataTypes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "DataTypes"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "My SQL",
+                "permalink": "/SDET/Security-Testing/Introduction"
+              },
+              "next": {
+                "title": "Operators",
+                "permalink": "/SDET/Security-Testing/Operators"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/Introduction",
+              "id": "SDET/Security-Testing/Introduction",
+              "title": "My SQL",
+              "description": "DBMS (Database Management system)",
+              "source": "@site/docs/SDET/Security-Testing/Introduction.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/Introduction",
+              "permalink": "/SDET/Security-Testing/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "My SQL"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DSA Intro",
+                "permalink": "/SDET/DSA/Introduction"
+              },
+              "next": {
+                "title": "DataTypes",
+                "permalink": "/SDET/Security-Testing/DataTypes"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/Operators",
+              "id": "SDET/Security-Testing/Operators",
+              "title": "Operators",
+              "description": "Comparision",
+              "source": "@site/docs/SDET/Security-Testing/Operators.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/Operators",
+              "permalink": "/SDET/Security-Testing/Operators",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Operators"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DataTypes",
+                "permalink": "/SDET/Security-Testing/DataTypes"
+              },
+              "next": {
+                "title": "Applied Jobs",
+                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+              }
             },
             {
               "unversionedId": "SDET/Selenium/BrowserOptions",
@@ -603,47 +692,6 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
-            },
-            {
-              "unversionedId": "SDET/SQL/DataTypes",
-              "id": "SDET/SQL/DataTypes",
-              "title": "DataTypes",
-              "description": "",
-              "source": "@site/docs/SDET/SQL/DataTypes.md",
-              "sourceDirName": "SDET/SQL",
-              "slug": "/SDET/SQL/DataTypes",
-              "permalink": "/SDET/SQL/DataTypes",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "DataTypes"
-              }
-            },
-            {
-              "unversionedId": "SDET/SQL/Introduction",
-              "id": "SDET/SQL/Introduction",
-              "title": "My SQL",
-              "description": "MY SQL Docker server",
-              "source": "@site/docs/SDET/SQL/Introduction.md",
-              "sourceDirName": "SDET/SQL",
-              "slug": "/SDET/SQL/Introduction",
-              "permalink": "/SDET/SQL/Introduction",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "My SQL"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "DSA Intro",
-                "permalink": "/SDET/DSA/Introduction"
-              },
-              "next": {
-                "title": "Applied Jobs",
-                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
-              }
             }
           ],
           "drafts": [],
@@ -767,11 +815,19 @@
               },
               {
                 "type": "category",
-                "label": "SQL",
+                "label": "Security Testing",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/SQL/Introduction"
+                    "id": "SDET/Security-Testing/Introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/DataTypes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/Operators"
                   }
                 ],
                 "collapsed": true,

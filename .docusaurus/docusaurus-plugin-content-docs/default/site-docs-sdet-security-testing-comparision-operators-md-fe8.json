@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/ComparisionOperators",
+  "id": "SDET/Security-Testing/ComparisionOperators",
+  "title": "Comparision Operators",
+  "description": "",
+  "source": "@site/docs/SDET/Security-Testing/ComparisionOperators.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/ComparisionOperators",
+  "permalink": "/SDET/Security-Testing/ComparisionOperators",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Comparision Operators"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DataTypes",
+    "permalink": "/SDET/Security-Testing/DataTypes"
+  },
+  "next": {
+    "title": "Applied Jobs",
+    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+  }
+}

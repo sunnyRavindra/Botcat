@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Jira/Introduction",
+  "id": "SDET/Jira/Introduction",
+  "title": "Introduction",
+  "description": "",
+  "source": "@site/docs/SDET/Jira/Introduction.md",
+  "sourceDirName": "SDET/Jira",
+  "slug": "/SDET/Jira/Introduction",
+  "permalink": "/SDET/Jira/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

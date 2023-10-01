@@ -2,7 +2,7 @@
   "unversionedId": "SDET/SQL/Introduction",
   "id": "SDET/SQL/Introduction",
   "title": "My SQL",
-  "description": "MY SQL Docker server",
+  "description": "DBMS (Database Management system)",
   "source": "@site/docs/SDET/SQL/Introduction.md",
   "sourceDirName": "SDET/SQL",
   "slug": "/SDET/SQL/Introduction",
@@ -19,7 +19,7 @@
     "permalink": "/SDET/DSA/Introduction"
   },
   "next": {
-    "title": "Applied Jobs",
-    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+    "title": "DataTypes",
+    "permalink": "/SDET/SQL/DataTypes"
   }
 }

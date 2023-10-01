@@ -87,6 +87,10 @@
               "path": "/SDET/Java/static/Java"
             },
             {
+              "id": "SDET/Jira/Introduction",
+              "path": "/SDET/Jira/Introduction"
+            },
+            {
               "id": "SDET/JobApplications/AppliedJobsDetails",
               "path": "/SDET/JobApplications/AppliedJobsDetails",
               "sidebar": "SDETSidebar"
@@ -108,6 +112,21 @@
             {
               "id": "SDET/Rest-Assured/Introduction",
               "path": "/SDET/Rest-Assured/Introduction"
+            },
+            {
+              "id": "SDET/Security-Testing/DataTypes",
+              "path": "/SDET/Security-Testing/DataTypes",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/Introduction",
+              "path": "/SDET/Security-Testing/Introduction",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/Operators",
+              "path": "/SDET/Security-Testing/Operators",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Selenium/BrowserOptions",
@@ -135,15 +154,6 @@
             {
               "id": "SDET/Selenium/Synchronisation",
               "path": "/SDET/Selenium/Synchronisation"
-            },
-            {
-              "id": "SDET/SQL/DataTypes",
-              "path": "/SDET/SQL/DataTypes"
-            },
-            {
-              "id": "SDET/SQL/Introduction",
-              "path": "/SDET/SQL/Introduction",
-              "sidebar": "SDETSidebar"
             }
           ],
           "draftIds": [],

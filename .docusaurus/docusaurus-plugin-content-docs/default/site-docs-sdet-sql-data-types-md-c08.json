@@ -2,7 +2,7 @@
   "unversionedId": "SDET/SQL/DataTypes",
   "id": "SDET/SQL/DataTypes",
   "title": "DataTypes",
-  "description": "",
+  "description": "Numeric Types",
   "source": "@site/docs/SDET/SQL/DataTypes.md",
   "sourceDirName": "SDET/SQL",
   "slug": "/SDET/SQL/DataTypes",
@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "DataTypes"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "My SQL",
+    "permalink": "/SDET/SQL/Introduction"
+  },
+  "next": {
+    "title": "Comparision Operators",
+    "permalink": "/SDET/SQL/ComparisionOperators"
   }
 }

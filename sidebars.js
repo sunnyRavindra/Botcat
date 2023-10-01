@@ -63,9 +63,11 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'SQL',
+      label: 'Security Testing',
       items: [
-        'SDET/SQL/Introduction',
+        'SDET/Security-Testing/Introduction',
+        'SDET/Security-Testing/DataTypes',
+        'SDET/Security-Testing/Operators',
       ],
     },
     {
