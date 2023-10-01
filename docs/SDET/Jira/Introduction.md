@@ -1,6 +1,3 @@
----
-title: Introduction
-___
 
 ### Jira Introduction
 
@@ -13,5 +10,6 @@ ___
 7. Customized Issues 
 8. Custome Notifications
 9. Powerfull Search functionality
+10. Extincible
 
 

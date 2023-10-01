@@ -174,6 +174,11 @@
   },
   "active": "65a990c3d1d94263",
   "lastOpenFiles": [
+    "SDET/Security-Testing/SQL-Data-Manupulation.md",
+    "SDET/Security-Testing/SQL-Alter-Data.md",
+    "SDET/Security-Testing/SQL-Basics.md",
+    "SDET/Security-Testing/SQL-Alter.md",
+    "SDET/Security-Testing/Basics.md",
     "SDET/Jira/Introduction.md",
     "SDET/Jira",
     "SDET/Security-Testing/Operators.md",
@@ -215,11 +220,6 @@
     "Excalidraw/Pasted Image 20230911155119_198.png",
     "Excalidraw/Pasted Image 20230910222706_748.png",
     "Excalidraw/Banner.md",
-    "SDET/Playwright/Introduction.md",
-    "SDET/Jackson/Introduction.md",
-    "SDET/Maven/Introduction.md",
-    "SDET/Java/Intoduction.md",
-    "SDET/Docker/Compose.md",
     "Untitled.canvas"
   ]
 }

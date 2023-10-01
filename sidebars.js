@@ -65,7 +65,8 @@ const sidebars = {
       type: 'category',
       label: 'Security Testing',
       items: [
-        'SDET/Security-Testing/Introduction',
+        'SDET/Security-Testing/SQL-Basics',
+        'SDET/Security-Testing/SQL-Data-Manupulation',
         'SDET/Security-Testing/DataTypes',
         'SDET/Security-Testing/Operators',
       ],

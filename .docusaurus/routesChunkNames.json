@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-aac": {
+  "/-9bd": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -283,13 +283,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-security-testing-data-types-172-e84"
   },
-  "/SDET/Security-Testing/Introduction-49c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-security-testing-introduction-9-f-9-b94"
-  },
   "/SDET/Security-Testing/Operators-f0f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-security-testing-operators-76-e-4b0"
+  },
+  "/SDET/Security-Testing/SQL-Basics-494": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-basics-94-e-4eb"
+  },
+  "/SDET/Security-Testing/SQL-Data-Manupulation-224": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-data-manupulationfb-6-b10"
   },
   "/SDET/Selenium/BrowserOptions-90f": {
     "__comp": "__comp---theme-doc-item-178-a40",

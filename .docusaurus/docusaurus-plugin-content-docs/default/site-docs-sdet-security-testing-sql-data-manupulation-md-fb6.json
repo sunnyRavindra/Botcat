@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-Data-Manupulation",
+  "id": "SDET/Security-Testing/SQL-Data-Manupulation",
+  "title": "SQL Data Manupulation",
+  "description": "Add data into table",
+  "source": "@site/docs/SDET/Security-Testing/SQL-Data-Manupulation.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-Data-Manupulation",
+  "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SQL Data Manupulation"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "SQL Basics",
+    "permalink": "/SDET/Security-Testing/SQL-Basics"
+  },
+  "next": {
+    "title": "DataTypes",
+    "permalink": "/SDET/Security-Testing/DataTypes"
+  }
+}

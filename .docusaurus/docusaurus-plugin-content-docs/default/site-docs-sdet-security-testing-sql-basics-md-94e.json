@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-Basics",
+  "id": "SDET/Security-Testing/SQL-Basics",
+  "title": "SQL Basics",
+  "description": "MY SQL Docker server",
+  "source": "@site/docs/SDET/Security-Testing/SQL-Basics.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-Basics",
+  "permalink": "/SDET/Security-Testing/SQL-Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SQL Basics"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DSA Intro",
+    "permalink": "/SDET/DSA/Introduction"
+  },
+  "next": {
+    "title": "SQL Data Manupulation",
+    "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
+  }
+}

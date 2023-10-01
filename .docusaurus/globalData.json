@@ -119,13 +119,18 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Security-Testing/Introduction",
-              "path": "/SDET/Security-Testing/Introduction",
+              "id": "SDET/Security-Testing/Operators",
+              "path": "/SDET/Security-Testing/Operators",
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Security-Testing/Operators",
-              "path": "/SDET/Security-Testing/Operators",
+              "id": "SDET/Security-Testing/SQL-Basics",
+              "path": "/SDET/Security-Testing/SQL-Basics",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/SQL-Data-Manupulation",
+              "path": "/SDET/Security-Testing/SQL-Data-Manupulation",
               "sidebar": "SDETSidebar"
             },
             {

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-Alter",
+  "id": "SDET/Security-Testing/SQL-Alter",
+  "title": "SQL Basics",
+  "description": "MY SQL Docker server",
+  "source": "@site/docs/SDET/Security-Testing/SQL-Alter.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-Alter",
+  "permalink": "/SDET/Security-Testing/SQL-Alter",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SQL Basics"
+  }
+}

@@ -2,7 +2,7 @@
 title: DataTypes
 ---
 ### Numeric Types
-```SQL
+```bash
         INT or INTEGER: A whole number.
         TINYINT: A very small integer.
         SMALLINT: A small integer.
@@ -14,7 +14,7 @@ title: DataTypes
 ```
 
 ### Date and Time Types
-```SQL
+```bash
         DATE: Date in 'YYYY-MM-DD' format.
         TIME: Time in 'HH:MM:SS' format.
         DATETIME: Date and time in 'YYYY-MM-DD HH:MM:SS' format.
@@ -23,7 +23,7 @@ title: DataTypes
 ```
 
 ### String Types
- ```SQL
+ ```bash
         CHAR: Fixed-length character string.
         VARCHAR: Variable-length character string.
         BINARY: Fixed-length binary string.
@@ -37,12 +37,12 @@ title: DataTypes
 ```
 
 ### JSON Types
-```SQL
+```bash
         JSON: JSON data type for storing JSON-encoded data.
 ```
 
 ### Spatial Types
-```SQL
+```bash
         GEOMETRY: For geometric shapes.
         POINT: For a point in space.
         LINESTRING: For a series of points.
@@ -50,18 +50,18 @@ title: DataTypes
 ```
 
 ### Other types
-```SQL
+```bash
         BIT: A bit field type.
         BOOLEAN or BOOL: A synonym for TINYINT(1).
         SERIAL: An alias for BIGINT UNSIGNED AUTO_INCREMENT.
 ```
 
 ### Custom User-Defined Types
-```SQL
+```bash
         MySQL allows you to create your own custom data types using the CREATE TYPE statement.
 ```
 
 ### Temporal Types (Introduced in MySQL 8.0)
-```SQL
+```bash
         YEAR, YEAR_MONTH, YEAR_DAY, MONTH_DAY, DAY_TIME, HOUR_MINUTE, MINUTE_SECOND, SECOND_MICROSECOND, TIME_ZONE, and more. These types are used for working with temporal values.
 ```

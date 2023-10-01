@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'aac'),
+    component: ComponentCreator('/', '9bd'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -239,14 +239,20 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Security-Testing/Introduction',
-        component: ComponentCreator('/SDET/Security-Testing/Introduction', '49c'),
+        path: '/SDET/Security-Testing/Operators',
+        component: ComponentCreator('/SDET/Security-Testing/Operators', 'f0f'),
         exact: true,
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Security-Testing/Operators',
-        component: ComponentCreator('/SDET/Security-Testing/Operators', 'f0f'),
+        path: '/SDET/Security-Testing/SQL-Basics',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-Basics', '494'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/SQL-Data-Manupulation',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-Data-Manupulation', '224'),
         exact: true,
         sidebar: "SDETSidebar"
       },

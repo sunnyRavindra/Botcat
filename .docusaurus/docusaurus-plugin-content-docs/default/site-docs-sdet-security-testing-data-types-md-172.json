@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "My SQL",
-    "permalink": "/SDET/Security-Testing/Introduction"
+    "title": "SQL Data Manupulation",
+    "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
   },
   "next": {
     "title": "Operators",

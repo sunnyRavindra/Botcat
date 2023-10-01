@@ -295,8 +295,8 @@
                 "permalink": "/SDET/Maven/Introduction"
               },
               "next": {
-                "title": "My SQL",
-                "permalink": "/SDET/Security-Testing/Introduction"
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
               }
             },
             {
@@ -384,7 +384,7 @@
               "unversionedId": "SDET/Jira/Introduction",
               "id": "SDET/Jira/Introduction",
               "title": "Introduction",
-              "description": "",
+              "description": "Jira Introduction",
               "source": "@site/docs/SDET/Jira/Introduction.md",
               "sourceDirName": "SDET/Jira",
               "slug": "/SDET/Jira/Introduction",
@@ -512,37 +512,12 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "My SQL",
-                "permalink": "/SDET/Security-Testing/Introduction"
+                "title": "SQL Data Manupulation",
+                "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
               },
               "next": {
                 "title": "Operators",
                 "permalink": "/SDET/Security-Testing/Operators"
-              }
-            },
-            {
-              "unversionedId": "SDET/Security-Testing/Introduction",
-              "id": "SDET/Security-Testing/Introduction",
-              "title": "My SQL",
-              "description": "DBMS (Database Management system)",
-              "source": "@site/docs/SDET/Security-Testing/Introduction.md",
-              "sourceDirName": "SDET/Security-Testing",
-              "slug": "/SDET/Security-Testing/Introduction",
-              "permalink": "/SDET/Security-Testing/Introduction",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "My SQL"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "DSA Intro",
-                "permalink": "/SDET/DSA/Introduction"
-              },
-              "next": {
-                "title": "DataTypes",
-                "permalink": "/SDET/Security-Testing/DataTypes"
               }
             },
             {
@@ -568,6 +543,56 @@
               "next": {
                 "title": "Applied Jobs",
                 "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/SQL-Basics",
+              "id": "SDET/Security-Testing/SQL-Basics",
+              "title": "SQL Basics",
+              "description": "MY SQL Docker server",
+              "source": "@site/docs/SDET/Security-Testing/SQL-Basics.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/SQL-Basics",
+              "permalink": "/SDET/Security-Testing/SQL-Basics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SQL Basics"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DSA Intro",
+                "permalink": "/SDET/DSA/Introduction"
+              },
+              "next": {
+                "title": "SQL Data Manupulation",
+                "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/SQL-Data-Manupulation",
+              "id": "SDET/Security-Testing/SQL-Data-Manupulation",
+              "title": "SQL Data Manupulation",
+              "description": "Add data into table",
+              "source": "@site/docs/SDET/Security-Testing/SQL-Data-Manupulation.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/SQL-Data-Manupulation",
+              "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SQL Data Manupulation"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
+              },
+              "next": {
+                "title": "DataTypes",
+                "permalink": "/SDET/Security-Testing/DataTypes"
               }
             },
             {
@@ -819,7 +844,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/Security-Testing/Introduction"
+                    "id": "SDET/Security-Testing/SQL-Basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Data-Manupulation"
                   },
                   {
                     "type": "doc",

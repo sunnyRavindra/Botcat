@@ -157,9 +157,15 @@
         "items": [
           {
             "type": "link",
-            "label": "My SQL",
-            "href": "/SDET/Security-Testing/Introduction",
-            "docId": "SDET/Security-Testing/Introduction"
+            "label": "SQL Basics",
+            "href": "/SDET/Security-Testing/SQL-Basics",
+            "docId": "SDET/Security-Testing/SQL-Basics"
+          },
+          {
+            "type": "link",
+            "label": "SQL Data Manupulation",
+            "href": "/SDET/Security-Testing/SQL-Data-Manupulation",
+            "docId": "SDET/Security-Testing/SQL-Data-Manupulation"
           },
           {
             "type": "link",
@@ -290,7 +296,7 @@
     "SDET/Jira/Introduction": {
       "id": "SDET/Jira/Introduction",
       "title": "Introduction",
-      "description": ""
+      "description": "Jira Introduction"
     },
     "SDET/JobApplications/AppliedJobsDetails": {
       "id": "SDET/JobApplications/AppliedJobsDetails",
@@ -326,16 +332,22 @@
       "description": "Numeric Types",
       "sidebar": "SDETSidebar"
     },
-    "SDET/Security-Testing/Introduction": {
-      "id": "SDET/Security-Testing/Introduction",
-      "title": "My SQL",
-      "description": "DBMS (Database Management system)",
-      "sidebar": "SDETSidebar"
-    },
     "SDET/Security-Testing/Operators": {
       "id": "SDET/Security-Testing/Operators",
       "title": "Operators",
       "description": "Comparision",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-Basics": {
+      "id": "SDET/Security-Testing/SQL-Basics",
+      "title": "SQL Basics",
+      "description": "MY SQL Docker server",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-Data-Manupulation": {
+      "id": "SDET/Security-Testing/SQL-Data-Manupulation",
+      "title": "SQL Data Manupulation",
+      "description": "Add data into table",
       "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/BrowserOptions": {
