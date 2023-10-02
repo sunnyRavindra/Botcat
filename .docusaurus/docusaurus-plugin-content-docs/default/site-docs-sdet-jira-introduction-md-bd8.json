@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/Jira/Introduction",
   "id": "SDET/Jira/Introduction",
-  "title": "Introduction",
+  "title": "Jira Introduction",
   "description": "Jira Introduction",
   "source": "@site/docs/SDET/Jira/Introduction.md",
   "sourceDirName": "SDET/Jira",
@@ -10,5 +10,7 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Jira Introduction"
+  }
 }

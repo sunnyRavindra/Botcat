@@ -14,19 +14,15 @@ mysql -u<username> -hlocalhost/ServerIp -p
 mysql -u<username> -hlocalhost/ServerIp -pPassword 
 ```
 
-### Export Table
+### Import/Export Table
 ```bash
 # This exports data from a table to a .sql file
 mysqldump -uroot -hlocalhost/serverIP -pPassword tableName > ~/export.sql
-```
 
-### Import Table
-```bash
 # This Imports data from .sql file to a table
 # Note that the table name you specifi should have been already created in the SQL databse
 mysql -uroot -hlocalhost/serverIP -pPassword tableName < ~/export.sql
 ```
-
 ### Create Db and Tables
 ```bash
 # Create Database
@@ -37,7 +33,9 @@ create table tableName (
 PrimaryKeyID int primary key auto_increment  not null,
 column1 varcar(20), 
 column2 text, 
-column3 text);
+column3 int,
+foreign key (column3) references ReferenceTableName (columnName to reference) on delete restrict
+);
 ```
 
 ### List Database and Tables

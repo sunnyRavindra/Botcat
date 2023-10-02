@@ -42,6 +42,16 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Security Testing',
+      items: [
+        'SDET/Security-Testing/SQL-Basics',
+        'SDET/Security-Testing/SQL-Data-Manupulation',
+        'SDET/Security-Testing/DataTypes',
+        'SDET/Security-Testing/Operators',
+      ],
+    },
+    {
+      type: 'category',
       label: 'PlayWright',
       items: [
         'SDET/Playwright/Introduction',
@@ -59,16 +69,6 @@ const sidebars = {
       label: 'DSA',
       items: [
         'SDET/DSA/Introduction',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Security Testing',
-      items: [
-        'SDET/Security-Testing/SQL-Basics',
-        'SDET/Security-Testing/SQL-Data-Manupulation',
-        'SDET/Security-Testing/DataTypes',
-        'SDET/Security-Testing/Operators',
       ],
     },
     {

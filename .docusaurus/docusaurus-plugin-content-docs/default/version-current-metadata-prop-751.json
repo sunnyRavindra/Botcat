@@ -111,6 +111,38 @@
       },
       {
         "type": "category",
+        "label": "Security Testing",
+        "items": [
+          {
+            "type": "link",
+            "label": "SQL Basics",
+            "href": "/SDET/Security-Testing/SQL-Basics",
+            "docId": "SDET/Security-Testing/SQL-Basics"
+          },
+          {
+            "type": "link",
+            "label": "SQL Data Manupulation",
+            "href": "/SDET/Security-Testing/SQL-Data-Manupulation",
+            "docId": "SDET/Security-Testing/SQL-Data-Manupulation"
+          },
+          {
+            "type": "link",
+            "label": "DataTypes",
+            "href": "/SDET/Security-Testing/DataTypes",
+            "docId": "SDET/Security-Testing/DataTypes"
+          },
+          {
+            "type": "link",
+            "label": "Operators",
+            "href": "/SDET/Security-Testing/Operators",
+            "docId": "SDET/Security-Testing/Operators"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "PlayWright",
         "items": [
           {
@@ -153,38 +185,6 @@
       },
       {
         "type": "category",
-        "label": "Security Testing",
-        "items": [
-          {
-            "type": "link",
-            "label": "SQL Basics",
-            "href": "/SDET/Security-Testing/SQL-Basics",
-            "docId": "SDET/Security-Testing/SQL-Basics"
-          },
-          {
-            "type": "link",
-            "label": "SQL Data Manupulation",
-            "href": "/SDET/Security-Testing/SQL-Data-Manupulation",
-            "docId": "SDET/Security-Testing/SQL-Data-Manupulation"
-          },
-          {
-            "type": "link",
-            "label": "DataTypes",
-            "href": "/SDET/Security-Testing/DataTypes",
-            "docId": "SDET/Security-Testing/DataTypes"
-          },
-          {
-            "type": "link",
-            "label": "Operators",
-            "href": "/SDET/Security-Testing/Operators",
-            "docId": "SDET/Security-Testing/Operators"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
         "label": "Jobs Applied",
         "items": [
           {
@@ -208,7 +208,7 @@
     "SDET/API-Automation/Introduction": {
       "id": "SDET/API-Automation/Introduction",
       "title": "API Automation",
-      "description": "https://www.kiwi.com/in/booking?activeStep=0&affilid=kayakin&clickid=web-57%24RZ1l%24qLnNSlUy%24lkPig&currency=inr&deeplinkId=28721428970&flightsId=04911a144cc60000c8a6bfcf0-04911a144cc60000c8a6bfcf1-1a141db84cca0000797c54280-1db8043c4ccb00005ce57c1f0-043c04914ccb0000a444c3550&handBags=0&holdBags=null&lang=in&passengers=1&price=625.11&sessionidentifier=YbBk9Zoa8kzQyPJPaEDvG9YbstSd8DDlfQPQarGcGsJ9SV7uS%2BQ8BfP9TUl0N4GDJ%2FAYTwHfaSBrhbKlP%2F86mA%3D%3D&sessiontoken=DkrRwhHWb%2F6Qog7%2BuryzGNbmPLsLEGpoXtnVWy7suq0fpZw3NxwlrLNA8X%2FT9S3C1NqglVHwEWuUbGRyxabFNMfyXvOk%2B3HJ%2F%2FiY6leZOUDU%2BhRcPc3K%2F5uBHmTZZEqHBq%2BDcsGzGuAPXNciv%2FVoe%2BVx8yu0N5DQ6OlgiUYWpBHQy%2FFUEs8ILQLZF2UzIWrUAhAxMELqhNJTEA5TJZHxIIUzy027X3GAxElrvU%2FJklwPBKbTe6Nt8nFYZLdgfJf5G%2FboubCDrcUkb2hDvBwnJe7NW5k80EeUIaWyy8hI4K7TJH%2B1G21s6fT%2FF1FQIggkgVp6ZHQbjhUWBw0SP6VeICjK4Wg2iCMVXu0rhl3VIYBBOet%2BPBkcUN0eVxn322uq&sourcepage=kayak&sub1=web-57%24RZ1l%24qLnNSlUy%24lkPig&token=E7YLcqgnVMSx8Z6mtLZ1MHYhrlPlyUfs4Ynv6wb4m6P2-jJKPiZKSC31ysyGh42vpH8f-vtua77yElAzsMYFXg2ms8HAp0hZPVGva9PlUFZM8s25epGy5Kc21NrgOCdzgITGt1a6v7lhAmRTwnhFzl3J0ELNAov8dQeA-0PLZeCWuazER5LGUXCY-8RxeaCRMbkUpRLkHVdHgBvn9X7fAZidKfg3I1FNhiedTz-rVky2Smi3H35cHZ-MEaQW--qDHfT8EgHnrBpCtTQa93Glxrc4Oued544FqpI5AeiJeD2LVMSezg0BGsO1Yg0my8qjTEwTheQx1DOnQJzlweXyLneQFoiYJnxUyWnP2OVr64tG4GXxC9gUzPyRgohiRBjDLEgvx3K6Sal37iD3zSdR3R2ozJ3HfikbFeL7hEcmd9E0HJJ-bRIt6XLjTnrgbuxo8nVWu3ztsEKJjc8Soubs-sF34ypl1q3jQ6ggDXZJnG6lzdm5LVPIaxn9kxsQBddmSe-Fv9HNoYCX3xv5bjCOAOT3OsuQkedn5GA7TP50itv3w1vSxJkwQ9hDTtuIiW-e5iXlP2tzgG2rR1z4G9oYY-Ba5sFGAqOYz34ONpettVi1XTt-To0Dfdf-F1Udth4EbXWViINW9OpvbaxCCXeidUvoRBPJkyNbev-RqufPeQMU8TNkaUHMI8rr5pXpnB58DuPQvfnk7BfTUDinS9CMPsNps3fXmVB97d51P2lCjWoJBXyYmddaNOKrVEyx0OeUv9RkzZE7enJQaBZhhm8nk8h9EIOquoisGzab-3yQyIvUW3XS3BoER0miVTFg1ud5TCuvyV8az0mo5fiLFCborJPn8UDZ0Hg3bZvp7AkaEm68Syep1ckHp1ylyEjEhNFENa9m3hcQvazMFbIdWlwFuY0YsUma8elhZZSGuayIbBBleRis58xUYiB-WcMozxz8eluQuJLCY94rC3QORbJWiH8cTZWISPzEOfJWg2KbWzMAPJMpcC47G96KDV0biliTTAY46Ytlsc5E7VpLpFNx5mlORhHrCkONvoG5gBst6tZ3-0oiIkcoSpdq7duJ5bvO0-DopLhKQCYUS3zfJkq2DOFkk9FR5gR-m94Juh0WBj3tjYx-wUp9CVZz6-GCqVoagTYH27WAUQzVXqH9oVXjrFwMOcNB44AT0pwsMqxlwwzqD5Sqtji27qWemBTa44ZqXHiyCwN7zZLwT5ykJ4YdP05mLJSVaGHYkbY44uXcGOCXimac4zZ0Bnaq7n8Tt-TrGa-gbWK6MuaOGvOh8agQ%3D&userid=12fcd5b1473c7aad8fd51fb75ed4865c",
+      "description": "1. Postman",
       "sidebar": "SDETSidebar"
     },
     "SDET/API-Automation/static/API": {
@@ -295,7 +295,7 @@
     },
     "SDET/Jira/Introduction": {
       "id": "SDET/Jira/Introduction",
-      "title": "Introduction",
+      "title": "Jira Introduction",
       "description": "Jira Introduction"
     },
     "SDET/JobApplications/AppliedJobsDetails": {

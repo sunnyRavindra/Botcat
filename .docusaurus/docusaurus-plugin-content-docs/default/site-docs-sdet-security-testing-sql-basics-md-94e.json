@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "DSA Intro",
-    "permalink": "/SDET/DSA/Introduction"
+    "title": "Package Names",
+    "permalink": "/SDET/Java/JavaPackage"
   },
   "next": {
     "title": "SQL Data Manupulation",

@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Package Names",
-    "permalink": "/SDET/Java/JavaPackage"
+    "title": "Operators",
+    "permalink": "/SDET/Security-Testing/Operators"
   },
   "next": {
     "title": "Maven Introduction",
