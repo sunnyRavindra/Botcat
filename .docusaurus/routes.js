@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '9bd'),
+    component: ComponentCreator('/', '852'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -288,6 +288,12 @@ export default [
         path: '/SDET/Selenium/Synchronisation',
         component: ComponentCreator('/SDET/Selenium/Synchronisation', '178'),
         exact: true
+      },
+      {
+        path: '/SDET/Workout/plan',
+        component: ComponentCreator('/SDET/Workout/plan', '323'),
+        exact: true,
+        sidebar: "SDETSidebar"
       }
     ]
   },

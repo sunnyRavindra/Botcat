@@ -77,6 +77,13 @@ const sidebars = {
       items: [
         'SDET/JobApplications/AppliedJobsDetails',
       ],
+    },
+    {
+      type: 'category',
+      label: 'Workout',
+      items: [
+        'SDET/Workout/plan',
+      ],
     }
   ],
 };

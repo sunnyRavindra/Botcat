@@ -131,4 +131,31 @@ select lcase(string)
 ### Stored Proc
 ```bash 
 # running multiple qureies at ones from another application
+# Create Procedure
+create procedure ProcedureName(in id1 int, id2 int, title text )
+begin
+select id, title into @id, @title from tableName where columnName1 < id1 and columnName2 > id2 and columnName3 = title;
+end;
+# note - you should be using a databse for prcedures to work
+
+# Drop Procedure
+drop prcedure ProcedureName;
+
+# invoking a procedure
+call ProcedureName(1,2);
+
+# Create Function 
+# just returns one single value
+create function functionName(id int, name text) returns numberic(10,2) 
+begin
+  declare results numberic(10,2);
+  select id into @results from tablename where id= 1;
+
+  return results
+end; 
+
+# calling Function 
+select functionName(1,2,"text"); 
+# functions will return one value 
+
 ```

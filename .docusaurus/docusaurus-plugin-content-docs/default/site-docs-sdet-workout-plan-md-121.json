@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Workout/plan",
+  "id": "SDET/Workout/plan",
+  "title": "Current Workout Plan",
+  "description": "| Workout Name    | Sets     | Reps    | Comments    |",
+  "source": "@site/docs/SDET/Workout/plan.md",
+  "sourceDirName": "SDET/Workout",
+  "slug": "/SDET/Workout/plan",
+  "permalink": "/SDET/Workout/plan",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Current Workout Plan"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Applied Jobs",
+    "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+  }
+}

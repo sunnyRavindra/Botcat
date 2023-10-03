@@ -415,6 +415,10 @@
               "previous": {
                 "title": "DSA Intro",
                 "permalink": "/SDET/DSA/Introduction"
+              },
+              "next": {
+                "title": "Current Workout Plan",
+                "permalink": "/SDET/Workout/plan"
               }
             },
             {
@@ -719,6 +723,27 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
+            },
+            {
+              "unversionedId": "SDET/Workout/plan",
+              "id": "SDET/Workout/plan",
+              "title": "Current Workout Plan",
+              "description": "| Workout Name    | Sets     | Reps    | Comments    |",
+              "source": "@site/docs/SDET/Workout/plan.md",
+              "sourceDirName": "SDET/Workout",
+              "slug": "/SDET/Workout/plan",
+              "permalink": "/SDET/Workout/plan",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Current Workout Plan"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Applied Jobs",
+                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+              }
             }
           ],
           "drafts": [],
@@ -871,6 +896,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/JobApplications/AppliedJobsDetails"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Workout",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Workout/plan"
                   }
                 ],
                 "collapsed": true,

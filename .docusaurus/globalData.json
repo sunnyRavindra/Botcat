@@ -159,6 +159,11 @@
             {
               "id": "SDET/Selenium/Synchronisation",
               "path": "/SDET/Selenium/Synchronisation"
+            },
+            {
+              "id": "SDET/Workout/plan",
+              "path": "/SDET/Workout/plan",
+              "sidebar": "SDETSidebar"
             }
           ],
           "draftIds": [],

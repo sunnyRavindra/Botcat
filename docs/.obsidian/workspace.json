@@ -174,6 +174,8 @@
   },
   "active": "65a990c3d1d94263",
   "lastOpenFiles": [
+    "SDET/Workout/plan.md",
+    "SDET/Workout",
     "SDET/Security-Testing/SQL-Data-Manupulation.md",
     "SDET/Security-Testing/SQL-Alter-Data.md",
     "SDET/Security-Testing/SQL-Basics.md",
@@ -209,7 +211,6 @@
     "SDET/API-Automation/static",
     "SDET/Docker/Docker-Introduction.md",
     "SDET/Cucumber/Introduction.md",
-    "SDET/Cucumber",
     "Excalidraw/QARoadMap.excalidraw.md",
     "Excalidraw/Profile.png",
     "Excalidraw/Pasted image 20230914225333.png",
@@ -219,7 +220,6 @@
     "Excalidraw/Pasted Image 20230911160731_020.png",
     "Excalidraw/Pasted Image 20230911155119_198.png",
     "Excalidraw/Pasted Image 20230910222706_748.png",
-    "Excalidraw/Banner.md",
     "Untitled.canvas"
   ]
 }

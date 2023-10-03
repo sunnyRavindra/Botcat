@@ -17,5 +17,9 @@
   "previous": {
     "title": "DSA Intro",
     "permalink": "/SDET/DSA/Introduction"
+  },
+  "next": {
+    "title": "Current Workout Plan",
+    "permalink": "/SDET/Workout/plan"
   }
 }

@@ -196,6 +196,20 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Workout",
+        "items": [
+          {
+            "type": "link",
+            "label": "Current Workout Plan",
+            "href": "/SDET/Workout/plan",
+            "docId": "SDET/Workout/plan"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -382,6 +396,12 @@
       "id": "SDET/Selenium/Synchronisation",
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
+    },
+    "SDET/Workout/plan": {
+      "id": "SDET/Workout/plan",
+      "title": "Current Workout Plan",
+      "description": "| Workout Name    | Sets     | Reps    | Comments    |",
+      "sidebar": "SDETSidebar"
     }
   }
 }
