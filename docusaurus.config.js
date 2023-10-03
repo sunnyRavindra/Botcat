@@ -75,6 +75,7 @@ const config = {
           },
           { to: 'https://www.linkedin.com/in/sunnybharne/', label: 'LinkedIn', position: 'right' },
           { to: 'https://github.com/sunnyRavindra', label: 'Github', position: 'right' },
+          { to: 'https://www.linkedin.com/in/sunnybharne/details/certifications/', label: 'Certifications', position: 'right' },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/sunnyravindra',

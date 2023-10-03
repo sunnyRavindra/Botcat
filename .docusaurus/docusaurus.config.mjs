@@ -86,6 +86,11 @@ export default {
           "to": "https://github.com/sunnyRavindra",
           "label": "Github",
           "position": "right"
+        },
+        {
+          "to": "https://www.linkedin.com/in/sunnybharne/details/certifications/",
+          "label": "Certifications",
+          "position": "right"
         }
       ]
     },
