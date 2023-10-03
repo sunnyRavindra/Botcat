@@ -69,7 +69,7 @@ update tableName set columnName1 = "Value" where id = 1;
 alter table tableName add index idx_index(columnName);
 ```
 
-### Group By, Order by, Limits, Union, UnionAll, Sub Queries
+### Group By, Order by, Limits, Union, UnionAll, Sub Queries, Views
 ```bash
 # Accending Order
 select * from tableName order by columnName1 asc, columnName2 desc;
@@ -92,6 +92,11 @@ select * from TableName condition
 # Sub Queries
 select * from TableName where column in (select * from table);
 
+# View
+create view viewName as (your SQL query);
+# View creates something which looks like table but in the background it just runs the query and creates a table/view.
+# Hene views can be slow to access.
+# note - data can be inserted into the view but it will endup inserting in the main table (might not be visible in view)
 ```
 
 ### Joins 
@@ -106,11 +111,24 @@ select a.columnName1 , b.columnName2 from table1 as a left join table2 as b on a
 select a.columnName1 , b.columnName2 from table1 as a right join table2 as b on a.columnName1 = b.columnName2;
 ```
 
-### Views(its a virtual table)
+### Variables and Functions 
 ```bash
-create view viewName as (your SQL query);
-# View creates something which looks like table but in the background it just runs the query and creates a table/view.
-# Hene views can be slow to access.
-# note - data can be inserted into the view but it will endup inserting in the main table (might not be visible in view)
+# Varibale
+set @varName = "Value";
+
+# Function
+
+# Join Strings
+select concat(columnName,string2,string3,and so on ...) from tableName;
+
+# Uppercase String
+select ucase(string);
+
+# Lower case String
+select lcase(string)
 ```
 
+### Stored Proc
+```bash 
+# running multiple qureies at ones from another application
+```
