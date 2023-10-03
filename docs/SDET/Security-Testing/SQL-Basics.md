@@ -34,14 +34,20 @@ PrimaryKeyID int primary key auto_increment  not null,
 column1 varcar(20), 
 column2 text, 
 column3 int,
-foreign key (column3) references ReferenceTableName (columnName to reference) on delete restrict
 );
+foreign key (column3) references ReferenceTableName (columnName to reference) 
 ```
 
 ### List Database and Tables
 ```bash
 # List Database
 show database;
+
+# List Tables
+show Tables;
+
+# List Tables with views
+show full Tables;
 
 # Select Database
 use Database;
@@ -62,3 +68,5 @@ drop table tablename
 # This deletes a spechific row from a table with id =3
 delete from tableName where id = 3;
 ```
+
+
