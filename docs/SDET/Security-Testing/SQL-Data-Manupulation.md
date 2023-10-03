@@ -94,6 +94,7 @@ select * from TableName where column in (select * from table);
 
 # View
 create view viewName as (your SQL query);
+# View is a virtual table whose access can be provided to restricted users(developer decides which columns to be visible in the views)
 # View creates something which looks like table but in the background it just runs the query and creates a table/view.
 # Hene views can be slow to access.
 # note - data can be inserted into the view but it will endup inserting in the main table (might not be visible in view)
