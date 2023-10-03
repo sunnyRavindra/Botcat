@@ -479,8 +479,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Operators",
-                "permalink": "/SDET/Security-Testing/Operators"
+                "title": "SQL Injection",
+                "permalink": "/SDET/Security-Testing/SQL-Injection"
               },
               "next": {
                 "title": "Maven Introduction",
@@ -500,56 +500,6 @@
               "tags": [],
               "version": "current",
               "frontMatter": {}
-            },
-            {
-              "unversionedId": "SDET/Security-Testing/DataTypes",
-              "id": "SDET/Security-Testing/DataTypes",
-              "title": "DataTypes",
-              "description": "Numeric Types",
-              "source": "@site/docs/SDET/Security-Testing/DataTypes.md",
-              "sourceDirName": "SDET/Security-Testing",
-              "slug": "/SDET/Security-Testing/DataTypes",
-              "permalink": "/SDET/Security-Testing/DataTypes",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "DataTypes"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "SQL Data Manupulation",
-                "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
-              },
-              "next": {
-                "title": "Operators",
-                "permalink": "/SDET/Security-Testing/Operators"
-              }
-            },
-            {
-              "unversionedId": "SDET/Security-Testing/Operators",
-              "id": "SDET/Security-Testing/Operators",
-              "title": "Operators",
-              "description": "Comparision",
-              "source": "@site/docs/SDET/Security-Testing/Operators.md",
-              "sourceDirName": "SDET/Security-Testing",
-              "slug": "/SDET/Security-Testing/Operators",
-              "permalink": "/SDET/Security-Testing/Operators",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Operators"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "DataTypes",
-                "permalink": "/SDET/Security-Testing/DataTypes"
-              },
-              "next": {
-                "title": "Playwright Into",
-                "permalink": "/SDET/Playwright/Introduction"
-              }
             },
             {
               "unversionedId": "SDET/Security-Testing/SQL-Basics",
@@ -598,7 +548,82 @@
               },
               "next": {
                 "title": "DataTypes",
-                "permalink": "/SDET/Security-Testing/DataTypes"
+                "permalink": "/SDET/Security-Testing/SQL-DataTypes"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/SQL-DataTypes",
+              "id": "SDET/Security-Testing/SQL-DataTypes",
+              "title": "DataTypes",
+              "description": "Numeric Types",
+              "source": "@site/docs/SDET/Security-Testing/SQL-DataTypes.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/SQL-DataTypes",
+              "permalink": "/SDET/Security-Testing/SQL-DataTypes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "DataTypes"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "SQL Data Manupulation",
+                "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
+              },
+              "next": {
+                "title": "Operators",
+                "permalink": "/SDET/Security-Testing/SQL-Operators"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/SQL-Injection",
+              "id": "SDET/Security-Testing/SQL-Injection",
+              "title": "SQL Injection",
+              "description": "",
+              "source": "@site/docs/SDET/Security-Testing/SQL-Injection.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/SQL-Injection",
+              "permalink": "/SDET/Security-Testing/SQL-Injection",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SQL Injection"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Operators",
+                "permalink": "/SDET/Security-Testing/SQL-Operators"
+              },
+              "next": {
+                "title": "Playwright Into",
+                "permalink": "/SDET/Playwright/Introduction"
+              }
+            },
+            {
+              "unversionedId": "SDET/Security-Testing/SQL-Operators",
+              "id": "SDET/Security-Testing/SQL-Operators",
+              "title": "Operators",
+              "description": "Comparision",
+              "source": "@site/docs/SDET/Security-Testing/SQL-Operators.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/SQL-Operators",
+              "permalink": "/SDET/Security-Testing/SQL-Operators",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Operators"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DataTypes",
+                "permalink": "/SDET/Security-Testing/SQL-DataTypes"
+              },
+              "next": {
+                "title": "SQL Injection",
+                "permalink": "/SDET/Security-Testing/SQL-Injection"
               }
             },
             {
@@ -843,11 +868,15 @@
                   },
                   {
                     "type": "doc",
-                    "id": "SDET/Security-Testing/DataTypes"
+                    "id": "SDET/Security-Testing/SQL-DataTypes"
                   },
                   {
                     "type": "doc",
-                    "id": "SDET/Security-Testing/Operators"
+                    "id": "SDET/Security-Testing/SQL-Operators"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Injection"
                   }
                 ],
                 "collapsed": true,

@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-852": {
+  "/-d5c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -279,14 +279,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-rest-assured-introduction-1-f-6-f90"
   },
-  "/SDET/Security-Testing/DataTypes-28a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-security-testing-data-types-172-e84"
-  },
-  "/SDET/Security-Testing/Operators-f0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-security-testing-operators-76-e-4b0"
-  },
   "/SDET/Security-Testing/SQL-Basics-494": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-security-testing-sql-basics-94-e-4eb"
@@ -294,6 +286,18 @@
   "/SDET/Security-Testing/SQL-Data-Manupulation-224": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-security-testing-sql-data-manupulationfb-6-b10"
+  },
+  "/SDET/Security-Testing/SQL-DataTypes-770": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-data-typesf-14-2e7"
+  },
+  "/SDET/Security-Testing/SQL-Injection-a3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-injection-977-433"
+  },
+  "/SDET/Security-Testing/SQL-Operators-144": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-operators-6-dd-b62"
   },
   "/SDET/Selenium/BrowserOptions-90f": {
     "__comp": "__comp---theme-doc-item-178-a40",

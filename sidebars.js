@@ -46,8 +46,9 @@ const sidebars = {
       items: [
         'SDET/Security-Testing/SQL-Basics',
         'SDET/Security-Testing/SQL-Data-Manupulation',
-        'SDET/Security-Testing/DataTypes',
-        'SDET/Security-Testing/Operators',
+        'SDET/Security-Testing/SQL-DataTypes',
+        'SDET/Security-Testing/SQL-Operators',
+        'SDET/Security-Testing/SQL-Injection',
       ],
     },
     {

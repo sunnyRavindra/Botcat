@@ -69,7 +69,7 @@ update tableName set columnName1 = "Value" where id = 1;
 alter table tableName add index idx_index(columnName);
 ```
 
-### Group By, Order by, Limits, Union, UnionAll, Sub Queries, Views
+### Group By, Order by, Limits, Union, UnionAll, Sub Queries, Views, Intersect, Exists, Case
 ```bash
 # Accending Order
 select * from tableName order by columnName1 asc, columnName2 desc;
@@ -88,6 +88,30 @@ select * from TableName Limit 1, 10;
 select * from TableName condition
 union/union all
 select * from TableName condition
+
+# Intersect
+# Returns values which are in both the tables 
+# both the columns should be same in both the tables
+# Functionality only available in Oracle DB
+select * from TableName condition
+intersect
+select * from TableName condition
+# in mysql find solutions for intersect is as per below
+select * from table1 where id in (select id from table2);
+
+# Exists
+# this runs the second query first and if that is true only then the first query is run 
+select * from table1 exists(select * from table1 where id =1);
+
+# case
+select columns, case id 
+when 1 then columns * 2 
+when 2 then columns * 4 
+else columns
+end
+'new_column_name', column3
+from table
+
 
 # Sub Queries
 select * from TableName where column in (select * from table);

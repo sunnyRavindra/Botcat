@@ -1,12 +1,12 @@
 {
-  "unversionedId": "SDET/Security-Testing/Operators",
-  "id": "SDET/Security-Testing/Operators",
+  "unversionedId": "SDET/Security-Testing/SQL-Operators",
+  "id": "SDET/Security-Testing/SQL-Operators",
   "title": "Operators",
   "description": "Comparision",
-  "source": "@site/docs/SDET/Security-Testing/Operators.md",
+  "source": "@site/docs/SDET/Security-Testing/SQL-Operators.md",
   "sourceDirName": "SDET/Security-Testing",
-  "slug": "/SDET/Security-Testing/Operators",
-  "permalink": "/SDET/Security-Testing/Operators",
+  "slug": "/SDET/Security-Testing/SQL-Operators",
+  "permalink": "/SDET/Security-Testing/SQL-Operators",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,7 +16,7 @@
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "DataTypes",
-    "permalink": "/SDET/Security-Testing/DataTypes"
+    "permalink": "/SDET/Security-Testing/SQL-DataTypes"
   },
   "next": {
     "title": "SQL Injection",

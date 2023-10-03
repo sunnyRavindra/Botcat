@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '852'),
+    component: ComponentCreator('/', 'd5c'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -233,18 +233,6 @@ export default [
         exact: true
       },
       {
-        path: '/SDET/Security-Testing/DataTypes',
-        component: ComponentCreator('/SDET/Security-Testing/DataTypes', '28a'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
-        path: '/SDET/Security-Testing/Operators',
-        component: ComponentCreator('/SDET/Security-Testing/Operators', 'f0f'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
         path: '/SDET/Security-Testing/SQL-Basics',
         component: ComponentCreator('/SDET/Security-Testing/SQL-Basics', '494'),
         exact: true,
@@ -253,6 +241,24 @@ export default [
       {
         path: '/SDET/Security-Testing/SQL-Data-Manupulation',
         component: ComponentCreator('/SDET/Security-Testing/SQL-Data-Manupulation', '224'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/SQL-DataTypes',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-DataTypes', '770'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/SQL-Injection',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-Injection', 'a3a'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/SQL-Operators',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-Operators', '144'),
         exact: true,
         sidebar: "SDETSidebar"
       },

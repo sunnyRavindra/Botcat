@@ -28,14 +28,14 @@ mysql -uroot -hlocalhost/serverIP -pPassword tableName < ~/export.sql
 # Create Database
 create databse DatabaseName;
 
-# Create Tables
+# Create Tables with primarykey, foreign key and constraints
 create table tableName (
 PrimaryKeyID int primary key auto_increment  not null,
 column1 varcar(20), 
-column2 text, 
-column3 int,
+column2 text unique, 
+column3 int default 0,
 );
-foreign key (column3) references ReferenceTableName (columnName to reference) 
+foreign key (column3) references ReferenceTableName (columnName to reference) ON DELETE CASCADE
 ```
 
 ### List Database and Tables

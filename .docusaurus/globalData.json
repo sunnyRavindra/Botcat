@@ -114,16 +114,6 @@
               "path": "/SDET/Rest-Assured/Introduction"
             },
             {
-              "id": "SDET/Security-Testing/DataTypes",
-              "path": "/SDET/Security-Testing/DataTypes",
-              "sidebar": "SDETSidebar"
-            },
-            {
-              "id": "SDET/Security-Testing/Operators",
-              "path": "/SDET/Security-Testing/Operators",
-              "sidebar": "SDETSidebar"
-            },
-            {
               "id": "SDET/Security-Testing/SQL-Basics",
               "path": "/SDET/Security-Testing/SQL-Basics",
               "sidebar": "SDETSidebar"
@@ -131,6 +121,21 @@
             {
               "id": "SDET/Security-Testing/SQL-Data-Manupulation",
               "path": "/SDET/Security-Testing/SQL-Data-Manupulation",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/SQL-DataTypes",
+              "path": "/SDET/Security-Testing/SQL-DataTypes",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/SQL-Injection",
+              "path": "/SDET/Security-Testing/SQL-Injection",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/SQL-Operators",
+              "path": "/SDET/Security-Testing/SQL-Operators",
               "sidebar": "SDETSidebar"
             },
             {

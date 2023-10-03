@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-DataTypes",
+  "id": "SDET/Security-Testing/SQL-DataTypes",
+  "title": "DataTypes",
+  "description": "Numeric Types",
+  "source": "@site/docs/SDET/Security-Testing/SQL-DataTypes.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-DataTypes",
+  "permalink": "/SDET/Security-Testing/SQL-DataTypes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DataTypes"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "SQL Data Manupulation",
+    "permalink": "/SDET/Security-Testing/SQL-Data-Manupulation"
+  },
+  "next": {
+    "title": "Operators",
+    "permalink": "/SDET/Security-Testing/SQL-Operators"
+  }
+}

@@ -128,14 +128,20 @@
           {
             "type": "link",
             "label": "DataTypes",
-            "href": "/SDET/Security-Testing/DataTypes",
-            "docId": "SDET/Security-Testing/DataTypes"
+            "href": "/SDET/Security-Testing/SQL-DataTypes",
+            "docId": "SDET/Security-Testing/SQL-DataTypes"
           },
           {
             "type": "link",
             "label": "Operators",
-            "href": "/SDET/Security-Testing/Operators",
-            "docId": "SDET/Security-Testing/Operators"
+            "href": "/SDET/Security-Testing/SQL-Operators",
+            "docId": "SDET/Security-Testing/SQL-Operators"
+          },
+          {
+            "type": "link",
+            "label": "SQL Injection",
+            "href": "/SDET/Security-Testing/SQL-Injection",
+            "docId": "SDET/Security-Testing/SQL-Injection"
           }
         ],
         "collapsed": true,
@@ -340,18 +346,6 @@
       "title": "Introduction",
       "description": ""
     },
-    "SDET/Security-Testing/DataTypes": {
-      "id": "SDET/Security-Testing/DataTypes",
-      "title": "DataTypes",
-      "description": "Numeric Types",
-      "sidebar": "SDETSidebar"
-    },
-    "SDET/Security-Testing/Operators": {
-      "id": "SDET/Security-Testing/Operators",
-      "title": "Operators",
-      "description": "Comparision",
-      "sidebar": "SDETSidebar"
-    },
     "SDET/Security-Testing/SQL-Basics": {
       "id": "SDET/Security-Testing/SQL-Basics",
       "title": "SQL Basics",
@@ -362,6 +356,24 @@
       "id": "SDET/Security-Testing/SQL-Data-Manupulation",
       "title": "SQL Data Manupulation",
       "description": "Add data into table",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-DataTypes": {
+      "id": "SDET/Security-Testing/SQL-DataTypes",
+      "title": "DataTypes",
+      "description": "Numeric Types",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-Injection": {
+      "id": "SDET/Security-Testing/SQL-Injection",
+      "title": "SQL Injection",
+      "description": "",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-Operators": {
+      "id": "SDET/Security-Testing/SQL-Operators",
+      "title": "Operators",
+      "description": "Comparision",
       "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/BrowserOptions": {

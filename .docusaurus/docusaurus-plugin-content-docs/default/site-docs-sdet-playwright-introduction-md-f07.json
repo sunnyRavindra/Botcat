@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Operators",
-    "permalink": "/SDET/Security-Testing/Operators"
+    "title": "SQL Injection",
+    "permalink": "/SDET/Security-Testing/SQL-Injection"
   },
   "next": {
     "title": "Maven Introduction",

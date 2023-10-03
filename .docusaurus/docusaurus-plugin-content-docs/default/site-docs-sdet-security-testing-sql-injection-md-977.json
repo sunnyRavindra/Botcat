@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-Injection",
+  "id": "SDET/Security-Testing/SQL-Injection",
+  "title": "SQL Injection",
+  "description": "",
+  "source": "@site/docs/SDET/Security-Testing/SQL-Injection.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-Injection",
+  "permalink": "/SDET/Security-Testing/SQL-Injection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SQL Injection"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Operators",
+    "permalink": "/SDET/Security-Testing/SQL-Operators"
+  },
+  "next": {
+    "title": "Playwright Into",
+    "permalink": "/SDET/Playwright/Introduction"
+  }
+}
