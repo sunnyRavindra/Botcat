@@ -19,4 +19,12 @@ characters and patterns hence the attacker is not fully aware of the exploits.
 ### Persistence XSS
 1. In Persistence XSS attack the injected script gets altered or injected on the server.
 2. Hence anyone can then exploit the application from any device after this attack.
+3. Who ever visits the website the mellisous script will get downloaded to the clients machine.
 
+### Session Hijacking and CSRF(Cross site request forgrery)
+1. malicious links can be used to access saved auth cookies to access sensitive applications from your own system , so never click on a suspicious linkes.
+
+### Cryptography tokens
+1. On login two tokens gets generated
+2. Lets say for submitting a form attacker might be able to replicate with endpoints with params but if the form submission is using cryptographi token which was generate at the time of login will be needed to move forward.
+hence the attacker will not be able to attack the website.
