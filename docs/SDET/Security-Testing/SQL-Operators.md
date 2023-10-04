@@ -1,5 +1,5 @@
 ---
-title: Operators
+title: SQL Operators
 ---
 ### Comparision
 ```bash

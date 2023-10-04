@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Security-Testing/XSS-Attack",
+  "id": "SDET/Security-Testing/XSS-Attack",
+  "title": "XSS Attack",
+  "description": "Xross site scripting also know as XSS , as one of the most common we application vulneribility that",
+  "source": "@site/docs/SDET/Security-Testing/XSS-Attack.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/XSS-Attack",
+  "permalink": "/SDET/Security-Testing/XSS-Attack",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "XSS Attack"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "SQL Injection",
+    "permalink": "/SDET/Security-Testing/SQL-Injection"
+  },
+  "next": {
+    "title": "Playwright Into",
+    "permalink": "/SDET/Playwright/Introduction"
+  }
+}

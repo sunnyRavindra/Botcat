@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Security-Testing/SQL-Injection",
   "id": "SDET/Security-Testing/SQL-Injection",
   "title": "SQL Injection",
-  "description": "",
+  "description": "SQL injection is a type of cyberattack that occurs when an attacker inserts malicious SQL (Structured Query Language) code into a vulnerable SQL query. SQL is a language used for managing and manipulating relational databases, and SQL injection attacks take advantage of poorly sanitized or unprotected inputs in web applications or software that interact with databases.",
   "source": "@site/docs/SDET/Security-Testing/SQL-Injection.md",
   "sourceDirName": "SDET/Security-Testing",
   "slug": "/SDET/Security-Testing/SQL-Injection",
@@ -15,11 +15,11 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Operators",
+    "title": "SQL Operators",
     "permalink": "/SDET/Security-Testing/SQL-Operators"
   },
   "next": {
-    "title": "Playwright Into",
-    "permalink": "/SDET/Playwright/Introduction"
+    "title": "XSS Attack",
+    "permalink": "/SDET/Security-Testing/XSS-Attack"
   }
 }

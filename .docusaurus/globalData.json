@@ -15,6 +15,10 @@
               "path": "/docs/ContactMe"
             },
             {
+              "id": "SDET/API-Automation/Fiddler",
+              "path": "/SDET/API-Automation/Fiddler"
+            },
+            {
               "id": "SDET/API-Automation/Introduction",
               "path": "/SDET/API-Automation/Introduction",
               "sidebar": "SDETSidebar"
@@ -22,6 +26,10 @@
             {
               "id": "SDET/API-Automation/static/API",
               "path": "/SDET/API-Automation/static/API"
+            },
+            {
+              "id": "SDET/API-Automation/static/APITesting",
+              "path": "/SDET/API-Automation/static/APITesting"
             },
             {
               "id": "SDET/Cucumber/Introduction",
@@ -136,6 +144,15 @@
             {
               "id": "SDET/Security-Testing/SQL-Operators",
               "path": "/SDET/Security-Testing/SQL-Operators",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Security-Testing/SQL-References",
+              "path": "/SDET/Security-Testing/SQL-References"
+            },
+            {
+              "id": "SDET/Security-Testing/XSS-Attack",
+              "path": "/SDET/Security-Testing/XSS-Attack",
               "sidebar": "SDETSidebar"
             },
             {

@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "SQL Injection",
-    "permalink": "/SDET/Security-Testing/SQL-Injection"
+    "title": "XSS Attack",
+    "permalink": "/SDET/Security-Testing/XSS-Attack"
   },
   "next": {
     "title": "Maven Introduction",

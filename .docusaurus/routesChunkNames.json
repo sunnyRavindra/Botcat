@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-d5c": {
+  "/-102": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -191,6 +191,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-contact-meafd-3c6"
   },
+  "/SDET/API-Automation/Fiddler-0ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-automation-fiddlerd-2-f-350"
+  },
   "/SDET/API-Automation/Introduction-42b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-api-automation-introduction-999-151"
@@ -198,6 +202,10 @@
   "/SDET/API-Automation/static/API-de0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-api-automation-static-api-9-a-0-b84"
+  },
+  "/SDET/API-Automation/static/APITesting-0d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-automation-static-api-testing-56-b-8a9"
   },
   "/SDET/Cucumber/Introduction-c56": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -298,6 +306,14 @@
   "/SDET/Security-Testing/SQL-Operators-144": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-security-testing-sql-operators-6-dd-b62"
+  },
+  "/SDET/Security-Testing/SQL-References-dd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-references-89-a-a8c"
+  },
+  "/SDET/Security-Testing/XSS-Attack-dc2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-xss-attack-381-e12"
   },
   "/SDET/Selenium/BrowserOptions-90f": {
     "__comp": "__comp---theme-doc-item-178-a40",

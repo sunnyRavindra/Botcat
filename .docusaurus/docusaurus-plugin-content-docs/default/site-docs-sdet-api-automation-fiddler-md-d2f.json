@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/API-Automation/Fiddler",
+  "id": "SDET/API-Automation/Fiddler",
+  "title": "Fiddler",
+  "description": "Fiddler Basics",
+  "source": "@site/docs/SDET/API-Automation/Fiddler.md",
+  "sourceDirName": "SDET/API-Automation",
+  "slug": "/SDET/API-Automation/Fiddler",
+  "permalink": "/SDET/API-Automation/Fiddler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fiddler"
+  }
+}

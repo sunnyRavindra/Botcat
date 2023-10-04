@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74bc4c5423da4995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/API-Automation/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ContactMe.md",
+                "file": "SDET/API-Automation/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ContactMe.md",
+                "file": "SDET/API-Automation/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ContactMe.md"
+                "file": "SDET/API-Automation/Introduction.md"
               }
             }
           }
@@ -172,8 +184,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65a990c3d1d94263",
+  "active": "74bc4c5423da4995",
   "lastOpenFiles": [
+    "SDET/Security-Testing/XSS-Attack.md",
+    "SDET/Security-Testing/SQL-References.md",
+    "SDET/API-Automation/Fiddler.md",
+    "SDET/API-Automation/static/API.md",
+    "SDET/API-Automation/static/APIBasics.png",
+    "SDET/API-Automation/static/APITesting.md",
+    "SDET/API-Automation/static/Https.png",
+    "SDET/API-Automation/Introduction.md",
+    "ContactMe.md",
+    "SDET/Security-Testing/static",
     "SDET/Security-Testing/SQL-DataTypes.md",
     "SDET/Security-Testing/SQL-Operators.md",
     "SDET/Security-Testing/SQL-Injection.md",
@@ -198,28 +220,17 @@
     "SDET/Overview.md",
     "SDET/JobApplications/AppliedJobsDetails.md",
     "SDET/JobApplications",
-    "SDET/Java/JavaPackage.md",
-    "SDET/Java/Data Types.md",
     "SDET/Java/static/Pasted Image 20230922065923_905.png",
-    "SDET/Java/static/Java.md",
-    "SDET/DSA/Introduction.md",
     "SDET/DSA",
     "SDET/Java/static",
-    "SDET/Rest-Assured/Introduction.md",
-    "SDET/API-Automation/static/API.md",
     "SDET/Rest-Assured",
     "Untitled",
-    "SDET/API-Automation/Introduction.md",
-    "SDET/API-Automation/static/APIBasics.png",
-    "SDET/API-Automation/static",
     "Excalidraw/Profile.png",
     "Excalidraw/Pasted image 20230914225333.png",
     "Excalidraw/Pasted Image 20230912230841_354.png",
     "Excalidraw/Pasted Image 20230911160818_048.png",
     "Excalidraw/Pasted Image 20230911160801_040.png",
     "Excalidraw/Pasted Image 20230911160731_020.png",
-    "Excalidraw/Pasted Image 20230911155119_198.png",
-    "Excalidraw/Pasted Image 20230910222706_748.png",
     "Untitled.canvas"
   ]
 }

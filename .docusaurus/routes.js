@@ -104,11 +104,16 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd5c'),
+    component: ComponentCreator('/', '102'),
     routes: [
       {
         path: '/docs/ContactMe',
         component: ComponentCreator('/docs/ContactMe', 'fcd'),
+        exact: true
+      },
+      {
+        path: '/SDET/API-Automation/Fiddler',
+        component: ComponentCreator('/SDET/API-Automation/Fiddler', '0ef'),
         exact: true
       },
       {
@@ -120,6 +125,11 @@ export default [
       {
         path: '/SDET/API-Automation/static/API',
         component: ComponentCreator('/SDET/API-Automation/static/API', 'de0'),
+        exact: true
+      },
+      {
+        path: '/SDET/API-Automation/static/APITesting',
+        component: ComponentCreator('/SDET/API-Automation/static/APITesting', '0d7'),
         exact: true
       },
       {
@@ -259,6 +269,17 @@ export default [
       {
         path: '/SDET/Security-Testing/SQL-Operators',
         component: ComponentCreator('/SDET/Security-Testing/SQL-Operators', '144'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Security-Testing/SQL-References',
+        component: ComponentCreator('/SDET/Security-Testing/SQL-References', 'dd7'),
+        exact: true
+      },
+      {
+        path: '/SDET/Security-Testing/XSS-Attack',
+        component: ComponentCreator('/SDET/Security-Testing/XSS-Attack', 'dc2'),
         exact: true,
         sidebar: "SDETSidebar"
       },

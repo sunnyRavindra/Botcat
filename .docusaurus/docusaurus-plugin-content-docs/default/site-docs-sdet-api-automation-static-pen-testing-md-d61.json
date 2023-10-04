@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/API-Automation/static/PenTesting",
+  "id": "SDET/API-Automation/static/PenTesting",
+  "title": "PenTesting",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/API-Automation/static/PenTesting.md",
+  "sourceDirName": "SDET/API-Automation/static",
+  "slug": "/SDET/API-Automation/static/PenTesting",
+  "permalink": "/SDET/API-Automation/static/PenTesting",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

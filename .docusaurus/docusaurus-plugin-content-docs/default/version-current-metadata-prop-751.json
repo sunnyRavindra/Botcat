@@ -41,7 +41,7 @@
         "items": [
           {
             "type": "link",
-            "label": "API Automation",
+            "label": "HTTP Basics",
             "href": "/SDET/API-Automation/Introduction",
             "docId": "SDET/API-Automation/Introduction"
           }
@@ -127,13 +127,13 @@
           },
           {
             "type": "link",
-            "label": "DataTypes",
+            "label": "SQL DataTypes",
             "href": "/SDET/Security-Testing/SQL-DataTypes",
             "docId": "SDET/Security-Testing/SQL-DataTypes"
           },
           {
             "type": "link",
-            "label": "Operators",
+            "label": "SQL Operators",
             "href": "/SDET/Security-Testing/SQL-Operators",
             "docId": "SDET/Security-Testing/SQL-Operators"
           },
@@ -142,6 +142,12 @@
             "label": "SQL Injection",
             "href": "/SDET/Security-Testing/SQL-Injection",
             "docId": "SDET/Security-Testing/SQL-Injection"
+          },
+          {
+            "type": "link",
+            "label": "XSS Attack",
+            "href": "/SDET/Security-Testing/XSS-Attack",
+            "docId": "SDET/Security-Testing/XSS-Attack"
           }
         ],
         "collapsed": true,
@@ -225,15 +231,25 @@
       "title": "Contact Me",
       "description": "*"
     },
+    "SDET/API-Automation/Fiddler": {
+      "id": "SDET/API-Automation/Fiddler",
+      "title": "Fiddler",
+      "description": "Fiddler Basics"
+    },
     "SDET/API-Automation/Introduction": {
       "id": "SDET/API-Automation/Introduction",
-      "title": "API Automation",
-      "description": "1. Postman",
+      "title": "HTTP Basics",
+      "description": "Basics",
       "sidebar": "SDETSidebar"
     },
     "SDET/API-Automation/static/API": {
       "id": "SDET/API-Automation/static/API",
       "title": "API",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/API-Automation/static/APITesting": {
+      "id": "SDET/API-Automation/static/APITesting",
+      "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/Cucumber/Introduction": {
@@ -360,20 +376,31 @@
     },
     "SDET/Security-Testing/SQL-DataTypes": {
       "id": "SDET/Security-Testing/SQL-DataTypes",
-      "title": "DataTypes",
+      "title": "SQL DataTypes",
       "description": "Numeric Types",
       "sidebar": "SDETSidebar"
     },
     "SDET/Security-Testing/SQL-Injection": {
       "id": "SDET/Security-Testing/SQL-Injection",
       "title": "SQL Injection",
-      "description": "",
+      "description": "SQL injection is a type of cyberattack that occurs when an attacker inserts malicious SQL (Structured Query Language) code into a vulnerable SQL query. SQL is a language used for managing and manipulating relational databases, and SQL injection attacks take advantage of poorly sanitized or unprotected inputs in web applications or software that interact with databases.",
       "sidebar": "SDETSidebar"
     },
     "SDET/Security-Testing/SQL-Operators": {
       "id": "SDET/Security-Testing/SQL-Operators",
-      "title": "Operators",
+      "title": "SQL Operators",
       "description": "Comparision",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Security-Testing/SQL-References": {
+      "id": "SDET/Security-Testing/SQL-References",
+      "title": "References",
+      "description": "https://www.1keydata.com/sql/sql.html"
+    },
+    "SDET/Security-Testing/XSS-Attack": {
+      "id": "SDET/Security-Testing/XSS-Attack",
+      "title": "XSS Attack",
+      "description": "Xross site scripting also know as XSS , as one of the most common we application vulneribility that",
       "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/BrowserOptions": {

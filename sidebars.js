@@ -49,6 +49,7 @@ const sidebars = {
         'SDET/Security-Testing/SQL-DataTypes',
         'SDET/Security-Testing/SQL-Operators',
         'SDET/Security-Testing/SQL-Injection',
+        'SDET/Security-Testing/XSS-Attack',
       ],
     },
     {

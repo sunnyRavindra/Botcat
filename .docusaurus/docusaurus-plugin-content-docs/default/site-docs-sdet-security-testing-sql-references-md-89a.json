@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Security-Testing/SQL-References",
+  "id": "SDET/Security-Testing/SQL-References",
+  "title": "References",
+  "description": "https://www.1keydata.com/sql/sql.html",
+  "source": "@site/docs/SDET/Security-Testing/SQL-References.md",
+  "sourceDirName": "SDET/Security-Testing",
+  "slug": "/SDET/Security-Testing/SQL-References",
+  "permalink": "/SDET/Security-Testing/SQL-References",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "References"
+  }
+}

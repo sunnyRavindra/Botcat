@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/API-Automation/Introduction",
   "id": "SDET/API-Automation/Introduction",
-  "title": "API Automation",
-  "description": "1. Postman",
+  "title": "HTTP Basics",
+  "description": "Basics",
   "source": "@site/docs/SDET/API-Automation/Introduction.md",
   "sourceDirName": "SDET/API-Automation",
   "slug": "/SDET/API-Automation/Introduction",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "API Automation"
+    "title": "HTTP Basics"
   },
   "sidebar": "SDETSidebar",
   "previous": {

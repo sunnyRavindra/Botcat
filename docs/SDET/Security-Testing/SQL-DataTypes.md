@@ -1,5 +1,5 @@
 ---
-title: DataTypes
+title: SQL DataTypes
 ---
 ### Numeric Types
 ```bash
