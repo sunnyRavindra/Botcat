@@ -542,6 +542,22 @@
               "frontMatter": {}
             },
             {
+              "unversionedId": "SDET/Security-Testing/Browser-Cookies",
+              "id": "SDET/Security-Testing/Browser-Cookies",
+              "title": "Browser Cookies",
+              "description": "Cookies are the small encripted text files in the browser directory.",
+              "source": "@site/docs/SDET/Security-Testing/Browser-Cookies.md",
+              "sourceDirName": "SDET/Security-Testing",
+              "slug": "/SDET/Security-Testing/Browser-Cookies",
+              "permalink": "/SDET/Security-Testing/Browser-Cookies",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Browser Cookies"
+              }
+            },
+            {
               "unversionedId": "SDET/Security-Testing/SQL-Basics",
               "id": "SDET/Security-Testing/SQL-Basics",
               "title": "SQL Basics",

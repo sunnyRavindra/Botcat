@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '102'),
+    component: ComponentCreator('/', '55a'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -240,6 +240,11 @@ export default [
       {
         path: '/SDET/Rest-Assured/Introduction',
         component: ComponentCreator('/SDET/Rest-Assured/Introduction', '7be'),
+        exact: true
+      },
+      {
+        path: '/SDET/Security-Testing/Browser-Cookies',
+        component: ComponentCreator('/SDET/Security-Testing/Browser-Cookies', 'fcf'),
         exact: true
       },
       {

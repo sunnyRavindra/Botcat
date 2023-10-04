@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-102": {
+  "/-55a": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -286,6 +286,10 @@
   "/SDET/Rest-Assured/Introduction-7be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-rest-assured-introduction-1-f-6-f90"
+  },
+  "/SDET/Security-Testing/Browser-Cookies-fcf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-browser-cookies-6-dd-b99"
   },
   "/SDET/Security-Testing/SQL-Basics-494": {
     "__comp": "__comp---theme-doc-item-178-a40",

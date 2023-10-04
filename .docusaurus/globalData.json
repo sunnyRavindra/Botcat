@@ -122,6 +122,10 @@
               "path": "/SDET/Rest-Assured/Introduction"
             },
             {
+              "id": "SDET/Security-Testing/Browser-Cookies",
+              "path": "/SDET/Security-Testing/Browser-Cookies"
+            },
+            {
               "id": "SDET/Security-Testing/SQL-Basics",
               "path": "/SDET/Security-Testing/SQL-Basics",
               "sidebar": "SDETSidebar"

@@ -362,6 +362,11 @@
       "title": "Introduction",
       "description": ""
     },
+    "SDET/Security-Testing/Browser-Cookies": {
+      "id": "SDET/Security-Testing/Browser-Cookies",
+      "title": "Browser Cookies",
+      "description": "Cookies are the small encripted text files in the browser directory."
+    },
     "SDET/Security-Testing/SQL-Basics": {
       "id": "SDET/Security-Testing/SQL-Basics",
       "title": "SQL Basics",
