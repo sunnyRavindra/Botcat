@@ -28,3 +28,11 @@ characters and patterns hence the attacker is not fully aware of the exploits.
 1. On login two tokens gets generated
 2. Lets say for submitting a form attacker might be able to replicate with endpoints with params but if the form submission is using cryptographi token which was generate at the time of login will be needed to move forward.
 hence the attacker will not be able to attack the website.
+3. Confidential data should not go as a part of get request, it should alwasys go in post request.
+4. Request should not be successfull on manually changing the token value.
+5. Try hitting the token ID from another system and with other user, this should not work.
+6. Check if the both the Cryptography token are required not just one.
+7. Make sure Cryptography tokens are used for sensitive data on the website.
+
+### Bruteforce attach handler mechanisim
+1. make sure that automation scripts to do not try cmbinations and understand the password, lock account after 3 or 5 attempts.
