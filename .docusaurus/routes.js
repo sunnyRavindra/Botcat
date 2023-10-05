@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '55a'),
+    component: ComponentCreator('/', 'd0d'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -211,7 +211,13 @@ export default [
       },
       {
         path: '/SDET/Jira/Introduction',
-        component: ComponentCreator('/SDET/Jira/Introduction', '40a'),
+        component: ComponentCreator('/SDET/Jira/Introduction', 'f5f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Jira/static/Agile',
+        component: ComponentCreator('/SDET/Jira/static/Agile', '453'),
         exact: true
       },
       {
@@ -326,6 +332,11 @@ export default [
         component: ComponentCreator('/SDET/Workout/plan', '323'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/static/Waterfall.png',
+        component: ComponentCreator('/static/Waterfall.png', 'e30'),
+        exact: true
       }
     ]
   },

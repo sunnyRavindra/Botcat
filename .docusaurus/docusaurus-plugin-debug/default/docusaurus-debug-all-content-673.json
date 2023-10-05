@@ -392,8 +392,8 @@
                 "permalink": "/SDET/Docker/Compose"
               },
               "next": {
-                "title": "SQL Basics",
-                "permalink": "/SDET/Security-Testing/SQL-Basics"
+                "title": "Jira",
+                "permalink": "/SDET/Jira/Introduction"
               }
             },
             {
@@ -423,8 +423,8 @@
             {
               "unversionedId": "SDET/Jira/Introduction",
               "id": "SDET/Jira/Introduction",
-              "title": "Jira Introduction",
-              "description": "Jira Introduction",
+              "title": "Jira",
+              "description": "Scrum Projects",
               "source": "@site/docs/SDET/Jira/Introduction.md",
               "sourceDirName": "SDET/Jira",
               "slug": "/SDET/Jira/Introduction",
@@ -433,7 +433,40 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Jira Introduction"
+                "title": "Jira"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Package Names",
+                "permalink": "/SDET/Java/JavaPackage"
+              },
+              "next": {
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
+              }
+            },
+            {
+              "unversionedId": "SDET/Jira/static/Agile",
+              "id": "SDET/Jira/static/Agile",
+              "title": "Agile",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/Jira/static/Agile.md",
+              "sourceDirName": "SDET/Jira/static",
+              "slug": "/SDET/Jira/static/Agile",
+              "permalink": "/SDET/Jira/static/Agile",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
               }
             },
             {
@@ -574,8 +607,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Package Names",
-                "permalink": "/SDET/Java/JavaPackage"
+                "title": "Jira",
+                "permalink": "/SDET/Jira/Introduction"
               },
               "next": {
                 "title": "SQL Data Manupulation",
@@ -866,6 +899,20 @@
                 "title": "Applied Jobs",
                 "permalink": "/SDET/JobApplications/AppliedJobsDetails"
               }
+            },
+            {
+              "unversionedId": "static/Waterfall.png",
+              "id": "static/Waterfall.png",
+              "title": "Waterfall.png",
+              "description": "",
+              "source": "@site/docs/static/Waterfall.png.md",
+              "sourceDirName": "static",
+              "slug": "/static/Waterfall.png",
+              "permalink": "/static/Waterfall.png",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             }
           ],
           "drafts": [],
@@ -946,6 +993,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/Java/JavaPackage"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Jira",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Jira/Introduction"
                   }
                 ],
                 "collapsed": true,

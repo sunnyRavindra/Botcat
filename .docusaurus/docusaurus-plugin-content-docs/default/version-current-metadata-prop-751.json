@@ -111,6 +111,20 @@
       },
       {
         "type": "category",
+        "label": "Jira",
+        "items": [
+          {
+            "type": "link",
+            "label": "Jira",
+            "href": "/SDET/Jira/Introduction",
+            "docId": "SDET/Jira/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Security Testing",
         "items": [
           {
@@ -331,8 +345,14 @@
     },
     "SDET/Jira/Introduction": {
       "id": "SDET/Jira/Introduction",
-      "title": "Jira Introduction",
-      "description": "Jira Introduction"
+      "title": "Jira",
+      "description": "Scrum Projects",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Jira/static/Agile": {
+      "id": "SDET/Jira/static/Agile",
+      "title": "Agile",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/JobApplications/AppliedJobsDetails": {
       "id": "SDET/JobApplications/AppliedJobsDetails",
@@ -446,6 +466,11 @@
       "title": "Current Workout Plan",
       "description": "| Workout Name    | Sets     | Reps    | Comments    |",
       "sidebar": "SDETSidebar"
+    },
+    "static/Waterfall.png": {
+      "id": "static/Waterfall.png",
+      "title": "Waterfall.png",
+      "description": ""
     }
   }
 }

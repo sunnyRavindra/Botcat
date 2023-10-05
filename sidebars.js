@@ -42,6 +42,13 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Jira',
+      items: [
+        'SDET/Jira/Introduction',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Security Testing',
       items: [
         'SDET/Security-Testing/SQL-Basics',

@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Jira/Introduction",
   "id": "SDET/Jira/Introduction",
-  "title": "Jira Introduction",
-  "description": "Jira Introduction",
+  "title": "Jira",
+  "description": "Scrum Projects",
   "source": "@site/docs/SDET/Jira/Introduction.md",
   "sourceDirName": "SDET/Jira",
   "slug": "/SDET/Jira/Introduction",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Jira Introduction"
+    "title": "Jira"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Package Names",
+    "permalink": "/SDET/Java/JavaPackage"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/SDET/Security-Testing/SQL-Basics"
   }
 }

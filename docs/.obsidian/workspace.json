@@ -49,14 +49,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/API-Automation/Introduction.md",
+                "file": "SDET/Jira/Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f31f6db245893cac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SDET/Jira/static/Agile.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/API-Automation/Introduction.md",
+                "file": "SDET/Jira/static/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/API-Automation/Introduction.md",
+                "file": "SDET/Jira/static/Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/API-Automation/Introduction.md"
+                "file": "SDET/Jira/static/Agile.md"
               }
             }
           }
@@ -184,8 +194,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74bc4c5423da4995",
+  "active": "f31f6db245893cac",
   "lastOpenFiles": [
+    "Pasted Image 20231004210427_110.png",
+    "SDET/Jira/Introduction.md",
+    "SDET/Jira/static/Agile.md",
+    "SDET/Jira/static/Waterfall.png",
+    "SDET/Jira/static",
+    "static/Waterfall.png.md",
+    "static",
+    "SDET/Jira/SD.md",
+    "SDET/API-Automation/Introduction.md",
     "SDET/Security-Testing/Browser-Cookies.md",
     "SDET/Security-Testing/XSS-Attack.md",
     "SDET/Security-Testing/SQL-References.md",
@@ -194,7 +213,6 @@
     "SDET/API-Automation/static/APIBasics.png",
     "SDET/API-Automation/static/APITesting.md",
     "SDET/API-Automation/static/Https.png",
-    "SDET/API-Automation/Introduction.md",
     "ContactMe.md",
     "SDET/Security-Testing/static",
     "SDET/Security-Testing/SQL-DataTypes.md",
@@ -207,24 +225,17 @@
     "SDET/Security-Testing/SQL-Basics.md",
     "SDET/Security-Testing/SQL-Alter.md",
     "SDET/Security-Testing/Basics.md",
-    "SDET/Jira/Introduction.md",
     "SDET/Jira",
     "SDET/Security-Testing/Operators.md",
     "SDET/Security-Testing/Introduction.md",
     "SDET/Security-Testing/ComparisionOperators.md",
     "SDET/Security-Testing/DataTypes.md",
     "SDET/Security-Testing",
-    "SDET/SQL/ComparisionOperators.md",
-    "SDET/SQL/DataTypes.md",
-    "SDET/SQL/Introduction.md",
     "SDET/SQL",
-    "SDET/Overview.md",
     "SDET/JobApplications",
     "SDET/Java/static/Pasted Image 20230922065923_905.png",
     "SDET/DSA",
     "SDET/Java/static",
-    "SDET/Rest-Assured",
-    "Untitled",
     "Excalidraw/Profile.png",
     "Excalidraw/Pasted image 20230914225333.png",
     "Excalidraw/Pasted Image 20230912230841_354.png",

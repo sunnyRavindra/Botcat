@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Jira/SD",
+  "id": "SDET/Jira/SD",
+  "title": "SD",
+  "description": "",
+  "source": "@site/docs/SDET/Jira/SD.md",
+  "sourceDirName": "SDET/Jira",
+  "slug": "/SDET/Jira/SD",
+  "permalink": "/SDET/Jira/SD",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
