@@ -64,9 +64,19 @@
                 "file": "SDET/Jira/static/Agile.md"
               }
             }
+          },
+          {
+            "id": "e012687084bb68af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SDET/Jira/static/Agile.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,12 +204,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f31f6db245893cac",
+  "active": "e012687084bb68af",
   "lastOpenFiles": [
-    "Pasted Image 20231004210427_110.png",
+    "Pasted Image 20231010211008_010.png",
     "SDET/Jira/Introduction.md",
-    "SDET/Jira/static/Agile.md",
+    "SDET/JobApplications/AppliedJobsDetails.md",
     "SDET/Jira/static/Waterfall.png",
+    "SDET/Jira/static/Pasted Image 20231010205650_696.png",
+    "SDET/Jira/static/Pasted Image 20231010204944_212.png",
+    "SDET/Jira/static/Pasted Image 20231010202938_933.png",
+    "SDET/Jira/static/Pasted Image 20231004210427_110.png",
+    "SDET/Jira/static/Agile.md",
     "SDET/Jira/static",
     "static/Waterfall.png.md",
     "static",
@@ -229,7 +244,6 @@
     "SDET/Security-Testing/Operators.md",
     "SDET/Security-Testing/Introduction.md",
     "SDET/Security-Testing/ComparisionOperators.md",
-    "SDET/Security-Testing/DataTypes.md",
     "SDET/Security-Testing",
     "SDET/SQL",
     "SDET/JobApplications",
@@ -238,10 +252,6 @@
     "SDET/Java/static",
     "Excalidraw/Profile.png",
     "Excalidraw/Pasted image 20230914225333.png",
-    "Excalidraw/Pasted Image 20230912230841_354.png",
-    "Excalidraw/Pasted Image 20230911160818_048.png",
-    "Excalidraw/Pasted Image 20230911160801_040.png",
-    "Excalidraw/Pasted Image 20230911160731_020.png",
     "Untitled.canvas"
   ]
 }

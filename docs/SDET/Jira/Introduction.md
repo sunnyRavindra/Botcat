@@ -79,10 +79,6 @@ Epic -> Stories -> Tasks -> Bug
 
 ### Edge Test cases 
 
-
-
-
-
 ### Jira Introduction
 
 1. Bug Tracking
@@ -252,17 +248,35 @@ Req 4: Added items in cart should display in Checkout page
 Req 5: Select the country to deliver before Purchase
 Req 6: Complete purchase by providing payment details and generate receipt
 
+---
+Skills
+Automation, 
+Eclipse
+TestRail, 
+TestLink, 
+Zephyr,  
+Java,  
+Appium, 
+Selenium, 
+API Testing, 
+TestNG, 
+Security Testing, 
+Cloud, 
+Docker, Kubernetes,
+WebDriver,
+Robot Framework,
+Git,
+Jenkins, Travis CI, and CircleCI,
+TestRail, TestLink, and Zephyr,
+Apache JMeter, LoadRunner, and Gatling,
+Postman, SoapUI, and Rest Assured,
+Chrome DevTools and Firefox Developer Tools,
+Appium, Espresso, and XCUITest,
+Allure, Extent Reports, and TestNG ,
+Faker and DataFactory for generating realistic test data.
+ Security Testing Tools: Knowledge of tools like OWASP ZAP, Nessus, and Burp Suite for security testing.
+
+---
 
 
-Automation Framework Development:Developed Hybrid, Data-Driven, and Keyword-Driven Automation Frameworks using Selenium, Page Object Model, TestNG, and Extent Report for multiple BMO projects.
-Mobile Automation:Contributed to Mobile Automation Frameworks using Appium, covering a range of devices, including those on Browser Stack and emulator devices.
-API Automation:Designed and developed API Automation Frameworks, incorporating Database Automation using SQL.
-Automation Strategy:Designed and implemented automation strategies for the VisionIP platform, ensuring quality and reliability. Collaborated closely with the development team to identify and address defects and issues promptly.
-Mentoring:Mentored trainees on best practices in software testing and automation, including Test Planning, Test Case Design, Defect Management, Selenium, Agile methodologies, and overall testing concepts.
 
-
-1. Developed Hybrid, Data-Driven, and Keyword-Driven Automation Frameworks using Selenium, Page Object Model, TestNG, and Extent Report for multiple BMO projects.
-2. Contributed to Mobile Automation Frameworks using Appium, covering a range of devices, including those on Browser Stack and emulator devices.
-3. Developed API Automation Frameworks, incorporating Database Automation using SQL.
-4. Implemented automation strategies for the VisionIP platform, ensuring quality and reliability. Collaborated closely with the development team to identify and address defects and issues promptly.
-5. Mentored trainees on best practices in software testing and automation, including Test Planning, Test Case Design, Defect Management, Selenium, Agile methodologies, and overall testing concepts.
