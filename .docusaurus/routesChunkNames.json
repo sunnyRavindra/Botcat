@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-d0d": {
+  "/-c28": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -263,13 +263,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-java-static-java-040-431"
   },
-  "/SDET/Jira/Introduction-f5f": {
+  "/SDET/Jira/Agile-Project-94e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-jira-introductionbd-8-b6b"
+    "content": "content---sdet-jira-agile-projectd-5-e-148"
   },
   "/SDET/Jira/static/Agile-453": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-jira-static-agilef-81-713"
+  },
+  "/SDET/Jira/WaterFall-Project-b17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jira-water-fall-projectbeb-43f"
   },
   "/SDET/JobApplications/AppliedJobsDetails-665": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -347,9 +351,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-selenium-synchronisation-419-3b9"
   },
+  "/SDET/Testing-Concepts/TestingConcepts-05a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-testing-conceptsa-52-6ae"
+  },
   "/SDET/Workout/plan-323": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-workout-plan-121-027"
+  },
+  "/SDET/Xray/-a6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-ebf-2e8"
   },
   "/static/Waterfall.png-e30": {
     "__comp": "__comp---theme-doc-item-178-a40",

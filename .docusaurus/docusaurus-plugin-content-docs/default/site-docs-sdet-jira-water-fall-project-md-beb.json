@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Jira/WaterFall-Project",
+  "id": "SDET/Jira/WaterFall-Project",
+  "title": "Waterafall Project",
+  "description": "Waterfall Project",
+  "source": "@site/docs/SDET/Jira/WaterFall-Project.md",
+  "sourceDirName": "SDET/Jira",
+  "slug": "/SDET/Jira/WaterFall-Project",
+  "permalink": "/SDET/Jira/WaterFall-Project",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Waterafall Project"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Agile Project",
+    "permalink": "/SDET/Jira/Agile-Project"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/SDET/Security-Testing/SQL-Basics"
+  }
+}

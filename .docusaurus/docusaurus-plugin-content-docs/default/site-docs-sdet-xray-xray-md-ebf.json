@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Xray/Xray",
+  "id": "SDET/Xray/Xray",
+  "title": "Xray",
+  "description": "",
+  "source": "@site/docs/SDET/Xray/Xray.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/",
+  "permalink": "/SDET/Xray/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

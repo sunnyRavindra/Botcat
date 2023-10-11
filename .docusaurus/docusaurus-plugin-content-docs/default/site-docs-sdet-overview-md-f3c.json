@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Overview",
   "id": "SDET/Overview",
-  "title": "My Second Brain",
-  "description": "",
+  "title": "Skill",
+  "description": "1. Test Automation Frameworks",
   "source": "@site/docs/SDET/Overview.md",
   "sourceDirName": "SDET",
   "slug": "/SDET/Overview",
@@ -11,6 +11,6 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "My Second Brain"
+    "title": "Skill"
   }
 }

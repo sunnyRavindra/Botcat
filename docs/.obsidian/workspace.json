@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/API-Automation/Introduction.md",
+                "file": "SDET/Jira/WaterFall-Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "74bc4c5423da4995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Jira/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f31f6db245893cac",
             "type": "leaf",
             "state": {
@@ -64,19 +52,8 @@
                 "file": "SDET/Jira/static/Agile.md"
               }
             }
-          },
-          {
-            "id": "e012687084bb68af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SDET/Jira/static/Agile.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Jira/static/Agile.md",
+                "file": "SDET/Jira/WaterFall-Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Jira/static/Agile.md",
+                "file": "SDET/Jira/WaterFall-Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Jira/static/Agile.md"
+                "file": "SDET/Jira/WaterFall-Project.md"
               }
             }
           }
@@ -204,22 +181,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e012687084bb68af",
+  "active": "f9753ca96f69ebba",
   "lastOpenFiles": [
-    "Pasted Image 20231010211008_010.png",
-    "SDET/Jira/Introduction.md",
-    "SDET/JobApplications/AppliedJobsDetails.md",
+    "SDET/Xray/Xray.md",
+    "SDET/Xray",
+    "SDET/Testing-Concepts/TestingConcepts.md",
+    "SDET/Testing-Concepts",
+    "SDET/Jira/Agile-Project.md",
+    "SDET/Jira/WaterFall-Project.md",
+    "SDET/API-Automation/Introduction.md",
+    "SDET/Java/Data Types.md",
+    "ContactMe.md",
+    "SDET/Jira/static/Agile.md",
+    "SDET/Jira/static/AgileWorkflow.png",
+    "Pasted image 20231011085241 1.png",
+    "SDET/Jira/static/AgileProject.png",
     "SDET/Jira/static/Waterfall.png",
+    "SDET/Jira/static/Pasted Image 20231010211008_010.png",
     "SDET/Jira/static/Pasted Image 20231010205650_696.png",
     "SDET/Jira/static/Pasted Image 20231010204944_212.png",
     "SDET/Jira/static/Pasted Image 20231010202938_933.png",
     "SDET/Jira/static/Pasted Image 20231004210427_110.png",
-    "SDET/Jira/static/Agile.md",
+    "SDET/Jira/Introduction.md",
+    "SDET/JobApplications/AppliedJobsDetails.md",
     "SDET/Jira/static",
     "static/Waterfall.png.md",
     "static",
     "SDET/Jira/SD.md",
-    "SDET/API-Automation/Introduction.md",
     "SDET/Security-Testing/Browser-Cookies.md",
     "SDET/Security-Testing/XSS-Attack.md",
     "SDET/Security-Testing/SQL-References.md",
@@ -227,8 +215,6 @@
     "SDET/API-Automation/static/API.md",
     "SDET/API-Automation/static/APIBasics.png",
     "SDET/API-Automation/static/APITesting.md",
-    "SDET/API-Automation/static/Https.png",
-    "ContactMe.md",
     "SDET/Security-Testing/static",
     "SDET/Security-Testing/SQL-DataTypes.md",
     "SDET/Security-Testing/SQL-Operators.md",
@@ -239,19 +225,10 @@
     "SDET/Security-Testing/SQL-Alter-Data.md",
     "SDET/Security-Testing/SQL-Basics.md",
     "SDET/Security-Testing/SQL-Alter.md",
-    "SDET/Security-Testing/Basics.md",
     "SDET/Jira",
-    "SDET/Security-Testing/Operators.md",
-    "SDET/Security-Testing/Introduction.md",
-    "SDET/Security-Testing/ComparisionOperators.md",
     "SDET/Security-Testing",
     "SDET/SQL",
     "SDET/JobApplications",
-    "SDET/Java/static/Pasted Image 20230922065923_905.png",
-    "SDET/DSA",
-    "SDET/Java/static",
-    "Excalidraw/Profile.png",
-    "Excalidraw/Pasted image 20230914225333.png",
     "Untitled.canvas"
   ]
 }

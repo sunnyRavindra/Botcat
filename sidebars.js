@@ -44,7 +44,8 @@ const sidebars = {
       type: 'category',
       label: 'Jira',
       items: [
-        'SDET/Jira/Introduction',
+        'SDET/Jira/Agile-Project',
+        'SDET/Jira/WaterFall-Project',
       ],
     },
     {

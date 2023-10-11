@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Jira",
-    "permalink": "/SDET/Jira/Introduction"
+    "title": "Waterafall Project",
+    "permalink": "/SDET/Jira/WaterFall-Project"
   },
   "next": {
     "title": "SQL Data Manupulation",

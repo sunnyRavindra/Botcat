@@ -115,9 +115,15 @@
         "items": [
           {
             "type": "link",
-            "label": "Jira",
-            "href": "/SDET/Jira/Introduction",
-            "docId": "SDET/Jira/Introduction"
+            "label": "Agile Project",
+            "href": "/SDET/Jira/Agile-Project",
+            "docId": "SDET/Jira/Agile-Project"
+          },
+          {
+            "type": "link",
+            "label": "Waterafall Project",
+            "href": "/SDET/Jira/WaterFall-Project",
+            "docId": "SDET/Jira/WaterFall-Project"
           }
         ],
         "collapsed": true,
@@ -343,16 +349,22 @@
       "title": "Java",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "SDET/Jira/Introduction": {
-      "id": "SDET/Jira/Introduction",
-      "title": "Jira",
-      "description": "Scrum Projects",
+    "SDET/Jira/Agile-Project": {
+      "id": "SDET/Jira/Agile-Project",
+      "title": "Agile Project",
+      "description": "Agile Projects",
       "sidebar": "SDETSidebar"
     },
     "SDET/Jira/static/Agile": {
       "id": "SDET/Jira/static/Agile",
       "title": "Agile",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Jira/WaterFall-Project": {
+      "id": "SDET/Jira/WaterFall-Project",
+      "title": "Waterafall Project",
+      "description": "Waterfall Project",
+      "sidebar": "SDETSidebar"
     },
     "SDET/JobApplications/AppliedJobsDetails": {
       "id": "SDET/JobApplications/AppliedJobsDetails",
@@ -368,8 +380,8 @@
     },
     "SDET/Overview": {
       "id": "SDET/Overview",
-      "title": "My Second Brain",
-      "description": ""
+      "title": "Skill",
+      "description": "1. Test Automation Frameworks"
     },
     "SDET/Playwright/Introduction": {
       "id": "SDET/Playwright/Introduction",
@@ -461,11 +473,21 @@
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
     },
+    "SDET/Testing-Concepts/TestingConcepts": {
+      "id": "SDET/Testing-Concepts/TestingConcepts",
+      "title": "Testing Concepts",
+      "description": "Test Scenario"
+    },
     "SDET/Workout/plan": {
       "id": "SDET/Workout/plan",
       "title": "Current Workout Plan",
       "description": "| Workout Name    | Sets     | Reps    | Comments    |",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Xray/Xray": {
+      "id": "SDET/Xray/Xray",
+      "title": "Xray",
+      "description": ""
     },
     "static/Waterfall.png": {
       "id": "static/Waterfall.png",

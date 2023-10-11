@@ -1,12 +1,12 @@
 {
-  "unversionedId": "SDET/Jira/Introduction",
-  "id": "SDET/Jira/Introduction",
+  "unversionedId": "SDET/Jira/Agile-Project",
+  "id": "SDET/Jira/Agile-Project",
   "title": "Agile Project",
   "description": "Agile Projects",
-  "source": "@site/docs/SDET/Jira/Introduction.md",
+  "source": "@site/docs/SDET/Jira/Agile-Project.md",
   "sourceDirName": "SDET/Jira",
-  "slug": "/SDET/Jira/Introduction",
-  "permalink": "/SDET/Jira/Introduction",
+  "slug": "/SDET/Jira/Agile-Project",
+  "permalink": "/SDET/Jira/Agile-Project",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,7 +19,7 @@
     "permalink": "/SDET/Java/JavaPackage"
   },
   "next": {
-    "title": "SQL Basics",
-    "permalink": "/SDET/Security-Testing/SQL-Basics"
+    "title": "Waterafall Project",
+    "permalink": "/SDET/Jira/WaterFall-Project"
   }
 }

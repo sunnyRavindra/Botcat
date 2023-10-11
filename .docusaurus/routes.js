@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd0d'),
+    component: ComponentCreator('/', 'c28'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -210,8 +210,8 @@ export default [
         exact: true
       },
       {
-        path: '/SDET/Jira/Introduction',
-        component: ComponentCreator('/SDET/Jira/Introduction', 'f5f'),
+        path: '/SDET/Jira/Agile-Project',
+        component: ComponentCreator('/SDET/Jira/Agile-Project', '94e'),
         exact: true,
         sidebar: "SDETSidebar"
       },
@@ -219,6 +219,12 @@ export default [
         path: '/SDET/Jira/static/Agile',
         component: ComponentCreator('/SDET/Jira/static/Agile', '453'),
         exact: true
+      },
+      {
+        path: '/SDET/Jira/WaterFall-Project',
+        component: ComponentCreator('/SDET/Jira/WaterFall-Project', 'b17'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/JobApplications/AppliedJobsDetails',
@@ -328,10 +334,20 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Testing-Concepts/TestingConcepts',
+        component: ComponentCreator('/SDET/Testing-Concepts/TestingConcepts', '05a'),
+        exact: true
+      },
+      {
         path: '/SDET/Workout/plan',
         component: ComponentCreator('/SDET/Workout/plan', '323'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Xray/',
+        component: ComponentCreator('/SDET/Xray/', 'a6f'),
+        exact: true
       },
       {
         path: '/static/Waterfall.png',

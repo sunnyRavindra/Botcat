@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/TestingConcepts",
+  "id": "SDET/Testing-Concepts/TestingConcepts",
+  "title": "Testing Concepts",
+  "description": "Test Scenario",
+  "source": "@site/docs/SDET/Testing-Concepts/TestingConcepts.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/TestingConcepts",
+  "permalink": "/SDET/Testing-Concepts/TestingConcepts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Testing Concepts"
+  }
+}

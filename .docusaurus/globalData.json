@@ -95,13 +95,18 @@
               "path": "/SDET/Java/static/Java"
             },
             {
-              "id": "SDET/Jira/Introduction",
-              "path": "/SDET/Jira/Introduction",
+              "id": "SDET/Jira/Agile-Project",
+              "path": "/SDET/Jira/Agile-Project",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Jira/static/Agile",
               "path": "/SDET/Jira/static/Agile"
+            },
+            {
+              "id": "SDET/Jira/WaterFall-Project",
+              "path": "/SDET/Jira/WaterFall-Project",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/JobApplications/AppliedJobsDetails",
@@ -192,9 +197,17 @@
               "path": "/SDET/Selenium/Synchronisation"
             },
             {
+              "id": "SDET/Testing-Concepts/TestingConcepts",
+              "path": "/SDET/Testing-Concepts/TestingConcepts"
+            },
+            {
               "id": "SDET/Workout/plan",
               "path": "/SDET/Workout/plan",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Xray/Xray",
+              "path": "/SDET/Xray/"
             },
             {
               "id": "static/Waterfall.png",

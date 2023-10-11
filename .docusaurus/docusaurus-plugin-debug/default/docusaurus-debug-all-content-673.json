@@ -392,8 +392,8 @@
                 "permalink": "/SDET/Docker/Compose"
               },
               "next": {
-                "title": "Jira",
-                "permalink": "/SDET/Jira/Introduction"
+                "title": "Agile Project",
+                "permalink": "/SDET/Jira/Agile-Project"
               }
             },
             {
@@ -421,19 +421,19 @@
               }
             },
             {
-              "unversionedId": "SDET/Jira/Introduction",
-              "id": "SDET/Jira/Introduction",
-              "title": "Jira",
-              "description": "Scrum Projects",
-              "source": "@site/docs/SDET/Jira/Introduction.md",
+              "unversionedId": "SDET/Jira/Agile-Project",
+              "id": "SDET/Jira/Agile-Project",
+              "title": "Agile Project",
+              "description": "Agile Projects",
+              "source": "@site/docs/SDET/Jira/Agile-Project.md",
               "sourceDirName": "SDET/Jira",
-              "slug": "/SDET/Jira/Introduction",
-              "permalink": "/SDET/Jira/Introduction",
+              "slug": "/SDET/Jira/Agile-Project",
+              "permalink": "/SDET/Jira/Agile-Project",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Jira"
+                "title": "Agile Project"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -441,8 +441,8 @@
                 "permalink": "/SDET/Java/JavaPackage"
               },
               "next": {
-                "title": "SQL Basics",
-                "permalink": "/SDET/Security-Testing/SQL-Basics"
+                "title": "Waterafall Project",
+                "permalink": "/SDET/Jira/WaterFall-Project"
               }
             },
             {
@@ -467,6 +467,31 @@
                 "tags": [
                   "excalidraw"
                 ]
+              }
+            },
+            {
+              "unversionedId": "SDET/Jira/WaterFall-Project",
+              "id": "SDET/Jira/WaterFall-Project",
+              "title": "Waterafall Project",
+              "description": "Waterfall Project",
+              "source": "@site/docs/SDET/Jira/WaterFall-Project.md",
+              "sourceDirName": "SDET/Jira",
+              "slug": "/SDET/Jira/WaterFall-Project",
+              "permalink": "/SDET/Jira/WaterFall-Project",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Waterafall Project"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Agile Project",
+                "permalink": "/SDET/Jira/Agile-Project"
+              },
+              "next": {
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
               }
             },
             {
@@ -522,8 +547,8 @@
             {
               "unversionedId": "SDET/Overview",
               "id": "SDET/Overview",
-              "title": "My Second Brain",
-              "description": "",
+              "title": "Skill",
+              "description": "1. Test Automation Frameworks",
               "source": "@site/docs/SDET/Overview.md",
               "sourceDirName": "SDET",
               "slug": "/SDET/Overview",
@@ -532,7 +557,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "My Second Brain"
+                "title": "Skill"
               }
             },
             {
@@ -607,8 +632,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Jira",
-                "permalink": "/SDET/Jira/Introduction"
+                "title": "Waterafall Project",
+                "permalink": "/SDET/Jira/WaterFall-Project"
               },
               "next": {
                 "title": "SQL Data Manupulation",
@@ -880,6 +905,22 @@
               "frontMatter": {}
             },
             {
+              "unversionedId": "SDET/Testing-Concepts/TestingConcepts",
+              "id": "SDET/Testing-Concepts/TestingConcepts",
+              "title": "Testing Concepts",
+              "description": "Test Scenario",
+              "source": "@site/docs/SDET/Testing-Concepts/TestingConcepts.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/TestingConcepts",
+              "permalink": "/SDET/Testing-Concepts/TestingConcepts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Testing Concepts"
+              }
+            },
+            {
               "unversionedId": "SDET/Workout/plan",
               "id": "SDET/Workout/plan",
               "title": "Current Workout Plan",
@@ -899,6 +940,20 @@
                 "title": "Applied Jobs",
                 "permalink": "/SDET/JobApplications/AppliedJobsDetails"
               }
+            },
+            {
+              "unversionedId": "SDET/Xray/Xray",
+              "id": "SDET/Xray/Xray",
+              "title": "Xray",
+              "description": "",
+              "source": "@site/docs/SDET/Xray/Xray.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/",
+              "permalink": "/SDET/Xray/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             },
             {
               "unversionedId": "static/Waterfall.png",
@@ -1004,7 +1059,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/Jira/Introduction"
+                    "id": "SDET/Jira/Agile-Project"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Jira/WaterFall-Project"
                   }
                 ],
                 "collapsed": true,
