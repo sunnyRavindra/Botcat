@@ -67,8 +67,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Browser Options",
-                "permalink": "/SDET/Selenium/BrowserOptions"
+                "title": "XSS Attack",
+                "permalink": "/SDET/Security-Testing/XSS-Attack"
               },
               "next": {
                 "title": "Cucumber",
@@ -490,8 +490,8 @@
                 "permalink": "/SDET/Jira/Agile-Project"
               },
               "next": {
-                "title": "Test Plan",
-                "permalink": "/SDET/Testing-Concepts/TestPlan"
+                "title": "Playwright Into",
+                "permalink": "/SDET/Playwright/Introduction"
               }
             },
             {
@@ -536,8 +536,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "XSS Attack",
-                "permalink": "/SDET/Security-Testing/XSS-Attack"
+                "title": "Waterafall Project",
+                "permalink": "/SDET/Jira/WaterFall-Project"
               },
               "next": {
                 "title": "Maven Introduction",
@@ -736,8 +736,8 @@
                 "permalink": "/SDET/Security-Testing/SQL-Injection"
               },
               "next": {
-                "title": "Playwright Into",
-                "permalink": "/SDET/Playwright/Introduction"
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Automation/Introduction"
               }
             },
             {
@@ -761,8 +761,8 @@
                 "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
-                "title": "HTTP Basics",
-                "permalink": "/SDET/API-Automation/Introduction"
+                "title": "Test Plan",
+                "permalink": "/SDET/Testing-Concepts/TestPlan"
               }
             },
             {
@@ -1033,7 +1033,7 @@
               "unversionedId": "SDET/Testing-Concepts/TestCase",
               "id": "SDET/Testing-Concepts/TestCase",
               "title": "Test Case",
-              "description": "TestCase Components",
+              "description": "TestCase Example",
               "source": "@site/docs/SDET/Testing-Concepts/TestCase.md",
               "sourceDirName": "SDET/Testing-Concepts",
               "slug": "/SDET/Testing-Concepts/TestCase",
@@ -1083,7 +1083,7 @@
               "unversionedId": "SDET/Testing-Concepts/TestPlan",
               "id": "SDET/Testing-Concepts/TestPlan",
               "title": "Test Plan",
-              "description": "Introduction",
+              "description": "TestPlan Example",
               "source": "@site/docs/SDET/Testing-Concepts/TestPlan.md",
               "sourceDirName": "SDET/Testing-Concepts",
               "slug": "/SDET/Testing-Concepts/TestPlan",
@@ -1096,8 +1096,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Waterafall Project",
-                "permalink": "/SDET/Jira/WaterFall-Project"
+                "title": "Browser Options",
+                "permalink": "/SDET/Selenium/BrowserOptions"
               },
               "next": {
                 "title": "Test Case",
@@ -1181,6 +1181,78 @@
               },
               {
                 "type": "category",
+                "label": "Testing Concepts",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/TestPlan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/TestCase"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Test-Cases"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Test-Pyramid"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Testing-levels"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Priority-vs-severity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Smoke-vs-Sanity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Retesting-vs-Regression"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Security Testing",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Data-Manupulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-DataTypes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Operators"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/SQL-Injection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Security-Testing/XSS-Attack"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "API Automation",
                 "items": [
                   {
@@ -1250,78 +1322,6 @@
                   {
                     "type": "doc",
                     "id": "SDET/Jira/WaterFall-Project"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Testing Concepts",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/TestPlan"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/TestCase"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Test-Cases"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Test-Pyramid"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Testing-levels"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Priority-vs-severity"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Smoke-vs-Sanity"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Testing-Concepts/Retesting-vs-Regression"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Security Testing",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/SQL-Basics"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/SQL-Data-Manupulation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/SQL-DataTypes"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/SQL-Operators"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/SQL-Injection"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SDET/Security-Testing/XSS-Attack"
                   }
                 ],
                 "collapsed": true,

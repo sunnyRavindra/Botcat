@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Browser Options",
-    "permalink": "/SDET/Selenium/BrowserOptions"
+    "title": "XSS Attack",
+    "permalink": "/SDET/Security-Testing/XSS-Attack"
   },
   "next": {
     "title": "Cucumber",

@@ -2,6 +2,11 @@
 title: Test Plan
 ---
 
+### TestPlan Example
+
+[TestPlan Example](./static/TestPlan.doc)
+
+
 ### Introduction
    - Overview of the document.
    - Purpose and scope of the test plan.

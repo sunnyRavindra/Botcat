@@ -37,100 +37,6 @@
       },
       {
         "type": "category",
-        "label": "API Automation",
-        "items": [
-          {
-            "type": "link",
-            "label": "HTTP Basics",
-            "href": "/SDET/API-Automation/Introduction",
-            "docId": "SDET/API-Automation/Introduction"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Cucumber",
-        "items": [
-          {
-            "type": "link",
-            "label": "Cucumber",
-            "href": "/SDET/Cucumber/Introduction",
-            "docId": "SDET/Cucumber/Introduction"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Docker",
-        "items": [
-          {
-            "type": "link",
-            "label": "Docker",
-            "href": "/SDET/Docker/Docker-Introduction",
-            "docId": "SDET/Docker/Docker-Introduction"
-          },
-          {
-            "type": "link",
-            "label": "Docker Commands",
-            "href": "/SDET/Docker/Docker-Commands",
-            "docId": "SDET/Docker/Docker-Commands"
-          },
-          {
-            "type": "link",
-            "label": "Interacting with container",
-            "href": "/SDET/Docker/ContainerInteractions",
-            "docId": "SDET/Docker/ContainerInteractions"
-          },
-          {
-            "type": "link",
-            "label": "Docker Compose",
-            "href": "/SDET/Docker/Compose",
-            "docId": "SDET/Docker/Compose"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Java",
-        "items": [
-          {
-            "type": "link",
-            "label": "Package Names",
-            "href": "/SDET/Java/JavaPackage",
-            "docId": "SDET/Java/JavaPackage"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Jira",
-        "items": [
-          {
-            "type": "link",
-            "label": "Agile Project",
-            "href": "/SDET/Jira/Agile-Project",
-            "docId": "SDET/Jira/Agile-Project"
-          },
-          {
-            "type": "link",
-            "label": "Waterafall Project",
-            "href": "/SDET/Jira/WaterFall-Project",
-            "docId": "SDET/Jira/WaterFall-Project"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
         "label": "Testing Concepts",
         "items": [
           {
@@ -224,6 +130,100 @@
             "label": "XSS Attack",
             "href": "/SDET/Security-Testing/XSS-Attack",
             "docId": "SDET/Security-Testing/XSS-Attack"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "API Automation",
+        "items": [
+          {
+            "type": "link",
+            "label": "HTTP Basics",
+            "href": "/SDET/API-Automation/Introduction",
+            "docId": "SDET/API-Automation/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Cucumber",
+        "items": [
+          {
+            "type": "link",
+            "label": "Cucumber",
+            "href": "/SDET/Cucumber/Introduction",
+            "docId": "SDET/Cucumber/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Docker",
+        "items": [
+          {
+            "type": "link",
+            "label": "Docker",
+            "href": "/SDET/Docker/Docker-Introduction",
+            "docId": "SDET/Docker/Docker-Introduction"
+          },
+          {
+            "type": "link",
+            "label": "Docker Commands",
+            "href": "/SDET/Docker/Docker-Commands",
+            "docId": "SDET/Docker/Docker-Commands"
+          },
+          {
+            "type": "link",
+            "label": "Interacting with container",
+            "href": "/SDET/Docker/ContainerInteractions",
+            "docId": "SDET/Docker/ContainerInteractions"
+          },
+          {
+            "type": "link",
+            "label": "Docker Compose",
+            "href": "/SDET/Docker/Compose",
+            "docId": "SDET/Docker/Compose"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Java",
+        "items": [
+          {
+            "type": "link",
+            "label": "Package Names",
+            "href": "/SDET/Java/JavaPackage",
+            "docId": "SDET/Java/JavaPackage"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Jira",
+        "items": [
+          {
+            "type": "link",
+            "label": "Agile Project",
+            "href": "/SDET/Jira/Agile-Project",
+            "docId": "SDET/Jira/Agile-Project"
+          },
+          {
+            "type": "link",
+            "label": "Waterafall Project",
+            "href": "/SDET/Jira/WaterFall-Project",
+            "docId": "SDET/Jira/WaterFall-Project"
           }
         ],
         "collapsed": true,
@@ -562,7 +562,7 @@
     "SDET/Testing-Concepts/TestCase": {
       "id": "SDET/Testing-Concepts/TestCase",
       "title": "Test Case",
-      "description": "TestCase Components",
+      "description": "TestCase Example",
       "sidebar": "SDETSidebar"
     },
     "SDET/Testing-Concepts/Testing-levels": {
@@ -574,7 +574,7 @@
     "SDET/Testing-Concepts/TestPlan": {
       "id": "SDET/Testing-Concepts/TestPlan",
       "title": "Test Plan",
-      "description": "Introduction",
+      "description": "TestPlan Example",
       "sidebar": "SDETSidebar"
     },
     "SDET/Workout/plan": {

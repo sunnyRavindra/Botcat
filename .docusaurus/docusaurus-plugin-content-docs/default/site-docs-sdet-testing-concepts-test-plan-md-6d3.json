@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Testing-Concepts/TestPlan",
   "id": "SDET/Testing-Concepts/TestPlan",
   "title": "Test Plan",
-  "description": "Introduction",
+  "description": "TestPlan Example",
   "source": "@site/docs/SDET/Testing-Concepts/TestPlan.md",
   "sourceDirName": "SDET/Testing-Concepts",
   "slug": "/SDET/Testing-Concepts/TestPlan",
@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Waterafall Project",
-    "permalink": "/SDET/Jira/WaterFall-Project"
+    "title": "Browser Options",
+    "permalink": "/SDET/Selenium/BrowserOptions"
   },
   "next": {
     "title": "Test Case",

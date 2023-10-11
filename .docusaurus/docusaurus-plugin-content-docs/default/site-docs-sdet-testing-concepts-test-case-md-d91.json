@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Testing-Concepts/TestCase",
   "id": "SDET/Testing-Concepts/TestCase",
   "title": "Test Case",
-  "description": "TestCase Components",
+  "description": "TestCase Example",
   "source": "@site/docs/SDET/Testing-Concepts/TestCase.md",
   "sourceDirName": "SDET/Testing-Concepts",
   "slug": "/SDET/Testing-Concepts/TestCase",

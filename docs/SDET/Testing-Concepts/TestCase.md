@@ -2,7 +2,9 @@
 title: Test Case
 ---
 
-### TestCase Components
+### TestCase Example
+
+[TestCase Example](./static/TestCaseTemplate.xls)
 
 ### Test Case Identifier
   - A unique identifier or name for the test case, often using a numbering or naming convention for easy reference.

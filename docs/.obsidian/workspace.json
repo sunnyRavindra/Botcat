@@ -11,9 +11,11 @@
             "id": "f9753ca96f69ebba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SDET/Testing-Concepts/static/Pyramid.png"
+                "file": "SDET/Testing-Concepts/TestCase.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Testing-Concepts/static/Pyramid.png",
+                "file": "SDET/Testing-Concepts/TestCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Testing-Concepts/static/Pyramid.png",
+                "file": "SDET/Testing-Concepts/TestCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Testing-Concepts/static/Pyramid.png"
+                "file": "SDET/Testing-Concepts/TestCase.md"
               }
             }
           }
@@ -181,10 +183,13 @@
   },
   "active": "f9753ca96f69ebba",
   "lastOpenFiles": [
+    "SDET/Testing-Concepts/static/TestPlan.doc",
+    "SDET/Testing-Concepts/static/TestCaseTemplate.xls",
+    "SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
+    "SDET/Testing-Concepts/static/Pyramid.png",
     "SDET/Testing-Concepts/TestCase.md",
     "SDET/Testing-Concepts/TestPlan.md",
     "SDET/Testing-Concepts/Retesting-vs-Regression.md",
-    "SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
     "SDET/Testing-Concepts/Smoke-vs-Sanity.md",
     "SDET/Testing-Concepts/Smoke vs Sanity",
     "SDET/Testing-Concepts/Priority-vs-severity.md",
@@ -193,7 +198,6 @@
     "SDET/Testing-Concepts/Test-Pyramid.md",
     "SDET/Testing-Concepts/TestingConcepts.md",
     "SDET/Testing-Concepts/Test-Cases.md",
-    "SDET/Testing-Concepts/static/Pyramid.png",
     "SDET/Testing-Concepts/static",
     "SDET/Selenium/Synchronisation.md",
     "SDET/Selenium/notes.md",
@@ -224,9 +228,7 @@
     "static/Waterfall.png.md",
     "static",
     "SDET/Jira/SD.md",
-    "SDET/Security-Testing/Browser-Cookies.md",
     "SDET/Security-Testing/static",
-    "SDET/Workout",
     "Untitled.canvas"
   ]
 }

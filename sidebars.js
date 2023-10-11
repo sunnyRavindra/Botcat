@@ -11,6 +11,32 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Testing Concepts',
+      items: [
+        'SDET/Testing-Concepts/TestPlan',
+        'SDET/Testing-Concepts/TestCase',
+        'SDET/Testing-Concepts/Test-Cases',
+        'SDET/Testing-Concepts/Test-Pyramid',
+        'SDET/Testing-Concepts/Testing-levels',
+        'SDET/Testing-Concepts/Priority-vs-severity',
+        'SDET/Testing-Concepts/Smoke-vs-Sanity',
+        'SDET/Testing-Concepts/Retesting-vs-Regression'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Security Testing',
+      items: [
+        'SDET/Security-Testing/SQL-Basics',
+        'SDET/Security-Testing/SQL-Data-Manupulation',
+        'SDET/Security-Testing/SQL-DataTypes',
+        'SDET/Security-Testing/SQL-Operators',
+        'SDET/Security-Testing/SQL-Injection',
+        'SDET/Security-Testing/XSS-Attack',
+      ],
+    },
+    {
+      type: 'category',
       label: 'API Automation',
       items: [
         'SDET/API-Automation/Introduction',
@@ -46,32 +72,6 @@ const sidebars = {
       items: [
         'SDET/Jira/Agile-Project',
         'SDET/Jira/WaterFall-Project',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Testing Concepts',
-      items: [
-        'SDET/Testing-Concepts/TestPlan',
-        'SDET/Testing-Concepts/TestCase',
-        'SDET/Testing-Concepts/Test-Cases',
-        'SDET/Testing-Concepts/Test-Pyramid',
-        'SDET/Testing-Concepts/Testing-levels',
-        'SDET/Testing-Concepts/Priority-vs-severity',
-        'SDET/Testing-Concepts/Smoke-vs-Sanity',
-        'SDET/Testing-Concepts/Retesting-vs-Regression'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Security Testing',
-      items: [
-        'SDET/Security-Testing/SQL-Basics',
-        'SDET/Security-Testing/SQL-Data-Manupulation',
-        'SDET/Security-Testing/SQL-DataTypes',
-        'SDET/Security-Testing/SQL-Operators',
-        'SDET/Security-Testing/SQL-Injection',
-        'SDET/Security-Testing/XSS-Attack',
       ],
     },
     {
