@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+  "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+  "title": "Smoke vs Sanity",
+  "description": "Smoke Testing",
+  "source": "@site/docs/SDET/Testing-Concepts/Smoke-vs-Sanity.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+  "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Smoke vs Sanity"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Priority vs Severity",
+    "permalink": "/SDET/Testing-Concepts/Priority-vs-severity"
+  },
+  "next": {
+    "title": "Retesting vs Regression Testing",
+    "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
+  }
+}

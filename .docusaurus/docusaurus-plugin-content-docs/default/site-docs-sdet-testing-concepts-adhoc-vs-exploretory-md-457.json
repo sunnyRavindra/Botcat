@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+  "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+  "title": "Adhoc vs Exploretory",
+  "description": "Ad-hoc Testing",
+  "source": "@site/docs/SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+  "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Adhoc vs Exploretory"
+  }
+}

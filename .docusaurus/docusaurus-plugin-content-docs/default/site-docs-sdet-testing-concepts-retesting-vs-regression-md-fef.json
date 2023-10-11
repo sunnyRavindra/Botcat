@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Retesting-vs-Regression",
+  "id": "SDET/Testing-Concepts/Retesting-vs-Regression",
+  "title": "Retesting vs Regression Testing",
+  "description": "Retesting",
+  "source": "@site/docs/SDET/Testing-Concepts/Retesting-vs-Regression.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+  "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Retesting vs Regression Testing"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Smoke vs Sanity",
+    "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/SDET/Security-Testing/SQL-Basics"
+  }
+}

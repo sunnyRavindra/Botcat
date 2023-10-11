@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Test-Pyramid",
+  "id": "SDET/Testing-Concepts/Test-Pyramid",
+  "title": "Test Pyramid",
+  "description": "Test Pyramid",
+  "source": "@site/docs/SDET/Testing-Concepts/Test-Pyramid.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Test-Pyramid",
+  "permalink": "/SDET/Testing-Concepts/Test-Pyramid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Pyramid"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Case vs Scenario vs Step",
+    "permalink": "/SDET/Testing-Concepts/Test-Cases"
+  },
+  "next": {
+    "title": "Levels of Testing",
+    "permalink": "/SDET/Testing-Concepts/Testing-levels"
+  }
+}

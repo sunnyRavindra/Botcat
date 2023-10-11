@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Skills",
+  "id": "SDET/Skills",
+  "title": "Skills",
+  "description": "Nigel Frank International",
+  "source": "@site/docs/SDET/Skills.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Skills",
+  "permalink": "/SDET/Skills",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Skills"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "DSA Intro",
+    "permalink": "/SDET/DSA/Introduction"
+  },
+  "next": {
+    "title": "Current Workout Plan",
+    "permalink": "/SDET/Workout/plan"
+  }
+}

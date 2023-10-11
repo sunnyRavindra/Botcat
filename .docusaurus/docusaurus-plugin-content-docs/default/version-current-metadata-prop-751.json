@@ -131,6 +131,62 @@
       },
       {
         "type": "category",
+        "label": "Testing Concepts",
+        "items": [
+          {
+            "type": "link",
+            "label": "Test Plan",
+            "href": "/SDET/Testing-Concepts/TestPlan",
+            "docId": "SDET/Testing-Concepts/TestPlan"
+          },
+          {
+            "type": "link",
+            "label": "Test Case",
+            "href": "/SDET/Testing-Concepts/TestCase",
+            "docId": "SDET/Testing-Concepts/TestCase"
+          },
+          {
+            "type": "link",
+            "label": "Test Case vs Scenario vs Step",
+            "href": "/SDET/Testing-Concepts/Test-Cases",
+            "docId": "SDET/Testing-Concepts/Test-Cases"
+          },
+          {
+            "type": "link",
+            "label": "Test Pyramid",
+            "href": "/SDET/Testing-Concepts/Test-Pyramid",
+            "docId": "SDET/Testing-Concepts/Test-Pyramid"
+          },
+          {
+            "type": "link",
+            "label": "Levels of Testing",
+            "href": "/SDET/Testing-Concepts/Testing-levels",
+            "docId": "SDET/Testing-Concepts/Testing-levels"
+          },
+          {
+            "type": "link",
+            "label": "Priority vs Severity",
+            "href": "/SDET/Testing-Concepts/Priority-vs-severity",
+            "docId": "SDET/Testing-Concepts/Priority-vs-severity"
+          },
+          {
+            "type": "link",
+            "label": "Smoke vs Sanity",
+            "href": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+            "docId": "SDET/Testing-Concepts/Smoke-vs-Sanity"
+          },
+          {
+            "type": "link",
+            "label": "Retesting vs Regression Testing",
+            "href": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+            "docId": "SDET/Testing-Concepts/Retesting-vs-Regression"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Security Testing",
         "items": [
           {
@@ -217,13 +273,13 @@
       },
       {
         "type": "category",
-        "label": "Jobs Applied",
+        "label": "Skills",
         "items": [
           {
             "type": "link",
-            "label": "Applied Jobs",
-            "href": "/SDET/JobApplications/AppliedJobsDetails",
-            "docId": "SDET/JobApplications/AppliedJobsDetails"
+            "label": "Skills",
+            "href": "/SDET/Skills",
+            "docId": "SDET/Skills"
           }
         ],
         "collapsed": true,
@@ -363,13 +419,7 @@
     "SDET/Jira/WaterFall-Project": {
       "id": "SDET/Jira/WaterFall-Project",
       "title": "Waterafall Project",
-      "description": "Waterfall Project",
-      "sidebar": "SDETSidebar"
-    },
-    "SDET/JobApplications/AppliedJobsDetails": {
-      "id": "SDET/JobApplications/AppliedJobsDetails",
-      "title": "Applied Jobs",
-      "description": "Nigel Frank International",
+      "description": "Waterfall",
       "sidebar": "SDETSidebar"
     },
     "SDET/Maven/Introduction": {
@@ -377,11 +427,6 @@
       "title": "Maven Introduction",
       "description": "POM(Project Object Model)",
       "sidebar": "SDETSidebar"
-    },
-    "SDET/Overview": {
-      "id": "SDET/Overview",
-      "title": "Skill",
-      "description": "1. Test Automation Frameworks"
     },
     "SDET/Playwright/Introduction": {
       "id": "SDET/Playwright/Introduction",
@@ -473,10 +518,64 @@
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
     },
-    "SDET/Testing-Concepts/TestingConcepts": {
-      "id": "SDET/Testing-Concepts/TestingConcepts",
-      "title": "Testing Concepts",
-      "description": "Test Scenario"
+    "SDET/Skills": {
+      "id": "SDET/Skills",
+      "title": "Skills",
+      "description": "Nigel Frank International",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Adhoc-vs-Exploretory": {
+      "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+      "title": "Adhoc vs Exploretory",
+      "description": "Ad-hoc Testing"
+    },
+    "SDET/Testing-Concepts/Priority-vs-severity": {
+      "id": "SDET/Testing-Concepts/Priority-vs-severity",
+      "title": "Priority vs Severity",
+      "description": "Bug",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Retesting-vs-Regression": {
+      "id": "SDET/Testing-Concepts/Retesting-vs-Regression",
+      "title": "Retesting vs Regression Testing",
+      "description": "Retesting",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Smoke-vs-Sanity": {
+      "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+      "title": "Smoke vs Sanity",
+      "description": "Smoke Testing",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Test-Cases": {
+      "id": "SDET/Testing-Concepts/Test-Cases",
+      "title": "Test Case vs Scenario vs Step",
+      "description": "Test Scenario",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Test-Pyramid": {
+      "id": "SDET/Testing-Concepts/Test-Pyramid",
+      "title": "Test Pyramid",
+      "description": "Test Pyramid",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/TestCase": {
+      "id": "SDET/Testing-Concepts/TestCase",
+      "title": "Test Case",
+      "description": "TestCase Components",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Testing-levels": {
+      "id": "SDET/Testing-Concepts/Testing-levels",
+      "title": "Levels of Testing",
+      "description": "Unit Testing, Integration Testing, System Testing, and Acceptance Testing are different levels of software testing that serve distinct purposes in the software development and quality assurance process. Here are similar notes on each type of testing:",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/TestPlan": {
+      "id": "SDET/Testing-Concepts/TestPlan",
+      "title": "Test Plan",
+      "description": "Introduction",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Workout/plan": {
       "id": "SDET/Workout/plan",

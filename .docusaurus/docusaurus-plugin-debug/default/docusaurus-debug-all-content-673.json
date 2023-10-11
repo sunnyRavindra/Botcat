@@ -335,8 +335,8 @@
                 "permalink": "/SDET/Maven/Introduction"
               },
               "next": {
-                "title": "Applied Jobs",
-                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+                "title": "Skills",
+                "permalink": "/SDET/Skills"
               }
             },
             {
@@ -473,7 +473,7 @@
               "unversionedId": "SDET/Jira/WaterFall-Project",
               "id": "SDET/Jira/WaterFall-Project",
               "title": "Waterafall Project",
-              "description": "Waterfall Project",
+              "description": "Waterfall",
               "source": "@site/docs/SDET/Jira/WaterFall-Project.md",
               "sourceDirName": "SDET/Jira",
               "slug": "/SDET/Jira/WaterFall-Project",
@@ -490,33 +490,8 @@
                 "permalink": "/SDET/Jira/Agile-Project"
               },
               "next": {
-                "title": "SQL Basics",
-                "permalink": "/SDET/Security-Testing/SQL-Basics"
-              }
-            },
-            {
-              "unversionedId": "SDET/JobApplications/AppliedJobsDetails",
-              "id": "SDET/JobApplications/AppliedJobsDetails",
-              "title": "Applied Jobs",
-              "description": "Nigel Frank International",
-              "source": "@site/docs/SDET/JobApplications/AppliedJobsDetails.md",
-              "sourceDirName": "SDET/JobApplications",
-              "slug": "/SDET/JobApplications/AppliedJobsDetails",
-              "permalink": "/SDET/JobApplications/AppliedJobsDetails",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Applied Jobs"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "DSA Intro",
-                "permalink": "/SDET/DSA/Introduction"
-              },
-              "next": {
-                "title": "Current Workout Plan",
-                "permalink": "/SDET/Workout/plan"
+                "title": "Test Plan",
+                "permalink": "/SDET/Testing-Concepts/TestPlan"
               }
             },
             {
@@ -542,22 +517,6 @@
               "next": {
                 "title": "DSA Intro",
                 "permalink": "/SDET/DSA/Introduction"
-              }
-            },
-            {
-              "unversionedId": "SDET/Overview",
-              "id": "SDET/Overview",
-              "title": "Skill",
-              "description": "1. Test Automation Frameworks",
-              "source": "@site/docs/SDET/Overview.md",
-              "sourceDirName": "SDET",
-              "slug": "/SDET/Overview",
-              "permalink": "/SDET/Overview",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Skill"
               }
             },
             {
@@ -632,8 +591,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Waterafall Project",
-                "permalink": "/SDET/Jira/WaterFall-Project"
+                "title": "Retesting vs Regression Testing",
+                "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
               },
               "next": {
                 "title": "SQL Data Manupulation",
@@ -905,19 +864,244 @@
               "frontMatter": {}
             },
             {
-              "unversionedId": "SDET/Testing-Concepts/TestingConcepts",
-              "id": "SDET/Testing-Concepts/TestingConcepts",
-              "title": "Testing Concepts",
-              "description": "Test Scenario",
-              "source": "@site/docs/SDET/Testing-Concepts/TestingConcepts.md",
-              "sourceDirName": "SDET/Testing-Concepts",
-              "slug": "/SDET/Testing-Concepts/TestingConcepts",
-              "permalink": "/SDET/Testing-Concepts/TestingConcepts",
+              "unversionedId": "SDET/Skills",
+              "id": "SDET/Skills",
+              "title": "Skills",
+              "description": "Nigel Frank International",
+              "source": "@site/docs/SDET/Skills.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Skills",
+              "permalink": "/SDET/Skills",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Testing Concepts"
+                "title": "Skills"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "DSA Intro",
+                "permalink": "/SDET/DSA/Introduction"
+              },
+              "next": {
+                "title": "Current Workout Plan",
+                "permalink": "/SDET/Workout/plan"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "title": "Adhoc vs Exploretory",
+              "description": "Ad-hoc Testing",
+              "source": "@site/docs/SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Adhoc vs Exploretory"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Priority-vs-severity",
+              "id": "SDET/Testing-Concepts/Priority-vs-severity",
+              "title": "Priority vs Severity",
+              "description": "Bug",
+              "source": "@site/docs/SDET/Testing-Concepts/Priority-vs-severity.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Priority-vs-severity",
+              "permalink": "/SDET/Testing-Concepts/Priority-vs-severity",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Priority vs Severity"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Levels of Testing",
+                "permalink": "/SDET/Testing-Concepts/Testing-levels"
+              },
+              "next": {
+                "title": "Smoke vs Sanity",
+                "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Retesting-vs-Regression",
+              "id": "SDET/Testing-Concepts/Retesting-vs-Regression",
+              "title": "Retesting vs Regression Testing",
+              "description": "Retesting",
+              "source": "@site/docs/SDET/Testing-Concepts/Retesting-vs-Regression.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+              "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Retesting vs Regression Testing"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Smoke vs Sanity",
+                "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity"
+              },
+              "next": {
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "title": "Smoke vs Sanity",
+              "description": "Smoke Testing",
+              "source": "@site/docs/SDET/Testing-Concepts/Smoke-vs-Sanity.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Smoke vs Sanity"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Priority vs Severity",
+                "permalink": "/SDET/Testing-Concepts/Priority-vs-severity"
+              },
+              "next": {
+                "title": "Retesting vs Regression Testing",
+                "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Test-Cases",
+              "id": "SDET/Testing-Concepts/Test-Cases",
+              "title": "Test Case vs Scenario vs Step",
+              "description": "Test Scenario",
+              "source": "@site/docs/SDET/Testing-Concepts/Test-Cases.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Test-Cases",
+              "permalink": "/SDET/Testing-Concepts/Test-Cases",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Test Case vs Scenario vs Step"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Case",
+                "permalink": "/SDET/Testing-Concepts/TestCase"
+              },
+              "next": {
+                "title": "Test Pyramid",
+                "permalink": "/SDET/Testing-Concepts/Test-Pyramid"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Test-Pyramid",
+              "id": "SDET/Testing-Concepts/Test-Pyramid",
+              "title": "Test Pyramid",
+              "description": "Test Pyramid",
+              "source": "@site/docs/SDET/Testing-Concepts/Test-Pyramid.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Test-Pyramid",
+              "permalink": "/SDET/Testing-Concepts/Test-Pyramid",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Test Pyramid"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Case vs Scenario vs Step",
+                "permalink": "/SDET/Testing-Concepts/Test-Cases"
+              },
+              "next": {
+                "title": "Levels of Testing",
+                "permalink": "/SDET/Testing-Concepts/Testing-levels"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/TestCase",
+              "id": "SDET/Testing-Concepts/TestCase",
+              "title": "Test Case",
+              "description": "TestCase Components",
+              "source": "@site/docs/SDET/Testing-Concepts/TestCase.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/TestCase",
+              "permalink": "/SDET/Testing-Concepts/TestCase",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Test Case"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Plan",
+                "permalink": "/SDET/Testing-Concepts/TestPlan"
+              },
+              "next": {
+                "title": "Test Case vs Scenario vs Step",
+                "permalink": "/SDET/Testing-Concepts/Test-Cases"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Testing-levels",
+              "id": "SDET/Testing-Concepts/Testing-levels",
+              "title": "Levels of Testing",
+              "description": "Unit Testing, Integration Testing, System Testing, and Acceptance Testing are different levels of software testing that serve distinct purposes in the software development and quality assurance process. Here are similar notes on each type of testing:",
+              "source": "@site/docs/SDET/Testing-Concepts/Testing-levels.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Testing-levels",
+              "permalink": "/SDET/Testing-Concepts/Testing-levels",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Levels of Testing"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Pyramid",
+                "permalink": "/SDET/Testing-Concepts/Test-Pyramid"
+              },
+              "next": {
+                "title": "Priority vs Severity",
+                "permalink": "/SDET/Testing-Concepts/Priority-vs-severity"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/TestPlan",
+              "id": "SDET/Testing-Concepts/TestPlan",
+              "title": "Test Plan",
+              "description": "Introduction",
+              "source": "@site/docs/SDET/Testing-Concepts/TestPlan.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/TestPlan",
+              "permalink": "/SDET/Testing-Concepts/TestPlan",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Test Plan"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Waterafall Project",
+                "permalink": "/SDET/Jira/WaterFall-Project"
+              },
+              "next": {
+                "title": "Test Case",
+                "permalink": "/SDET/Testing-Concepts/TestCase"
               }
             },
             {
@@ -937,8 +1121,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Applied Jobs",
-                "permalink": "/SDET/JobApplications/AppliedJobsDetails"
+                "title": "Skills",
+                "permalink": "/SDET/Skills"
               }
             },
             {
@@ -953,7 +1137,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Xray"
+              }
             },
             {
               "unversionedId": "static/Waterfall.png",
@@ -1071,6 +1257,46 @@
               },
               {
                 "type": "category",
+                "label": "Testing Concepts",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/TestPlan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/TestCase"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Test-Cases"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Test-Pyramid"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Testing-levels"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Priority-vs-severity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Smoke-vs-Sanity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Retesting-vs-Regression"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "Security Testing",
                 "items": [
                   {
@@ -1139,11 +1365,11 @@
               },
               {
                 "type": "category",
-                "label": "Jobs Applied",
+                "label": "Skills",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/JobApplications/AppliedJobsDetails"
+                    "id": "SDET/Skills"
                   }
                 ],
                 "collapsed": true,

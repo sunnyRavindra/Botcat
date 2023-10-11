@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/TestPlan",
+  "id": "SDET/Testing-Concepts/TestPlan",
+  "title": "Test Plan",
+  "description": "Introduction",
+  "source": "@site/docs/SDET/Testing-Concepts/TestPlan.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/TestPlan",
+  "permalink": "/SDET/Testing-Concepts/TestPlan",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Plan"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Waterafall Project",
+    "permalink": "/SDET/Jira/WaterFall-Project"
+  },
+  "next": {
+    "title": "Test Case",
+    "permalink": "/SDET/Testing-Concepts/TestCase"
+  }
+}

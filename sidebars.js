@@ -50,6 +50,20 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Testing Concepts',
+      items: [
+        'SDET/Testing-Concepts/TestPlan',
+        'SDET/Testing-Concepts/TestCase',
+        'SDET/Testing-Concepts/Test-Cases',
+        'SDET/Testing-Concepts/Test-Pyramid',
+        'SDET/Testing-Concepts/Testing-levels',
+        'SDET/Testing-Concepts/Priority-vs-severity',
+        'SDET/Testing-Concepts/Smoke-vs-Sanity',
+        'SDET/Testing-Concepts/Retesting-vs-Regression'
+      ],
+    },
+    {
+      type: 'category',
       label: 'Security Testing',
       items: [
         'SDET/Security-Testing/SQL-Basics',
@@ -83,9 +97,9 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Jobs Applied',
+      label: 'Skills',
       items: [
-        'SDET/JobApplications/AppliedJobsDetails',
+        'SDET/Skills',
       ],
     },
     {

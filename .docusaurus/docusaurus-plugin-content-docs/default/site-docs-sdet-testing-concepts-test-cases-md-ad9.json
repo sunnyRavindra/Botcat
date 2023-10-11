@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Test-Cases",
+  "id": "SDET/Testing-Concepts/Test-Cases",
+  "title": "Test Case vs Scenario vs Step",
+  "description": "Test Scenario",
+  "source": "@site/docs/SDET/Testing-Concepts/Test-Cases.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Test-Cases",
+  "permalink": "/SDET/Testing-Concepts/Test-Cases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Case vs Scenario vs Step"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Case",
+    "permalink": "/SDET/Testing-Concepts/TestCase"
+  },
+  "next": {
+    "title": "Test Pyramid",
+    "permalink": "/SDET/Testing-Concepts/Test-Pyramid"
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: Testing Concepts
+title: Test Case vs Scenario vs Step
 ---
 
 ### Test Scenario
@@ -25,3 +25,4 @@ title: Testing Concepts
 - Test Scenarios help in creating an initial test plan, while Test Cases ensure systematic and comprehensive testing of specific functionalities.
 
 In summary, test scenarios help you understand what needs to be tested at a high level, test cases provide the detailed steps and expected results for testing, and test steps break down those test cases into individual actions. All three are essential for effective and structured software testing.
+

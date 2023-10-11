@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/TestCase",
+  "id": "SDET/Testing-Concepts/TestCase",
+  "title": "Test Case",
+  "description": "TestCase Components",
+  "source": "@site/docs/SDET/Testing-Concepts/TestCase.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/TestCase",
+  "permalink": "/SDET/Testing-Concepts/TestCase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Case"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Plan",
+    "permalink": "/SDET/Testing-Concepts/TestPlan"
+  },
+  "next": {
+    "title": "Test Case vs Scenario vs Step",
+    "permalink": "/SDET/Testing-Concepts/Test-Cases"
+  }
+}

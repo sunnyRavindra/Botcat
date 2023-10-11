@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Jira/WaterFall-Project",
   "id": "SDET/Jira/WaterFall-Project",
   "title": "Waterafall Project",
-  "description": "Waterfall Project",
+  "description": "Waterfall",
   "source": "@site/docs/SDET/Jira/WaterFall-Project.md",
   "sourceDirName": "SDET/Jira",
   "slug": "/SDET/Jira/WaterFall-Project",
@@ -19,7 +19,7 @@
     "permalink": "/SDET/Jira/Agile-Project"
   },
   "next": {
-    "title": "SQL Basics",
-    "permalink": "/SDET/Security-Testing/SQL-Basics"
+    "title": "Test Plan",
+    "permalink": "/SDET/Testing-Concepts/TestPlan"
   }
 }

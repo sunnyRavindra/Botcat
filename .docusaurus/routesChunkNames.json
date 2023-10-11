@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-c28": {
+  "/-703": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -275,17 +275,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-jira-water-fall-projectbeb-43f"
   },
-  "/SDET/JobApplications/AppliedJobsDetails-665": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-job-applications-applied-jobs-detailsfac-776"
-  },
   "/SDET/Maven/Introduction-159": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-maven-introduction-4-d-8-a53"
-  },
-  "/SDET/Overview-b6e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-overviewf-3-c-526"
   },
   "/SDET/Playwright/Introduction-1e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -351,9 +343,45 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-selenium-synchronisation-419-3b9"
   },
-  "/SDET/Testing-Concepts/TestingConcepts-05a": {
+  "/SDET/Skills-3e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-testing-concepts-testing-conceptsa-52-6ae"
+    "content": "content---sdet-skillsee-6-b04"
+  },
+  "/SDET/Testing-Concepts/Adhoc-vs-Exploretory-176": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-adhoc-vs-exploretory-457-c37"
+  },
+  "/SDET/Testing-Concepts/Priority-vs-severity-b2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-priority-vs-severitye-78-22d"
+  },
+  "/SDET/Testing-Concepts/Retesting-vs-Regression-4b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-retesting-vs-regressionfef-1c4"
+  },
+  "/SDET/Testing-Concepts/Smoke-vs-Sanity-9b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-smoke-vs-sanity-17-b-062"
+  },
+  "/SDET/Testing-Concepts/Test-Cases-769": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-casesad-9-84b"
+  },
+  "/SDET/Testing-Concepts/Test-Pyramid-4aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-pyramid-074-027"
+  },
+  "/SDET/Testing-Concepts/TestCase-02c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-cased-91-d83"
+  },
+  "/SDET/Testing-Concepts/Testing-levels-a1f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-testing-levelscbb-920"
+  },
+  "/SDET/Testing-Concepts/TestPlan-2bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-plan-6-d-3-e69"
   },
   "/SDET/Workout/plan-323": {
     "__comp": "__comp---theme-doc-item-178-a40",

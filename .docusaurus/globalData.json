@@ -109,18 +109,9 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/JobApplications/AppliedJobsDetails",
-              "path": "/SDET/JobApplications/AppliedJobsDetails",
-              "sidebar": "SDETSidebar"
-            },
-            {
               "id": "SDET/Maven/Introduction",
               "path": "/SDET/Maven/Introduction",
               "sidebar": "SDETSidebar"
-            },
-            {
-              "id": "SDET/Overview",
-              "path": "/SDET/Overview"
             },
             {
               "id": "SDET/Playwright/Introduction",
@@ -197,8 +188,53 @@
               "path": "/SDET/Selenium/Synchronisation"
             },
             {
-              "id": "SDET/Testing-Concepts/TestingConcepts",
-              "path": "/SDET/Testing-Concepts/TestingConcepts"
+              "id": "SDET/Skills",
+              "path": "/SDET/Skills",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "path": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Priority-vs-severity",
+              "path": "/SDET/Testing-Concepts/Priority-vs-severity",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Retesting-vs-Regression",
+              "path": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "path": "/SDET/Testing-Concepts/Smoke-vs-Sanity",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Test-Cases",
+              "path": "/SDET/Testing-Concepts/Test-Cases",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Test-Pyramid",
+              "path": "/SDET/Testing-Concepts/Test-Pyramid",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/TestCase",
+              "path": "/SDET/Testing-Concepts/TestCase",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Testing-levels",
+              "path": "/SDET/Testing-Concepts/Testing-levels",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/TestPlan",
+              "path": "/SDET/Testing-Concepts/TestPlan",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Workout/plan",

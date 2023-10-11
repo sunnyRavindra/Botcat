@@ -1,9 +1,7 @@
 ---
 title: Waterafall Project
 ---
-### Waterfall Project
-
-![Waterfall.png](./static/Waterfall.png)
+![Waterfall](./static/Waterfall.png)
 
 ### Waterfall key points
 1. Time to market is high
@@ -200,36 +198,3 @@ Req 3: select the products and add to cart
 Req 4: Added items in cart should display in Checkout page
 Req 5: Select the country to deliver before Purchase
 Req 6: Complete purchase by providing payment details and generate receipt
-
----
-Skills
-Automation, 
-Eclipse
-TestRail, 
-TestLink, 
-Zephyr,  
-Java,  
-Appium, 
-Selenium, 
-API Testing, 
-TestNG, 
-Security Testing, 
-Cloud, 
-Docker, Kubernetes,
-WebDriver,
-Robot Framework,
-Git,
-Jenkins, Travis CI, and CircleCI,
-TestRail, TestLink, and Zephyr,
-Apache JMeter, LoadRunner, and Gatling,
-Postman, SoapUI, and Rest Assured,
-Chrome DevTools and Firefox Developer Tools,
-Appium, Espresso, and XCUITest,
-Allure, Extent Reports, and TestNG ,
-Faker and DataFactory for generating realistic test data.
- Security Testing Tools: Knowledge of tools like OWASP ZAP, Nessus, and Burp Suite for security testing.
-
----
-
-
-

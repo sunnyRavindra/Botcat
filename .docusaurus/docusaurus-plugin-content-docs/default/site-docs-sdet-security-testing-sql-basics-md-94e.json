@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Waterafall Project",
-    "permalink": "/SDET/Jira/WaterFall-Project"
+    "title": "Retesting vs Regression Testing",
+    "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
   },
   "next": {
     "title": "SQL Data Manupulation",

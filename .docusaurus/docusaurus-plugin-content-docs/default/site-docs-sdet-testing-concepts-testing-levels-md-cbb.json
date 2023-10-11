@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Testing-levels",
+  "id": "SDET/Testing-Concepts/Testing-levels",
+  "title": "Levels of Testing",
+  "description": "Unit Testing, Integration Testing, System Testing, and Acceptance Testing are different levels of software testing that serve distinct purposes in the software development and quality assurance process. Here are similar notes on each type of testing:",
+  "source": "@site/docs/SDET/Testing-Concepts/Testing-levels.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Testing-levels",
+  "permalink": "/SDET/Testing-Concepts/Testing-levels",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Levels of Testing"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Pyramid",
+    "permalink": "/SDET/Testing-Concepts/Test-Pyramid"
+  },
+  "next": {
+    "title": "Priority vs Severity",
+    "permalink": "/SDET/Testing-Concepts/Priority-vs-severity"
+  }
+}

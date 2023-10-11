@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/Testing-Concepts/TestingConcepts",
   "id": "SDET/Testing-Concepts/TestingConcepts",
-  "title": "Testing Concepts",
+  "title": "Test Case vs Scenario vs Step",
   "description": "Test Scenario",
   "source": "@site/docs/SDET/Testing-Concepts/TestingConcepts.md",
   "sourceDirName": "SDET/Testing-Concepts",
@@ -11,6 +11,6 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Testing Concepts"
+    "title": "Test Case vs Scenario vs Step"
   }
 }

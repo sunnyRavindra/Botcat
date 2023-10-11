@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c28'),
+    component: ComponentCreator('/', '703'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -227,21 +227,10 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/JobApplications/AppliedJobsDetails',
-        component: ComponentCreator('/SDET/JobApplications/AppliedJobsDetails', '665'),
-        exact: true,
-        sidebar: "SDETSidebar"
-      },
-      {
         path: '/SDET/Maven/Introduction',
         component: ComponentCreator('/SDET/Maven/Introduction', '159'),
         exact: true,
         sidebar: "SDETSidebar"
-      },
-      {
-        path: '/SDET/Overview',
-        component: ComponentCreator('/SDET/Overview', 'b6e'),
-        exact: true
       },
       {
         path: '/SDET/Playwright/Introduction',
@@ -334,9 +323,63 @@ export default [
         exact: true
       },
       {
-        path: '/SDET/Testing-Concepts/TestingConcepts',
-        component: ComponentCreator('/SDET/Testing-Concepts/TestingConcepts', '05a'),
+        path: '/SDET/Skills',
+        component: ComponentCreator('/SDET/Skills', '3e7'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Adhoc-vs-Exploretory',
+        component: ComponentCreator('/SDET/Testing-Concepts/Adhoc-vs-Exploretory', '176'),
         exact: true
+      },
+      {
+        path: '/SDET/Testing-Concepts/Priority-vs-severity',
+        component: ComponentCreator('/SDET/Testing-Concepts/Priority-vs-severity', 'b2c'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Retesting-vs-Regression',
+        component: ComponentCreator('/SDET/Testing-Concepts/Retesting-vs-Regression', '4b0'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Smoke-vs-Sanity',
+        component: ComponentCreator('/SDET/Testing-Concepts/Smoke-vs-Sanity', '9b6'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Test-Cases',
+        component: ComponentCreator('/SDET/Testing-Concepts/Test-Cases', '769'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Test-Pyramid',
+        component: ComponentCreator('/SDET/Testing-Concepts/Test-Pyramid', '4aa'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/TestCase',
+        component: ComponentCreator('/SDET/Testing-Concepts/TestCase', '02c'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Testing-levels',
+        component: ComponentCreator('/SDET/Testing-Concepts/Testing-levels', 'a1f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/TestPlan',
+        component: ComponentCreator('/SDET/Testing-Concepts/TestPlan', '2bd'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Workout/plan',
