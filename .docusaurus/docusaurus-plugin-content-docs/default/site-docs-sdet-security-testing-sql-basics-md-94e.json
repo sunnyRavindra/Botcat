@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Retesting vs Regression Testing",
-    "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
+    "title": "Blackbox vs Whitebox",
+    "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
   },
   "next": {
     "title": "SQL Data Manupulation",

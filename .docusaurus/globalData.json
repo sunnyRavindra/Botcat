@@ -197,6 +197,16 @@
               "path": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
             },
             {
+              "id": "SDET/Testing-Concepts/Blackbox-vs-Whitebox",
+              "path": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Functional-vs-NonFunctional",
+              "path": "/SDET/Testing-Concepts/Functional-vs-NonFunctional",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Testing-Concepts/Priority-vs-severity",
               "path": "/SDET/Testing-Concepts/Priority-vs-severity",
               "sidebar": "SDETSidebar"
@@ -205,6 +215,10 @@
               "id": "SDET/Testing-Concepts/Retesting-vs-Regression",
               "path": "/SDET/Testing-Concepts/Retesting-vs-Regression",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/SDLC-vs_STLC",
+              "path": "/SDET/Testing-Concepts/SDLC-vs_STLC"
             },
             {
               "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",

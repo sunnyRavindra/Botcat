@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-703": {
+  "/-b3f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -351,6 +351,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-adhoc-vs-exploretory-457-c37"
   },
+  "/SDET/Testing-Concepts/Blackbox-vs-Whitebox-8c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-blackbox-vs-whitebox-98-f-6a6"
+  },
+  "/SDET/Testing-Concepts/Functional-vs-NonFunctional-515": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-functional-vs-non-functional-786-c93"
+  },
   "/SDET/Testing-Concepts/Priority-vs-severity-b2c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-priority-vs-severitye-78-22d"
@@ -358,6 +366,10 @@
   "/SDET/Testing-Concepts/Retesting-vs-Regression-4b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-retesting-vs-regressionfef-1c4"
+  },
+  "/SDET/Testing-Concepts/SDLC-vs_STLC-7a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-sdlc-vs-stl-cafd-8c5"
   },
   "/SDET/Testing-Concepts/Smoke-vs-Sanity-9b6": {
     "__comp": "__comp---theme-doc-item-178-a40",

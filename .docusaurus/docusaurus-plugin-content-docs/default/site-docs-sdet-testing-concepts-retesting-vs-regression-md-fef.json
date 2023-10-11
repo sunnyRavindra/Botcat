@@ -19,7 +19,7 @@
     "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity"
   },
   "next": {
-    "title": "SQL Basics",
-    "permalink": "/SDET/Security-Testing/SQL-Basics"
+    "title": "Functional vs Non Functional",
+    "permalink": "/SDET/Testing-Concepts/Functional-vs-NonFunctional"
   }
 }

@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '703'),
+    component: ComponentCreator('/', 'b3f'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -334,6 +334,18 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Testing-Concepts/Blackbox-vs-Whitebox',
+        component: ComponentCreator('/SDET/Testing-Concepts/Blackbox-vs-Whitebox', '8c9'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Functional-vs-NonFunctional',
+        component: ComponentCreator('/SDET/Testing-Concepts/Functional-vs-NonFunctional', '515'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Testing-Concepts/Priority-vs-severity',
         component: ComponentCreator('/SDET/Testing-Concepts/Priority-vs-severity', 'b2c'),
         exact: true,
@@ -344,6 +356,11 @@ export default [
         component: ComponentCreator('/SDET/Testing-Concepts/Retesting-vs-Regression', '4b0'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/SDLC-vs_STLC',
+        component: ComponentCreator('/SDET/Testing-Concepts/SDLC-vs_STLC', '7a8'),
+        exact: true
       },
       {
         path: '/SDET/Testing-Concepts/Smoke-vs-Sanity',

@@ -20,7 +20,9 @@ const sidebars = {
         'SDET/Testing-Concepts/Testing-levels',
         'SDET/Testing-Concepts/Priority-vs-severity',
         'SDET/Testing-Concepts/Smoke-vs-Sanity',
-        'SDET/Testing-Concepts/Retesting-vs-Regression'
+        'SDET/Testing-Concepts/Retesting-vs-Regression',
+        'SDET/Testing-Concepts/Functional-vs-NonFunctional',
+        'SDET/Testing-Concepts/Blackbox-vs-Whitebox'
       ],
     },
     {

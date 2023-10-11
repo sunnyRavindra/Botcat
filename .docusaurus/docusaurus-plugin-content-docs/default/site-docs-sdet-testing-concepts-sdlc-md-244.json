@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/SDLC",
+  "id": "SDET/Testing-Concepts/SDLC",
+  "title": "SDLC",
+  "description": "STLC(Software Testing Life cycle)",
+  "source": "@site/docs/SDET/Testing-Concepts/SDLC.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/SDLC",
+  "permalink": "/SDET/Testing-Concepts/SDLC",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SDLC"
+  }
+}

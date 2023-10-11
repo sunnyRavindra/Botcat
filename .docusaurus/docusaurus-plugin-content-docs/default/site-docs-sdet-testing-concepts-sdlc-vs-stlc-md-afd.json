@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/SDLC-vs_STLC",
+  "id": "SDET/Testing-Concepts/SDLC-vs_STLC",
+  "title": "SDLC vs STLC",
+  "description": "Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) are two distinct but interconnected processes in the software development and testing industry. Here are notes about both SDLC and STLC:",
+  "source": "@site/docs/SDET/Testing-Concepts/SDLC-vs_STLC.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/SDLC-vs_STLC",
+  "permalink": "/SDET/Testing-Concepts/SDLC-vs_STLC",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SDLC vs STLC"
+  }
+}

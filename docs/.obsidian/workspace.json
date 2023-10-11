@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md"
+                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md"
               }
             }
           }
@@ -181,13 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9753ca96f69ebba",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
+    "SDET/Testing-Concepts/static/SDLC.png",
+    "SDET/Testing-Concepts/TestCase.md",
+    "SDET/Testing-Concepts/SDLC.md",
+    "SDET/Testing-Concepts/SDLC-vs_STLC.md",
+    "SDET/Testing-Concepts/static/STLC.png",
+    "SDET/Testing-Concepts/Blackbox-vs-Whitebox.md",
+    "SDET/Testing-Concepts/Functional-vs-NonFunctional.md",
     "SDET/Testing-Concepts/static/TestPlan.doc",
     "SDET/Testing-Concepts/static/TestCaseTemplate.xls",
     "SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
     "SDET/Testing-Concepts/static/Pyramid.png",
-    "SDET/Testing-Concepts/TestCase.md",
     "SDET/Testing-Concepts/TestPlan.md",
     "SDET/Testing-Concepts/Retesting-vs-Regression.md",
     "SDET/Testing-Concepts/Smoke-vs-Sanity.md",
@@ -221,14 +227,8 @@
     "SDET/Jira/static/Pasted Image 20231010205650_696.png",
     "SDET/Jira/static/Pasted Image 20231010204944_212.png",
     "SDET/Jira/static/Pasted Image 20231010202938_933.png",
-    "SDET/Jira/static/Pasted Image 20231004210427_110.png",
-    "SDET/Jira/Introduction.md",
-    "SDET/JobApplications/AppliedJobsDetails.md",
     "SDET/Jira/static",
-    "static/Waterfall.png.md",
     "static",
-    "SDET/Jira/SD.md",
-    "SDET/Security-Testing/static",
     "Untitled.canvas"
   ]
 }
