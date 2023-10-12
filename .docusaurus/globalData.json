@@ -199,7 +199,8 @@
             },
             {
               "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
-              "path": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
+              "path": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Testing-Concepts/Blackbox-vs-Whitebox",
@@ -219,6 +220,11 @@
             {
               "id": "SDET/Testing-Concepts/Functional-vs-NonFunctional",
               "path": "/SDET/Testing-Concepts/Functional-vs-NonFunctional",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+              "path": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
               "sidebar": "SDETSidebar"
             },
             {
@@ -273,7 +279,8 @@
             },
             {
               "id": "SDET/Testing-Concepts/Verification-vs-Validation",
-              "path": "/SDET/Testing-Concepts/Verification-vs-Validation"
+              "path": "/SDET/Testing-Concepts/Verification-vs-Validation",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Workout/plan",

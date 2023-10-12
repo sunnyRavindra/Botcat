@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Component vs Integration Testing",
-    "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
+    "title": "Adhoc vs Exploretory",
+    "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
   },
   "next": {
     "title": "Xray",

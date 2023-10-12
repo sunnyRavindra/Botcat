@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+  "id": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+  "title": "Load vs Stress Testing",
+  "description": "Load Testing:",
+  "source": "@site/docs/SDET/Testing-Concepts/Load-vs-Stress-Testing.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
+  "permalink": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Load vs Stress Testing"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Component vs Integration Testing",
+    "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
+  },
+  "next": {
+    "title": "Priority vs Severity",
+    "permalink": "/SDET/Testing-Concepts/Verification-vs-Validation"
+  }
+}

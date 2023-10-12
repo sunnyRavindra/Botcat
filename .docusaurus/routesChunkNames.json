@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-7f6": {
+  "/-693": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -351,7 +351,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-skillsee-6-b04"
   },
-  "/SDET/Testing-Concepts/Adhoc-vs-Exploretory-176": {
+  "/SDET/Testing-Concepts/Adhoc-vs-Exploretory-6be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-adhoc-vs-exploretory-457-c37"
   },
@@ -370,6 +370,10 @@
   "/SDET/Testing-Concepts/Functional-vs-NonFunctional-515": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-functional-vs-non-functional-786-c93"
+  },
+  "/SDET/Testing-Concepts/Load-vs-Stress-Testing-fb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-load-vs-stress-testing-9-c-7-306"
   },
   "/SDET/Testing-Concepts/Priority-vs-severity-b2c": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -411,7 +415,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-traceability-matrixb-16-d68"
   },
-  "/SDET/Testing-Concepts/Verification-vs-Validation-586": {
+  "/SDET/Testing-Concepts/Verification-vs-Validation-4e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-verification-vs-validationb-70-6a7"
   },

@@ -26,6 +26,9 @@ const sidebars = {
         'SDET/Testing-Concepts/Blackbox-vs-Whitebox',
         'SDET/Testing-Concepts/Traceability-Matrix',
         'SDET/Testing-Concepts/Component-vs-Integration-Testing',
+        'SDET/Testing-Concepts/Load-vs-Stress-Testing',
+        'SDET/Testing-Concepts/Verification-vs-Validation',
+        'SDET/Testing-Concepts/Adhoc-vs-Exploretory',
         'SDET/Testing-Concepts/Defect-LifeCycle'
       ],
     },

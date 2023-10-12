@@ -29,3 +29,41 @@ title: Agile Project
 1. No Sprint backlog in Kanban
 2. There is no process in Kanban 
 3. Scrum has a fixed timeline
+
+### Issue WorkFlow 
+1. New 
+2. InProgress
+3. Done
+
+### Issue Estimates
+1. by hours 
+2. by story points
+
+### Jira Roles 
+1. Global
+2. Project Specific roles
+
+### Createing custom issue type called scheme
+### Createing custom fileds 
+### Createing custom workflows
+### Default Assignee can be set too
+### Componenets can be created to device the responsibility to specific team (Its exactly like a configuration Item)
+
+### Edge Test cases
+1. Out of the box test cases
+
+### Jira Introduction
+
+1. Bug Tracking
+2. Issue Tracking
+3. Project Management
+4. Requirements Management
+5. HelpDesk
+6. Generate Reports
+7. Customized Issues 
+8. Custome Notifications
+9. Powerfull Search functionality
+10. Extincible
+
+
+

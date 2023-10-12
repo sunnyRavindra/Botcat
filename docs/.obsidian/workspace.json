@@ -183,6 +183,7 @@
   },
   "active": "f9753ca96f69ebba",
   "lastOpenFiles": [
+    "SDET/Testing-Concepts/Load-vs-Stress-Testing.md",
     "SDET/Testing-Concepts/Verification-vs-Validation.md",
     "SDET/Testing-Concepts/Component-vs-Integration-Testing.md",
     "SDET/Testing-Concepts/Defect-LifeCycle.md",
@@ -220,7 +221,6 @@
     "SDET/Selenium/Synchronisation.md",
     "SDET/Selenium/notes.md",
     "SDET/Skills.md",
-    "SDET/Jira/WaterFall-Project.md",
     "SDET/Skills",
     "SDET/Jira/static/AgileWorkflow.png",
     "Pasted image 20231011085241 1.png",

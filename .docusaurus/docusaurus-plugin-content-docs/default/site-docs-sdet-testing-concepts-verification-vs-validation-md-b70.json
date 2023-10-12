@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "Priority vs Severity"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Load vs Stress Testing",
+    "permalink": "/SDET/Testing-Concepts/Load-vs-Stress-Testing"
+  },
+  "next": {
+    "title": "Adhoc vs Exploretory",
+    "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
   }
 }

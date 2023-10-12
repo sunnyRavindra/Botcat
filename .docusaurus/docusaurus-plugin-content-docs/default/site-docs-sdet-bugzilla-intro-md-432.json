@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Bugzilla/intro",
   "id": "SDET/Bugzilla/intro",
-  "title": "intro",
-  "description": "Bugzilla",
+  "title": "Bugzilla Intro",
+  "description": "Learn From Here - https://www.bugzilla.org/docs/4.2/en/html/",
   "source": "@site/docs/SDET/Bugzilla/intro.md",
   "sourceDirName": "SDET/Bugzilla",
   "slug": "/SDET/Bugzilla/intro",
@@ -10,7 +10,9 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Bugzilla Intro"
+  },
   "sidebar": "SDETSidebar",
   "previous": {
     "title": "intro",

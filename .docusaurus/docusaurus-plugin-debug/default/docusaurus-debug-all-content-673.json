@@ -67,7 +67,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "intro",
+                "title": "Bugzilla Intro",
                 "permalink": "/SDET/Bugzilla/intro"
               },
               "next": {
@@ -126,8 +126,8 @@
             {
               "unversionedId": "SDET/Bugzilla/intro",
               "id": "SDET/Bugzilla/intro",
-              "title": "intro",
-              "description": "Bugzilla",
+              "title": "Bugzilla Intro",
+              "description": "Learn From Here - https://www.bugzilla.org/docs/4.2/en/html/",
               "source": "@site/docs/SDET/Bugzilla/intro.md",
               "sourceDirName": "SDET/Bugzilla",
               "slug": "/SDET/Bugzilla/intro",
@@ -135,7 +135,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "title": "Bugzilla Intro"
+              },
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "intro",
@@ -925,6 +927,15 @@
               "version": "current",
               "frontMatter": {
                 "title": "Adhoc vs Exploretory"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Priority vs Severity",
+                "permalink": "/SDET/Testing-Concepts/Verification-vs-Validation"
+              },
+              "next": {
+                "title": "Defect LifeCycle",
+                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
               }
             },
             {
@@ -973,8 +984,8 @@
                 "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
               },
               "next": {
-                "title": "Defect LifeCycle",
-                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+                "title": "Load vs Stress Testing",
+                "permalink": "/SDET/Testing-Concepts/Load-vs-Stress-Testing"
               }
             },
             {
@@ -994,8 +1005,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Component vs Integration Testing",
-                "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
+                "title": "Adhoc vs Exploretory",
+                "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
               },
               "next": {
                 "title": "Xray",
@@ -1025,6 +1036,31 @@
               "next": {
                 "title": "Blackbox vs Whitebox",
                 "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+              "id": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+              "title": "Load vs Stress Testing",
+              "description": "Load Testing:",
+              "source": "@site/docs/SDET/Testing-Concepts/Load-vs-Stress-Testing.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
+              "permalink": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Load vs Stress Testing"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Component vs Integration Testing",
+                "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
+              },
+              "next": {
+                "title": "Priority vs Severity",
+                "permalink": "/SDET/Testing-Concepts/Verification-vs-Validation"
               }
             },
             {
@@ -1291,6 +1327,15 @@
               "version": "current",
               "frontMatter": {
                 "title": "Priority vs Severity"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Load vs Stress Testing",
+                "permalink": "/SDET/Testing-Concepts/Load-vs-Stress-Testing"
+              },
+              "next": {
+                "title": "Adhoc vs Exploretory",
+                "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
               }
             },
             {
@@ -1358,7 +1403,7 @@
                 "permalink": "/SDET/Xray/"
               },
               "next": {
-                "title": "intro",
+                "title": "Bugzilla Intro",
                 "permalink": "/SDET/Bugzilla/intro"
               }
             },
@@ -1455,6 +1500,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/Testing-Concepts/Component-vs-Integration-Testing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Load-vs-Stress-Testing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Verification-vs-Validation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory"
                   },
                   {
                     "type": "doc",

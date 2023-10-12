@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "Adhoc vs Exploretory"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Priority vs Severity",
+    "permalink": "/SDET/Testing-Concepts/Verification-vs-Validation"
+  },
+  "next": {
+    "title": "Defect LifeCycle",
+    "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
   }
 }

@@ -119,6 +119,24 @@
           },
           {
             "type": "link",
+            "label": "Load vs Stress Testing",
+            "href": "/SDET/Testing-Concepts/Load-vs-Stress-Testing",
+            "docId": "SDET/Testing-Concepts/Load-vs-Stress-Testing"
+          },
+          {
+            "type": "link",
+            "label": "Priority vs Severity",
+            "href": "/SDET/Testing-Concepts/Verification-vs-Validation",
+            "docId": "SDET/Testing-Concepts/Verification-vs-Validation"
+          },
+          {
+            "type": "link",
+            "label": "Adhoc vs Exploretory",
+            "href": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
+            "docId": "SDET/Testing-Concepts/Adhoc-vs-Exploretory"
+          },
+          {
+            "type": "link",
             "label": "Defect LifeCycle",
             "href": "/SDET/Testing-Concepts/Defect-LifeCycle",
             "docId": "SDET/Testing-Concepts/Defect-LifeCycle"
@@ -161,7 +179,7 @@
         "items": [
           {
             "type": "link",
-            "label": "intro",
+            "label": "Bugzilla Intro",
             "href": "/SDET/Bugzilla/intro",
             "docId": "SDET/Bugzilla/intro"
           }
@@ -408,8 +426,8 @@
     },
     "SDET/Bugzilla/intro": {
       "id": "SDET/Bugzilla/intro",
-      "title": "intro",
-      "description": "Bugzilla",
+      "title": "Bugzilla Intro",
+      "description": "Learn From Here - https://www.bugzilla.org/docs/4.2/en/html/",
       "sidebar": "SDETSidebar"
     },
     "SDET/Cucumber/Introduction": {
@@ -611,7 +629,8 @@
     "SDET/Testing-Concepts/Adhoc-vs-Exploretory": {
       "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
       "title": "Adhoc vs Exploretory",
-      "description": "Ad-hoc Testing"
+      "description": "Ad-hoc Testing",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Testing-Concepts/Blackbox-vs-Whitebox": {
       "id": "SDET/Testing-Concepts/Blackbox-vs-Whitebox",
@@ -635,6 +654,12 @@
       "id": "SDET/Testing-Concepts/Functional-vs-NonFunctional",
       "title": "Functional vs Non Functional",
       "description": "Functional Testing and Non-Functional Testing are two essential categories of software testing, each serving a distinct purpose. Here are notes about both types of testing:",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Testing-Concepts/Load-vs-Stress-Testing": {
+      "id": "SDET/Testing-Concepts/Load-vs-Stress-Testing",
+      "title": "Load vs Stress Testing",
+      "description": "Load Testing:",
       "sidebar": "SDETSidebar"
     },
     "SDET/Testing-Concepts/Priority-vs-severity": {
@@ -700,7 +725,8 @@
     "SDET/Testing-Concepts/Verification-vs-Validation": {
       "id": "SDET/Testing-Concepts/Verification-vs-Validation",
       "title": "Priority vs Severity",
-      "description": "Bug"
+      "description": "Bug",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Workout/plan": {
       "id": "SDET/Workout/plan",

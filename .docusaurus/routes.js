@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '7f6'),
+    component: ComponentCreator('/', '693'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -336,8 +336,9 @@ export default [
       },
       {
         path: '/SDET/Testing-Concepts/Adhoc-vs-Exploretory',
-        component: ComponentCreator('/SDET/Testing-Concepts/Adhoc-vs-Exploretory', '176'),
-        exact: true
+        component: ComponentCreator('/SDET/Testing-Concepts/Adhoc-vs-Exploretory', '6be'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Testing-Concepts/Blackbox-vs-Whitebox',
@@ -360,6 +361,12 @@ export default [
       {
         path: '/SDET/Testing-Concepts/Functional-vs-NonFunctional',
         component: ComponentCreator('/SDET/Testing-Concepts/Functional-vs-NonFunctional', '515'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Load-vs-Stress-Testing',
+        component: ComponentCreator('/SDET/Testing-Concepts/Load-vs-Stress-Testing', 'fb3'),
         exact: true,
         sidebar: "SDETSidebar"
       },
@@ -425,8 +432,9 @@ export default [
       },
       {
         path: '/SDET/Testing-Concepts/Verification-vs-Validation',
-        component: ComponentCreator('/SDET/Testing-Concepts/Verification-vs-Validation', '586'),
-        exact: true
+        component: ComponentCreator('/SDET/Testing-Concepts/Verification-vs-Validation', '4e9'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Workout/plan',
