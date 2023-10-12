@@ -1,0 +1,23 @@
+{
+  "unversionedId": "SDET/Zephyr/intro",
+  "id": "SDET/Zephyr/intro",
+  "title": "intro",
+  "description": "fkdsjfdfk",
+  "source": "@site/docs/SDET/Zephyr/intro.md",
+  "sourceDirName": "SDET/Zephyr",
+  "slug": "/SDET/Zephyr/intro",
+  "permalink": "/SDET/Zephyr/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Xray",
+    "permalink": "/SDET/Xray/"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/SDET/Bugzilla/intro"
+  }
+}

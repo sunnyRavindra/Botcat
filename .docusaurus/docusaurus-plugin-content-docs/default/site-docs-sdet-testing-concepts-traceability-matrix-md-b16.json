@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Traceability-Matrix",
+  "id": "SDET/Testing-Concepts/Traceability-Matrix",
+  "title": "Traceability Matrix",
+  "description": "Traceability Matrix Example",
+  "source": "@site/docs/SDET/Testing-Concepts/Traceability-Matrix.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Traceability-Matrix",
+  "permalink": "/SDET/Testing-Concepts/Traceability-Matrix",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Traceability Matrix"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Blackbox vs Whitebox",
+    "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+  },
+  "next": {
+    "title": "Defect LifeCycle",
+    "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+  }
+}

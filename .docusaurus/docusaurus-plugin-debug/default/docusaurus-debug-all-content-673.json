@@ -67,8 +67,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "XSS Attack",
-                "permalink": "/SDET/Security-Testing/XSS-Attack"
+                "title": "intro",
+                "permalink": "/SDET/Bugzilla/intro"
               },
               "next": {
                 "title": "Cucumber",
@@ -124,6 +124,29 @@
               }
             },
             {
+              "unversionedId": "SDET/Bugzilla/intro",
+              "id": "SDET/Bugzilla/intro",
+              "title": "intro",
+              "description": "Bugzilla",
+              "source": "@site/docs/SDET/Bugzilla/intro.md",
+              "sourceDirName": "SDET/Bugzilla",
+              "slug": "/SDET/Bugzilla/intro",
+              "permalink": "/SDET/Bugzilla/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "intro",
+                "permalink": "/SDET/Zephyr/intro"
+              },
+              "next": {
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Automation/Introduction"
+              }
+            },
+            {
               "unversionedId": "SDET/Cucumber/Introduction",
               "id": "SDET/Cucumber/Introduction",
               "title": "Cucumber",
@@ -144,8 +167,8 @@
                 "permalink": "/SDET/API-Automation/Introduction"
               },
               "next": {
-                "title": "Docker",
-                "permalink": "/SDET/Docker/Docker-Introduction"
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
               }
             },
             {
@@ -240,8 +263,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Cucumber",
-                "permalink": "/SDET/Cucumber/Introduction"
+                "title": "XSS Attack",
+                "permalink": "/SDET/Security-Testing/XSS-Attack"
               },
               "next": {
                 "title": "Docker Commands",
@@ -591,8 +614,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Blackbox vs Whitebox",
-                "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+                "title": "Cucumber",
+                "permalink": "/SDET/Cucumber/Introduction"
               },
               "next": {
                 "title": "SQL Data Manupulation",
@@ -736,8 +759,8 @@
                 "permalink": "/SDET/Security-Testing/SQL-Injection"
               },
               "next": {
-                "title": "HTTP Basics",
-                "permalink": "/SDET/API-Automation/Introduction"
+                "title": "Docker",
+                "permalink": "/SDET/Docker/Docker-Introduction"
               }
             },
             {
@@ -761,8 +784,8 @@
                 "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
-                "title": "Test Plan",
-                "permalink": "/SDET/Testing-Concepts/TestPlan"
+                "title": "SDLC vs STLC",
+                "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
               }
             },
             {
@@ -925,8 +948,33 @@
                 "permalink": "/SDET/Testing-Concepts/Functional-vs-NonFunctional"
               },
               "next": {
-                "title": "SQL Basics",
-                "permalink": "/SDET/Security-Testing/SQL-Basics"
+                "title": "Traceability Matrix",
+                "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Defect-LifeCycle",
+              "id": "SDET/Testing-Concepts/Defect-LifeCycle",
+              "title": "Defect LifeCycle",
+              "description": "The Defect Lifecycle, also known as the Bug Lifecycle or Issue Lifecycle, outlines the stages a defect or issue goes through from its discovery to its resolution. Understanding this lifecycle is crucial for efficient defect management. Here are notes on the typical stages of the Defect Lifecycle:",
+              "source": "@site/docs/SDET/Testing-Concepts/Defect-LifeCycle.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Defect-LifeCycle",
+              "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Defect LifeCycle"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Traceability Matrix",
+                "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+              },
+              "next": {
+                "title": "Xray",
+                "permalink": "/SDET/Xray/"
               }
             },
             {
@@ -1005,19 +1053,28 @@
               }
             },
             {
-              "unversionedId": "SDET/Testing-Concepts/SDLC-vs_STLC",
-              "id": "SDET/Testing-Concepts/SDLC-vs_STLC",
+              "unversionedId": "SDET/Testing-Concepts/SDLC-vs-STLC",
+              "id": "SDET/Testing-Concepts/SDLC-vs-STLC",
               "title": "SDLC vs STLC",
               "description": "Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) are two distinct but interconnected processes in the software development and testing industry. Here are notes about both SDLC and STLC:",
-              "source": "@site/docs/SDET/Testing-Concepts/SDLC-vs_STLC.md",
+              "source": "@site/docs/SDET/Testing-Concepts/SDLC-vs-STLC.md",
               "sourceDirName": "SDET/Testing-Concepts",
-              "slug": "/SDET/Testing-Concepts/SDLC-vs_STLC",
-              "permalink": "/SDET/Testing-Concepts/SDLC-vs_STLC",
+              "slug": "/SDET/Testing-Concepts/SDLC-vs-STLC",
+              "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "title": "SDLC vs STLC"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Browser Options",
+                "permalink": "/SDET/Selenium/BrowserOptions"
+              },
+              "next": {
+                "title": "Test Plan",
+                "permalink": "/SDET/Testing-Concepts/TestPlan"
               }
             },
             {
@@ -1162,12 +1219,37 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Browser Options",
-                "permalink": "/SDET/Selenium/BrowserOptions"
+                "title": "SDLC vs STLC",
+                "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
               },
               "next": {
                 "title": "Test Case",
                 "permalink": "/SDET/Testing-Concepts/TestCase"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Traceability-Matrix",
+              "id": "SDET/Testing-Concepts/Traceability-Matrix",
+              "title": "Traceability Matrix",
+              "description": "Traceability Matrix Example",
+              "source": "@site/docs/SDET/Testing-Concepts/Traceability-Matrix.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Traceability-Matrix",
+              "permalink": "/SDET/Testing-Concepts/Traceability-Matrix",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Traceability Matrix"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Blackbox vs Whitebox",
+                "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+              },
+              "next": {
+                "title": "Defect LifeCycle",
+                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
               }
             },
             {
@@ -1205,6 +1287,38 @@
               "version": "current",
               "frontMatter": {
                 "title": "Xray"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Defect LifeCycle",
+                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+              },
+              "next": {
+                "title": "intro",
+                "permalink": "/SDET/Zephyr/intro"
+              }
+            },
+            {
+              "unversionedId": "SDET/Zephyr/intro",
+              "id": "SDET/Zephyr/intro",
+              "title": "intro",
+              "description": "fkdsjfdfk",
+              "source": "@site/docs/SDET/Zephyr/intro.md",
+              "sourceDirName": "SDET/Zephyr",
+              "slug": "/SDET/Zephyr/intro",
+              "permalink": "/SDET/Zephyr/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Xray",
+                "permalink": "/SDET/Xray/"
+              },
+              "next": {
+                "title": "intro",
+                "permalink": "/SDET/Bugzilla/intro"
               }
             },
             {
@@ -1251,6 +1365,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "SDET/Testing-Concepts/SDLC-vs-STLC"
+                  },
+                  {
+                    "type": "doc",
                     "id": "SDET/Testing-Concepts/TestPlan"
                   },
                   {
@@ -1288,6 +1406,74 @@
                   {
                     "type": "doc",
                     "id": "SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Traceability-Matrix"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Defect-LifeCycle"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Xray",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/Xray"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Zephyr",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Zephyr/intro"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Bugzilla",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Bugzilla/intro"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "API Automation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/API-Automation/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Cucumber",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Cucumber/Introduction"
                   }
                 ],
                 "collapsed": true,
@@ -1320,30 +1506,6 @@
                   {
                     "type": "doc",
                     "id": "SDET/Security-Testing/XSS-Attack"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "API Automation",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/API-Automation/Introduction"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Cucumber",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/Cucumber/Introduction"
                   }
                 ],
                 "collapsed": true,

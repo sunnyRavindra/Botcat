@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Testing-Concepts/Defect-LifeCycle",
+  "id": "SDET/Testing-Concepts/Defect-LifeCycle",
+  "title": "Defect LifeCycle",
+  "description": "The Defect Lifecycle, also known as the Bug Lifecycle or Issue Lifecycle, outlines the stages a defect or issue goes through from its discovery to its resolution. Understanding this lifecycle is crucial for efficient defect management. Here are notes on the typical stages of the Defect Lifecycle:",
+  "source": "@site/docs/SDET/Testing-Concepts/Defect-LifeCycle.md",
+  "sourceDirName": "SDET/Testing-Concepts",
+  "slug": "/SDET/Testing-Concepts/Defect-LifeCycle",
+  "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Defect LifeCycle"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Traceability Matrix",
+    "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+  },
+  "next": {
+    "title": "Xray",
+    "permalink": "/SDET/Xray/"
+  }
+}

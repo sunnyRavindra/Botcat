@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Cucumber",
-    "permalink": "/SDET/Cucumber/Introduction"
+    "title": "XSS Attack",
+    "permalink": "/SDET/Security-Testing/XSS-Attack"
   },
   "next": {
     "title": "Docker Commands",

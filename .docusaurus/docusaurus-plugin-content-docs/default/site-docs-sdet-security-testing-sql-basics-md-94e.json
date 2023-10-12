@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Blackbox vs Whitebox",
-    "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
+    "title": "Cucumber",
+    "permalink": "/SDET/Cucumber/Introduction"
   },
   "next": {
     "title": "SQL Data Manupulation",

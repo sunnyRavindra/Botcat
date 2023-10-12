@@ -32,6 +32,11 @@
               "path": "/SDET/API-Automation/static/APITesting"
             },
             {
+              "id": "SDET/Bugzilla/intro",
+              "path": "/SDET/Bugzilla/intro",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Cucumber/Introduction",
               "path": "/SDET/Cucumber/Introduction",
               "sidebar": "SDETSidebar"
@@ -202,6 +207,11 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Testing-Concepts/Defect-LifeCycle",
+              "path": "/SDET/Testing-Concepts/Defect-LifeCycle",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Testing-Concepts/Functional-vs-NonFunctional",
               "path": "/SDET/Testing-Concepts/Functional-vs-NonFunctional",
               "sidebar": "SDETSidebar"
@@ -217,8 +227,9 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Testing-Concepts/SDLC-vs_STLC",
-              "path": "/SDET/Testing-Concepts/SDLC-vs_STLC"
+              "id": "SDET/Testing-Concepts/SDLC-vs-STLC",
+              "path": "/SDET/Testing-Concepts/SDLC-vs-STLC",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Testing-Concepts/Smoke-vs-Sanity",
@@ -251,13 +262,24 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Testing-Concepts/Traceability-Matrix",
+              "path": "/SDET/Testing-Concepts/Traceability-Matrix",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Workout/plan",
               "path": "/SDET/Workout/plan",
               "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Xray/Xray",
-              "path": "/SDET/Xray/"
+              "path": "/SDET/Xray/",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Zephyr/intro",
+              "path": "/SDET/Zephyr/intro",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "static/Waterfall.png",

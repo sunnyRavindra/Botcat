@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-b3f": {
+  "/-002": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -206,6 +206,10 @@
   "/SDET/API-Automation/static/APITesting-0d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-api-automation-static-api-testing-56-b-8a9"
+  },
+  "/SDET/Bugzilla/intro-52b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-bugzilla-intro-432-3cb"
   },
   "/SDET/Cucumber/Introduction-c56": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -355,6 +359,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-blackbox-vs-whitebox-98-f-6a6"
   },
+  "/SDET/Testing-Concepts/Defect-LifeCycle-f6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-defect-life-cycle-374-a0e"
+  },
   "/SDET/Testing-Concepts/Functional-vs-NonFunctional-515": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-functional-vs-non-functional-786-c93"
@@ -367,9 +375,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-retesting-vs-regressionfef-1c4"
   },
-  "/SDET/Testing-Concepts/SDLC-vs_STLC-7a8": {
+  "/SDET/Testing-Concepts/SDLC-vs-STLC-66e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-testing-concepts-sdlc-vs-stl-cafd-8c5"
+    "content": "content---sdet-testing-concepts-sdlc-vs-stl-cf-6-f-d3f"
   },
   "/SDET/Testing-Concepts/Smoke-vs-Sanity-9b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -395,13 +403,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-test-plan-6-d-3-e69"
   },
+  "/SDET/Testing-Concepts/Traceability-Matrix-d93": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-traceability-matrixb-16-d68"
+  },
   "/SDET/Workout/plan-323": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-workout-plan-121-027"
   },
-  "/SDET/Xray/-a6f": {
+  "/SDET/Xray/-19e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-ebf-2e8"
+  },
+  "/SDET/Zephyr/intro-551": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-introd-1-a-5e4"
   },
   "/static/Waterfall.png-e30": {
     "__comp": "__comp---theme-doc-item-178-a40",

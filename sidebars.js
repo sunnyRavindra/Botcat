@@ -13,6 +13,7 @@ const sidebars = {
       type: 'category',
       label: 'Testing Concepts',
       items: [
+        'SDET/Testing-Concepts/SDLC-vs-STLC',
         'SDET/Testing-Concepts/TestPlan',
         'SDET/Testing-Concepts/TestCase',
         'SDET/Testing-Concepts/Test-Cases',
@@ -22,19 +23,30 @@ const sidebars = {
         'SDET/Testing-Concepts/Smoke-vs-Sanity',
         'SDET/Testing-Concepts/Retesting-vs-Regression',
         'SDET/Testing-Concepts/Functional-vs-NonFunctional',
-        'SDET/Testing-Concepts/Blackbox-vs-Whitebox'
+        'SDET/Testing-Concepts/Blackbox-vs-Whitebox',
+        'SDET/Testing-Concepts/Traceability-Matrix',
+        'SDET/Testing-Concepts/Defect-LifeCycle'
       ],
     },
     {
       type: 'category',
-      label: 'Security Testing',
+      label: 'Xray',
       items: [
-        'SDET/Security-Testing/SQL-Basics',
-        'SDET/Security-Testing/SQL-Data-Manupulation',
-        'SDET/Security-Testing/SQL-DataTypes',
-        'SDET/Security-Testing/SQL-Operators',
-        'SDET/Security-Testing/SQL-Injection',
-        'SDET/Security-Testing/XSS-Attack',
+        'SDET/Xray/Xray',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Zephyr',
+      items: [
+        'SDET/Zephyr/intro',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Bugzilla',
+      items: [
+        'SDET/Bugzilla/intro',
       ],
     },
     {
@@ -49,6 +61,18 @@ const sidebars = {
       label: 'Cucumber',
       items: [
         'SDET/Cucumber/Introduction',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Security Testing',
+      items: [
+        'SDET/Security-Testing/SQL-Basics',
+        'SDET/Security-Testing/SQL-Data-Manupulation',
+        'SDET/Security-Testing/SQL-DataTypes',
+        'SDET/Security-Testing/SQL-Operators',
+        'SDET/Security-Testing/SQL-Injection',
+        'SDET/Security-Testing/XSS-Attack',
       ],
     },
     {

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
+                "file": "SDET/Testing-Concepts/TestCase.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
+                "file": "SDET/Testing-Concepts/TestCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md",
+                "file": "SDET/Testing-Concepts/TestCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Testing-Concepts/SDLC-vs_STLC.md"
+                "file": "SDET/Testing-Concepts/TestCase.md"
               }
             }
           }
@@ -181,12 +181,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "f9753ca96f69ebba",
   "lastOpenFiles": [
+    "SDET/Testing-Concepts/Defect-LifeCycle.md",
+    "SDET/Testing-Concepts/static/RTM_Template.xlsx",
+    "SDET/Testing-Concepts/static/RTM_TemplateGuru99.xlsx",
+    "SDET/Testing-Concepts/Traceability-Matrix.md",
+    "SDET/Testing-Concepts/Treceability-Matrix.md",
+    "SDET/Bugzilla/intro.md",
+    "SDET/Bugzilla",
+    "SDET/Zephyr/intro.md",
+    "SDET/Zephyr",
+    "SDET/Testing-Concepts/SDLC-vs_STLC.md",
+    "SDET/Testing-Concepts/SDLC-vs-STLC.md",
     "SDET/Testing-Concepts/static/SDLC.png",
     "SDET/Testing-Concepts/TestCase.md",
     "SDET/Testing-Concepts/SDLC.md",
-    "SDET/Testing-Concepts/SDLC-vs_STLC.md",
     "SDET/Testing-Concepts/static/STLC.png",
     "SDET/Testing-Concepts/Blackbox-vs-Whitebox.md",
     "SDET/Testing-Concepts/Functional-vs-NonFunctional.md",
@@ -212,13 +222,6 @@
     "SDET/Skills/AppliedJobsDetails.md",
     "SDET/Skills",
     "SDET/Xray/Xray.md",
-    "SDET/Xray",
-    "SDET/Testing-Concepts",
-    "SDET/Jira/Agile-Project.md",
-    "SDET/API-Automation/Introduction.md",
-    "SDET/Java/Data Types.md",
-    "ContactMe.md",
-    "SDET/Jira/static/Agile.md",
     "SDET/Jira/static/AgileWorkflow.png",
     "Pasted image 20231011085241 1.png",
     "SDET/Jira/static/AgileProject.png",
@@ -226,9 +229,6 @@
     "SDET/Jira/static/Pasted Image 20231010211008_010.png",
     "SDET/Jira/static/Pasted Image 20231010205650_696.png",
     "SDET/Jira/static/Pasted Image 20231010204944_212.png",
-    "SDET/Jira/static/Pasted Image 20231010202938_933.png",
-    "SDET/Jira/static",
-    "static",
     "Untitled.canvas"
   ]
 }

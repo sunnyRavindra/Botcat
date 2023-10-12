@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b3f'),
+    component: ComponentCreator('/', '002'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -131,6 +131,12 @@ export default [
         path: '/SDET/API-Automation/static/APITesting',
         component: ComponentCreator('/SDET/API-Automation/static/APITesting', '0d7'),
         exact: true
+      },
+      {
+        path: '/SDET/Bugzilla/intro',
+        component: ComponentCreator('/SDET/Bugzilla/intro', '52b'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Cucumber/Introduction',
@@ -340,6 +346,12 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/Testing-Concepts/Defect-LifeCycle',
+        component: ComponentCreator('/SDET/Testing-Concepts/Defect-LifeCycle', 'f6c'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Testing-Concepts/Functional-vs-NonFunctional',
         component: ComponentCreator('/SDET/Testing-Concepts/Functional-vs-NonFunctional', '515'),
         exact: true,
@@ -358,9 +370,10 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Testing-Concepts/SDLC-vs_STLC',
-        component: ComponentCreator('/SDET/Testing-Concepts/SDLC-vs_STLC', '7a8'),
-        exact: true
+        path: '/SDET/Testing-Concepts/SDLC-vs-STLC',
+        component: ComponentCreator('/SDET/Testing-Concepts/SDLC-vs-STLC', '66e'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Testing-Concepts/Smoke-vs-Sanity',
@@ -399,6 +412,12 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/Testing-Concepts/Traceability-Matrix',
+        component: ComponentCreator('/SDET/Testing-Concepts/Traceability-Matrix', 'd93'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Workout/plan',
         component: ComponentCreator('/SDET/Workout/plan', '323'),
         exact: true,
@@ -406,8 +425,15 @@ export default [
       },
       {
         path: '/SDET/Xray/',
-        component: ComponentCreator('/SDET/Xray/', 'a6f'),
-        exact: true
+        component: ComponentCreator('/SDET/Xray/', '19e'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Zephyr/intro',
+        component: ComponentCreator('/SDET/Zephyr/intro', '551'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/static/Waterfall.png',

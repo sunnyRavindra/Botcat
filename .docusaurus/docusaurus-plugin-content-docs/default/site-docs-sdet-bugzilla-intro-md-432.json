@@ -1,0 +1,23 @@
+{
+  "unversionedId": "SDET/Bugzilla/intro",
+  "id": "SDET/Bugzilla/intro",
+  "title": "intro",
+  "description": "Bugzilla",
+  "source": "@site/docs/SDET/Bugzilla/intro.md",
+  "sourceDirName": "SDET/Bugzilla",
+  "slug": "/SDET/Bugzilla/intro",
+  "permalink": "/SDET/Bugzilla/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/SDET/Zephyr/intro"
+  },
+  "next": {
+    "title": "HTTP Basics",
+    "permalink": "/SDET/API-Automation/Introduction"
+  }
+}

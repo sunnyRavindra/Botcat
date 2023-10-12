@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "Xray"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Defect LifeCycle",
+    "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/SDET/Zephyr/intro"
   }
 }

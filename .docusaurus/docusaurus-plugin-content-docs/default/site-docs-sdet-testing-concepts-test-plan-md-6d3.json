@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Browser Options",
-    "permalink": "/SDET/Selenium/BrowserOptions"
+    "title": "SDLC vs STLC",
+    "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
   },
   "next": {
     "title": "Test Case",
