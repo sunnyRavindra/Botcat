@@ -25,6 +25,7 @@ const sidebars = {
         'SDET/Testing-Concepts/Functional-vs-NonFunctional',
         'SDET/Testing-Concepts/Blackbox-vs-Whitebox',
         'SDET/Testing-Concepts/Traceability-Matrix',
+        'SDET/Testing-Concepts/Component-vs-Integration-Testing',
         'SDET/Testing-Concepts/Defect-LifeCycle'
       ],
     },

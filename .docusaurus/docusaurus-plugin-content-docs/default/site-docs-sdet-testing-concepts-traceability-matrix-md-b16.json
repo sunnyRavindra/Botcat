@@ -19,7 +19,7 @@
     "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
   },
   "next": {
-    "title": "Defect LifeCycle",
-    "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+    "title": "Component vs Integration Testing",
+    "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
   }
 }

@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Traceability Matrix",
-    "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+    "title": "Component vs Integration Testing",
+    "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
   },
   "next": {
     "title": "Xray",

@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '002'),
+    component: ComponentCreator('/', '7f6'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -346,6 +346,12 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/Testing-Concepts/Component-vs-Integration-Testing',
+        component: ComponentCreator('/SDET/Testing-Concepts/Component-vs-Integration-Testing', '685'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Testing-Concepts/Defect-LifeCycle',
         component: ComponentCreator('/SDET/Testing-Concepts/Defect-LifeCycle', 'f6c'),
         exact: true,
@@ -416,6 +422,11 @@ export default [
         component: ComponentCreator('/SDET/Testing-Concepts/Traceability-Matrix', 'd93'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Testing-Concepts/Verification-vs-Validation',
+        component: ComponentCreator('/SDET/Testing-Concepts/Verification-vs-Validation', '586'),
+        exact: true
       },
       {
         path: '/SDET/Workout/plan',

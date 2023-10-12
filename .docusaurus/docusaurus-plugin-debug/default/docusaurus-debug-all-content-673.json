@@ -953,6 +953,31 @@
               }
             },
             {
+              "unversionedId": "SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "id": "SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "title": "Component vs Integration Testing",
+              "description": "Integration Testing and Component Testing are two essential levels of testing in the software development process, each with a specific focus and purpose. Here are notes on both integration testing and component testing:",
+              "source": "@site/docs/SDET/Testing-Concepts/Component-vs-Integration-Testing.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Component vs Integration Testing"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Traceability Matrix",
+                "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+              },
+              "next": {
+                "title": "Defect LifeCycle",
+                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+              }
+            },
+            {
               "unversionedId": "SDET/Testing-Concepts/Defect-LifeCycle",
               "id": "SDET/Testing-Concepts/Defect-LifeCycle",
               "title": "Defect LifeCycle",
@@ -969,8 +994,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Traceability Matrix",
-                "permalink": "/SDET/Testing-Concepts/Traceability-Matrix"
+                "title": "Component vs Integration Testing",
+                "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
               },
               "next": {
                 "title": "Xray",
@@ -1248,8 +1273,24 @@
                 "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
               },
               "next": {
-                "title": "Defect LifeCycle",
-                "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+                "title": "Component vs Integration Testing",
+                "permalink": "/SDET/Testing-Concepts/Component-vs-Integration-Testing"
+              }
+            },
+            {
+              "unversionedId": "SDET/Testing-Concepts/Verification-vs-Validation",
+              "id": "SDET/Testing-Concepts/Verification-vs-Validation",
+              "title": "Priority vs Severity",
+              "description": "Bug",
+              "source": "@site/docs/SDET/Testing-Concepts/Verification-vs-Validation.md",
+              "sourceDirName": "SDET/Testing-Concepts",
+              "slug": "/SDET/Testing-Concepts/Verification-vs-Validation",
+              "permalink": "/SDET/Testing-Concepts/Verification-vs-Validation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Priority vs Severity"
               }
             },
             {
@@ -1410,6 +1451,10 @@
                   {
                     "type": "doc",
                     "id": "SDET/Testing-Concepts/Traceability-Matrix"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Testing-Concepts/Component-vs-Integration-Testing"
                   },
                   {
                     "type": "doc",

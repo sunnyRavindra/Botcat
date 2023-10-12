@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-002": {
+  "/-7f6": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -359,6 +359,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-blackbox-vs-whitebox-98-f-6a6"
   },
+  "/SDET/Testing-Concepts/Component-vs-Integration-Testing-685": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-component-vs-integration-testing-137-a27"
+  },
   "/SDET/Testing-Concepts/Defect-LifeCycle-f6c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-defect-life-cycle-374-a0e"
@@ -406,6 +410,10 @@
   "/SDET/Testing-Concepts/Traceability-Matrix-d93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-traceability-matrixb-16-d68"
+  },
+  "/SDET/Testing-Concepts/Verification-vs-Validation-586": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-verification-vs-validationb-70-6a7"
   },
   "/SDET/Workout/plan-323": {
     "__comp": "__comp---theme-doc-item-178-a40",

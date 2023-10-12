@@ -207,6 +207,11 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "path": "/SDET/Testing-Concepts/Component-vs-Integration-Testing",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Testing-Concepts/Defect-LifeCycle",
               "path": "/SDET/Testing-Concepts/Defect-LifeCycle",
               "sidebar": "SDETSidebar"
@@ -265,6 +270,10 @@
               "id": "SDET/Testing-Concepts/Traceability-Matrix",
               "path": "/SDET/Testing-Concepts/Traceability-Matrix",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Testing-Concepts/Verification-vs-Validation",
+              "path": "/SDET/Testing-Concepts/Verification-vs-Validation"
             },
             {
               "id": "SDET/Workout/plan",
