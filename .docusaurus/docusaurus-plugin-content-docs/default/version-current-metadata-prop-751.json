@@ -741,6 +741,11 @@
       "title": "Xray",
       "description": "Test Coverage add Coverage"
     },
+    "SDET/Xray/TestPlan": {
+      "id": "SDET/Xray/TestPlan",
+      "title": "TestCase",
+      "description": "1. With Test Plans you will decide which Tests you want to perform, who will execute them and when they will be executed."
+    },
     "SDET/Xray/Xray": {
       "id": "SDET/Xray/Xray",
       "title": "Xray",

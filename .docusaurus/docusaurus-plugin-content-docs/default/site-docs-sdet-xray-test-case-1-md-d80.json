@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Xray/TestCase 1",
+  "id": "SDET/Xray/TestCase 1",
+  "title": "TestCase",
+  "description": "TestCase",
+  "source": "@site/docs/SDET/Xray/TestCase 1.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/TestCase 1",
+  "permalink": "/SDET/Xray/TestCase 1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TestCase"
+  }
+}

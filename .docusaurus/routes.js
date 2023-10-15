@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a42'),
+    component: ComponentCreator('/', '2b6'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -461,6 +461,11 @@ export default [
       {
         path: '/SDET/Xray/TestCoverage',
         component: ComponentCreator('/SDET/Xray/TestCoverage', '83a'),
+        exact: true
+      },
+      {
+        path: '/SDET/Xray/TestPlan',
+        component: ComponentCreator('/SDET/Xray/TestPlan', 'd84'),
         exact: true
       },
       {

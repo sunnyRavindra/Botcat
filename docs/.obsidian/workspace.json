@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Xray/TestCase.md",
+                "file": "SDET/Xray/TestPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Xray/TestCase.md",
+                "file": "SDET/Xray/TestPlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Xray/TestCase.md",
+                "file": "SDET/Xray/TestPlan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Xray/TestCase.md"
+                "file": "SDET/Xray/TestPlan.md"
               }
             }
           }
@@ -234,10 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0aaec4515fae8dc",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
-    "SDET/Xray/TestCoverage.md",
     "SDET/Xray/TestCase.md",
+    "SDET/Xray/TestPlan.md",
+    "SDET/Xray/TestCoverage.md",
     "SDET/Xray/static/TestCase1.png",
     "SDET/Xray/static/TestCase.png",
     "SDET/Xray/static/TestCase3.png",

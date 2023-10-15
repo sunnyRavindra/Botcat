@@ -300,6 +300,10 @@
               "path": "/SDET/Xray/TestCoverage"
             },
             {
+              "id": "SDET/Xray/TestPlan",
+              "path": "/SDET/Xray/TestPlan"
+            },
+            {
               "id": "SDET/Xray/Xray",
               "path": "/SDET/Xray/",
               "sidebar": "SDETSidebar"
