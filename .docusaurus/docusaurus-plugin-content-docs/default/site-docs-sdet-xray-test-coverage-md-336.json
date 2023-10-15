@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Xray/TestCoverage",
+  "id": "SDET/Xray/TestCoverage",
+  "title": "Xray",
+  "description": "Test Coverage add Coverage",
+  "source": "@site/docs/SDET/Xray/TestCoverage.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/TestCoverage",
+  "permalink": "/SDET/Xray/TestCoverage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Xray"
+  }
+}

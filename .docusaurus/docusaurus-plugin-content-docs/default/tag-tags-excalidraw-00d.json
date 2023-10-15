@@ -2,7 +2,7 @@
   "label": "excalidraw",
   "permalink": "/tags/excalidraw",
   "allTagsPath": "/tags",
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "id": "SDET/Jira/static/Agile",
@@ -11,16 +11,16 @@
       "permalink": "/SDET/Jira/static/Agile"
     },
     {
-      "id": "SDET/API-Automation/static/API",
+      "id": "SDET/API-Testing-Concepts/static/API",
       "title": "API",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/API-Automation/static/API"
+      "permalink": "/SDET/API-Testing-Concepts/static/API"
     },
     {
-      "id": "SDET/API-Automation/static/APITesting",
+      "id": "SDET/API-Testing-Concepts/static/APITesting",
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/API-Automation/static/APITesting"
+      "permalink": "/SDET/API-Testing-Concepts/static/APITesting"
     },
     {
       "id": "SDET/Docker/static/Docker",
@@ -39,6 +39,12 @@
       "title": "SeleniumExcalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/SDET/Selenium/static/SeleniumExcalidraw"
+    },
+    {
+      "id": "SDET/Xray/static/Xray",
+      "title": "Xray",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/Xray/static/Xray"
     }
   ]
 }

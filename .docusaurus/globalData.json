@@ -15,26 +15,22 @@
               "path": "/docs/ContactMe"
             },
             {
-              "id": "SDET/API-Automation/Fiddler",
-              "path": "/SDET/API-Automation/Fiddler"
-            },
-            {
-              "id": "SDET/API-Automation/Introduction",
-              "path": "/SDET/API-Automation/Introduction",
+              "id": "SDET/API-Testing-Concepts/API Basics",
+              "path": "/SDET/API-Testing-Concepts/API Basics",
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/API-Automation/static/API",
-              "path": "/SDET/API-Automation/static/API"
-            },
-            {
-              "id": "SDET/API-Automation/static/APITesting",
-              "path": "/SDET/API-Automation/static/APITesting"
-            },
-            {
-              "id": "SDET/Bugzilla/intro",
-              "path": "/SDET/Bugzilla/intro",
+              "id": "SDET/API-Testing-Concepts/HTTP Basics",
+              "path": "/SDET/API-Testing-Concepts/HTTP Basics",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/API-Testing-Concepts/static/API",
+              "path": "/SDET/API-Testing-Concepts/static/API"
+            },
+            {
+              "id": "SDET/API-Testing-Concepts/static/APITesting",
+              "path": "/SDET/API-Testing-Concepts/static/APITesting"
             },
             {
               "id": "SDET/Cucumber/Introduction",
@@ -198,6 +194,10 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/SoapUI/Intro",
+              "path": "/SDET/SoapUI/Intro"
+            },
+            {
               "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
               "path": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory",
               "sidebar": "SDETSidebar"
@@ -286,6 +286,18 @@
               "id": "SDET/Workout/plan",
               "path": "/SDET/Workout/plan",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Xray/static/Xray",
+              "path": "/SDET/Xray/static/Xray"
+            },
+            {
+              "id": "SDET/Xray/TestCase",
+              "path": "/SDET/Xray/TestCase"
+            },
+            {
+              "id": "SDET/Xray/TestCoverage",
+              "path": "/SDET/Xray/TestCoverage"
             },
             {
               "id": "SDET/Xray/Xray",

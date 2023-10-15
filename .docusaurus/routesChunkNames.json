@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-693": {
+  "/-a42": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -191,25 +191,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-contact-meafd-3c6"
   },
-  "/SDET/API-Automation/Fiddler-0ef": {
+  "/SDET/API-Testing-Concepts/API Basics-f06": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-api-automation-fiddlerd-2-f-350"
+    "content": "content---sdet-api-testing-concepts-api-basics-40-c-07e"
   },
-  "/SDET/API-Automation/Introduction-42b": {
+  "/SDET/API-Testing-Concepts/HTTP Basics-bbc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-api-automation-introduction-999-151"
+    "content": "content---sdet-api-testing-concepts-http-basics-496-dc6"
   },
-  "/SDET/API-Automation/static/API-de0": {
+  "/SDET/API-Testing-Concepts/static/API-0d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-api-automation-static-api-9-a-0-b84"
+    "content": "content---sdet-api-testing-concepts-static-api-610-c09"
   },
-  "/SDET/API-Automation/static/APITesting-0d7": {
+  "/SDET/API-Testing-Concepts/static/APITesting-542": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-api-automation-static-api-testing-56-b-8a9"
-  },
-  "/SDET/Bugzilla/intro-52b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-bugzilla-intro-432-3cb"
+    "content": "content---sdet-api-testing-concepts-static-api-testing-674-e22"
   },
   "/SDET/Cucumber/Introduction-c56": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -351,6 +347,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-skillsee-6-b04"
   },
+  "/SDET/SoapUI/Intro-b21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-introb-80-ea5"
+  },
   "/SDET/Testing-Concepts/Adhoc-vs-Exploretory-6be": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-testing-concepts-adhoc-vs-exploretory-457-c37"
@@ -426,6 +426,18 @@
   "/SDET/Xray/-19e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-ebf-2e8"
+  },
+  "/SDET/Xray/static/Xray-ddb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-static-xray-784-deb"
+  },
+  "/SDET/Xray/TestCase-1c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-case-9-e-5-0db"
+  },
+  "/SDET/Xray/TestCoverage-83a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-coverage-336-ffa"
   },
   "/SDET/Zephyr/intro-551": {
     "__comp": "__comp---theme-doc-item-178-a40",

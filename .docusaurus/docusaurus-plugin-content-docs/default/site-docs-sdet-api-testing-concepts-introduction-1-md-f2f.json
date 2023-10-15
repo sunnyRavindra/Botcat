@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/API-Testing-Concepts/Introduction 1",
+  "id": "SDET/API-Testing-Concepts/Introduction 1",
+  "title": "HTTP Basics",
+  "description": "API Flow",
+  "source": "@site/docs/SDET/API-Testing-Concepts/Introduction 1.md",
+  "sourceDirName": "SDET/API-Testing-Concepts",
+  "slug": "/SDET/API-Testing-Concepts/Introduction 1",
+  "permalink": "/SDET/API-Testing-Concepts/Introduction 1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "HTTP Basics"
+  }
+}

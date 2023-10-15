@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/API-Testing-Concepts/API Basics",
+  "id": "SDET/API-Testing-Concepts/API Basics",
+  "title": "HTTP Basics",
+  "description": "API Flow",
+  "source": "@site/docs/SDET/API-Testing-Concepts/API Basics.md",
+  "sourceDirName": "SDET/API-Testing-Concepts",
+  "slug": "/SDET/API-Testing-Concepts/API Basics",
+  "permalink": "/SDET/API-Testing-Concepts/API Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "HTTP Basics"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/SDET/Zephyr/intro"
+  },
+  "next": {
+    "title": "HTTP Basics",
+    "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
+  }
+}

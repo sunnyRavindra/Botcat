@@ -13,7 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Xray/Xray.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29dedcfff094bc37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SDET/Xray/static/Xray.md"
+              }
+            }
+          },
+          {
+            "id": "3b265b2b1a601142",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/FrameworksSupported.png"
+              }
+            }
+          },
+          {
+            "id": "9d1d426bad380e19",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/CISupport.png"
+              }
+            }
+          },
+          {
+            "id": "576a82410bb4b8cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/CISupport.png"
+              }
+            }
+          },
+          {
+            "id": "f0aaec4515fae8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/Xray/TestCase.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Xray/TestCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md",
+                "file": "SDET/Xray/TestCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Testing-Concepts/TestCase.md"
+                "file": "SDET/Xray/TestCase.md"
               }
             }
           }
@@ -181,54 +234,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9753ca96f69ebba",
+  "active": "f0aaec4515fae8dc",
   "lastOpenFiles": [
-    "SDET/Testing-Concepts/Load-vs-Stress-Testing.md",
-    "SDET/Testing-Concepts/Verification-vs-Validation.md",
-    "SDET/Testing-Concepts/Component-vs-Integration-Testing.md",
-    "SDET/Testing-Concepts/Defect-LifeCycle.md",
+    "SDET/Xray/TestCoverage.md",
+    "SDET/Xray/TestCase.md",
+    "SDET/Xray/static/TestCase1.png",
+    "SDET/Xray/static/TestCase.png",
+    "SDET/Xray/static/TestCase3.png",
+    "SDET/Xray/static/TestCase2.png",
+    "SDET/Xray/Xray.md",
+    "SDET/Xray/static/TestCoverage.png",
+    "SDET/Xray/static/TestCoverageDefect.png",
+    "Pasted image 20231014113546.png",
+    "SDET/Xray/static/TestCoverageStory.png",
+    "Pasted Image 20231014224332_824.png",
+    "Pasted Image 20231014224315_406.png",
+    "SDET/Xray/static/Xray.md",
+    "SDET/Xray/static/Drawing 2023-10-15 10.34.07.excalidraw.md",
+    "SDET/Zephyr/intro.md",
+    "SDET/Xray/static",
+    "SDET/TestLink/TestLink-Intro.md",
+    "SDET/TestLink",
+    "SDET/DSA/Introduction.md",
+    "SDET/API-Testing-Concepts/API Basics.md",
+    "SDET/API-Testing-Concepts/Fiddler.md",
+    "SDET/API-Testing-Concepts/static/API.md",
+    "SDET/Docker/DockerFiles/Nextjs Docker File.md",
+    "SDET/Docker/DockerFiles/DockerFile.md",
+    "SDET/Docker/DockerFiles/Docker Ignore file.md",
+    "SDET/Jackson/Introduction.md",
+    "SDET/Java/static/Java.md",
+    "SDET/Jira/static/Agile.md",
+    "SDET/Rest-Assured/Introduction.md",
+    "SDET/API-Testing-Concepts/HTTP Basics.md",
+    "SDET/API-Testing-Concepts/static/APITesting.md",
+    "SDET/Testing-Concepts/TestCase.md",
+    "SDET/API-Testing-Concepts/static",
+    "SDET/API-Testing-Concepts",
+    "SDET/API-Testing/static/APITesting.md",
+    "SDET/API-Testing/static/API.md",
+    "SDET/API-Testing/static",
+    "SDET/API-Testing/Introduction.md",
+    "SDET/API-Testing/Fiddler.md",
+    "SDET/API-Testing",
+    "SDET/SoapUI",
     "SDET/Testing-Concepts/static/RTM_Template.xlsx",
     "SDET/Testing-Concepts/static/RTM_TemplateGuru99.xlsx",
-    "SDET/Testing-Concepts/Traceability-Matrix.md",
-    "SDET/Testing-Concepts/Treceability-Matrix.md",
-    "SDET/Bugzilla/intro.md",
     "SDET/Bugzilla",
-    "SDET/Zephyr/intro.md",
-    "SDET/Zephyr",
-    "SDET/Testing-Concepts/SDLC-vs_STLC.md",
-    "SDET/Testing-Concepts/SDLC-vs-STLC.md",
-    "SDET/Testing-Concepts/static/SDLC.png",
-    "SDET/Testing-Concepts/TestCase.md",
-    "SDET/Testing-Concepts/SDLC.md",
-    "SDET/Testing-Concepts/static/STLC.png",
-    "SDET/Testing-Concepts/Blackbox-vs-Whitebox.md",
-    "SDET/Testing-Concepts/Functional-vs-NonFunctional.md",
-    "SDET/Testing-Concepts/static/TestPlan.doc",
-    "SDET/Testing-Concepts/static/TestCaseTemplate.xls",
-    "SDET/Testing-Concepts/Adhoc-vs-Exploretory.md",
-    "SDET/Testing-Concepts/static/Pyramid.png",
-    "SDET/Testing-Concepts/TestPlan.md",
-    "SDET/Testing-Concepts/Retesting-vs-Regression.md",
-    "SDET/Testing-Concepts/Smoke-vs-Sanity.md",
-    "SDET/Testing-Concepts/Smoke vs Sanity",
-    "SDET/Testing-Concepts/Priority-vs-severity.md",
-    "SDET/Testing-Concepts/Priority-vs-severity",
-    "SDET/Testing-Concepts/Testing-levels.md",
-    "SDET/Testing-Concepts/Test-Pyramid.md",
-    "SDET/Testing-Concepts/TestingConcepts.md",
-    "SDET/Testing-Concepts/Test-Cases.md",
-    "SDET/Testing-Concepts/static",
-    "SDET/Selenium/Synchronisation.md",
-    "SDET/Selenium/notes.md",
-    "SDET/Skills.md",
-    "SDET/Skills",
-    "SDET/Jira/static/AgileWorkflow.png",
-    "Pasted image 20231011085241 1.png",
-    "SDET/Jira/static/AgileProject.png",
-    "SDET/Jira/static/Waterfall.png",
-    "SDET/Jira/static/Pasted Image 20231010211008_010.png",
-    "SDET/Jira/static/Pasted Image 20231010205650_696.png",
-    "SDET/Jira/static/Pasted Image 20231010204944_212.png",
     "Untitled.canvas"
   ]
 }

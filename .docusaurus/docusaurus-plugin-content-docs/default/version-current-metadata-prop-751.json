@@ -175,27 +175,19 @@
       },
       {
         "type": "category",
-        "label": "Bugzilla",
-        "items": [
-          {
-            "type": "link",
-            "label": "Bugzilla Intro",
-            "href": "/SDET/Bugzilla/intro",
-            "docId": "SDET/Bugzilla/intro"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "API Automation",
+        "label": "API-Testing-Concepts",
         "items": [
           {
             "type": "link",
             "label": "HTTP Basics",
-            "href": "/SDET/API-Automation/Introduction",
-            "docId": "SDET/API-Automation/Introduction"
+            "href": "/SDET/API-Testing-Concepts/API Basics",
+            "docId": "SDET/API-Testing-Concepts/API Basics"
+          },
+          {
+            "type": "link",
+            "label": "HTTP Basics",
+            "href": "/SDET/API-Testing-Concepts/HTTP Basics",
+            "docId": "SDET/API-Testing-Concepts/HTTP Basics"
           }
         ],
         "collapsed": true,
@@ -403,32 +395,27 @@
       "title": "Contact Me",
       "description": "*"
     },
-    "SDET/API-Automation/Fiddler": {
-      "id": "SDET/API-Automation/Fiddler",
-      "title": "Fiddler",
-      "description": "Fiddler Basics"
+    "SDET/API-Testing-Concepts/API Basics": {
+      "id": "SDET/API-Testing-Concepts/API Basics",
+      "title": "HTTP Basics",
+      "description": "API Flow",
+      "sidebar": "SDETSidebar"
     },
-    "SDET/API-Automation/Introduction": {
-      "id": "SDET/API-Automation/Introduction",
+    "SDET/API-Testing-Concepts/HTTP Basics": {
+      "id": "SDET/API-Testing-Concepts/HTTP Basics",
       "title": "HTTP Basics",
       "description": "Basics",
       "sidebar": "SDETSidebar"
     },
-    "SDET/API-Automation/static/API": {
-      "id": "SDET/API-Automation/static/API",
+    "SDET/API-Testing-Concepts/static/API": {
+      "id": "SDET/API-Testing-Concepts/static/API",
       "title": "API",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "SDET/API-Automation/static/APITesting": {
-      "id": "SDET/API-Automation/static/APITesting",
+    "SDET/API-Testing-Concepts/static/APITesting": {
+      "id": "SDET/API-Testing-Concepts/static/APITesting",
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
-    },
-    "SDET/Bugzilla/intro": {
-      "id": "SDET/Bugzilla/intro",
-      "title": "Bugzilla Intro",
-      "description": "Learn From Here - https://www.bugzilla.org/docs/4.2/en/html/",
-      "sidebar": "SDETSidebar"
     },
     "SDET/Cucumber/Introduction": {
       "id": "SDET/Cucumber/Introduction",
@@ -626,6 +613,11 @@
       "description": "Nigel Frank International",
       "sidebar": "SDETSidebar"
     },
+    "SDET/SoapUI/Intro": {
+      "id": "SDET/SoapUI/Intro",
+      "title": "Intro",
+      "description": ""
+    },
     "SDET/Testing-Concepts/Adhoc-vs-Exploretory": {
       "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
       "title": "Adhoc vs Exploretory",
@@ -734,10 +726,25 @@
       "description": "| Workout Name    | Sets     | Reps    | Comments    |",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Xray/static/Xray": {
+      "id": "SDET/Xray/static/Xray",
+      "title": "Xray",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Xray/TestCase": {
+      "id": "SDET/Xray/TestCase",
+      "title": "TestCase",
+      "description": "TestCase"
+    },
+    "SDET/Xray/TestCoverage": {
+      "id": "SDET/Xray/TestCoverage",
+      "title": "Xray",
+      "description": "Test Coverage add Coverage"
+    },
     "SDET/Xray/Xray": {
       "id": "SDET/Xray/Xray",
       "title": "Xray",
-      "description": "",
+      "description": "Xray Types",
       "sidebar": "SDETSidebar"
     },
     "SDET/Zephyr/intro": {

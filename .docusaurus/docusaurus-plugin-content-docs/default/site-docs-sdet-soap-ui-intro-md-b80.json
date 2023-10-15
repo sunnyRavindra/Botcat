@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/SoapUI/Intro",
+  "id": "SDET/SoapUI/Intro",
+  "title": "Intro",
+  "description": "",
+  "source": "@site/docs/SDET/SoapUI/Intro.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/Intro",
+  "permalink": "/SDET/SoapUI/Intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

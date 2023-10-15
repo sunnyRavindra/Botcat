@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/API-Testing-Concepts/Fiddler",
+  "id": "SDET/API-Testing-Concepts/Fiddler",
+  "title": "Fiddler",
+  "description": "Fiddler Basics",
+  "source": "@site/docs/SDET/API-Testing-Concepts/Fiddler.md",
+  "sourceDirName": "SDET/API-Testing-Concepts",
+  "slug": "/SDET/API-Testing-Concepts/Fiddler",
+  "permalink": "/SDET/API-Testing-Concepts/Fiddler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fiddler"
+  }
+}

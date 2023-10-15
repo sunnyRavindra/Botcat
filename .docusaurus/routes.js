@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '693'),
+    component: ComponentCreator('/', 'a42'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -112,31 +112,26 @@ export default [
         exact: true
       },
       {
-        path: '/SDET/API-Automation/Fiddler',
-        component: ComponentCreator('/SDET/API-Automation/Fiddler', '0ef'),
-        exact: true
-      },
-      {
-        path: '/SDET/API-Automation/Introduction',
-        component: ComponentCreator('/SDET/API-Automation/Introduction', '42b'),
+        path: '/SDET/API-Testing-Concepts/API Basics',
+        component: ComponentCreator('/SDET/API-Testing-Concepts/API Basics', 'f06'),
         exact: true,
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/API-Automation/static/API',
-        component: ComponentCreator('/SDET/API-Automation/static/API', 'de0'),
-        exact: true
-      },
-      {
-        path: '/SDET/API-Automation/static/APITesting',
-        component: ComponentCreator('/SDET/API-Automation/static/APITesting', '0d7'),
-        exact: true
-      },
-      {
-        path: '/SDET/Bugzilla/intro',
-        component: ComponentCreator('/SDET/Bugzilla/intro', '52b'),
+        path: '/SDET/API-Testing-Concepts/HTTP Basics',
+        component: ComponentCreator('/SDET/API-Testing-Concepts/HTTP Basics', 'bbc'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/API-Testing-Concepts/static/API',
+        component: ComponentCreator('/SDET/API-Testing-Concepts/static/API', '0d3'),
+        exact: true
+      },
+      {
+        path: '/SDET/API-Testing-Concepts/static/APITesting',
+        component: ComponentCreator('/SDET/API-Testing-Concepts/static/APITesting', '542'),
+        exact: true
       },
       {
         path: '/SDET/Cucumber/Introduction',
@@ -335,6 +330,11 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/SoapUI/Intro',
+        component: ComponentCreator('/SDET/SoapUI/Intro', 'b21'),
+        exact: true
+      },
+      {
         path: '/SDET/Testing-Concepts/Adhoc-vs-Exploretory',
         component: ComponentCreator('/SDET/Testing-Concepts/Adhoc-vs-Exploretory', '6be'),
         exact: true,
@@ -447,6 +447,21 @@ export default [
         component: ComponentCreator('/SDET/Xray/', '19e'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Xray/static/Xray',
+        component: ComponentCreator('/SDET/Xray/static/Xray', 'ddb'),
+        exact: true
+      },
+      {
+        path: '/SDET/Xray/TestCase',
+        component: ComponentCreator('/SDET/Xray/TestCase', '1c3'),
+        exact: true
+      },
+      {
+        path: '/SDET/Xray/TestCoverage',
+        component: ComponentCreator('/SDET/Xray/TestCoverage', '83a'),
+        exact: true
       },
       {
         path: '/SDET/Zephyr/intro',

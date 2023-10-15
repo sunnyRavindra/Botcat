@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/API-Testing/Introduction",
+  "id": "SDET/API-Testing/Introduction",
+  "title": "HTTP Basics",
+  "description": "Basics",
+  "source": "@site/docs/SDET/API-Testing/Introduction.md",
+  "sourceDirName": "SDET/API-Testing",
+  "slug": "/SDET/API-Testing/Introduction",
+  "permalink": "/SDET/API-Testing/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "HTTP Basics"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Bugzilla Intro",
+    "permalink": "/SDET/Bugzilla/intro"
+  },
+  "next": {
+    "title": "Cucumber",
+    "permalink": "/SDET/Cucumber/Introduction"
+  }
+}

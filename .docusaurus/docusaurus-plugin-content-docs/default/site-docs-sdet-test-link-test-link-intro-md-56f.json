@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/TestLink/TestLink-Intro",
+  "id": "SDET/TestLink/TestLink-Intro",
+  "title": "Test Link",
+  "description": "",
+  "source": "@site/docs/SDET/TestLink/TestLink-Intro.md",
+  "sourceDirName": "SDET/TestLink",
+  "slug": "/SDET/TestLink/TestLink-Intro",
+  "permalink": "/SDET/TestLink/TestLink-Intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Link"
+  }
+}

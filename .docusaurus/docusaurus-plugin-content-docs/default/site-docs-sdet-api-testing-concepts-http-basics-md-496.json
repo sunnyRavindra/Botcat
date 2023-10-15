@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/API-Testing-Concepts/HTTP Basics",
+  "id": "SDET/API-Testing-Concepts/HTTP Basics",
+  "title": "HTTP Basics",
+  "description": "Basics",
+  "source": "@site/docs/SDET/API-Testing-Concepts/HTTP Basics.md",
+  "sourceDirName": "SDET/API-Testing-Concepts",
+  "slug": "/SDET/API-Testing-Concepts/HTTP Basics",
+  "permalink": "/SDET/API-Testing-Concepts/HTTP Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "HTTP Basics"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "HTTP Basics",
+    "permalink": "/SDET/API-Testing-Concepts/API Basics"
+  },
+  "next": {
+    "title": "Cucumber",
+    "permalink": "/SDET/Cucumber/Introduction"
+  }
+}

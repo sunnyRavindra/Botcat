@@ -35,30 +35,14 @@
               }
             },
             {
-              "unversionedId": "SDET/API-Automation/Fiddler",
-              "id": "SDET/API-Automation/Fiddler",
-              "title": "Fiddler",
-              "description": "Fiddler Basics",
-              "source": "@site/docs/SDET/API-Automation/Fiddler.md",
-              "sourceDirName": "SDET/API-Automation",
-              "slug": "/SDET/API-Automation/Fiddler",
-              "permalink": "/SDET/API-Automation/Fiddler",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Fiddler"
-              }
-            },
-            {
-              "unversionedId": "SDET/API-Automation/Introduction",
-              "id": "SDET/API-Automation/Introduction",
+              "unversionedId": "SDET/API-Testing-Concepts/API Basics",
+              "id": "SDET/API-Testing-Concepts/API Basics",
               "title": "HTTP Basics",
-              "description": "Basics",
-              "source": "@site/docs/SDET/API-Automation/Introduction.md",
-              "sourceDirName": "SDET/API-Automation",
-              "slug": "/SDET/API-Automation/Introduction",
-              "permalink": "/SDET/API-Automation/Introduction",
+              "description": "API Flow",
+              "source": "@site/docs/SDET/API-Testing-Concepts/API Basics.md",
+              "sourceDirName": "SDET/API-Testing-Concepts",
+              "slug": "/SDET/API-Testing-Concepts/API Basics",
+              "permalink": "/SDET/API-Testing-Concepts/API Basics",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -67,8 +51,33 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Bugzilla Intro",
-                "permalink": "/SDET/Bugzilla/intro"
+                "title": "intro",
+                "permalink": "/SDET/Zephyr/intro"
+              },
+              "next": {
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
+              }
+            },
+            {
+              "unversionedId": "SDET/API-Testing-Concepts/HTTP Basics",
+              "id": "SDET/API-Testing-Concepts/HTTP Basics",
+              "title": "HTTP Basics",
+              "description": "Basics",
+              "source": "@site/docs/SDET/API-Testing-Concepts/HTTP Basics.md",
+              "sourceDirName": "SDET/API-Testing-Concepts",
+              "slug": "/SDET/API-Testing-Concepts/HTTP Basics",
+              "permalink": "/SDET/API-Testing-Concepts/HTTP Basics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "HTTP Basics"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Testing-Concepts/API Basics"
               },
               "next": {
                 "title": "Cucumber",
@@ -76,14 +85,14 @@
               }
             },
             {
-              "unversionedId": "SDET/API-Automation/static/API",
-              "id": "SDET/API-Automation/static/API",
+              "unversionedId": "SDET/API-Testing-Concepts/static/API",
+              "id": "SDET/API-Testing-Concepts/static/API",
               "title": "API",
               "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/SDET/API-Automation/static/API.md",
-              "sourceDirName": "SDET/API-Automation/static",
-              "slug": "/SDET/API-Automation/static/API",
-              "permalink": "/SDET/API-Automation/static/API",
+              "source": "@site/docs/SDET/API-Testing-Concepts/static/API.md",
+              "sourceDirName": "SDET/API-Testing-Concepts/static",
+              "slug": "/SDET/API-Testing-Concepts/static/API",
+              "permalink": "/SDET/API-Testing-Concepts/static/API",
               "draft": false,
               "tags": [
                 {
@@ -100,14 +109,14 @@
               }
             },
             {
-              "unversionedId": "SDET/API-Automation/static/APITesting",
-              "id": "SDET/API-Automation/static/APITesting",
+              "unversionedId": "SDET/API-Testing-Concepts/static/APITesting",
+              "id": "SDET/API-Testing-Concepts/static/APITesting",
               "title": "APITesting",
               "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-              "source": "@site/docs/SDET/API-Automation/static/APITesting.md",
-              "sourceDirName": "SDET/API-Automation/static",
-              "slug": "/SDET/API-Automation/static/APITesting",
-              "permalink": "/SDET/API-Automation/static/APITesting",
+              "source": "@site/docs/SDET/API-Testing-Concepts/static/APITesting.md",
+              "sourceDirName": "SDET/API-Testing-Concepts/static",
+              "slug": "/SDET/API-Testing-Concepts/static/APITesting",
+              "permalink": "/SDET/API-Testing-Concepts/static/APITesting",
               "draft": false,
               "tags": [
                 {
@@ -121,31 +130,6 @@
                 "tags": [
                   "excalidraw"
                 ]
-              }
-            },
-            {
-              "unversionedId": "SDET/Bugzilla/intro",
-              "id": "SDET/Bugzilla/intro",
-              "title": "Bugzilla Intro",
-              "description": "Learn From Here - https://www.bugzilla.org/docs/4.2/en/html/",
-              "source": "@site/docs/SDET/Bugzilla/intro.md",
-              "sourceDirName": "SDET/Bugzilla",
-              "slug": "/SDET/Bugzilla/intro",
-              "permalink": "/SDET/Bugzilla/intro",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Bugzilla Intro"
-              },
-              "sidebar": "SDETSidebar",
-              "previous": {
-                "title": "intro",
-                "permalink": "/SDET/Zephyr/intro"
-              },
-              "next": {
-                "title": "HTTP Basics",
-                "permalink": "/SDET/API-Automation/Introduction"
               }
             },
             {
@@ -166,7 +150,7 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "HTTP Basics",
-                "permalink": "/SDET/API-Automation/Introduction"
+                "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
               },
               "next": {
                 "title": "SQL Basics",
@@ -914,6 +898,20 @@
               }
             },
             {
+              "unversionedId": "SDET/SoapUI/Intro",
+              "id": "SDET/SoapUI/Intro",
+              "title": "Intro",
+              "description": "",
+              "source": "@site/docs/SDET/SoapUI/Intro.md",
+              "sourceDirName": "SDET/SoapUI",
+              "slug": "/SDET/SoapUI/Intro",
+              "permalink": "/SDET/SoapUI/Intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
               "unversionedId": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
               "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
               "title": "Adhoc vs Exploretory",
@@ -1360,10 +1358,66 @@
               }
             },
             {
+              "unversionedId": "SDET/Xray/static/Xray",
+              "id": "SDET/Xray/static/Xray",
+              "title": "Xray",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/Xray/static/Xray.md",
+              "sourceDirName": "SDET/Xray/static",
+              "slug": "/SDET/Xray/static/Xray",
+              "permalink": "/SDET/Xray/static/Xray",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
+              }
+            },
+            {
+              "unversionedId": "SDET/Xray/TestCase",
+              "id": "SDET/Xray/TestCase",
+              "title": "TestCase",
+              "description": "TestCase",
+              "source": "@site/docs/SDET/Xray/TestCase.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/TestCase",
+              "permalink": "/SDET/Xray/TestCase",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "TestCase"
+              }
+            },
+            {
+              "unversionedId": "SDET/Xray/TestCoverage",
+              "id": "SDET/Xray/TestCoverage",
+              "title": "Xray",
+              "description": "Test Coverage add Coverage",
+              "source": "@site/docs/SDET/Xray/TestCoverage.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/TestCoverage",
+              "permalink": "/SDET/Xray/TestCoverage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Xray"
+              }
+            },
+            {
               "unversionedId": "SDET/Xray/Xray",
               "id": "SDET/Xray/Xray",
               "title": "Xray",
-              "description": "",
+              "description": "Xray Types",
               "source": "@site/docs/SDET/Xray/Xray.md",
               "sourceDirName": "SDET/Xray",
               "slug": "/SDET/Xray/",
@@ -1403,8 +1457,8 @@
                 "permalink": "/SDET/Xray/"
               },
               "next": {
-                "title": "Bugzilla Intro",
-                "permalink": "/SDET/Bugzilla/intro"
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Testing-Concepts/API Basics"
               }
             },
             {
@@ -1547,23 +1601,15 @@
               },
               {
                 "type": "category",
-                "label": "Bugzilla",
+                "label": "API-Testing-Concepts",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/Bugzilla/intro"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "API Automation",
-                "items": [
+                    "id": "SDET/API-Testing-Concepts/API Basics"
+                  },
                   {
                     "type": "doc",
-                    "id": "SDET/API-Automation/Introduction"
+                    "id": "SDET/API-Testing-Concepts/HTTP Basics"
                   }
                 ],
                 "collapsed": true,

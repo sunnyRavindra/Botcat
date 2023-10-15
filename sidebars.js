@@ -48,16 +48,10 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Bugzilla',
+      label: 'API-Testing-Concepts',
       items: [
-        'SDET/Bugzilla/intro',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'API Automation',
-      items: [
-        'SDET/API-Automation/Introduction',
+        'SDET/API-Testing-Concepts/API Basics',
+        'SDET/API-Testing-Concepts/HTTP Basics'
       ],
     },
     {

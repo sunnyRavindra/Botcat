@@ -4,17 +4,12 @@ title: Skills
 
 ![Nigel Frank International](https://www.linkedin.com/company/nigel-frank-international/)
 Skills:
-1. Git
-2. TestRail
-3. TestLink 
-4. Zephyr 
-5. Python, Java, JavaScript, 
-6. RPA, 
-7. Appium, 
-8. Selenium 
+vcs: Git, Bitbucket
+Test Management Tools: Zephyr, Xray
+Programing Language: Java
+Test Automation Tools: Selenium, Rest Assured, Appium, TestNG
+Testing Tools: 
 9. API Testing 
-10. TestNG 
-11. Mobile Autoamtion.
 12. Security Testing.  
 13. Cloud, Docker, Kubernetes.
 
@@ -37,9 +32,6 @@ JavaScript
 Jenkins 
 Travis CI 
 CircleCI  
-TestRail
-TestLink 
-Zephyr 
 Kubernetes
 Apache JMeter 
 LoadRunner 
@@ -67,7 +59,7 @@ Cypress
 TestComplete 
 Postman 
 Katalon Studio 
-SikuliX 
+SikuliX
 Devops 
 Github 
 CI/CD 
@@ -100,3 +92,7 @@ Appium, Espresso, and XCUITest,
 Allure, Extent Reports, and TestNG ,
 Faker and DataFactory for generating realistic test data.
  Security Testing Tools: Knowledge of tools like OWASP ZAP, Nessus, and Burp Suite for security testing.
+
+--- Time Frame for Production
+Oct 24  - Test Management Tools And API testing and API Automation
+Nov 4 - Mobile , Selenium, Frameworks
