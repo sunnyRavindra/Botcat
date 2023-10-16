@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Xray/XrayReports",
+  "id": "SDET/Xray/XrayReports",
+  "title": "Xray Reports",
+  "description": "Reports",
+  "source": "@site/docs/SDET/Xray/XrayReports.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/XrayReports",
+  "permalink": "/SDET/Xray/XrayReports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Xray Reports"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Execution",
+    "permalink": "/SDET/Xray/TestExecution"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/SDET/Zephyr/intro"
+  }
+}

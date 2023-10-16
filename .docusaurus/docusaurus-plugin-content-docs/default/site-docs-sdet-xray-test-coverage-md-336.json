@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/Xray/TestCoverage",
   "id": "SDET/Xray/TestCoverage",
-  "title": "Xray",
+  "title": "Test Coverage",
   "description": "Test Coverage add Coverage",
   "source": "@site/docs/SDET/Xray/TestCoverage.md",
   "sourceDirName": "SDET/Xray",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Xray"
+    "title": "Test Coverage"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Xray Intro",
+    "permalink": "/SDET/Xray/"
+  },
+  "next": {
+    "title": "Test Case",
+    "permalink": "/SDET/Xray/TestCase"
   }
 }

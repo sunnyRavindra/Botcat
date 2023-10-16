@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2b6'),
+    component: ComponentCreator('/', '0d0'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -454,19 +454,40 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Xray/Terminology',
+        component: ComponentCreator('/SDET/Xray/Terminology', '822'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
         path: '/SDET/Xray/TestCase',
-        component: ComponentCreator('/SDET/Xray/TestCase', '1c3'),
-        exact: true
+        component: ComponentCreator('/SDET/Xray/TestCase', '484'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Xray/TestCoverage',
-        component: ComponentCreator('/SDET/Xray/TestCoverage', '83a'),
-        exact: true
+        component: ComponentCreator('/SDET/Xray/TestCoverage', '224'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Xray/TestExecution',
+        component: ComponentCreator('/SDET/Xray/TestExecution', '99b'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Xray/TestPlan',
-        component: ComponentCreator('/SDET/Xray/TestPlan', 'd84'),
-        exact: true
+        component: ComponentCreator('/SDET/Xray/TestPlan', 'c3f'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Xray/XrayReports',
+        component: ComponentCreator('/SDET/Xray/XrayReports', '32d'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Zephyr/intro',

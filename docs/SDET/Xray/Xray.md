@@ -1,5 +1,5 @@
 ---
-title: Xray
+title: Xray Intro
 ---
 ### Xray Types
 ![XrayTypes.png](./static/XrayTypes.png)
@@ -9,6 +9,7 @@ title: Xray
 
 ### Issue Types
 ![IssueTypes.png](./static/IssueTypes.png)
+
 ### Issue Types added
 ![IssueTypes.png](./static/IssueTypes1.png)
 
@@ -17,8 +18,11 @@ title: Xray
 
 ### CI Support 
 ![CISupport.png](./static/CISupport.png)
+
 ### Testing Board
 ![TestingBoard.png](./static/TestingBoard.png)
+
+![TestBoard1.png](./static/TestBoard1.png)
 
 ### TestCase
 ![TestCase.png](./static/TestCase.png)

@@ -63,9 +63,97 @@
             "id": "f0aaec4515fae8dc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/CreateTestPlan.png"
+              }
+            }
+          },
+          {
+            "id": "32b33102d0b6412e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/AddTestToTestPlan.png"
+              }
+            }
+          },
+          {
+            "id": "e586be4e79087d06",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/CreateTestPlan.png"
+              }
+            }
+          },
+          {
+            "id": "6e1ba4a306e969d1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SDET/Xray/static/Excecution.png"
+              }
+            }
+          },
+          {
+            "id": "1ee909a6106bd30e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Xray/TestPlan.md",
+                "file": "SDET/Xray/TestCase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511dce3c30f9934f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/Xray/TestCase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ce47ea2504a454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/Xray/TestCase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ff7de07d6e68381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/Xray/TestCase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "471f61785c63f0d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDET/Xray/TestCase.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -172,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Xray/TestPlan.md",
+                "file": "SDET/Xray/TestCase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Xray/TestPlan.md",
+                "file": "SDET/Xray/TestCase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Xray/TestPlan.md"
+                "file": "SDET/Xray/TestCase.md"
               }
             }
           }
@@ -220,8 +308,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,23 +321,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "471f61785c63f0d5",
   "lastOpenFiles": [
-    "SDET/Xray/TestCase.md",
     "SDET/Xray/TestPlan.md",
+    "SDET/Xray/static/Moduler1.png",
+    "SDET/Xray/TestCase.md",
     "SDET/Xray/TestCoverage.md",
-    "SDET/Xray/static/TestCase1.png",
-    "SDET/Xray/static/TestCase.png",
-    "SDET/Xray/static/TestCase3.png",
-    "SDET/Xray/static/TestCase2.png",
+    "SDET/Xray/TestExecution.md",
     "SDET/Xray/Xray.md",
-    "SDET/Xray/static/TestCoverage.png",
-    "SDET/Xray/static/TestCoverageDefect.png",
-    "Pasted image 20231014113546.png",
-    "SDET/Xray/static/TestCoverageStory.png",
-    "Pasted Image 20231014224332_824.png",
-    "Pasted Image 20231014224315_406.png",
+    "SDET/Xray/XrayReports.md",
+    "SDET/Xray/Terminology.md",
+    "SDET/Xray/static/Moduler2.png",
+    "SDET/Xray/static/ModularTest.png",
+    "SDET/Xray/static/Reports.png",
+    "SDET/Xray/static/CucumberPrecondition.png",
+    "SDET/Xray/static/Precondition2.png",
+    "SDET/Xray/static/DataDriven.png",
+    "SDET/Xray/static/ManualParams.png",
+    "SDET/Xray/static/CucumberPrecondition1.png",
+    "SDET/Xray/static/Precondition1.png",
+    "Pasted image 20231015125633.png.md",
+    "Pasted image 20231015125622.png.md",
     "SDET/Xray/static/Xray.md",
+    "ContactMe.md",
     "SDET/Xray/static/Drawing 2023-10-15 10.34.07.excalidraw.md",
     "SDET/Zephyr/intro.md",
     "SDET/Xray/static",
@@ -267,16 +360,9 @@
     "SDET/Java/static/Java.md",
     "SDET/Jira/static/Agile.md",
     "SDET/Rest-Assured/Introduction.md",
-    "SDET/API-Testing-Concepts/HTTP Basics.md",
-    "SDET/API-Testing-Concepts/static/APITesting.md",
-    "SDET/Testing-Concepts/TestCase.md",
     "SDET/API-Testing-Concepts/static",
     "SDET/API-Testing-Concepts",
-    "SDET/API-Testing/static/APITesting.md",
-    "SDET/API-Testing/static/API.md",
     "SDET/API-Testing/static",
-    "SDET/API-Testing/Introduction.md",
-    "SDET/API-Testing/Fiddler.md",
     "SDET/API-Testing",
     "SDET/SoapUI",
     "SDET/Testing-Concepts/static/RTM_Template.xlsx",

@@ -1007,7 +1007,7 @@
                 "permalink": "/SDET/Testing-Concepts/Adhoc-vs-Exploretory"
               },
               "next": {
-                "title": "Xray",
+                "title": "Xray Intro",
                 "permalink": "/SDET/Xray/"
               }
             },
@@ -1382,9 +1382,34 @@
               }
             },
             {
+              "unversionedId": "SDET/Xray/Terminology",
+              "id": "SDET/Xray/Terminology",
+              "title": "Terminology",
+              "description": "Terminology",
+              "source": "@site/docs/SDET/Xray/Terminology.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/Terminology",
+              "permalink": "/SDET/Xray/Terminology",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Terminology"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Plan",
+                "permalink": "/SDET/Xray/TestPlan"
+              },
+              "next": {
+                "title": "Test Execution",
+                "permalink": "/SDET/Xray/TestExecution"
+              }
+            },
+            {
               "unversionedId": "SDET/Xray/TestCase",
               "id": "SDET/Xray/TestCase",
-              "title": "TestCase",
+              "title": "Test Case",
               "description": "TestCase",
               "source": "@site/docs/SDET/Xray/TestCase.md",
               "sourceDirName": "SDET/Xray",
@@ -1394,13 +1419,22 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "TestCase"
+                "title": "Test Case"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Coverage",
+                "permalink": "/SDET/Xray/TestCoverage"
+              },
+              "next": {
+                "title": "Test Plan",
+                "permalink": "/SDET/Xray/TestPlan"
               }
             },
             {
               "unversionedId": "SDET/Xray/TestCoverage",
               "id": "SDET/Xray/TestCoverage",
-              "title": "Xray",
+              "title": "Test Coverage",
               "description": "Test Coverage add Coverage",
               "source": "@site/docs/SDET/Xray/TestCoverage.md",
               "sourceDirName": "SDET/Xray",
@@ -1410,14 +1444,48 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Xray"
+                "title": "Test Coverage"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Xray Intro",
+                "permalink": "/SDET/Xray/"
+              },
+              "next": {
+                "title": "Test Case",
+                "permalink": "/SDET/Xray/TestCase"
+              }
+            },
+            {
+              "unversionedId": "SDET/Xray/TestExecution",
+              "id": "SDET/Xray/TestExecution",
+              "title": "Test Execution",
+              "description": "Execute Tests",
+              "source": "@site/docs/SDET/Xray/TestExecution.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/TestExecution",
+              "permalink": "/SDET/Xray/TestExecution",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Test Execution"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Terminology",
+                "permalink": "/SDET/Xray/Terminology"
+              },
+              "next": {
+                "title": "Xray Reports",
+                "permalink": "/SDET/Xray/XrayReports"
               }
             },
             {
               "unversionedId": "SDET/Xray/TestPlan",
               "id": "SDET/Xray/TestPlan",
-              "title": "TestCase",
-              "description": "1. With Test Plans you will decide which Tests you want to perform, who will execute them and when they will be executed.",
+              "title": "Test Plan",
+              "description": "Basic Details",
               "source": "@site/docs/SDET/Xray/TestPlan.md",
               "sourceDirName": "SDET/Xray",
               "slug": "/SDET/Xray/TestPlan",
@@ -1426,13 +1494,22 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "TestCase"
+                "title": "Test Plan"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Case",
+                "permalink": "/SDET/Xray/TestCase"
+              },
+              "next": {
+                "title": "Terminology",
+                "permalink": "/SDET/Xray/Terminology"
               }
             },
             {
               "unversionedId": "SDET/Xray/Xray",
               "id": "SDET/Xray/Xray",
-              "title": "Xray",
+              "title": "Xray Intro",
               "description": "Xray Types",
               "source": "@site/docs/SDET/Xray/Xray.md",
               "sourceDirName": "SDET/Xray",
@@ -1442,12 +1519,37 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Xray"
+                "title": "Xray Intro"
               },
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Defect LifeCycle",
                 "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
+              },
+              "next": {
+                "title": "Test Coverage",
+                "permalink": "/SDET/Xray/TestCoverage"
+              }
+            },
+            {
+              "unversionedId": "SDET/Xray/XrayReports",
+              "id": "SDET/Xray/XrayReports",
+              "title": "Xray Reports",
+              "description": "Reports",
+              "source": "@site/docs/SDET/Xray/XrayReports.md",
+              "sourceDirName": "SDET/Xray",
+              "slug": "/SDET/Xray/XrayReports",
+              "permalink": "/SDET/Xray/XrayReports",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Xray Reports"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Test Execution",
+                "permalink": "/SDET/Xray/TestExecution"
               },
               "next": {
                 "title": "intro",
@@ -1469,8 +1571,8 @@
               "frontMatter": {},
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Xray",
-                "permalink": "/SDET/Xray/"
+                "title": "Xray Reports",
+                "permalink": "/SDET/Xray/XrayReports"
               },
               "next": {
                 "title": "HTTP Basics",
@@ -1598,6 +1700,30 @@
                   {
                     "type": "doc",
                     "id": "SDET/Xray/Xray"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/TestCoverage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/TestCase"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/TestPlan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/Terminology"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/TestExecution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "SDET/Xray/XrayReports"
                   }
                 ],
                 "collapsed": true,

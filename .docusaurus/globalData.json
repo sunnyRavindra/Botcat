@@ -292,20 +292,38 @@
               "path": "/SDET/Xray/static/Xray"
             },
             {
+              "id": "SDET/Xray/Terminology",
+              "path": "/SDET/Xray/Terminology",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Xray/TestCase",
-              "path": "/SDET/Xray/TestCase"
+              "path": "/SDET/Xray/TestCase",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Xray/TestCoverage",
-              "path": "/SDET/Xray/TestCoverage"
+              "path": "/SDET/Xray/TestCoverage",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Xray/TestExecution",
+              "path": "/SDET/Xray/TestExecution",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Xray/TestPlan",
-              "path": "/SDET/Xray/TestPlan"
+              "path": "/SDET/Xray/TestPlan",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Xray/Xray",
               "path": "/SDET/Xray/",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Xray/XrayReports",
+              "path": "/SDET/Xray/XrayReports",
               "sidebar": "SDETSidebar"
             },
             {

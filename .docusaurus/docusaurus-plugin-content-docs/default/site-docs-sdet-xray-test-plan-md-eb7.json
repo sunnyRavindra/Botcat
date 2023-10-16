@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Xray/TestPlan",
   "id": "SDET/Xray/TestPlan",
-  "title": "TestCase",
-  "description": "1. With Test Plans you will decide which Tests you want to perform, who will execute them and when they will be executed.",
+  "title": "Test Plan",
+  "description": "Basic Details",
   "source": "@site/docs/SDET/Xray/TestPlan.md",
   "sourceDirName": "SDET/Xray",
   "slug": "/SDET/Xray/TestPlan",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "TestCase"
+    "title": "Test Plan"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Case",
+    "permalink": "/SDET/Xray/TestCase"
+  },
+  "next": {
+    "title": "Terminology",
+    "permalink": "/SDET/Xray/Terminology"
   }
 }

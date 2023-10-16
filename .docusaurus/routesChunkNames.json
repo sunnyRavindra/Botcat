@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-2b6": {
+  "/-0d0": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -431,17 +431,29 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-static-xray-784-deb"
   },
-  "/SDET/Xray/TestCase-1c3": {
+  "/SDET/Xray/Terminology-822": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-terminology-986-1a8"
+  },
+  "/SDET/Xray/TestCase-484": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-test-case-9-e-5-0db"
   },
-  "/SDET/Xray/TestCoverage-83a": {
+  "/SDET/Xray/TestCoverage-224": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-test-coverage-336-ffa"
   },
-  "/SDET/Xray/TestPlan-d84": {
+  "/SDET/Xray/TestExecution-99b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-executione-0-f-77b"
+  },
+  "/SDET/Xray/TestPlan-c3f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-test-planeb-7-e5c"
+  },
+  "/SDET/Xray/XrayReports-32d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-xray-reports-944-7f4"
   },
   "/SDET/Zephyr/intro-551": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -37,6 +37,12 @@ const sidebars = {
       label: 'Xray',
       items: [
         'SDET/Xray/Xray',
+        'SDET/Xray/TestCoverage',
+        'SDET/Xray/TestCase',
+        'SDET/Xray/TestPlan',
+        'SDET/Xray/Terminology',
+        'SDET/Xray/TestExecution',
+        'SDET/Xray/XrayReports',
       ],
     },
     {

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Xray/TestExecution",
+  "id": "SDET/Xray/TestExecution",
+  "title": "Test Execution",
+  "description": "Execute Tests",
+  "source": "@site/docs/SDET/Xray/TestExecution.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/TestExecution",
+  "permalink": "/SDET/Xray/TestExecution",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Test Execution"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Terminology",
+    "permalink": "/SDET/Xray/Terminology"
+  },
+  "next": {
+    "title": "Xray Reports",
+    "permalink": "/SDET/Xray/XrayReports"
+  }
+}

@@ -256,8 +256,8 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 		},
 		{
 			"type": "arrow",
-			"version": 454,
-			"versionNonce": 1852812279,
+			"version": 618,
+			"versionNonce": 1518981081,
 			"isDeleted": false,
 			"id": "v8Y4euZPfaJ5ZcEeVEZnJ",
 			"fillStyle": "solid",
@@ -279,7 +279,7 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697351341030,
+			"updated": 1697447026163,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -308,8 +308,8 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 		},
 		{
 			"type": "arrow",
-			"version": 458,
-			"versionNonce": 143678007,
+			"version": 622,
+			"versionNonce": 276327833,
 			"isDeleted": false,
 			"id": "4QOh4CDE3t00w9JO5BRUs",
 			"fillStyle": "solid",
@@ -331,7 +331,7 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697351341030,
+			"updated": 1697447026164,
 			"link": null,
 			"locked": false,
 			"startBinding": {

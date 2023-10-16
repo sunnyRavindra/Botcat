@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/Xray/Xray",
   "id": "SDET/Xray/Xray",
-  "title": "Xray",
+  "title": "Xray Intro",
   "description": "Xray Types",
   "source": "@site/docs/SDET/Xray/Xray.md",
   "sourceDirName": "SDET/Xray",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Xray"
+    "title": "Xray Intro"
   },
   "sidebar": "SDETSidebar",
   "previous": {
@@ -19,7 +19,7 @@
     "permalink": "/SDET/Testing-Concepts/Defect-LifeCycle"
   },
   "next": {
-    "title": "intro",
-    "permalink": "/SDET/Zephyr/intro"
+    "title": "Test Coverage",
+    "permalink": "/SDET/Xray/TestCoverage"
   }
 }

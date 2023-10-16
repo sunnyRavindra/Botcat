@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/Xray/TestCase",
   "id": "SDET/Xray/TestCase",
-  "title": "TestCase",
+  "title": "Test Case",
   "description": "TestCase",
   "source": "@site/docs/SDET/Xray/TestCase.md",
   "sourceDirName": "SDET/Xray",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "TestCase"
+    "title": "Test Case"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Coverage",
+    "permalink": "/SDET/Xray/TestCoverage"
+  },
+  "next": {
+    "title": "Test Plan",
+    "permalink": "/SDET/Xray/TestPlan"
   }
 }

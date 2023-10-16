@@ -151,9 +151,45 @@
         "items": [
           {
             "type": "link",
-            "label": "Xray",
+            "label": "Xray Intro",
             "href": "/SDET/Xray/",
             "docId": "SDET/Xray/Xray"
+          },
+          {
+            "type": "link",
+            "label": "Test Coverage",
+            "href": "/SDET/Xray/TestCoverage",
+            "docId": "SDET/Xray/TestCoverage"
+          },
+          {
+            "type": "link",
+            "label": "Test Case",
+            "href": "/SDET/Xray/TestCase",
+            "docId": "SDET/Xray/TestCase"
+          },
+          {
+            "type": "link",
+            "label": "Test Plan",
+            "href": "/SDET/Xray/TestPlan",
+            "docId": "SDET/Xray/TestPlan"
+          },
+          {
+            "type": "link",
+            "label": "Terminology",
+            "href": "/SDET/Xray/Terminology",
+            "docId": "SDET/Xray/Terminology"
+          },
+          {
+            "type": "link",
+            "label": "Test Execution",
+            "href": "/SDET/Xray/TestExecution",
+            "docId": "SDET/Xray/TestExecution"
+          },
+          {
+            "type": "link",
+            "label": "Xray Reports",
+            "href": "/SDET/Xray/XrayReports",
+            "docId": "SDET/Xray/XrayReports"
           }
         ],
         "collapsed": true,
@@ -731,25 +767,46 @@
       "title": "Xray",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
+    "SDET/Xray/Terminology": {
+      "id": "SDET/Xray/Terminology",
+      "title": "Terminology",
+      "description": "Terminology",
+      "sidebar": "SDETSidebar"
+    },
     "SDET/Xray/TestCase": {
       "id": "SDET/Xray/TestCase",
-      "title": "TestCase",
-      "description": "TestCase"
+      "title": "Test Case",
+      "description": "TestCase",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Xray/TestCoverage": {
       "id": "SDET/Xray/TestCoverage",
-      "title": "Xray",
-      "description": "Test Coverage add Coverage"
+      "title": "Test Coverage",
+      "description": "Test Coverage add Coverage",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Xray/TestExecution": {
+      "id": "SDET/Xray/TestExecution",
+      "title": "Test Execution",
+      "description": "Execute Tests",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Xray/TestPlan": {
       "id": "SDET/Xray/TestPlan",
-      "title": "TestCase",
-      "description": "1. With Test Plans you will decide which Tests you want to perform, who will execute them and when they will be executed."
+      "title": "Test Plan",
+      "description": "Basic Details",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Xray/Xray": {
       "id": "SDET/Xray/Xray",
-      "title": "Xray",
+      "title": "Xray Intro",
       "description": "Xray Types",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Xray/XrayReports": {
+      "id": "SDET/Xray/XrayReports",
+      "title": "Xray Reports",
+      "description": "Reports",
       "sidebar": "SDETSidebar"
     },
     "SDET/Zephyr/intro": {

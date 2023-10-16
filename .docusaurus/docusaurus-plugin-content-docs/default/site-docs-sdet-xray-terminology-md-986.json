@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Xray/Terminology",
+  "id": "SDET/Xray/Terminology",
+  "title": "Terminology",
+  "description": "Terminology",
+  "source": "@site/docs/SDET/Xray/Terminology.md",
+  "sourceDirName": "SDET/Xray",
+  "slug": "/SDET/Xray/Terminology",
+  "permalink": "/SDET/Xray/Terminology",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Terminology"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Test Plan",
+    "permalink": "/SDET/Xray/TestPlan"
+  },
+  "next": {
+    "title": "Test Execution",
+    "permalink": "/SDET/Xray/TestExecution"
+  }
+}
