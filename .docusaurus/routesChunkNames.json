@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-3bd": {
+  "/-8a2": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -210,6 +210,10 @@
   "/SDET/Cucumber/Introduction-c56": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-cucumber-introduction-8-c-9-742"
+  },
+  "/SDET/Cucumber/static/Cucumber-6be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-static-cucumbera-2-c-b68"
   },
   "/SDET/Docker/Compose-f37": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -282,6 +286,10 @@
   "/SDET/Playwright/Introduction-1e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-playwright-introductionf-07-a6f"
+  },
+  "/SDET/Practice-Sites/Practice-b71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-practice-sites-practiced-45-7f4"
   },
   "/SDET/Rest-Assured/Introduction-7be": {
     "__comp": "__comp---theme-doc-item-178-a40",

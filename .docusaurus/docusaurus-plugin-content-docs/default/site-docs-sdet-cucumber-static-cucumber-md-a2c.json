@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/Cucumber/static/Cucumber",
+  "id": "SDET/Cucumber/static/Cucumber",
+  "title": "Cucumber",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/Cucumber/static/Cucumber.md",
+  "sourceDirName": "SDET/Cucumber/static",
+  "slug": "/SDET/Cucumber/static/Cucumber",
+  "permalink": "/SDET/Cucumber/static/Cucumber",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

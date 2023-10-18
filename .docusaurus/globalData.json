@@ -38,6 +38,10 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Cucumber/static/Cucumber",
+              "path": "/SDET/Cucumber/static/Cucumber"
+            },
+            {
               "id": "SDET/Docker/Compose",
               "path": "/SDET/Docker/Compose",
               "sidebar": "SDETSidebar"
@@ -118,6 +122,10 @@
               "id": "SDET/Playwright/Introduction",
               "path": "/SDET/Playwright/Introduction",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Practice-Sites/Practice",
+              "path": "/SDET/Practice-Sites/Practice"
             },
             {
               "id": "SDET/Rest-Assured/Introduction",

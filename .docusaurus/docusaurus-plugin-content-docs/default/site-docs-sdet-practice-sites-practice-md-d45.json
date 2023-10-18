@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Practice-Sites/Practice",
+  "id": "SDET/Practice-Sites/Practice",
+  "title": "Practice Web Sites",
+  "description": "1. https://the-internet.herokuapp.com/",
+  "source": "@site/docs/SDET/Practice-Sites/Practice.md",
+  "sourceDirName": "SDET/Practice-Sites",
+  "slug": "/SDET/Practice-Sites/Practice",
+  "permalink": "/SDET/Practice-Sites/Practice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Practice Web Sites"
+  }
+}

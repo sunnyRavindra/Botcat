@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3ff26f8878fb3ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SDET/Cucumber/static/Cucumber.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Skills.md",
+                "file": "SDET/Cucumber/static/Cucumber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Skills.md",
+                "file": "SDET/Cucumber/static/Cucumber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Skills.md"
+                "file": "SDET/Cucumber/static/Cucumber.md"
               }
             }
           }
@@ -146,8 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "a3ff26f8878fb3ee",
   "lastOpenFiles": [
+    "SDET/Practice-Sites/Practice.md",
+    "SDET/Practice-Sites",
+    "SDET/Skills.md",
+    "SDET/Cucumber/static/Cucumber.md",
+    "SDET/Cucumber/static",
     "SDET/Zephyr/Zephyr-TestPlan.md",
     "SDET/Zephyr/Zephyr-TestCycle.md",
     "SDET/Zephyr/Zephyr-TestCase.md",
@@ -184,15 +200,11 @@
     "SDET/TestLink/TestLink-Intro.md",
     "SDET/TestLink",
     "SDET/DSA/Introduction.md",
-    "SDET/API-Testing-Concepts/API Basics.md",
-    "SDET/API-Testing-Concepts/Fiddler.md",
     "SDET/API-Testing-Concepts/static",
     "SDET/API-Testing-Concepts",
     "SDET/API-Testing/static",
     "SDET/API-Testing",
     "SDET/SoapUI",
-    "SDET/Testing-Concepts/static/RTM_Template.xlsx",
-    "SDET/Testing-Concepts/static/RTM_TemplateGuru99.xlsx",
     "Untitled.canvas"
   ]
 }

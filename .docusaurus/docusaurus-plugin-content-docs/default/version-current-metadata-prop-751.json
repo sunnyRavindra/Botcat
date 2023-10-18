@@ -259,7 +259,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Cucumber",
+            "label": "Cucumber Intro",
             "href": "/SDET/Cucumber/Introduction",
             "docId": "SDET/Cucumber/Introduction"
           }
@@ -479,9 +479,14 @@
     },
     "SDET/Cucumber/Introduction": {
       "id": "SDET/Cucumber/Introduction",
-      "title": "Cucumber",
-      "description": "This is into to Cucumber",
+      "title": "Cucumber Intro",
+      "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Cucumber/static/Cucumber": {
+      "id": "SDET/Cucumber/static/Cucumber",
+      "title": "Cucumber",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
     "SDET/Docker/Compose": {
       "id": "SDET/Docker/Compose",
@@ -582,6 +587,11 @@
       "title": "Playwright Into",
       "description": "Reference https://playwright.dev/",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Practice-Sites/Practice": {
+      "id": "SDET/Practice-Sites/Practice",
+      "title": "Practice Web Sites",
+      "description": "1. https://the-internet.herokuapp.com/"
     },
     "SDET/Rest-Assured/Introduction": {
       "id": "SDET/Rest-Assured/Introduction",

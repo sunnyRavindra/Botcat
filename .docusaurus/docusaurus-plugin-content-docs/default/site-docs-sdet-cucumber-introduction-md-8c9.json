@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Cucumber/Introduction",
   "id": "SDET/Cucumber/Introduction",
-  "title": "Cucumber",
-  "description": "This is into to Cucumber",
+  "title": "Cucumber Intro",
+  "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
   "source": "@site/docs/SDET/Cucumber/Introduction.md",
   "sourceDirName": "SDET/Cucumber",
   "slug": "/SDET/Cucumber/Introduction",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Cucumber"
+    "title": "Cucumber Intro"
   },
   "sidebar": "SDETSidebar",
   "previous": {

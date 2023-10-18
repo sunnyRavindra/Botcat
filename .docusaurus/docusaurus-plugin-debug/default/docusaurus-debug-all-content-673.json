@@ -80,7 +80,7 @@
                 "permalink": "/SDET/API-Testing-Concepts/API Basics"
               },
               "next": {
-                "title": "Cucumber",
+                "title": "Cucumber Intro",
                 "permalink": "/SDET/Cucumber/Introduction"
               }
             },
@@ -135,8 +135,8 @@
             {
               "unversionedId": "SDET/Cucumber/Introduction",
               "id": "SDET/Cucumber/Introduction",
-              "title": "Cucumber",
-              "description": "This is into to Cucumber",
+              "title": "Cucumber Intro",
+              "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
               "source": "@site/docs/SDET/Cucumber/Introduction.md",
               "sourceDirName": "SDET/Cucumber",
               "slug": "/SDET/Cucumber/Introduction",
@@ -145,7 +145,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Cucumber"
+                "title": "Cucumber Intro"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -155,6 +155,30 @@
               "next": {
                 "title": "SQL Basics",
                 "permalink": "/SDET/Security-Testing/SQL-Basics"
+              }
+            },
+            {
+              "unversionedId": "SDET/Cucumber/static/Cucumber",
+              "id": "SDET/Cucumber/static/Cucumber",
+              "title": "Cucumber",
+              "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+              "source": "@site/docs/SDET/Cucumber/static/Cucumber.md",
+              "sourceDirName": "SDET/Cucumber/static",
+              "slug": "/SDET/Cucumber/static/Cucumber",
+              "permalink": "/SDET/Cucumber/static/Cucumber",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "excalidraw",
+                  "permalink": "/tags/excalidraw"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "excalidraw-plugin": "parsed",
+                "tags": [
+                  "excalidraw"
+                ]
               }
             },
             {
@@ -554,6 +578,22 @@
               }
             },
             {
+              "unversionedId": "SDET/Practice-Sites/Practice",
+              "id": "SDET/Practice-Sites/Practice",
+              "title": "Practice Web Sites",
+              "description": "1. https://the-internet.herokuapp.com/",
+              "source": "@site/docs/SDET/Practice-Sites/Practice.md",
+              "sourceDirName": "SDET/Practice-Sites",
+              "slug": "/SDET/Practice-Sites/Practice",
+              "permalink": "/SDET/Practice-Sites/Practice",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Practice Web Sites"
+              }
+            },
+            {
               "unversionedId": "SDET/Rest-Assured/Introduction",
               "id": "SDET/Rest-Assured/Introduction",
               "title": "Introduction",
@@ -600,7 +640,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Cucumber",
+                "title": "Cucumber Intro",
                 "permalink": "/SDET/Cucumber/Introduction"
               },
               "next": {
