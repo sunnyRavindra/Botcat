@@ -45,7 +45,7 @@ Please go ahead and add test. ^JdRPetL4
 0d947891fabdb4a018cf41c797499a37ab48f1b5: [[IssueTypes1.png]]
 790e64e73654453bfa8fc2defd2c54313d5e3168: [[SDET/Xray/static/XrayTypes2.png]]
 1ab030c4c2f98c78a4f95793e84264084a87e60d: [[TestingBoard.png]]
-ace1efd25f63db446c9f9ec45a24fe63edeb7753: [[TestCase.png]]
+ace1efd25f63db446c9f9ec45a24fe63edeb7753: [[SDET/Xray/static/TestCase.png]]
 abb3a111679734b16dea514032e77eb0fe89f54d: [[Pasted Image 20231014224315_406.png]]
 c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]]
 6ea5f3f81f214efe52b99e290f8e8983268d7a9b: [[TestCoverage.png]]
@@ -256,8 +256,8 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 		},
 		{
 			"type": "arrow",
-			"version": 618,
-			"versionNonce": 1518981081,
+			"version": 814,
+			"versionNonce": 1766372823,
 			"isDeleted": false,
 			"id": "v8Y4euZPfaJ5ZcEeVEZnJ",
 			"fillStyle": "solid",
@@ -279,7 +279,7 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697447026163,
+			"updated": 1697605698929,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -308,8 +308,8 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 		},
 		{
 			"type": "arrow",
-			"version": 622,
-			"versionNonce": 276327833,
+			"version": 818,
+			"versionNonce": 1180199959,
 			"isDeleted": false,
 			"id": "4QOh4CDE3t00w9JO5BRUs",
 			"fillStyle": "solid",
@@ -331,7 +331,7 @@ c83c46a769bbae61fd2e232db3d4ffedfdad1a37: [[Pasted Image 20231014224332_824.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697447026164,
+			"updated": 1697605698930,
 			"link": null,
 			"locked": false,
 			"startBinding": {

@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-0d0": {
+  "/-3bd": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -455,12 +455,24 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-xray-xray-reports-944-7f4"
   },
-  "/SDET/Zephyr/intro-551": {
+  "/SDET/Zephyr/-a00": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sdet-zephyr-introd-1-a-5e4"
+    "content": "content---sdet-zephyr-6-c-1-444"
   },
-  "/static/Waterfall.png-e30": {
+  "/SDET/Zephyr/Zephyr-Reports-9ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-waterfall-png-180-7db"
+    "content": "content---sdet-zephyr-zephyr-reports-2-d-9-a0b"
+  },
+  "/SDET/Zephyr/Zephyr-TestCase-d8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-case-4-db-d5a"
+  },
+  "/SDET/Zephyr/Zephyr-TestCycle-e13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-cycle-01-d-160"
+  },
+  "/SDET/Zephyr/Zephyr-TestPlan-58e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-plan-702-260"
   }
 }

@@ -4,197 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e829c625dbe2b9",
+        "id": "8b6571ed60e050b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f9753ca96f69ebba",
+            "id": "2ca1abff80212e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Xray/Xray.md",
+                "file": "SDET/Skills.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "29dedcfff094bc37",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SDET/Xray/static/Xray.md"
-              }
-            }
-          },
-          {
-            "id": "3b265b2b1a601142",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/FrameworksSupported.png"
-              }
-            }
-          },
-          {
-            "id": "9d1d426bad380e19",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/CISupport.png"
-              }
-            }
-          },
-          {
-            "id": "576a82410bb4b8cb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/CISupport.png"
-              }
-            }
-          },
-          {
-            "id": "f0aaec4515fae8dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/CreateTestPlan.png"
-              }
-            }
-          },
-          {
-            "id": "32b33102d0b6412e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/AddTestToTestPlan.png"
-              }
-            }
-          },
-          {
-            "id": "e586be4e79087d06",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/CreateTestPlan.png"
-              }
-            }
-          },
-          {
-            "id": "6e1ba4a306e969d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "SDET/Xray/static/Excecution.png"
-              }
-            }
-          },
-          {
-            "id": "1ee909a6106bd30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Xray/TestCase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "511dce3c30f9934f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Xray/TestCase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70ce47ea2504a454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Xray/TestCase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ff7de07d6e68381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Xray/TestCase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471f61785c63f0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Xray/TestCase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fac29d737ab683f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDET/Java/Data Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a990c3d1d94263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ContactMe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31f6db245893cac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SDET/Jira/static/Agile.md"
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Xray/TestCase.md",
+                "file": "SDET/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Xray/TestCase.md",
+                "file": "SDET/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Xray/TestCase.md"
+                "file": "SDET/Skills.md"
               }
             }
           }
@@ -321,29 +146,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "471f61785c63f0d5",
+  "active": "79c3208dede2c7fc",
   "lastOpenFiles": [
-    "SDET/Xray/TestPlan.md",
-    "SDET/Xray/static/Moduler1.png",
+    "SDET/Zephyr/Zephyr-TestPlan.md",
+    "SDET/Zephyr/Zephyr-TestCycle.md",
+    "SDET/Zephyr/Zephyr-TestCase.md",
+    "SDET/Zephyr/Zephyr-Reports.md",
+    "SDET/Zephyr/Zephyr.md",
+    "SDET/Zephyr/static/tp1.png",
+    "SDET/Zephyr/static/tp5.png",
+    "SDET/Zephyr/static/tp4.png",
+    "Pasted image 20231018145707 1.png",
+    "SDET/Zephyr/static/tp3.png",
+    "SDET/Zephyr/static/tp2.png",
+    "SDET/Zephyr/static/tcz.png",
+    "SDET/Zephyr/static/tcz1.png",
+    "SDET/Zephyr/static/tc1.png",
+    "SDET/Zephyr/static/tc3.png",
+    "SDET/Jira/static/Agile.md",
+    "ContactMe.md",
+    "SDET/Java/Data Types.md",
     "SDET/Xray/TestCase.md",
+    "SDET/Xray/static/Xray.md",
+    "SDET/Xray/Xray.md",
+    "static/Waterfall.png.md",
+    "SDET/Zephyr/static",
+    "SDET/Xray/TestPlan.md",
     "SDET/Xray/TestCoverage.md",
     "SDET/Xray/TestExecution.md",
-    "SDET/Xray/Xray.md",
     "SDET/Xray/XrayReports.md",
     "SDET/Xray/Terminology.md",
-    "SDET/Xray/static/Moduler2.png",
-    "SDET/Xray/static/ModularTest.png",
-    "SDET/Xray/static/Reports.png",
-    "SDET/Xray/static/CucumberPrecondition.png",
-    "SDET/Xray/static/Precondition2.png",
-    "SDET/Xray/static/DataDriven.png",
-    "SDET/Xray/static/ManualParams.png",
-    "SDET/Xray/static/CucumberPrecondition1.png",
-    "SDET/Xray/static/Precondition1.png",
     "Pasted image 20231015125633.png.md",
     "Pasted image 20231015125622.png.md",
-    "SDET/Xray/static/Xray.md",
-    "ContactMe.md",
     "SDET/Xray/static/Drawing 2023-10-15 10.34.07.excalidraw.md",
     "SDET/Zephyr/intro.md",
     "SDET/Xray/static",
@@ -352,14 +186,6 @@
     "SDET/DSA/Introduction.md",
     "SDET/API-Testing-Concepts/API Basics.md",
     "SDET/API-Testing-Concepts/Fiddler.md",
-    "SDET/API-Testing-Concepts/static/API.md",
-    "SDET/Docker/DockerFiles/Nextjs Docker File.md",
-    "SDET/Docker/DockerFiles/DockerFile.md",
-    "SDET/Docker/DockerFiles/Docker Ignore file.md",
-    "SDET/Jackson/Introduction.md",
-    "SDET/Java/static/Java.md",
-    "SDET/Jira/static/Agile.md",
-    "SDET/Rest-Assured/Introduction.md",
     "SDET/API-Testing-Concepts/static",
     "SDET/API-Testing-Concepts",
     "SDET/API-Testing/static",
@@ -367,7 +193,6 @@
     "SDET/SoapUI",
     "SDET/Testing-Concepts/static/RTM_Template.xlsx",
     "SDET/Testing-Concepts/static/RTM_TemplateGuru99.xlsx",
-    "SDET/Bugzilla",
     "Untitled.canvas"
   ]
 }

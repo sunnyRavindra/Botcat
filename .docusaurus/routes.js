@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '0d0'),
+    component: ComponentCreator('/', '3bd'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -490,15 +490,34 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Zephyr/intro',
-        component: ComponentCreator('/SDET/Zephyr/intro', '551'),
+        path: '/SDET/Zephyr/',
+        component: ComponentCreator('/SDET/Zephyr/', 'a00'),
         exact: true,
         sidebar: "SDETSidebar"
       },
       {
-        path: '/static/Waterfall.png',
-        component: ComponentCreator('/static/Waterfall.png', 'e30'),
-        exact: true
+        path: '/SDET/Zephyr/Zephyr-Reports',
+        component: ComponentCreator('/SDET/Zephyr/Zephyr-Reports', '9ef'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Zephyr/Zephyr-TestCase',
+        component: ComponentCreator('/SDET/Zephyr/Zephyr-TestCase', 'd8a'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Zephyr/Zephyr-TestCycle',
+        component: ComponentCreator('/SDET/Zephyr/Zephyr-TestCycle', 'e13'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Zephyr/Zephyr-TestPlan',
+        component: ComponentCreator('/SDET/Zephyr/Zephyr-TestPlan', '58e'),
+        exact: true,
+        sidebar: "SDETSidebar"
       }
     ]
   },

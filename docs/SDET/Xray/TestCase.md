@@ -61,3 +61,6 @@ The number of rows in the dataset determines the number of iterations to execute
 Datasets can be defined in different [entities and scopes](https://docs.getxray.app/display/XRAYCLOUD/Parameterized+Tests#ParameterizedTests-Datasetscopes). A dataset can be defined, edited, or simply viewed using the "**Dataset**" button located in each Xray [entity or scope](https://docs.getxray.app/display/XRAYCLOUD/Parameterized+Tests#ParameterizedTests-Datasetscopes).
   
 ![DataDriven.png](./static/DataDriven.png)
+
+### Test Case Versioning 
+![TestCaseVersion.png](./static/TestCaseVersion.png)

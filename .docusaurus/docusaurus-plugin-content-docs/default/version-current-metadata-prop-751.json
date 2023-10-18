@@ -89,15 +89,15 @@
           },
           {
             "type": "link",
-            "label": "Retesting vs Regression Testing",
-            "href": "/SDET/Testing-Concepts/Retesting-vs-Regression",
-            "docId": "SDET/Testing-Concepts/Retesting-vs-Regression"
-          },
-          {
-            "type": "link",
             "label": "Functional vs Non Functional",
             "href": "/SDET/Testing-Concepts/Functional-vs-NonFunctional",
             "docId": "SDET/Testing-Concepts/Functional-vs-NonFunctional"
+          },
+          {
+            "type": "link",
+            "label": "Retesting vs Regression Testing",
+            "href": "/SDET/Testing-Concepts/Retesting-vs-Regression",
+            "docId": "SDET/Testing-Concepts/Retesting-vs-Regression"
           },
           {
             "type": "link",
@@ -201,9 +201,33 @@
         "items": [
           {
             "type": "link",
-            "label": "intro",
-            "href": "/SDET/Zephyr/intro",
-            "docId": "SDET/Zephyr/intro"
+            "label": "Zephyr Intro",
+            "href": "/SDET/Zephyr/",
+            "docId": "SDET/Zephyr/Zephyr"
+          },
+          {
+            "type": "link",
+            "label": "Zephyr TestCase",
+            "href": "/SDET/Zephyr/Zephyr-TestCase",
+            "docId": "SDET/Zephyr/Zephyr-TestCase"
+          },
+          {
+            "type": "link",
+            "label": "Zephyr TestCycle",
+            "href": "/SDET/Zephyr/Zephyr-TestCycle",
+            "docId": "SDET/Zephyr/Zephyr-TestCycle"
+          },
+          {
+            "type": "link",
+            "label": "Zephyr TestPlan",
+            "href": "/SDET/Zephyr/Zephyr-TestPlan",
+            "docId": "SDET/Zephyr/Zephyr-TestPlan"
+          },
+          {
+            "type": "link",
+            "label": "Zephyr Reports",
+            "href": "/SDET/Zephyr/Zephyr-Reports",
+            "docId": "SDET/Zephyr/Zephyr-Reports"
           }
         ],
         "collapsed": true,
@@ -809,16 +833,35 @@
       "description": "Reports",
       "sidebar": "SDETSidebar"
     },
-    "SDET/Zephyr/intro": {
-      "id": "SDET/Zephyr/intro",
-      "title": "intro",
-      "description": "fkdsjfdfk",
+    "SDET/Zephyr/Zephyr": {
+      "id": "SDET/Zephyr/Zephyr",
+      "title": "Zephyr Intro",
+      "description": "Basics",
       "sidebar": "SDETSidebar"
     },
-    "static/Waterfall.png": {
-      "id": "static/Waterfall.png",
-      "title": "Waterfall.png",
-      "description": ""
+    "SDET/Zephyr/Zephyr-Reports": {
+      "id": "SDET/Zephyr/Zephyr-Reports",
+      "title": "Zephyr Reports",
+      "description": "Test-Execution Reports",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Zephyr/Zephyr-TestCase": {
+      "id": "SDET/Zephyr/Zephyr-TestCase",
+      "title": "Zephyr TestCase",
+      "description": "TestCase",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Zephyr/Zephyr-TestCycle": {
+      "id": "SDET/Zephyr/Zephyr-TestCycle",
+      "title": "Zephyr TestCycle",
+      "description": "TestCycle",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Zephyr/Zephyr-TestPlan": {
+      "id": "SDET/Zephyr/Zephyr-TestPlan",
+      "title": "Zephyr TestPlan",
+      "description": "TestPlan",
+      "sidebar": "SDETSidebar"
     }
   }
 }

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Zephyr/Zephyr-TestCycle",
+  "id": "SDET/Zephyr/Zephyr-TestCycle",
+  "title": "Zephyr TestCycle",
+  "description": "TestCycle",
+  "source": "@site/docs/SDET/Zephyr/Zephyr-TestCycle.md",
+  "sourceDirName": "SDET/Zephyr",
+  "slug": "/SDET/Zephyr/Zephyr-TestCycle",
+  "permalink": "/SDET/Zephyr/Zephyr-TestCycle",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zephyr TestCycle"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Zephyr TestCase",
+    "permalink": "/SDET/Zephyr/Zephyr-TestCase"
+  },
+  "next": {
+    "title": "Zephyr TestPlan",
+    "permalink": "/SDET/Zephyr/Zephyr-TestPlan"
+  }
+}

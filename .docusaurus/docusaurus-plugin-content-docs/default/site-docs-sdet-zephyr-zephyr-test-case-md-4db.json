@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Zephyr/Zephyr-TestCase",
+  "id": "SDET/Zephyr/Zephyr-TestCase",
+  "title": "Zephyr TestCase",
+  "description": "TestCase",
+  "source": "@site/docs/SDET/Zephyr/Zephyr-TestCase.md",
+  "sourceDirName": "SDET/Zephyr",
+  "slug": "/SDET/Zephyr/Zephyr-TestCase",
+  "permalink": "/SDET/Zephyr/Zephyr-TestCase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zephyr TestCase"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Zephyr Intro",
+    "permalink": "/SDET/Zephyr/"
+  },
+  "next": {
+    "title": "Zephyr TestCycle",
+    "permalink": "/SDET/Zephyr/Zephyr-TestCycle"
+  }
+}

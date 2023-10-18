@@ -19,7 +19,7 @@
     "permalink": "/SDET/Testing-Concepts/Priority-vs-severity"
   },
   "next": {
-    "title": "Retesting vs Regression Testing",
-    "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
+    "title": "Functional vs Non Functional",
+    "permalink": "/SDET/Testing-Concepts/Functional-vs-NonFunctional"
   }
 }

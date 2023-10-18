@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "intro",
-    "permalink": "/SDET/Zephyr/intro"
+    "title": "Zephyr Reports",
+    "permalink": "/SDET/Zephyr/Zephyr-Reports"
   },
   "next": {
     "title": "HTTP Basics",

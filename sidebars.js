@@ -21,8 +21,8 @@ const sidebars = {
         'SDET/Testing-Concepts/Testing-levels',
         'SDET/Testing-Concepts/Priority-vs-severity',
         'SDET/Testing-Concepts/Smoke-vs-Sanity',
-        'SDET/Testing-Concepts/Retesting-vs-Regression',
         'SDET/Testing-Concepts/Functional-vs-NonFunctional',
+        'SDET/Testing-Concepts/Retesting-vs-Regression',
         'SDET/Testing-Concepts/Blackbox-vs-Whitebox',
         'SDET/Testing-Concepts/Traceability-Matrix',
         'SDET/Testing-Concepts/Component-vs-Integration-Testing',
@@ -49,7 +49,11 @@ const sidebars = {
       type: 'category',
       label: 'Zephyr',
       items: [
-        'SDET/Zephyr/intro',
+        'SDET/Zephyr/Zephyr',
+        'SDET/Zephyr/Zephyr-TestCase',
+        'SDET/Zephyr/Zephyr-TestCycle',
+        'SDET/Zephyr/Zephyr-TestPlan',
+        'SDET/Zephyr/Zephyr-Reports',
       ],
     },
     {

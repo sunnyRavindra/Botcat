@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Zephyr/Zephyr-Reports",
+  "id": "SDET/Zephyr/Zephyr-Reports",
+  "title": "Zephyr Reports",
+  "description": "Test-Execution Reports",
+  "source": "@site/docs/SDET/Zephyr/Zephyr-Reports.md",
+  "sourceDirName": "SDET/Zephyr",
+  "slug": "/SDET/Zephyr/Zephyr-Reports",
+  "permalink": "/SDET/Zephyr/Zephyr-Reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Zephyr Reports"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Zephyr TestPlan",
+    "permalink": "/SDET/Zephyr/Zephyr-TestPlan"
+  },
+  "next": {
+    "title": "HTTP Basics",
+    "permalink": "/SDET/API-Testing-Concepts/API Basics"
+  }
+}

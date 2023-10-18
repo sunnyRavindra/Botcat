@@ -15,11 +15,11 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Smoke vs Sanity",
-    "permalink": "/SDET/Testing-Concepts/Smoke-vs-Sanity"
-  },
-  "next": {
     "title": "Functional vs Non Functional",
     "permalink": "/SDET/Testing-Concepts/Functional-vs-NonFunctional"
+  },
+  "next": {
+    "title": "Blackbox vs Whitebox",
+    "permalink": "/SDET/Testing-Concepts/Blackbox-vs-Whitebox"
   }
 }

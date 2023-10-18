@@ -327,13 +327,29 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Zephyr/intro",
-              "path": "/SDET/Zephyr/intro",
+              "id": "SDET/Zephyr/Zephyr",
+              "path": "/SDET/Zephyr/",
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "static/Waterfall.png",
-              "path": "/static/Waterfall.png"
+              "id": "SDET/Zephyr/Zephyr-Reports",
+              "path": "/SDET/Zephyr/Zephyr-Reports",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Zephyr/Zephyr-TestCase",
+              "path": "/SDET/Zephyr/Zephyr-TestCase",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Zephyr/Zephyr-TestCycle",
+              "path": "/SDET/Zephyr/Zephyr-TestCycle",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Zephyr/Zephyr-TestPlan",
+              "path": "/SDET/Zephyr/Zephyr-TestPlan",
+              "sidebar": "SDETSidebar"
             }
           ],
           "draftIds": [],

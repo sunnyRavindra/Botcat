@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Functional vs Non Functional",
-    "permalink": "/SDET/Testing-Concepts/Functional-vs-NonFunctional"
+    "title": "Retesting vs Regression Testing",
+    "permalink": "/SDET/Testing-Concepts/Retesting-vs-Regression"
   },
   "next": {
     "title": "Traceability Matrix",

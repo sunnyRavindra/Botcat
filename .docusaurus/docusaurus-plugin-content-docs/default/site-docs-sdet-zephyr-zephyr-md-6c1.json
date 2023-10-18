@@ -1,12 +1,12 @@
 {
-  "unversionedId": "SDET/Zephyr/intro",
-  "id": "SDET/Zephyr/intro",
+  "unversionedId": "SDET/Zephyr/Zephyr",
+  "id": "SDET/Zephyr/Zephyr",
   "title": "Zephyr Intro",
-  "description": "Zephyr",
-  "source": "@site/docs/SDET/Zephyr/intro.md",
+  "description": "Basics",
+  "source": "@site/docs/SDET/Zephyr/Zephyr.md",
   "sourceDirName": "SDET/Zephyr",
-  "slug": "/SDET/Zephyr/intro",
-  "permalink": "/SDET/Zephyr/intro",
+  "slug": "/SDET/Zephyr/",
+  "permalink": "/SDET/Zephyr/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,7 +19,7 @@
     "permalink": "/SDET/Xray/XrayReports"
   },
   "next": {
-    "title": "HTTP Basics",
-    "permalink": "/SDET/API-Testing-Concepts/API Basics"
+    "title": "Zephyr TestCase",
+    "permalink": "/SDET/Zephyr/Zephyr-TestCase"
   }
 }
