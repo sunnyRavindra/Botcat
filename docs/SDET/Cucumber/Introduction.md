@@ -1,5 +1,5 @@
 ---
-title: Cucumber Intro
+title: Cucumber Basics
 ---
 
 Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!
@@ -72,7 +72,8 @@ features = "src/test/java/features",
 glue = "stepDefination",
 monochrome = true,
 tags = "@Smoke",
-plugin = {"pretty", "html:target/cucumber.html" }
+dryrun = true,
+plugin = {"pretty", "html:target/cucumber.html","json:target/cucumber.json" }
 )
 
 public class smokeRunner extends AbstractTestNGCucumberTests {}
@@ -100,3 +101,39 @@ tags = "@Smoke or @Regression"
 tags = "not @Smoke"
 ```
 
+
+### Hooks
+
+```java
+public class hooks {
+
+	@Before
+	public void beforeAll() {
+		System.out.println("------------------");
+		System.out.println("Before all");
+		System.out.println("------------------");
+	}
+
+	@After
+	public void afterAll() {
+		System.out.println("------------------");
+		System.out.println("After all");
+		System.out.println("------------------");
+	}
+
+	@Before("@Smoke")
+	public void beforeAllSmoke() {
+		System.out.println("------------------");
+		System.out.println("Before all smoke");
+		System.out.println("------------------");
+	}
+
+	@After("@Smoke")
+	public void afterAllSmoke() {
+		System.out.println("------------------");
+		System.out.println("After all smoke");
+		System.out.println("------------------");
+	}
+
+}
+```

@@ -41,7 +41,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Cucumber Intro",
+            "label": "Cucumber Basics",
             "href": "/SDET/Cucumber/Introduction",
             "docId": "SDET/Cucumber/Introduction"
           }
@@ -513,7 +513,7 @@
     },
     "SDET/Cucumber/Introduction": {
       "id": "SDET/Cucumber/Introduction",
-      "title": "Cucumber Intro",
+      "title": "Cucumber Basics",
       "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
       "sidebar": "SDETSidebar"
     },

@@ -23,9 +23,11 @@
             "id": "a3ff26f8878fb3ee",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SDET/Cucumber/static/Cucumber.md"
+                "file": "SDET/Cucumber/Introduction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Cucumber/static/Cucumber.md",
+                "file": "SDET/Cucumber/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Cucumber/static/Cucumber.md",
+                "file": "SDET/Cucumber/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Cucumber/static/Cucumber.md"
+                "file": "SDET/Cucumber/Introduction.md"
               }
             }
           }
@@ -159,10 +161,12 @@
   },
   "active": "a3ff26f8878fb3ee",
   "lastOpenFiles": [
+    "SDET/Cucumber/static/Cucumber.md",
     "SDET/Appium/Intro.md",
+    "SDET/Appium/static",
+    "SDET/Appium/static/AppiumArchitecture.png",
     "SDET/Appium",
     "SDET/Cucumber/Introduction.md",
-    "SDET/Cucumber/static/Cucumber.md",
     "SDET/Cucumber/Reports.md",
     "SDET/Practice-Sites/Practice.md",
     "SDET/Practice-Sites",
@@ -182,7 +186,6 @@
     "SDET/Zephyr/static/tcz.png",
     "SDET/Zephyr/static/tcz1.png",
     "SDET/Zephyr/static/tc1.png",
-    "SDET/Zephyr/static/tc3.png",
     "SDET/Jira/static/Agile.md",
     "ContactMe.md",
     "SDET/Java/Data Types.md",
@@ -198,13 +201,11 @@
     "SDET/Xray/Terminology.md",
     "Pasted image 20231015125633.png.md",
     "Pasted image 20231015125622.png.md",
-    "SDET/Xray/static/Drawing 2023-10-15 10.34.07.excalidraw.md",
     "SDET/Xray/static",
     "SDET/TestLink",
     "SDET/API-Testing-Concepts/static",
     "SDET/API-Testing-Concepts",
     "SDET/API-Testing/static",
-    "SDET/API-Testing",
     "Untitled.canvas"
   ]
 }

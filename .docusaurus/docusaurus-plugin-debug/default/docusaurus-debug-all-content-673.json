@@ -149,7 +149,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Cucumber Intro",
+                "title": "Cucumber Basics",
                 "permalink": "/SDET/Cucumber/Introduction"
               },
               "next": {
@@ -160,7 +160,7 @@
             {
               "unversionedId": "SDET/Cucumber/Introduction",
               "id": "SDET/Cucumber/Introduction",
-              "title": "Cucumber Intro",
+              "title": "Cucumber Basics",
               "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
               "source": "@site/docs/SDET/Cucumber/Introduction.md",
               "sourceDirName": "SDET/Cucumber",
@@ -170,7 +170,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Cucumber Intro"
+                "title": "Cucumber Basics"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -856,7 +856,7 @@
                 "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
-                "title": "Cucumber Intro",
+                "title": "Cucumber Basics",
                 "permalink": "/SDET/Cucumber/Introduction"
               }
             },
