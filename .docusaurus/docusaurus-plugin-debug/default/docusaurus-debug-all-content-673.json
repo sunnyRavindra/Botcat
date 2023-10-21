@@ -158,6 +158,22 @@
               }
             },
             {
+              "unversionedId": "SDET/Cucumber/Reports",
+              "id": "SDET/Cucumber/Reports",
+              "title": "Cucumber Reports",
+              "description": "",
+              "source": "@site/docs/SDET/Cucumber/Reports.md",
+              "sourceDirName": "SDET/Cucumber",
+              "slug": "/SDET/Cucumber/Reports",
+              "permalink": "/SDET/Cucumber/Reports",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Cucumber Reports"
+              }
+            },
+            {
               "unversionedId": "SDET/Cucumber/static/Cucumber",
               "id": "SDET/Cucumber/static/Cucumber",
               "title": "Cucumber",
@@ -591,6 +607,11 @@
               "version": "current",
               "frontMatter": {
                 "title": "Practice Web Sites"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Current Workout Plan",
+                "permalink": "/SDET/Workout/plan"
               }
             },
             {
@@ -1395,6 +1416,10 @@
               "previous": {
                 "title": "Skills",
                 "permalink": "/SDET/Skills"
+              },
+              "next": {
+                "title": "Practice Web Sites",
+                "permalink": "/SDET/Practice-Sites/Practice"
               }
             },
             {
@@ -2052,6 +2077,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/Workout/plan"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Practice WebSites",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Practice-Sites/Practice"
                   }
                 ],
                 "collapsed": true,

@@ -142,7 +142,15 @@ const sidebars = {
       items: [
         'SDET/Workout/plan',
       ],
-    }
+    },
+    {
+      type: 'category',
+      label: 'Practice WebSites',
+      items: [
+        'SDET/Practice-Sites/Practice',
+      ],
+    },
+
   ],
 };
 

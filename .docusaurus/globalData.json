@@ -38,6 +38,10 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Cucumber/Reports",
+              "path": "/SDET/Cucumber/Reports"
+            },
+            {
               "id": "SDET/Cucumber/static/Cucumber",
               "path": "/SDET/Cucumber/static/Cucumber"
             },
@@ -125,7 +129,8 @@
             },
             {
               "id": "SDET/Practice-Sites/Practice",
-              "path": "/SDET/Practice-Sites/Practice"
+              "path": "/SDET/Practice-Sites/Practice",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Rest-Assured/Introduction",

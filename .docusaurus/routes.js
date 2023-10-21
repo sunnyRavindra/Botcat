@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '8a2'),
+    component: ComponentCreator('/', '29b'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -138,6 +138,11 @@ export default [
         component: ComponentCreator('/SDET/Cucumber/Introduction', 'c56'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Cucumber/Reports',
+        component: ComponentCreator('/SDET/Cucumber/Reports', '90a'),
+        exact: true
       },
       {
         path: '/SDET/Cucumber/static/Cucumber',
@@ -246,8 +251,9 @@ export default [
       },
       {
         path: '/SDET/Practice-Sites/Practice',
-        component: ComponentCreator('/SDET/Practice-Sites/Practice', 'b71'),
-        exact: true
+        component: ComponentCreator('/SDET/Practice-Sites/Practice', '424'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Rest-Assured/Introduction',

@@ -17,5 +17,9 @@
   "previous": {
     "title": "Skills",
     "permalink": "/SDET/Skills"
+  },
+  "next": {
+    "title": "Practice Web Sites",
+    "permalink": "/SDET/Practice-Sites/Practice"
   }
 }

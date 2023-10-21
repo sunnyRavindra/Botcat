@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-8a2": {
+  "/-29b": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -210,6 +210,10 @@
   "/SDET/Cucumber/Introduction-c56": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-cucumber-introduction-8-c-9-742"
+  },
+  "/SDET/Cucumber/Reports-90a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-reports-9-c-7-5b4"
   },
   "/SDET/Cucumber/static/Cucumber-6be": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -287,7 +291,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-playwright-introductionf-07-a6f"
   },
-  "/SDET/Practice-Sites/Practice-b71": {
+  "/SDET/Practice-Sites/Practice-424": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-practice-sites-practiced-45-7f4"
   },

@@ -446,6 +446,20 @@
         ],
         "collapsed": true,
         "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Practice WebSites",
+        "items": [
+          {
+            "type": "link",
+            "label": "Practice Web Sites",
+            "href": "/SDET/Practice-Sites/Practice",
+            "docId": "SDET/Practice-Sites/Practice"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   },
@@ -482,6 +496,11 @@
       "title": "Cucumber Intro",
       "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Cucumber/Reports": {
+      "id": "SDET/Cucumber/Reports",
+      "title": "Cucumber Reports",
+      "description": ""
     },
     "SDET/Cucumber/static/Cucumber": {
       "id": "SDET/Cucumber/static/Cucumber",
@@ -591,7 +610,8 @@
     "SDET/Practice-Sites/Practice": {
       "id": "SDET/Practice-Sites/Practice",
       "title": "Practice Web Sites",
-      "description": "1. https://the-internet.herokuapp.com/"
+      "description": "1. https://the-internet.herokuapp.com/",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Rest-Assured/Introduction": {
       "id": "SDET/Rest-Assured/Introduction",

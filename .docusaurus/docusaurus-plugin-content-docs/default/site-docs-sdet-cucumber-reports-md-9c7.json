@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Cucumber/Reports",
+  "id": "SDET/Cucumber/Reports",
+  "title": "Cucumber Reports",
+  "description": "",
+  "source": "@site/docs/SDET/Cucumber/Reports.md",
+  "sourceDirName": "SDET/Cucumber",
+  "slug": "/SDET/Cucumber/Reports",
+  "permalink": "/SDET/Cucumber/Reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cucumber Reports"
+  }
+}
