@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Cucumber Intro",
-    "permalink": "/SDET/Cucumber/Introduction"
+    "title": "HTTP Basics",
+    "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
   },
   "next": {
     "title": "SQL Data Manupulation",

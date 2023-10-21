@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '29b'),
+    component: ComponentCreator('/', '32e'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -132,6 +132,12 @@ export default [
         path: '/SDET/API-Testing-Concepts/static/APITesting',
         component: ComponentCreator('/SDET/API-Testing-Concepts/static/APITesting', '542'),
         exact: true
+      },
+      {
+        path: '/SDET/Appium/Intro',
+        component: ComponentCreator('/SDET/Appium/Intro', '28e'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Cucumber/Introduction',

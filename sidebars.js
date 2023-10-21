@@ -11,6 +11,20 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Cucumber',
+      items: [
+        'SDET/Cucumber/Introduction',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Appium',
+      items: [
+        'SDET/Appium/Intro',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Testing Concepts',
       items: [
         'SDET/Testing-Concepts/SDLC-vs-STLC',
@@ -62,13 +76,6 @@ const sidebars = {
       items: [
         'SDET/API-Testing-Concepts/API Basics',
         'SDET/API-Testing-Concepts/HTTP Basics'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Cucumber',
-      items: [
-        'SDET/Cucumber/Introduction',
       ],
     },
     {
@@ -150,8 +157,6 @@ const sidebars = {
         'SDET/Practice-Sites/Practice',
       ],
     },
-
   ],
 };
-
 module.exports = sidebars;

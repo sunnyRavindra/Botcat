@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Browser Options",
-    "permalink": "/SDET/Selenium/BrowserOptions"
+    "title": "Appium",
+    "permalink": "/SDET/Appium/Intro"
   },
   "next": {
     "title": "Test Plan",

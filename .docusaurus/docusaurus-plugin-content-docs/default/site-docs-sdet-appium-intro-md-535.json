@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Appium/Intro",
+  "id": "SDET/Appium/Intro",
+  "title": "Appium",
+  "description": "Details goes here",
+  "source": "@site/docs/SDET/Appium/Intro.md",
+  "sourceDirName": "SDET/Appium",
+  "slug": "/SDET/Appium/Intro",
+  "permalink": "/SDET/Appium/Intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Appium"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Cucumber Intro",
+    "permalink": "/SDET/Cucumber/Introduction"
+  },
+  "next": {
+    "title": "SDLC vs STLC",
+    "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
+  }
+}

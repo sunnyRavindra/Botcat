@@ -80,8 +80,8 @@
                 "permalink": "/SDET/API-Testing-Concepts/API Basics"
               },
               "next": {
-                "title": "Cucumber Intro",
-                "permalink": "/SDET/Cucumber/Introduction"
+                "title": "SQL Basics",
+                "permalink": "/SDET/Security-Testing/SQL-Basics"
               }
             },
             {
@@ -133,6 +133,31 @@
               }
             },
             {
+              "unversionedId": "SDET/Appium/Intro",
+              "id": "SDET/Appium/Intro",
+              "title": "Appium",
+              "description": "Details goes here",
+              "source": "@site/docs/SDET/Appium/Intro.md",
+              "sourceDirName": "SDET/Appium",
+              "slug": "/SDET/Appium/Intro",
+              "permalink": "/SDET/Appium/Intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Appium"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Cucumber Intro",
+                "permalink": "/SDET/Cucumber/Introduction"
+              },
+              "next": {
+                "title": "SDLC vs STLC",
+                "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
+              }
+            },
+            {
               "unversionedId": "SDET/Cucumber/Introduction",
               "id": "SDET/Cucumber/Introduction",
               "title": "Cucumber Intro",
@@ -149,12 +174,12 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "HTTP Basics",
-                "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
+                "title": "Browser Options",
+                "permalink": "/SDET/Selenium/BrowserOptions"
               },
               "next": {
-                "title": "SQL Basics",
-                "permalink": "/SDET/Security-Testing/SQL-Basics"
+                "title": "Appium",
+                "permalink": "/SDET/Appium/Intro"
               }
             },
             {
@@ -661,8 +686,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Cucumber Intro",
-                "permalink": "/SDET/Cucumber/Introduction"
+                "title": "HTTP Basics",
+                "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
               },
               "next": {
                 "title": "SQL Data Manupulation",
@@ -831,8 +856,8 @@
                 "permalink": "/SDET/Selenium/Grid"
               },
               "next": {
-                "title": "SDLC vs STLC",
-                "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
+                "title": "Cucumber Intro",
+                "permalink": "/SDET/Cucumber/Introduction"
               }
             },
             {
@@ -1189,8 +1214,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Browser Options",
-                "permalink": "/SDET/Selenium/BrowserOptions"
+                "title": "Appium",
+                "permalink": "/SDET/Appium/Intro"
               },
               "next": {
                 "title": "Test Plan",
@@ -1772,6 +1797,30 @@
               },
               {
                 "type": "category",
+                "label": "Cucumber",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Cucumber/Introduction"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Appium",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Appium/Intro"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "Testing Concepts",
                 "items": [
                   {
@@ -1921,18 +1970,6 @@
                   {
                     "type": "doc",
                     "id": "SDET/API-Testing-Concepts/HTTP Basics"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Cucumber",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/Cucumber/Introduction"
                   }
                 ],
                 "collapsed": true,

@@ -33,6 +33,11 @@
               "path": "/SDET/API-Testing-Concepts/static/APITesting"
             },
             {
+              "id": "SDET/Appium/Intro",
+              "path": "/SDET/Appium/Intro",
+              "sidebar": "SDETSidebar"
+            },
+            {
               "id": "SDET/Cucumber/Introduction",
               "path": "/SDET/Cucumber/Introduction",
               "sidebar": "SDETSidebar"

@@ -15,11 +15,11 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "HTTP Basics",
-    "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
+    "title": "Browser Options",
+    "permalink": "/SDET/Selenium/BrowserOptions"
   },
   "next": {
-    "title": "SQL Basics",
-    "permalink": "/SDET/Security-Testing/SQL-Basics"
+    "title": "Appium",
+    "permalink": "/SDET/Appium/Intro"
   }
 }

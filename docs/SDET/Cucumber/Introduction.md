@@ -98,7 +98,5 @@ tags = "@Smoke"
 tags = "@Smoke and @Regression"
 tags = "@Smoke or @Regression"
 tags = "not @Smoke"
-
-
 ```
 

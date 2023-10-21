@@ -37,6 +37,34 @@
       },
       {
         "type": "category",
+        "label": "Cucumber",
+        "items": [
+          {
+            "type": "link",
+            "label": "Cucumber Intro",
+            "href": "/SDET/Cucumber/Introduction",
+            "docId": "SDET/Cucumber/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Appium",
+        "items": [
+          {
+            "type": "link",
+            "label": "Appium",
+            "href": "/SDET/Appium/Intro",
+            "docId": "SDET/Appium/Intro"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Testing Concepts",
         "items": [
           {
@@ -248,20 +276,6 @@
             "label": "HTTP Basics",
             "href": "/SDET/API-Testing-Concepts/HTTP Basics",
             "docId": "SDET/API-Testing-Concepts/HTTP Basics"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Cucumber",
-        "items": [
-          {
-            "type": "link",
-            "label": "Cucumber Intro",
-            "href": "/SDET/Cucumber/Introduction",
-            "docId": "SDET/Cucumber/Introduction"
           }
         ],
         "collapsed": true,
@@ -490,6 +504,12 @@
       "id": "SDET/API-Testing-Concepts/static/APITesting",
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/Appium/Intro": {
+      "id": "SDET/Appium/Intro",
+      "title": "Appium",
+      "description": "Details goes here",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Cucumber/Introduction": {
       "id": "SDET/Cucumber/Introduction",
