@@ -137,3 +137,7 @@ public class hooks {
 
 }
 ```
+
+cucumber dependency injection (picocontainer)
+
+step defination should be written using SRP (Single Responsibility Principle)

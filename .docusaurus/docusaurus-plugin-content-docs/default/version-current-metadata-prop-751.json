@@ -520,7 +520,7 @@
     "SDET/Cucumber/Reports": {
       "id": "SDET/Cucumber/Reports",
       "title": "Cucumber Reports",
-      "description": ""
+      "description": "ExtentReports Cucumber7 Adapter"
     },
     "SDET/Cucumber/static/Cucumber": {
       "id": "SDET/Cucumber/static/Cucumber",

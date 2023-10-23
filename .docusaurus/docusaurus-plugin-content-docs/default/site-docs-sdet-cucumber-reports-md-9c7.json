@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Cucumber/Reports",
   "id": "SDET/Cucumber/Reports",
   "title": "Cucumber Reports",
-  "description": "",
+  "description": "ExtentReports Cucumber7 Adapter",
   "source": "@site/docs/SDET/Cucumber/Reports.md",
   "sourceDirName": "SDET/Cucumber",
   "slug": "/SDET/Cucumber/Reports",
