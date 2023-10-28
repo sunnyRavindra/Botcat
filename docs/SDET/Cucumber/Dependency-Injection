@@ -1,0 +1,63 @@
+---
+title: Dependency Injection
+---
+
+### Dependency Injection
+
+1. Add Cucumber picocontainer for the POM file from mvn repository.
+2. Create a BrowserContext class for injection.
+
+```Java
+public class BrowserContext {
+
+	public WebDriver driver;
+
+	public BrowserContext() {
+		driver = new ChromeDriver();
+	}
+
+}
+```
+
+3. Call the BrowserContext in stepdefinition file
+
+```Java
+public class login {
+	 WebDriver driver;
+	 
+	 public login(BrowserContext browserContext){
+		 this.driver = browserContext.driver;
+	 }
+}
+```
+
+4. You don't need to create an object of of the Browser Context class to when using picocontainer for dependency injection
+5. Always write step definition with SRP(Single Responsibility principal)
+6. Class's needs to be loosely coupled when righting step-definition.
+
+
+### Factory Desgin Pattern
+1. Create a class files with getters of all the pages in page Object class.
+
+```Java
+package pagesObject;
+
+public class PageObjectManager {
+	
+	public LoginPage getLoginPage() {
+		return new LoginPage();
+	}
+
+}
+```
+2. Add getter for PageObjectManger in BrowserContext class
+```Java
+	public PageObjectManager getPageObjectManager() {
+		return new PageObjectManager();
+	}
+```
+3. Call the PageObjectManager from stepdefinition
+
+```Java
+	LoginPage loginPage = browserContext.getPageObjectManager().getLoginPage(); 
+```
