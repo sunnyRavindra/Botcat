@@ -14,6 +14,9 @@ const sidebars = {
       label: 'Cucumber',
       items: [
         'SDET/Cucumber/Introduction',
+        'SDET/Cucumber/Reports',
+        'SDET/Cucumber/Dependency-injection',
+        'SDET/Cucumber/Factory-design-pattern',
       ],
     },
     {
