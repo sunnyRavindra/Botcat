@@ -23,7 +23,7 @@ In your Test Plan, you can put the Tests you want to track for a given version a
 
 3. After creating the **Test Plan**, you can add **Tests**.  
 
-![AddTests.png](./static/Addtests.png)    
+![AddTests.png](./static/AddTests.png)    
 
 5. Choose the Tests you want, by using the **Select** or **Search** tabs and then selecting some or all of them. Click **Add Selected** or **Add All**.  
 
