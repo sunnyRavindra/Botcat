@@ -15,7 +15,7 @@ const sidebars = {
       items: [
         'SDET/Cucumber/Introduction',
         'SDET/Cucumber/Reports',
-        'SDET/Cucumber/Dependency-injection',
+        'SDET/Cucumber/Dependency-Injection',
       ],
     },
     {
