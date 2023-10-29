@@ -2,7 +2,7 @@
   "label": "excalidraw",
   "permalink": "/tags/excalidraw",
   "allTagsPath": "/tags",
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "id": "SDET/Jira/static/Agile",
@@ -45,6 +45,12 @@
       "title": "SeleniumExcalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/SDET/Selenium/static/SeleniumExcalidraw"
+    },
+    {
+      "id": "SDET/SoapUI/static/SoapUI",
+      "title": "SoapUI",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+      "permalink": "/SDET/SoapUI/static/SoapUI"
     },
     {
       "id": "SDET/Xray/static/Xray",

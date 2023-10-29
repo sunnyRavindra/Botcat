@@ -38,13 +38,24 @@
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Cucumber/Introduction",
-              "path": "/SDET/Cucumber/Introduction",
+              "id": "SDET/Cucumber/Architecture",
+              "path": "/SDET/Cucumber/Architecture",
               "sidebar": "SDETSidebar"
             },
             {
-              "id": "SDET/Cucumber/Reports",
-              "path": "/SDET/Cucumber/Reports"
+              "id": "SDET/Cucumber/Dependency-Injection",
+              "path": "/SDET/Cucumber/Dependency-Injection",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Cucumber/ExtentReports",
+              "path": "/SDET/Cucumber/ExtentReports",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Cucumber/Introduction",
+              "path": "/SDET/Cucumber/Introduction",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Cucumber/static/Cucumber",
@@ -212,8 +223,29 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/SoapUI/Assertions",
+              "path": "/SDET/SoapUI/Assertions"
+            },
+            {
               "id": "SDET/SoapUI/Intro",
-              "path": "/SDET/SoapUI/Intro"
+              "path": "/SDET/SoapUI/Intro",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/SoapUI/project",
+              "path": "/SDET/SoapUI/project"
+            },
+            {
+              "id": "SDET/SoapUI/Soap",
+              "path": "/SDET/SoapUI/Soap"
+            },
+            {
+              "id": "SDET/SoapUI/static/SoapUI",
+              "path": "/SDET/SoapUI/static/SoapUI"
+            },
+            {
+              "id": "SDET/SoapUI/WSDL",
+              "path": "/SDET/SoapUI/WSDL"
             },
             {
               "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",

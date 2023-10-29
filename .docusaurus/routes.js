@@ -4,107 +4,107 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'f97'),
+    component: ComponentCreator('/__docusaurus/debug', '10e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'c5a'),
+    component: ComponentCreator('/__docusaurus/debug/config', '777'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '997'),
+    component: ComponentCreator('/__docusaurus/debug/content', '0b6'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '74f'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '634'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '3b0'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '0c9'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '656'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '9b4'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '690'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'eb1'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '9a3'),
+    component: ComponentCreator('/blog', '84e'),
     exact: true
   },
   {
     path: '/blog/2021/08/26/welcome',
-    component: ComponentCreator('/blog/2021/08/26/welcome', 'ffa'),
+    component: ComponentCreator('/blog/2021/08/26/welcome', '2c3'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '419'),
+    component: ComponentCreator('/blog/archive', '165'),
     exact: true
   },
   {
     path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'a94'),
+    component: ComponentCreator('/blog/first-blog-post', '286'),
     exact: true
   },
   {
     path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'ae7'),
+    component: ComponentCreator('/blog/long-blog-post', '8d3'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '06d'),
+    component: ComponentCreator('/blog/mdx-blog-post', '7d7'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'de9'),
+    component: ComponentCreator('/blog/tags', 'e90'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '4cf'),
+    component: ComponentCreator('/blog/tags/docusaurus', '7d6'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'f6d'),
+    component: ComponentCreator('/blog/tags/hello', '86e'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'e62'),
+    component: ComponentCreator('/blog/tags/hola', '82b'),
     exact: true
   },
   {
     path: '/tags',
-    component: ComponentCreator('/tags', 'e49'),
+    component: ComponentCreator('/tags', 'c4a'),
     exact: true
   },
   {
     path: '/tags/excalidraw',
-    component: ComponentCreator('/tags/excalidraw', 'faa'),
+    component: ComponentCreator('/tags/excalidraw', '375'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '759'),
+    component: ComponentCreator('/', '7a4'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '32e'),
+    component: ComponentCreator('/', 'c2f'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -140,15 +140,28 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Cucumber/Introduction',
-        component: ComponentCreator('/SDET/Cucumber/Introduction', 'c56'),
+        path: '/SDET/Cucumber/Architecture',
+        component: ComponentCreator('/SDET/Cucumber/Architecture', '783'),
         exact: true,
         sidebar: "SDETSidebar"
       },
       {
-        path: '/SDET/Cucumber/Reports',
-        component: ComponentCreator('/SDET/Cucumber/Reports', '90a'),
-        exact: true
+        path: '/SDET/Cucumber/Dependency-Injection',
+        component: ComponentCreator('/SDET/Cucumber/Dependency-Injection', '408'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Cucumber/ExtentReports',
+        component: ComponentCreator('/SDET/Cucumber/ExtentReports', '9a3'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Cucumber/Introduction',
+        component: ComponentCreator('/SDET/Cucumber/Introduction', 'c56'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Cucumber/static/Cucumber',
@@ -352,8 +365,34 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/SoapUI/Assertions',
+        component: ComponentCreator('/SDET/SoapUI/Assertions', 'a5e'),
+        exact: true
+      },
+      {
         path: '/SDET/SoapUI/Intro',
-        component: ComponentCreator('/SDET/SoapUI/Intro', 'b21'),
+        component: ComponentCreator('/SDET/SoapUI/Intro', '005'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/SoapUI/project',
+        component: ComponentCreator('/SDET/SoapUI/project', '236'),
+        exact: true
+      },
+      {
+        path: '/SDET/SoapUI/Soap',
+        component: ComponentCreator('/SDET/SoapUI/Soap', '56f'),
+        exact: true
+      },
+      {
+        path: '/SDET/SoapUI/static/SoapUI',
+        component: ComponentCreator('/SDET/SoapUI/static/SoapUI', '2c5'),
+        exact: true
+      },
+      {
+        path: '/SDET/SoapUI/WSDL',
+        component: ComponentCreator('/SDET/SoapUI/WSDL', 'c7f'),
         exact: true
       },
       {

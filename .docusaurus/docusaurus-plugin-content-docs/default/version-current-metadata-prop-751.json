@@ -37,13 +37,31 @@
       },
       {
         "type": "category",
-        "label": "Cucumber",
+        "label": "Cucumber Framework",
         "items": [
           {
             "type": "link",
             "label": "Cucumber Basics",
             "href": "/SDET/Cucumber/Introduction",
             "docId": "SDET/Cucumber/Introduction"
+          },
+          {
+            "type": "link",
+            "label": "Framework Architecture",
+            "href": "/SDET/Cucumber/Architecture",
+            "docId": "SDET/Cucumber/Architecture"
+          },
+          {
+            "type": "link",
+            "label": "Cucumber Reports",
+            "href": "/SDET/Cucumber/ExtentReports",
+            "docId": "SDET/Cucumber/ExtentReports"
+          },
+          {
+            "type": "link",
+            "label": "Dependency Injection",
+            "href": "/SDET/Cucumber/Dependency-Injection",
+            "docId": "SDET/Cucumber/Dependency-Injection"
           }
         ],
         "collapsed": true,
@@ -283,6 +301,20 @@
       },
       {
         "type": "category",
+        "label": "SoapUI",
+        "items": [
+          {
+            "type": "link",
+            "label": "SoupUI Basics",
+            "href": "/SDET/SoapUI/Intro",
+            "docId": "SDET/SoapUI/Intro"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Security Testing",
         "items": [
           {
@@ -511,16 +543,29 @@
       "description": "Details goes here",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Cucumber/Architecture": {
+      "id": "SDET/Cucumber/Architecture",
+      "title": "Framework Architecture",
+      "description": "Architecture",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Cucumber/Dependency-Injection": {
+      "id": "SDET/Cucumber/Dependency-Injection",
+      "title": "Dependency Injection",
+      "description": "Dependency Injection",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Cucumber/ExtentReports": {
+      "id": "SDET/Cucumber/ExtentReports",
+      "title": "Cucumber Reports",
+      "description": "ExtentReports Cucumber7 Adapter",
+      "sidebar": "SDETSidebar"
+    },
     "SDET/Cucumber/Introduction": {
       "id": "SDET/Cucumber/Introduction",
       "title": "Cucumber Basics",
       "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
       "sidebar": "SDETSidebar"
-    },
-    "SDET/Cucumber/Reports": {
-      "id": "SDET/Cucumber/Reports",
-      "title": "Cucumber Reports",
-      "description": "ExtentReports Cucumber7 Adapter"
     },
     "SDET/Cucumber/static/Cucumber": {
       "id": "SDET/Cucumber/static/Cucumber",
@@ -723,10 +768,36 @@
       "description": "Nigel Frank International",
       "sidebar": "SDETSidebar"
     },
+    "SDET/SoapUI/Assertions": {
+      "id": "SDET/SoapUI/Assertions",
+      "title": "SoupUI Basics",
+      "description": "Assertions in SoapUI"
+    },
     "SDET/SoapUI/Intro": {
       "id": "SDET/SoapUI/Intro",
-      "title": "Intro",
-      "description": ""
+      "title": "SoupUI Basics",
+      "description": "API Basic Concepts",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/SoapUI/project": {
+      "id": "SDET/SoapUI/project",
+      "title": "SoupUI Basics",
+      "description": "Calc Webservice"
+    },
+    "SDET/SoapUI/Soap": {
+      "id": "SDET/SoapUI/Soap",
+      "title": "SoupUI Basics",
+      "description": "Structure of a SOAP Message"
+    },
+    "SDET/SoapUI/static/SoapUI": {
+      "id": "SDET/SoapUI/static/SoapUI",
+      "title": "SoapUI",
+      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
+    },
+    "SDET/SoapUI/WSDL": {
+      "id": "SDET/SoapUI/WSDL",
+      "title": "SoupUI Basics",
+      "description": "WSDL (Web Services Description Language)"
     },
     "SDET/Testing-Concepts/Adhoc-vs-Exploretory": {
       "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",

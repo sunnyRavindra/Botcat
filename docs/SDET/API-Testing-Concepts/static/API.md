@@ -85,7 +85,7 @@ related to api eg: Authentication ^PfkOpVmi
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.27",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -156,7 +156,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "T12gvSIt18Xp3nKtou5vb",
 			"originalText": "API",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -235,7 +235,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "GojNxLIpqik0ZDia_hQD_",
 			"originalText": "frontEnd ",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -330,7 +330,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "Sn7SaxpGMvn3hF_jpvufV",
 			"originalText": "BackEnd\nJava",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "rectangle",
@@ -409,12 +409,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "hjh8o_KtEENhm89lLjN2a",
 			"originalText": "Database",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 638,
-			"versionNonce": 1341457859,
+			"version": 642,
+			"versionNonce": 828387465,
 			"isDeleted": false,
 			"id": "tHioQKt0-ShwB8igUHaUE",
 			"fillStyle": "solid",
@@ -423,12 +423,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 92.95182684906673,
-			"y": -328.0653888745022,
+			"x": 92.95182684906672,
+			"y": -328.06840366868386,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 167.677734375,
-			"height": 0.2667837289469617,
+			"height": 0.26494768157800763,
 			"seed": 1480114637,
 			"groupIds": [],
 			"frameId": null,
@@ -436,7 +436,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251896,
+			"updated": 1698585829705,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -459,14 +459,14 @@ related to api eg: Authentication ^PfkOpVmi
 				],
 				[
 					167.677734375,
-					-0.2667837289469617
+					-0.26494768157800763
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 659,
-			"versionNonce": 1703588099,
+			"version": 663,
+			"versionNonce": 156394057,
 			"isDeleted": false,
 			"id": "eDZS92XT3C1vFeeodA_eQ",
 			"fillStyle": "solid",
@@ -476,11 +476,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"opacity": 100,
 			"angle": 0,
 			"x": 258.2506549740667,
-			"y": -313.98171252915574,
+			"y": -313.9896663950452,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 167.412109375,
-			"height": 0.3356815412496985,
+			"height": 0.33145500590791244,
 			"seed": 1755585283,
 			"groupIds": [],
 			"frameId": null,
@@ -488,7 +488,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251896,
+			"updated": 1698585829706,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -511,14 +511,14 @@ related to api eg: Authentication ^PfkOpVmi
 				],
 				[
 					-167.412109375,
-					-0.3356815412496985
+					-0.33145500590791244
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 637,
-			"versionNonce": 636213571,
+			"version": 641,
+			"versionNonce": 674745097,
 			"isDeleted": false,
 			"id": "h85lBvVVjPin3uJIAme97",
 			"fillStyle": "solid",
@@ -528,11 +528,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"opacity": 100,
 			"angle": 0,
 			"x": 503.5045612240667,
-			"y": -336.88863060023164,
+			"y": -336.8827912081151,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 168.8515625,
-			"height": 0.7135274671576326,
+			"height": 0.7173543066860475,
 			"seed": 1683144461,
 			"groupIds": [],
 			"frameId": null,
@@ -540,7 +540,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251897,
+			"updated": 1698585829714,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -563,14 +563,14 @@ related to api eg: Authentication ^PfkOpVmi
 				],
 				[
 					168.8515625,
-					-0.7135274671576326
+					-0.7173543066860475
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 632,
-			"versionNonce": 729982083,
+			"version": 636,
+			"versionNonce": 1172659401,
 			"isDeleted": false,
 			"id": "Tc0nsuQUNTzflVLwiAgeP",
 			"fillStyle": "solid",
@@ -580,11 +580,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"opacity": 100,
 			"angle": 0,
 			"x": 666.8873737240667,
-			"y": -321.99975794496436,
+			"y": -321.9967126298503,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 165.48046875,
-			"height": 0.20328374428675033,
+			"height": 0.20500813450752275,
 			"seed": 510698915,
 			"groupIds": [],
 			"frameId": null,
@@ -592,7 +592,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251897,
+			"updated": 1698585829715,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -615,7 +615,7 @@ related to api eg: Authentication ^PfkOpVmi
 				],
 				[
 					-165.48046875,
-					-0.20328374428675033
+					-0.20500813450752275
 				]
 			]
 		},
@@ -762,7 +762,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "dw3EtFzDh2MA0YWp4dapa",
 			"originalText": "frontEnd ",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -845,12 +845,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "n5U5qg8Zq6DRdCpMPgbdR",
 			"originalText": "BackEnd\ntypescript,node,etc",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "arrow",
-			"version": 1410,
-			"versionNonce": 945563203,
+			"version": 1414,
+			"versionNonce": 1139110409,
 			"isDeleted": false,
 			"id": "NVtjwYFlc-AMBYGf-L3fr",
 			"fillStyle": "solid",
@@ -859,12 +859,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 127.15160560688707,
-			"y": 269.9067349553866,
+			"x": 127.1516056068871,
+			"y": 269.9067322143547,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 165.97396435324538,
-			"height": 2.2096051432099557,
+			"width": 165.97396435324535,
+			"height": 2.2096034805604177,
 			"seed": 534360269,
 			"groupIds": [],
 			"frameId": null,
@@ -872,7 +872,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251898,
+			"updated": 1698585829719,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -894,15 +894,15 @@ related to api eg: Authentication ^PfkOpVmi
 					0
 				],
 				[
-					165.97396435324538,
-					-2.2096051432099557
+					165.97396435324535,
+					-2.2096034805604177
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1431,
-			"versionNonce": 771993987,
+			"version": 1435,
+			"versionNonce": 1368736713,
 			"isDeleted": false,
 			"id": "ORMDXMPcZL9Whl4P-gLd6",
 			"fillStyle": "solid",
@@ -912,11 +912,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"opacity": 100,
 			"angle": 0,
 			"x": 290.74666371013245,
-			"y": 279.22288507618276,
+			"y": 279.2228839158794,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 165.70833935324538,
-			"height": 2.268934276750258,
+			"height": 2.2689350230771197,
 			"seed": 274992941,
 			"groupIds": [],
 			"frameId": null,
@@ -924,7 +924,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251898,
+			"updated": 1698585829719,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -947,7 +947,7 @@ related to api eg: Authentication ^PfkOpVmi
 				],
 				[
 					-165.70833935324538,
-					2.268934276750258
+					2.2689350230771197
 				]
 			]
 		},
@@ -1019,8 +1019,8 @@ related to api eg: Authentication ^PfkOpVmi
 		},
 		{
 			"type": "arrow",
-			"version": 830,
-			"versionNonce": 489778371,
+			"version": 834,
+			"versionNonce": 1934337417,
 			"isDeleted": false,
 			"id": "TC0nrxpJcQ_AZM6ftNWxC",
 			"fillStyle": "solid",
@@ -1047,7 +1047,7 @@ related to api eg: Authentication ^PfkOpVmi
 					"id": "6x7RzzXT"
 				}
 			],
-			"updated": 1697130251898,
+			"updated": 1698585829721,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1109,7 +1109,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "TC0nrxpJcQ_AZM6ftNWxC",
 			"originalText": "API(JSON/XML)",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1184,7 +1184,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "1iIiTkGdcBMWhibcmhWx9",
 			"originalText": "frontEnd ",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1254,8 +1254,8 @@ related to api eg: Authentication ^PfkOpVmi
 		},
 		{
 			"type": "arrow",
-			"version": 666,
-			"versionNonce": 504977411,
+			"version": 670,
+			"versionNonce": 614766409,
 			"isDeleted": false,
 			"id": "YPTgEFkrp8IL1cgK8Oez5",
 			"fillStyle": "solid",
@@ -1264,11 +1264,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 405.09083636242826,
+			"x": 405.09083634957847,
 			"y": -267.8003437273689,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 338.4246739042105,
+			"width": 338.42467391620517,
 			"height": 506.64995196123687,
 			"seed": 2010268835,
 			"groupIds": [],
@@ -1282,7 +1282,7 @@ related to api eg: Authentication ^PfkOpVmi
 					"id": "R390EoNj"
 				}
 			],
-			"updated": 1697130251898,
+			"updated": 1698585829723,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1304,7 +1304,7 @@ related to api eg: Authentication ^PfkOpVmi
 					0
 				],
 				[
-					338.4246739042105,
+					338.42467391620517,
 					506.64995196123687
 				]
 			]
@@ -1344,7 +1344,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "YPTgEFkrp8IL1cgK8Oez5",
 			"originalText": "API(JSON/XML)",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1381,7 +1381,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "API is Language Independent",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1418,7 +1418,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Communicate using HTTP protocol\n in JSON/XML",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "rectangle",
@@ -1497,7 +1497,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "zYdt6FaAZ3N8ZIwlZ6BlZ",
 			"originalText": "API",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1572,7 +1572,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "S0SyI2yvF0qbxDSIStNpQ",
 			"originalText": "Rest\nRepresentational state Transfer",
 			"lineHeight": 1.2,
-			"baseline": 68
+			"baseline": 67
 		},
 		{
 			"type": "rectangle",
@@ -1647,12 +1647,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "CzmvExbkdIlaBiCP2gTDR",
 			"originalText": "SOAP\nSimple Object Access Protocol",
 			"lineHeight": 1.15,
-			"baseline": 42
+			"baseline": 41
 		},
 		{
 			"type": "arrow",
-			"version": 140,
-			"versionNonce": 708196803,
+			"version": 144,
+			"versionNonce": 831966345,
 			"isDeleted": false,
 			"id": "JP-4m2ufXSJBdFfX3S2QD",
 			"fillStyle": "solid",
@@ -1661,11 +1661,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 405.35504343381035,
+			"x": 405.355038938263,
 			"y": 511.787245440338,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 294.84050695167116,
+			"width": 294.84050364082486,
 			"height": 101.39328504782395,
 			"seed": 1137624877,
 			"groupIds": [],
@@ -1674,7 +1674,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251900,
+			"updated": 1698585829727,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1696,15 +1696,15 @@ related to api eg: Authentication ^PfkOpVmi
 					0
 				],
 				[
-					-294.84050695167116,
+					-294.84050364082486,
 					101.39328504782395
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 257,
-			"versionNonce": 1611588867,
+			"version": 261,
+			"versionNonce": 1771175497,
 			"isDeleted": false,
 			"id": "--fRj83n0fgLSm20zXW9d",
 			"fillStyle": "solid",
@@ -1713,12 +1713,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 410.1726179629643,
-			"y": 512.8330409738182,
+			"x": 410.1726887698372,
+			"y": 512.8330409738181,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 448.8330135765475,
-			"height": 94.06386200831946,
+			"width": 448.83295275918334,
+			"height": 94.06386200831957,
 			"seed": 1512079427,
 			"groupIds": [],
 			"frameId": null,
@@ -1726,7 +1726,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251900,
+			"updated": 1698585829728,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1748,8 +1748,8 @@ related to api eg: Authentication ^PfkOpVmi
 					0
 				],
 				[
-					448.8330135765475,
-					94.06386200831946
+					448.83295275918334,
+					94.06386200831957
 				]
 			]
 		},
@@ -1838,7 +1838,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "mHEJv5EtiAsZ9fGlSYeOD",
 			"originalText": "Methods",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1913,7 +1913,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "30wQttYq6Q9z_xs4zZz3m",
 			"originalText": "Get",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1988,7 +1988,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "k0fT2-iyW742IWbn_osrm",
 			"originalText": "Post",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2063,7 +2063,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "KV55srFi8Qq9kz2KeWcTG",
 			"originalText": "Put",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2138,7 +2138,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "QCsjSM9no_ZOTVJ2DVC8D",
 			"originalText": "Delete",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -2175,7 +2175,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Extract Information",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -2212,7 +2212,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Send Information",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -2249,7 +2249,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Replace Information",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -2286,12 +2286,12 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Remove Information",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 81,
-			"versionNonce": 1610049581,
+			"version": 85,
+			"versionNonce": 1927571209,
 			"isDeleted": false,
 			"id": "8ZBLQYvDn0Nv_4tm-BLVe",
 			"fillStyle": "solid",
@@ -2300,11 +2300,11 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 419.56040125786114,
+			"x": 419.1755831087188,
 			"y": 882.9128764481791,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 357.16959526419487,
+			"width": 356.8724324568028,
 			"height": 71.84361645299157,
 			"seed": 1177152109,
 			"groupIds": [],
@@ -2313,7 +2313,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130277255,
+			"updated": 1698585829733,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2335,15 +2335,15 @@ related to api eg: Authentication ^PfkOpVmi
 					0
 				],
 				[
-					-357.16959526419487,
+					-356.8724324568028,
 					71.84361645299157
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 80,
-			"versionNonce": 1675155587,
+			"version": 84,
+			"versionNonce": 1260058825,
 			"isDeleted": false,
 			"id": "7mi9QAnwYB8UGk-c9lHZ0",
 			"fillStyle": "solid",
@@ -2365,7 +2365,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251903,
+			"updated": 1698585829734,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2394,8 +2394,8 @@ related to api eg: Authentication ^PfkOpVmi
 		},
 		{
 			"type": "arrow",
-			"version": 55,
-			"versionNonce": 2133382083,
+			"version": 59,
+			"versionNonce": 1420302985,
 			"isDeleted": false,
 			"id": "cHYWFU4lhIG9yXkhQeqMe",
 			"fillStyle": "solid",
@@ -2417,7 +2417,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251904,
+			"updated": 1698585829736,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2446,8 +2446,8 @@ related to api eg: Authentication ^PfkOpVmi
 		},
 		{
 			"type": "arrow",
-			"version": 59,
-			"versionNonce": 950206211,
+			"version": 63,
+			"versionNonce": 1999096905,
 			"isDeleted": false,
 			"id": "2TVfXpWSL3sr1s5D7ArEC",
 			"fillStyle": "solid",
@@ -2469,7 +2469,7 @@ related to api eg: Authentication ^PfkOpVmi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697130251906,
+			"updated": 1698585829737,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2498,8 +2498,8 @@ related to api eg: Authentication ^PfkOpVmi
 		},
 		{
 			"type": "rectangle",
-			"version": 265,
-			"versionNonce": 352764045,
+			"version": 266,
+			"versionNonce": 1382997961,
 			"isDeleted": false,
 			"id": "HYLPtlZC45E-Xbi9WID-K",
 			"fillStyle": "solid",
@@ -2509,7 +2509,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"opacity": 100,
 			"angle": 0,
 			"x": 195.8110022193996,
-			"y": 1329.6105927943327,
+			"y": 1327.1105927943327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 408,
@@ -2526,14 +2526,14 @@ related to api eg: Authentication ^PfkOpVmi
 					"id": "ul8A9WtC"
 				}
 			],
-			"updated": 1695225672860,
+			"updated": 1698585837489,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 1155081965,
+			"version": 163,
+			"versionNonce": 183631529,
 			"isDeleted": false,
 			"id": "ul8A9WtC",
 			"fillStyle": "solid",
@@ -2542,18 +2542,18 @@ related to api eg: Authentication ^PfkOpVmi
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 208.8637365943996,
-			"y": 1358.1105927943327,
+			"x": 208.8686194068996,
+			"y": 1355.6105927943327,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
-			"width": 381.89453125,
+			"width": 381.884765625,
 			"height": 23,
 			"seed": 242338755,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695225672860,
+			"updated": 1698585837489,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2565,7 +2565,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": "HYLPtlZC45E-Xbi9WID-K",
 			"originalText": "/www.google.com/maps/search?q=youtube",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -2646,7 +2646,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Server",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -2727,7 +2727,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Resource",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -2808,7 +2808,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Query Parameter",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -2889,7 +2889,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Path Parameters",
 			"lineHeight": 1.15,
-			"baseline": 19
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -2926,7 +2926,7 @@ related to api eg: Authentication ^PfkOpVmi
 			"containerId": null,
 			"originalText": "Headers are send with the \nrequest containing other information\nrelated to api eg: Authentication",
 			"lineHeight": 1.15,
-			"baseline": 65
+			"baseline": 64
 		}
 	],
 	"appState": {
@@ -2944,13 +2944,17 @@ related to api eg: Authentication ^PfkOpVmi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1068.2333186940623,
-		"scrollY": 271.39795270827636,
+		"scrollX": 1563.8583186940623,
+		"scrollY": 481.3839146223387,
 		"zoom": {
-			"value": 0.45
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {

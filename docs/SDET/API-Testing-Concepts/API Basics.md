@@ -3,9 +3,7 @@ title: HTTP Basics
 ---
 ### API Flow
 
-![[Pasted image 20231012223212.png]]
-
-
+![APIBasics.png](./static/APIBasics.png)
 
 ### Get
 1. can be cached.

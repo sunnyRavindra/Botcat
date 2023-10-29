@@ -11,3 +11,6 @@ title: Practice Web Sites
 8. https://formy-project.herokuapp.com/
 9. https://the-internet.herokuapp.com/floating_menu
 
+
+SoapUI
+https://www.crcind.com/csp/samples/SOAP.Demo.cls

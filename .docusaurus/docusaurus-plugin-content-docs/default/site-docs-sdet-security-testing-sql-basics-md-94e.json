@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "HTTP Basics",
-    "permalink": "/SDET/API-Testing-Concepts/HTTP Basics"
+    "title": "SoupUI Basics",
+    "permalink": "/SDET/SoapUI/Intro"
   },
   "next": {
     "title": "SQL Data Manupulation",
