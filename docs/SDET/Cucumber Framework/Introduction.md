@@ -196,6 +196,10 @@ public class Hooks {
 }
 ```
 
-cucumber dependency injection (picocontainer)
+Running Failed steps in Cucuber
 
-step defination should be written using SRP (Single Responsibility Principle)
+Running from Terminal 
+
+Running from Terminal with Cucumber Options
+
+

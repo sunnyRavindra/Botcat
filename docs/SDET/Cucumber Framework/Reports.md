@@ -48,3 +48,5 @@ extent.reporter.spark.out=target/extentReport/report.html
 	</configuration>
 </extentreports>
 ```
+
+take screenshots on failure
