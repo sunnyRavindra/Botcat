@@ -11,11 +11,11 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Cucumber',
+      label: 'Cucumber Framework',
       items: [
-        'SDET/Cucumber Framework/Introduction',
-        'SDET/Cucumber Framework/Reports',
-        'SDET/Cucumber Framework/Dependency-Injection',
+        'SDET/Cucumber/Introduction',
+        'SDET/Cucumber/Reports',
+        'SDET/Cucumber/Dependency-Injection',
       ],
     },
     {
