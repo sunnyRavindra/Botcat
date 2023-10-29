@@ -23,12 +23,12 @@ brew install maven
 
 ### Commands
 ```Maven
-mvn -h
 mvn verify
+mvn clean install
 mvn archetype:generate -DgroupId=com.example -DartifactId=my-java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 mvn compile
 mvn test
-mvn test-compile  //complile without running tests
+mvn test-compile
 mvn package
 mvn install
 mvn clean
