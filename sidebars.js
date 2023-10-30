@@ -14,8 +14,12 @@ const sidebars = {
       label: 'Cucumber Framework',
       items: [
         'SDET/Cucumber/Introduction',
+<<<<<<< HEAD
         'SDET/Cucumber/Architecture',
         'SDET/Cucumber/ExtentReports',
+=======
+        'SDET/Cucumber/Reports',
+>>>>>>> 1c27358af2a3ed0a0245f0daeca3a5f6aef61d94
         'SDET/Cucumber/Dependency-Injection',
       ],
     },
