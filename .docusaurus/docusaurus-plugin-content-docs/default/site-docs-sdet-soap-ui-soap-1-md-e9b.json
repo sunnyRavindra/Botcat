@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/Soap 1",
+  "id": "SDET/SoapUI/Soap 1",
+  "title": "SoupUI Basics",
+  "description": "Structure of a SOAP Message",
+  "source": "@site/docs/SDET/SoapUI/Soap 1.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/Soap 1",
+  "permalink": "/SDET/SoapUI/Soap 1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

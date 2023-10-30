@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Cucumber/Dependency-Injection",
+  "id": "SDET/Cucumber/Dependency-Injection",
+  "title": "Dependency Injection",
+  "description": "Dependency Injection",
+  "source": "@site/docs/SDET/Cucumber/Dependency-Injection.md",
+  "sourceDirName": "SDET/Cucumber",
+  "slug": "/SDET/Cucumber/Dependency-Injection",
+  "permalink": "/SDET/Cucumber/Dependency-Injection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dependency Injection"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Cucumber Reports",
+    "permalink": "/SDET/Cucumber/ExtentReports"
+  },
+  "next": {
+    "title": "Appium",
+    "permalink": "/SDET/Appium/Intro"
+  }
+}

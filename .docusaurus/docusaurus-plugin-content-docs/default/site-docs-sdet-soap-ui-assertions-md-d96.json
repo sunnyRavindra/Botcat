@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/Assertions",
+  "id": "SDET/SoapUI/Assertions",
+  "title": "SoupUI Basics",
+  "description": "Assertions in SoapUI",
+  "source": "@site/docs/SDET/SoapUI/Assertions.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/Assertions",
+  "permalink": "/SDET/SoapUI/Assertions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

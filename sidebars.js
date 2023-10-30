@@ -11,11 +11,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Cucumber',
+      label: 'Cucumber Framework',
       items: [
-        'SDET/Cucumber Framework/Introduction',
-        'SDET/Cucumber Framework/Reports',
-        'SDET/Cucumber Framework/Dependency-Injection',
+        'SDET/Cucumber/Introduction',
+        'SDET/Cucumber/Architecture',
+        'SDET/Cucumber/ExtentReports',
+        'SDET/Cucumber/Dependency-Injection',
       ],
     },
     {
@@ -78,6 +79,13 @@ const sidebars = {
       items: [
         'SDET/API-Testing-Concepts/API Basics',
         'SDET/API-Testing-Concepts/HTTP Basics'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'SoapUI',
+      items: [
+        'SDET/SoapUI/Intro',
       ],
     },
     {

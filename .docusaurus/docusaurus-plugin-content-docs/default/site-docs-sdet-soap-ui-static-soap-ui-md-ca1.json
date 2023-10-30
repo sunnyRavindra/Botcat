@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/SoapUI/static/SoapUI",
+  "id": "SDET/SoapUI/static/SoapUI",
+  "title": "SoapUI",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/SoapUI/static/SoapUI.md",
+  "sourceDirName": "SDET/SoapUI/static",
+  "slug": "/SDET/SoapUI/static/SoapUI",
+  "permalink": "/SDET/SoapUI/static/SoapUI",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}

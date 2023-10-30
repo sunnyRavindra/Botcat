@@ -236,6 +236,10 @@
               "path": "/SDET/SoapUI/project"
             },
             {
+              "id": "SDET/SoapUI/Properties",
+              "path": "/SDET/SoapUI/Properties"
+            },
+            {
               "id": "SDET/SoapUI/Soap",
               "path": "/SDET/SoapUI/Soap"
             },

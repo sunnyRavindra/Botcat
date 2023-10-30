@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Cucumber/ExtentReports",
+  "id": "SDET/Cucumber/ExtentReports",
+  "title": "Cucumber Reports",
+  "description": "ExtentReports Cucumber7 Adapter",
+  "source": "@site/docs/SDET/Cucumber/ExtentReports.md",
+  "sourceDirName": "SDET/Cucumber",
+  "slug": "/SDET/Cucumber/ExtentReports",
+  "permalink": "/SDET/Cucumber/ExtentReports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cucumber Reports"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Framework Architecture",
+    "permalink": "/SDET/Cucumber/Architecture"
+  },
+  "next": {
+    "title": "Dependency Injection",
+    "permalink": "/SDET/Cucumber/Dependency-Injection"
+  }
+}

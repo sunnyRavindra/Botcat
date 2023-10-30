@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c2f'),
+    component: ComponentCreator('/', '5be'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -378,6 +378,11 @@ export default [
       {
         path: '/SDET/SoapUI/project',
         component: ComponentCreator('/SDET/SoapUI/project', '236'),
+        exact: true
+      },
+      {
+        path: '/SDET/SoapUI/Properties',
+        component: ComponentCreator('/SDET/SoapUI/Properties', '641'),
         exact: true
       },
       {

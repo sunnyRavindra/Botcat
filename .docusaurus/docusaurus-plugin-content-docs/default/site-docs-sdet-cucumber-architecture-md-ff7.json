@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Cucumber/Architecture",
+  "id": "SDET/Cucumber/Architecture",
+  "title": "Framework Architecture",
+  "description": "Architecture",
+  "source": "@site/docs/SDET/Cucumber/Architecture.md",
+  "sourceDirName": "SDET/Cucumber",
+  "slug": "/SDET/Cucumber/Architecture",
+  "permalink": "/SDET/Cucumber/Architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Framework Architecture"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Cucumber Basics",
+    "permalink": "/SDET/Cucumber/Introduction"
+  },
+  "next": {
+    "title": "Cucumber Reports",
+    "permalink": "/SDET/Cucumber/ExtentReports"
+  }
+}

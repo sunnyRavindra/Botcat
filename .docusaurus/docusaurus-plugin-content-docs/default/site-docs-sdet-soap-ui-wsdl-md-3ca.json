@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/WSDL",
+  "id": "SDET/SoapUI/WSDL",
+  "title": "SoupUI Basics",
+  "description": "WSDL (Web Services Description Language)",
+  "source": "@site/docs/SDET/SoapUI/WSDL.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/WSDL",
+  "permalink": "/SDET/SoapUI/WSDL",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

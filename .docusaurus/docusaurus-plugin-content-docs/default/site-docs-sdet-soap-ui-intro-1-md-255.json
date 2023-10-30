@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/Intro 1",
+  "id": "SDET/SoapUI/Intro 1",
+  "title": "SoupUI Basics",
+  "description": "API Basic Concepts",
+  "source": "@site/docs/SDET/SoapUI/Intro 1.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/Intro 1",
+  "permalink": "/SDET/SoapUI/Intro 1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

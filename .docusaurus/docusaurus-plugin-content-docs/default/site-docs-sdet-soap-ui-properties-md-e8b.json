@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/Properties",
+  "id": "SDET/SoapUI/Properties",
+  "title": "SoupUI Basics",
+  "description": "Properties in SoapUI",
+  "source": "@site/docs/SDET/SoapUI/Properties.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/Properties",
+  "permalink": "/SDET/SoapUI/Properties",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

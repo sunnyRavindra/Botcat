@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Cucumber/Framework",
+  "id": "SDET/Cucumber/Framework",
+  "title": "Framework Architecture",
+  "description": "Architecture",
+  "source": "@site/docs/SDET/Cucumber/Framework.md",
+  "sourceDirName": "SDET/Cucumber",
+  "slug": "/SDET/Cucumber/Framework",
+  "permalink": "/SDET/Cucumber/Framework",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Framework Architecture"
+  }
+}

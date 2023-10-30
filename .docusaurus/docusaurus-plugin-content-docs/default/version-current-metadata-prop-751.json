@@ -782,7 +782,12 @@
     "SDET/SoapUI/project": {
       "id": "SDET/SoapUI/project",
       "title": "SoupUI Basics",
-      "description": "Calc Webservice"
+      "description": "Service Description(Wsdl)"
+    },
+    "SDET/SoapUI/Properties": {
+      "id": "SDET/SoapUI/Properties",
+      "title": "SoupUI Basics",
+      "description": "Properties in SoapUI"
     },
     "SDET/SoapUI/Soap": {
       "id": "SDET/SoapUI/Soap",

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/project 1",
+  "id": "SDET/SoapUI/project 1",
+  "title": "SoupUI Basics",
+  "description": "Calc Webservice",
+  "source": "@site/docs/SDET/SoapUI/project 1.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/project 1",
+  "permalink": "/SDET/SoapUI/project 1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SoupUI Basics"
+  }
+}

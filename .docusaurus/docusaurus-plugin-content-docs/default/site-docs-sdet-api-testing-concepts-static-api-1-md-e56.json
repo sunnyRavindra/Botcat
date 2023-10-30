@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SDET/API-Testing-Concepts/static/API 1",
+  "id": "SDET/API-Testing-Concepts/static/API 1",
+  "title": "API 1",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
+  "source": "@site/docs/SDET/API-Testing-Concepts/static/API 1.md",
+  "sourceDirName": "SDET/API-Testing-Concepts/static",
+  "slug": "/SDET/API-Testing-Concepts/static/API 1",
+  "permalink": "/SDET/API-Testing-Concepts/static/API 1",
+  "draft": false,
+  "tags": [
+    {
+      "label": "excalidraw",
+      "permalink": "/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  }
+}
