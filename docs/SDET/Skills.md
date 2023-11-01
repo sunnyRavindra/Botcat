@@ -96,3 +96,8 @@ Faker and DataFactory for generating realistic test data.
 --- Time Frame for Production
 Oct 24  - Test Management Tools And API testing and API Automation
 Nov 4 - Mobile , Selenium, Frameworks
+
+
+```script
+`for file in *.md; do   cp "$file" "$file.bak"  # Create a backup file   sed 's/!\[\[\(.*\)\]\]/![\1](.\/static\/\1)/g' "$file.bak" > "$file" done`
+```

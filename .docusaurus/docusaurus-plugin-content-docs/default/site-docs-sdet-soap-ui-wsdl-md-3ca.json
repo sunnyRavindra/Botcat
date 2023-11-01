@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/SoapUI/WSDL",
   "id": "SDET/SoapUI/WSDL",
-  "title": "SoupUI Basics",
+  "title": "WSDL",
   "description": "WSDL (Web Services Description Language)",
   "source": "@site/docs/SDET/SoapUI/WSDL.md",
   "sourceDirName": "SDET/SoapUI",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "SoupUI Basics"
+    "title": "WSDL"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Message Structure",
+    "permalink": "/SDET/SoapUI/Soap"
+  },
+  "next": {
+    "title": "Properties",
+    "permalink": "/SDET/SoapUI/Properties"
   }
 }

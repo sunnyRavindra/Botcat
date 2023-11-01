@@ -308,6 +308,36 @@
             "label": "SoupUI Basics",
             "href": "/SDET/SoapUI/Intro",
             "docId": "SDET/SoapUI/Intro"
+          },
+          {
+            "type": "link",
+            "label": "Message Structure",
+            "href": "/SDET/SoapUI/Soap",
+            "docId": "SDET/SoapUI/Soap"
+          },
+          {
+            "type": "link",
+            "label": "WSDL",
+            "href": "/SDET/SoapUI/WSDL",
+            "docId": "SDET/SoapUI/WSDL"
+          },
+          {
+            "type": "link",
+            "label": "Properties",
+            "href": "/SDET/SoapUI/Properties",
+            "docId": "SDET/SoapUI/Properties"
+          },
+          {
+            "type": "link",
+            "label": "Assertions",
+            "href": "/SDET/SoapUI/Assertions",
+            "docId": "SDET/SoapUI/Assertions"
+          },
+          {
+            "type": "link",
+            "label": "Project",
+            "href": "/SDET/SoapUI/project",
+            "docId": "SDET/SoapUI/project"
           }
         ],
         "collapsed": true,
@@ -660,6 +690,11 @@
       "description": "Waterfall",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Kafka/Intro": {
+      "id": "SDET/Kafka/Intro",
+      "title": "Intro",
+      "description": ""
+    },
     "SDET/Maven/Introduction": {
       "id": "SDET/Maven/Introduction",
       "title": "Maven Introduction",
@@ -770,29 +805,38 @@
     },
     "SDET/SoapUI/Assertions": {
       "id": "SDET/SoapUI/Assertions",
-      "title": "SoupUI Basics",
-      "description": "Assertions in SoapUI"
+      "title": "Assertions",
+      "description": "Assertions in SoapUI are used to validate the responses and behavior of web services during testing. They help ensure that the service meets the expected criteria.",
+      "sidebar": "SDETSidebar"
     },
     "SDET/SoapUI/Intro": {
       "id": "SDET/SoapUI/Intro",
       "title": "SoupUI Basics",
-      "description": "API Basic Concepts",
+      "description": "API Basics.png",
       "sidebar": "SDETSidebar"
     },
     "SDET/SoapUI/project": {
       "id": "SDET/SoapUI/project",
-      "title": "SoupUI Basics",
-      "description": "Service Description(Wsdl)"
+      "title": "Project",
+      "description": "Service Description(Wsdl)",
+      "sidebar": "SDETSidebar"
     },
     "SDET/SoapUI/Properties": {
       "id": "SDET/SoapUI/Properties",
-      "title": "SoupUI Basics",
-      "description": "Properties in SoapUI"
+      "title": "Properties",
+      "description": "Types of Properties",
+      "sidebar": "SDETSidebar"
     },
     "SDET/SoapUI/Soap": {
       "id": "SDET/SoapUI/Soap",
-      "title": "SoupUI Basics",
-      "description": "Structure of a SOAP Message"
+      "title": "Message Structure",
+      "description": "SOAP (Simple Object Access Protocol) is a protocol used for exchanging structured information in the implementation of web services. A SOAP message consists of several key elements that define its structure:",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/SoapUI/SoapAutomation": {
+      "id": "SDET/SoapUI/SoapAutomation",
+      "title": "WSDL",
+      "description": "1. Creating a Test Case and Making a Request"
     },
     "SDET/SoapUI/static/SoapUI": {
       "id": "SDET/SoapUI/static/SoapUI",
@@ -801,8 +845,9 @@
     },
     "SDET/SoapUI/WSDL": {
       "id": "SDET/SoapUI/WSDL",
-      "title": "SoupUI Basics",
-      "description": "WSDL (Web Services Description Language)"
+      "title": "WSDL",
+      "description": "WSDL (Web Services Description Language)",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Testing-Concepts/Adhoc-vs-Exploretory": {
       "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
@@ -988,6 +1033,11 @@
       "title": "Zephyr TestPlan",
       "description": "TestPlan",
       "sidebar": "SDETSidebar"
+    },
+    "static/Pasted": {
+      "id": "static/Pasted",
+      "title": "Pasted",
+      "description": ""
     }
   }
 }

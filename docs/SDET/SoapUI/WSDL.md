@@ -1,5 +1,5 @@
 ---
-title: SoupUI Basics
+title: WSDL
 ---
 ### WSDL (Web Services Description Language)
 

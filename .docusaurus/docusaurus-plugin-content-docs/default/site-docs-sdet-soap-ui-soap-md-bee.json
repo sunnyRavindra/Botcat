@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/SoapUI/Soap",
   "id": "SDET/SoapUI/Soap",
-  "title": "SoupUI Basics",
-  "description": "Structure of a SOAP Message",
+  "title": "Message Structure",
+  "description": "SOAP (Simple Object Access Protocol) is a protocol used for exchanging structured information in the implementation of web services. A SOAP message consists of several key elements that define its structure:",
   "source": "@site/docs/SDET/SoapUI/Soap.md",
   "sourceDirName": "SDET/SoapUI",
   "slug": "/SDET/SoapUI/Soap",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "SoupUI Basics"
+    "title": "Message Structure"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "SoupUI Basics",
+    "permalink": "/SDET/SoapUI/Intro"
+  },
+  "next": {
+    "title": "WSDL",
+    "permalink": "/SDET/SoapUI/WSDL"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "SDET/SoapUI/project",
   "id": "SDET/SoapUI/project",
-  "title": "SoupUI Basics",
+  "title": "Project",
   "description": "Service Description(Wsdl)",
   "source": "@site/docs/SDET/SoapUI/project.md",
   "sourceDirName": "SDET/SoapUI",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "SoupUI Basics"
+    "title": "Project"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/SDET/SoapUI/Assertions"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/SDET/Security-Testing/SQL-Basics"
   }
 }

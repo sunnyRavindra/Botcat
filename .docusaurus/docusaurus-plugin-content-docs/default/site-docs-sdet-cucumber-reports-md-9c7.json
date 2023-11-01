@@ -12,14 +12,5 @@
   "version": "current",
   "frontMatter": {
     "title": "Cucumber Reports"
-  },
-  "sidebar": "SDETSidebar",
-  "previous": {
-    "title": "Cucumber Basics",
-    "permalink": "/SDET/Cucumber/Introduction"
-  },
-  "next": {
-    "title": "Dependency Injection",
-    "permalink": "/SDET/Cucumber/Dependency-Injection"
   }
 }

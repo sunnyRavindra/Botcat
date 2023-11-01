@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\code\\Botcat\\sidebars.js",
+          "sidebarPath": "/Users/sunnybharne/code/Botcat/sidebars.js",
           "routeBasePath": "/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "D:\\code\\Botcat\\src\\css\\custom.css"
+          "customCss": "/Users/sunnybharne/code/Botcat/src/css/custom.css"
         }
       }
     ]

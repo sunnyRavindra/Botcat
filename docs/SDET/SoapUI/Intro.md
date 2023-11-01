@@ -1,7 +1,6 @@
 ---
 title: SoupUI Basics
 ---
-### API Basic Concepts
 ![API Basics.png](./static/API.png)
 ![API Basics.png](./static/APIBasics.png)
 

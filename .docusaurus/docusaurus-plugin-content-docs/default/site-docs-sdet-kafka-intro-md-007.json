@@ -1,0 +1,14 @@
+{
+  "unversionedId": "SDET/Kafka/Intro",
+  "id": "SDET/Kafka/Intro",
+  "title": "Intro",
+  "description": "",
+  "source": "@site/docs/SDET/Kafka/Intro.md",
+  "sourceDirName": "SDET/Kafka",
+  "slug": "/SDET/Kafka/Intro",
+  "permalink": "/SDET/Kafka/Intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

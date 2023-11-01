@@ -1,19 +1,16 @@
 ---
-title: SoupUI Basics
+title: Properties
 ---
-### Properties in SoapUI
 
 ### Types of Properties
 
 1. **Test Case Properties**: These properties are specific to a particular test case and are used to store data or values that are needed within that test case. Test case properties can be set and accessed only within the scope of that test case.
-
-![[Pasted image 20231030145159.png]]
 2. **Test Suite Properties**: Test suite properties are at the test suite level and can be accessed by all the test cases within the same test suite. They are valuable for sharing data among test cases within a specific test suite.
-![[Pasted image 20231030145435.png]]
 3. **Project Properties**: Project properties are accessible to all test cases within a project, making them suitable for storing data that needs to be shared across multiple test cases within the same project.
-![[Pasted image 20231030145624.png]]
 4. **Test Step Properties**: Test step properties are specific to an individual test step within a test case. They are used to store data or values required for a particular test step's operation.
-![[Pasted image 20231030150401.png]]
+
+![PropertyFile.png](./static/PropertyFile.png)
+
 ### Common Uses of Properties
 
 - **Data-Driven Testing**: You can use properties to parameterize test data, making it easy to run the same test with different input values.

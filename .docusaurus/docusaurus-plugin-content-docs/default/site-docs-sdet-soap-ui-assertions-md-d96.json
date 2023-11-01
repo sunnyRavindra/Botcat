@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/SoapUI/Assertions",
   "id": "SDET/SoapUI/Assertions",
-  "title": "SoupUI Basics",
-  "description": "Assertions in SoapUI",
+  "title": "Assertions",
+  "description": "Assertions in SoapUI are used to validate the responses and behavior of web services during testing. They help ensure that the service meets the expected criteria.",
   "source": "@site/docs/SDET/SoapUI/Assertions.md",
   "sourceDirName": "SDET/SoapUI",
   "slug": "/SDET/SoapUI/Assertions",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "SoupUI Basics"
+    "title": "Assertions"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Properties",
+    "permalink": "/SDET/SoapUI/Properties"
+  },
+  "next": {
+    "title": "Project",
+    "permalink": "/SDET/SoapUI/project"
   }
 }

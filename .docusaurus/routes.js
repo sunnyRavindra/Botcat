@@ -4,107 +4,107 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '10e'),
+    component: ComponentCreator('/__docusaurus/debug', 'f97'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '777'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'c5a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '0b6'),
+    component: ComponentCreator('/__docusaurus/debug/content', '997'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '634'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '74f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '0c9'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '3b0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '9b4'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '656'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'eb1'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '690'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '84e'),
+    component: ComponentCreator('/blog', '9a3'),
     exact: true
   },
   {
     path: '/blog/2021/08/26/welcome',
-    component: ComponentCreator('/blog/2021/08/26/welcome', '2c3'),
+    component: ComponentCreator('/blog/2021/08/26/welcome', 'ffa'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '165'),
+    component: ComponentCreator('/blog/archive', '419'),
     exact: true
   },
   {
     path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '286'),
+    component: ComponentCreator('/blog/first-blog-post', 'a94'),
     exact: true
   },
   {
     path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '8d3'),
+    component: ComponentCreator('/blog/long-blog-post', 'ae7'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '7d7'),
+    component: ComponentCreator('/blog/mdx-blog-post', '06d'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'e90'),
+    component: ComponentCreator('/blog/tags', 'de9'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '7d6'),
+    component: ComponentCreator('/blog/tags/docusaurus', '4cf'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '86e'),
+    component: ComponentCreator('/blog/tags/hello', 'f6d'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '82b'),
+    component: ComponentCreator('/blog/tags/hola', 'e62'),
     exact: true
   },
   {
     path: '/tags',
-    component: ComponentCreator('/tags', 'c4a'),
+    component: ComponentCreator('/tags', 'e49'),
     exact: true
   },
   {
     path: '/tags/excalidraw',
-    component: ComponentCreator('/tags/excalidraw', '375'),
+    component: ComponentCreator('/tags/excalidraw', 'faa'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '7a4'),
+    component: ComponentCreator('/', '759'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '5be'),
+    component: ComponentCreator('/', 'a75'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -257,6 +257,11 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/Kafka/Intro',
+        component: ComponentCreator('/SDET/Kafka/Intro', 'fd8'),
+        exact: true
+      },
+      {
         path: '/SDET/Maven/Introduction',
         component: ComponentCreator('/SDET/Maven/Introduction', '159'),
         exact: true,
@@ -366,8 +371,9 @@ export default [
       },
       {
         path: '/SDET/SoapUI/Assertions',
-        component: ComponentCreator('/SDET/SoapUI/Assertions', 'a5e'),
-        exact: true
+        component: ComponentCreator('/SDET/SoapUI/Assertions', 'aa1'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/SoapUI/Intro',
@@ -377,17 +383,25 @@ export default [
       },
       {
         path: '/SDET/SoapUI/project',
-        component: ComponentCreator('/SDET/SoapUI/project', '236'),
-        exact: true
+        component: ComponentCreator('/SDET/SoapUI/project', '506'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/SoapUI/Properties',
-        component: ComponentCreator('/SDET/SoapUI/Properties', '641'),
-        exact: true
+        component: ComponentCreator('/SDET/SoapUI/Properties', '141'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/SoapUI/Soap',
-        component: ComponentCreator('/SDET/SoapUI/Soap', '56f'),
+        component: ComponentCreator('/SDET/SoapUI/Soap', '383'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/SoapUI/SoapAutomation',
+        component: ComponentCreator('/SDET/SoapUI/SoapAutomation', '3e4'),
         exact: true
       },
       {
@@ -397,8 +411,9 @@ export default [
       },
       {
         path: '/SDET/SoapUI/WSDL',
-        component: ComponentCreator('/SDET/SoapUI/WSDL', 'c7f'),
-        exact: true
+        component: ComponentCreator('/SDET/SoapUI/WSDL', '95e'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Testing-Concepts/Adhoc-vs-Exploretory',
@@ -584,6 +599,11 @@ export default [
         component: ComponentCreator('/SDET/Zephyr/Zephyr-TestPlan', '58e'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/static/Pasted',
+        component: ComponentCreator('/static/Pasted', '227'),
+        exact: true
       }
     ]
   },

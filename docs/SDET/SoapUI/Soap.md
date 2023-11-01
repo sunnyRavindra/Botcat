@@ -1,7 +1,6 @@
 ---
-title: SoupUI Basics
+title: Message Structure 
 ---
-### Structure of a SOAP Message
 
 SOAP (Simple Object Access Protocol) is a protocol used for exchanging structured information in the implementation of web services. A SOAP message consists of several key elements that define its structure:
 

@@ -1,7 +1,6 @@
 ---
-title: SoupUI Basics
+title: Assertions  
 ---
-### Assertions in SoapUI
 
 Assertions in SoapUI are used to validate the responses and behavior of web services during testing. They help ensure that the service meets the expected criteria.
 
@@ -11,32 +10,35 @@ SoapUI supports various types of assertions, including:
 
 ### Response Assertion
 Compares the response against expected values, status codes, or patterns.
-![[Pasted image 20231030114313.png]]
+
+![Assertion1.png](./static/Assertion1.png)
+
 2. **XPath Assertion**: Validates elements or attributes in XML responses using XPath expressions.
-![[Pasted image 20231030120541.png]]
 ### Tag existence 
-![[Pasted image 20231030121534.png]]
+![tagexists.png](./static/tagexists.png)
+
 ### Tag Counts
-![[Pasted image 20231030121736.png]]
+![TagCount.png](./static/TagCount.png)
+
 
 ### Entire XML validation
-![[Pasted image 20231030124104.png]]
+![XMLValidation.png](./static/XMLValidation.png)
 ### Allow Wildcards in Xpath
-![[Pasted image 20231030124205.png]]
+![WildCards.png](./static/WildCards.png)
+
 3. **Script Assertion**: Allows you to write custom scripts (e.g., Groovy scripts) to define complex validation logic.
 
 4. **JSONPath Assertion**: Similar to XPath but for JSON responses, it uses JSONPath expressions for validation.
 ### SLA Assertion
-![[Pasted image 20231030114954.png]]
+![SLA.png](./static/SLA.png)
 ### Status Code Assertion
-![[Pasted image 20231030114645.png]]
+![StatusCode.png](./static/StatusCode.png)
 ### Contains Assertion
-![[Pasted image 20231030112811.png]]
+![Contains.png](./static/Contains.png)
 
 ### Token validation
-![[Pasted image 20231030115352.png]]
 ### Not Contains Assertion
-![[Pasted image 20231030114050.png]]
+![NotContains.png](./static/NotContains.png)
 8. **Length Assertion**: Verifies the length of the response content.
 
 9. **SOAP Fault Assertion**: Ensures that a response contains a SOAP fault when expected.

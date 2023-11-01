@@ -134,6 +134,10 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Kafka/Intro",
+              "path": "/SDET/Kafka/Intro"
+            },
+            {
               "id": "SDET/Maven/Introduction",
               "path": "/SDET/Maven/Introduction",
               "sidebar": "SDETSidebar"
@@ -224,7 +228,8 @@
             },
             {
               "id": "SDET/SoapUI/Assertions",
-              "path": "/SDET/SoapUI/Assertions"
+              "path": "/SDET/SoapUI/Assertions",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/SoapUI/Intro",
@@ -233,15 +238,22 @@
             },
             {
               "id": "SDET/SoapUI/project",
-              "path": "/SDET/SoapUI/project"
+              "path": "/SDET/SoapUI/project",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/SoapUI/Properties",
-              "path": "/SDET/SoapUI/Properties"
+              "path": "/SDET/SoapUI/Properties",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/SoapUI/Soap",
-              "path": "/SDET/SoapUI/Soap"
+              "path": "/SDET/SoapUI/Soap",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/SoapUI/SoapAutomation",
+              "path": "/SDET/SoapUI/SoapAutomation"
             },
             {
               "id": "SDET/SoapUI/static/SoapUI",
@@ -249,7 +261,8 @@
             },
             {
               "id": "SDET/SoapUI/WSDL",
-              "path": "/SDET/SoapUI/WSDL"
+              "path": "/SDET/SoapUI/WSDL",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Testing-Concepts/Adhoc-vs-Exploretory",
@@ -404,6 +417,10 @@
               "id": "SDET/Zephyr/Zephyr-TestPlan",
               "path": "/SDET/Zephyr/Zephyr-TestPlan",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "static/Pasted",
+              "path": "/static/Pasted"
             }
           ],
           "draftIds": [],

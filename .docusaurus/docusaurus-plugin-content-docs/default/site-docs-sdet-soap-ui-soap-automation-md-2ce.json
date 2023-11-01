@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/SoapUI/SoapAutomation",
+  "id": "SDET/SoapUI/SoapAutomation",
+  "title": "WSDL",
+  "description": "1. Creating a Test Case and Making a Request",
+  "source": "@site/docs/SDET/SoapUI/SoapAutomation.md",
+  "sourceDirName": "SDET/SoapUI",
+  "slug": "/SDET/SoapUI/SoapAutomation",
+  "permalink": "/SDET/SoapUI/SoapAutomation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WSDL"
+  }
+}

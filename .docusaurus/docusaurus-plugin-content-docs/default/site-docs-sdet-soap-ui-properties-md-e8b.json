@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/SoapUI/Properties",
   "id": "SDET/SoapUI/Properties",
-  "title": "SoupUI Basics",
-  "description": "Properties in SoapUI",
+  "title": "Properties",
+  "description": "Types of Properties",
   "source": "@site/docs/SDET/SoapUI/Properties.md",
   "sourceDirName": "SDET/SoapUI",
   "slug": "/SDET/SoapUI/Properties",
@@ -11,6 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "SoupUI Basics"
+    "title": "Properties"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "WSDL",
+    "permalink": "/SDET/SoapUI/WSDL"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/SDET/SoapUI/Assertions"
   }
 }
