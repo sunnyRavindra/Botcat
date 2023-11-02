@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a75'),
+    component: ComponentCreator('/', '48a'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -268,10 +268,20 @@ export default [
         sidebar: "SDETSidebar"
       },
       {
+        path: '/SDET/Microservices/Introduction',
+        component: ComponentCreator('/SDET/Microservices/Introduction', '6a9'),
+        exact: true
+      },
+      {
         path: '/SDET/Playwright/Introduction',
         component: ComponentCreator('/SDET/Playwright/Introduction', '1e0'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/PostMan/Introduction',
+        component: ComponentCreator('/SDET/PostMan/Introduction', '448'),
+        exact: true
       },
       {
         path: '/SDET/Practice-Sites/Practice',

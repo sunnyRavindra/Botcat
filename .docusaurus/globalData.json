@@ -143,9 +143,17 @@
               "sidebar": "SDETSidebar"
             },
             {
+              "id": "SDET/Microservices/Introduction",
+              "path": "/SDET/Microservices/Introduction"
+            },
+            {
               "id": "SDET/Playwright/Introduction",
               "path": "/SDET/Playwright/Introduction",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/PostMan/Introduction",
+              "path": "/SDET/PostMan/Introduction"
             },
             {
               "id": "SDET/Practice-Sites/Practice",

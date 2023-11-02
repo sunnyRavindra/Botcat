@@ -701,11 +701,21 @@
       "description": "POM(Project Object Model)",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Microservices/Introduction": {
+      "id": "SDET/Microservices/Introduction",
+      "title": "Microservices",
+      "description": ""
+    },
     "SDET/Playwright/Introduction": {
       "id": "SDET/Playwright/Introduction",
       "title": "Playwright Into",
       "description": "Reference https://playwright.dev/",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/PostMan/Introduction": {
+      "id": "SDET/PostMan/Introduction",
+      "title": "Introduction",
+      "description": ""
     },
     "SDET/Practice-Sites/Practice": {
       "id": "SDET/Practice-Sites/Practice",

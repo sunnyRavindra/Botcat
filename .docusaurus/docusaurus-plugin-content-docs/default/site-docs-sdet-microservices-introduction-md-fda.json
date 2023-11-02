@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Microservices/Introduction",
+  "id": "SDET/Microservices/Introduction",
+  "title": "Microservices",
+  "description": "",
+  "source": "@site/docs/SDET/Microservices/Introduction.md",
+  "sourceDirName": "SDET/Microservices",
+  "slug": "/SDET/Microservices/Introduction",
+  "permalink": "/SDET/Microservices/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Microservices"
+  }
+}

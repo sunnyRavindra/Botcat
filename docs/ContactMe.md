@@ -9,5 +9,5 @@ slug: /docs/ContactMe
 
 ![Contactme](../static/img/Contacts.svg)
 
-Mail to : Sunny.bharne.devops@gmail.com <br/>
+Mail to : Sunny.bharne.automation@gmail.com <br/>
 Phone : +91 9307252679

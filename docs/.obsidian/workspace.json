@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/SoapUI/SoapAutomation.md",
+                "file": "SDET/PostMan/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/SoapUI/SoapAutomation.md",
+                "file": "SDET/PostMan/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/SoapUI/SoapAutomation.md",
+                "file": "SDET/PostMan/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/SoapUI/SoapAutomation.md"
+                "file": "SDET/PostMan/Introduction.md"
               }
             }
           }
@@ -241,10 +241,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c3208dede2c7fc",
+  "active": "3d40244de2d4f421",
   "lastOpenFiles": [
-    "SDET/SoapUI/WSDL.md",
+    "SDET/Microservices/Introduction.md",
+    "SDET/Microservices",
+    "SDET/Rest-Assured/Introduction.md",
+    "SDET/PostMan/Introduction.md",
     "SDET/SoapUI/SoapAutomation.md",
+    "SDET/PostMan/Static",
+    "SDET/PostMan",
+    "SDET/SoapUI/WSDL.md",
     "SDET/SoapUI/Properties.md",
     "SDET/SoapUI/static/PropertyFile.png",
     "SDET/SoapUI/Assertions.md",
@@ -271,24 +277,18 @@
     "SDET/SoapUI/static/SoapUI.md",
     "static",
     "SDET/Kafka/Intro.md",
-    "SDET/Kafka",
     "SDET/Cucumber/Introduction.md",
-    "SDET/SoapUI/static",
     "SDET/Cucumber/ExtentReports.md",
     "SDET/Cucumber/Dependency-Injection.md",
     "SDET/Cucumber/Architecture.md",
     "SDET/Cucumber/static/Cucumber.md",
     "SDET/Appium/Intro.md",
-    "SDET/Appium/static",
     "SDET/Cucumber/Reports.md",
     "SDET/Practice-Sites/Practice.md",
     "SDET/Zephyr/Zephyr-TestPlan.md",
     "SDET/Zephyr/Zephyr-TestCycle.md",
     "SDET/Zephyr/Zephyr-TestCase.md",
     "SDET/Zephyr/Zephyr-Reports.md",
-    "SDET/Zephyr/Zephyr.md",
-    "SDET/Jira/static/Agile.md",
-    "ContactMe.md",
     "Untitled.canvas"
   ]
 }
