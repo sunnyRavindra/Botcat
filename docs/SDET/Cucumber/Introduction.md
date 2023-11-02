@@ -73,7 +73,7 @@ glue = "stepDefination",
 monochrome = true,
 tags = "@Smoke",
 dryrun = true,
-plugin = {"pretty", "html:target/cucumber.html","json:target/cucumber.json" }
+plugin = {"pretty", "html:target/cucumber.html","json:target/cucumber.json", "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" }
 )
 
 public class smokeRunner extends AbstractTestNGCucumberTests {}
@@ -82,9 +82,6 @@ public class smokeRunner extends AbstractTestNGCucumberTests {}
 ### Tags 
 
 ```Cucumber@
-	@Prod
-	Feature: Test Suite
-
   @Smoke
   Scenario: test case
     Given step with int 1
@@ -108,141 +105,39 @@ tags = "not @Smoke"
 ### Hooks
 
 ```java
-public class Hooks {
-
-	@BeforeAll
-	public static void beforeAll() {
-		System.out.println("------------------");
-		System.out.println("Before all");
-		System.out.println("------------------");
-	}
-
-	@AfterAll
-	public static void afterAll() {
-		System.out.println("------------------");
-		System.out.println("Before all");
-		System.out.println("------------------");
-	}
+public class hooks {
 
 	@Before
-	public void before_normal() {
+	public void beforeAll() {
 		System.out.println("------------------");
-		System.out.println("Before normal");
+		System.out.println("Before all");
 		System.out.println("------------------");
 	}
 
 	@After
-	public void after_normal() {
+	public void afterAll() {
 		System.out.println("------------------");
-		System.out.println("After normal");
-		System.out.println("------------------");
-	}
-
-	@Before(order=0)
-	public void before_normal_0() {
-		System.out.println("------------------");
-		System.out.println("Before normal 0");
-		System.out.println("------------------");
-	}
-
-	@After(order=0)
-	public void after_normal_0() {
-		System.out.println("------------------");
-		System.out.println("After normal 0");
-		System.out.println("------------------");
-	}
-
-	@Before(order=1)
-	public void before_normal_1() {
-		System.out.println("------------------");
-		System.out.println("Before normal 1");
-		System.out.println("------------------");
-	}
-
-	@After(order=1)
-	public void after_normal_1() {
-		System.out.println("------------------");
-		System.out.println("After normal 1");
+		System.out.println("After all");
 		System.out.println("------------------");
 	}
 
 	@Before("@Smoke")
 	public void beforeAllSmoke() {
 		System.out.println("------------------");
-		System.out.println("Before smoke");
+		System.out.println("Before all smoke");
 		System.out.println("------------------");
 	}
 
 	@After("@Smoke")
 	public void afterAllSmoke() {
 		System.out.println("------------------");
-		System.out.println("After smoke");
+		System.out.println("After all smoke");
 		System.out.println("------------------");
 	}
 
-		@AfterStep
-	public void afterStep() {
-		System.out.println("------------------");
-		System.out.println("After step");
-		System.out.println("------------------");
-	}
-
-	@BeforeStep
-	public void beforeStep() {
-		System.out.println("------------------");
-		System.out.println("Before step");
-		System.out.println("------------------");
-	}
 }
 ```
 
-### Parallel scenarios run 
+cucumber dependency injection (picocontainer)
 
-```java
-public class BasicRunner extends AbstractTestNGCucumberTests {
-	@Override
-	@DataProvider(parallel=true)
-	public Object[][] scenarios(){
-		return super.scenarios();
-	}
-}
-```
-
-### Rerun failed scenarios
-
-```java
-@CucumberOptions(
-features = "src/test/java/features",
-glue = "stepDefination",
-monochrome = true,
-tags = "@Smoke",
-dryrun = true,
-plugin = {"rerun:target/rerun.txt"}
-)
-```
-
-### Failed test Runner
-
-```java
-@CucumberOptions(features = "@target/rerun.txt", glue = { "stepdefination" }, plugin = { "pretty",
-		"html:target/html-reports/cucumber.html", "json:target/json-reports/cucumber.json",
-		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})
-public class FailedTestRunner extends AbstractTestNGCucumberTests {
-	@Override
-	@DataProvider(parallel=true)
-	public Object[][] scenarios(){
-		return super.scenarios();
-	}
-}
-```
-
-
-
-### Running tests from Terminal 
-```java
-mvn test
-mvn test -Dcucumber.filter.tags="@smoke or @regression"
-mvn test -Dcucumber.features="feature file path"
-```
-
-
+step defination should be written using SRP (Single Responsibility Principle)

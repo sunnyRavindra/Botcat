@@ -10,35 +10,34 @@ SoapUI supports various types of assertions, including:
 
 ### Response Assertion
 Compares the response against expected values, status codes, or patterns.
-
 ![Assertion1.png](./static/Assertion1.png)
 
 2. **XPath Assertion**: Validates elements or attributes in XML responses using XPath expressions.
+
+![Pasted image 20231030120541.png](./static/Pasted image 20231030120541.png)
 ### Tag existence 
-![tagexists.png](./static/tagexists.png)
-
+![Pasted image 20231030121534.png](./static/Pasted image 20231030121534.png)
 ### Tag Counts
-![TagCount.png](./static/TagCount.png)
-
+![Pasted image 20231030121736.png](./static/Pasted image 20231030121736.png)
 
 ### Entire XML validation
-![XMLValidation.png](./static/XMLValidation.png)
+![Pasted image 20231030124104.png](./static/Pasted image 20231030124104.png)
 ### Allow Wildcards in Xpath
-![WildCards.png](./static/WildCards.png)
-
+![Pasted image 20231030124205.png](./static/Pasted image 20231030124205.png)
 3. **Script Assertion**: Allows you to write custom scripts (e.g., Groovy scripts) to define complex validation logic.
 
 4. **JSONPath Assertion**: Similar to XPath but for JSON responses, it uses JSONPath expressions for validation.
 ### SLA Assertion
-![SLA.png](./static/SLA.png)
+![Pasted image 20231030114954.png](./static/Pasted image 20231030114954.png)
 ### Status Code Assertion
-![StatusCode.png](./static/StatusCode.png)
+![Pasted image 20231030114645.png](./static/Pasted image 20231030114645.png)
 ### Contains Assertion
-![Contains.png](./static/Contains.png)
+![Pasted image 20231030112811.png](./static/Pasted image 20231030112811.png)
 
 ### Token validation
+![Pasted image 20231030115352.png](./static/Pasted image 20231030115352.png)
 ### Not Contains Assertion
-![NotContains.png](./static/NotContains.png)
+![Pasted image 20231030114050.png](./static/Pasted image 20231030114050.png)
 8. **Length Assertion**: Verifies the length of the response content.
 
 9. **SOAP Fault Assertion**: Ensures that a response contains a SOAP fault when expected.
