@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Rest-Assured/Introduction",
   "id": "SDET/Rest-Assured/Introduction",
-  "title": "Introduction",
-  "description": "",
+  "title": "Rest Assured",
+  "description": "Getting Started",
   "source": "@site/docs/SDET/Rest-Assured/Introduction.md",
   "sourceDirName": "SDET/Rest-Assured",
   "slug": "/SDET/Rest-Assured/Introduction",
@@ -10,5 +10,7 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Rest Assured"
+  }
 }

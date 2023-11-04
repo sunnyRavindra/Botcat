@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/PostMan/Introduction",
   "id": "SDET/PostMan/Introduction",
-  "title": "Introduction",
-  "description": "",
+  "title": "Postman basics",
+  "description": "Variable Scope",
   "source": "@site/docs/SDET/PostMan/Introduction.md",
   "sourceDirName": "SDET/PostMan",
   "slug": "/SDET/PostMan/Introduction",
@@ -10,5 +10,7 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Postman basics"
+  }
 }

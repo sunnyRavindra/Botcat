@@ -25,7 +25,6 @@ brew install maven
 ```Maven
 mvn verify
 mvn clean install
-mvn archetype:generate -DgroupId=com.example -DartifactId=my-java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 mvn compile
 mvn test
 mvn test-compile
@@ -35,3 +34,8 @@ mvn clean
 ```
 ### Reference 
 ![Maven Official site](https://maven.apache.org/)
+
+### 
+```maven
+mvn archetype:generate -DarchetypeGroupId=com.mail.automation -DarchetypeArtifactId=com-botcat-automation -DgroupId=mail.automation -DartifactId=EMailAutomation -Dversion=1.0-SNAPSHOT
+```

@@ -710,8 +710,8 @@
             {
               "unversionedId": "SDET/PostMan/Introduction",
               "id": "SDET/PostMan/Introduction",
-              "title": "Introduction",
-              "description": "",
+              "title": "Postman basics",
+              "description": "Variable Scope",
               "source": "@site/docs/SDET/PostMan/Introduction.md",
               "sourceDirName": "SDET/PostMan",
               "slug": "/SDET/PostMan/Introduction",
@@ -719,7 +719,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Postman basics"
+              }
             },
             {
               "unversionedId": "SDET/Practice-Sites/Practice",
@@ -745,8 +747,8 @@
             {
               "unversionedId": "SDET/Rest-Assured/Introduction",
               "id": "SDET/Rest-Assured/Introduction",
-              "title": "Introduction",
-              "description": "",
+              "title": "Rest Assured",
+              "description": "Getting Started",
               "source": "@site/docs/SDET/Rest-Assured/Introduction.md",
               "sourceDirName": "SDET/Rest-Assured",
               "slug": "/SDET/Rest-Assured/Introduction",
@@ -754,7 +756,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Rest Assured"
+              }
             },
             {
               "unversionedId": "SDET/Security-Testing/Browser-Cookies",

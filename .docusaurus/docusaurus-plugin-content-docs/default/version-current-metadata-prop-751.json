@@ -714,8 +714,8 @@
     },
     "SDET/PostMan/Introduction": {
       "id": "SDET/PostMan/Introduction",
-      "title": "Introduction",
-      "description": ""
+      "title": "Postman basics",
+      "description": "Variable Scope"
     },
     "SDET/Practice-Sites/Practice": {
       "id": "SDET/Practice-Sites/Practice",
@@ -725,8 +725,8 @@
     },
     "SDET/Rest-Assured/Introduction": {
       "id": "SDET/Rest-Assured/Introduction",
-      "title": "Introduction",
-      "description": ""
+      "title": "Rest Assured",
+      "description": "Getting Started"
     },
     "SDET/Security-Testing/Browser-Cookies": {
       "id": "SDET/Security-Testing/Browser-Cookies",
