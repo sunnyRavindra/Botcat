@@ -107,6 +107,10 @@
               "path": "/SDET/Jackson/Introduction"
             },
             {
+              "id": "SDET/Java/Basics",
+              "path": "/SDET/Java/Basics"
+            },
+            {
               "id": "SDET/Java/Data Types",
               "path": "/SDET/Java/Data Types"
             },
@@ -162,7 +166,8 @@
             },
             {
               "id": "SDET/Rest-Assured/Introduction",
-              "path": "/SDET/Rest-Assured/Introduction"
+              "path": "/SDET/Rest-Assured/Introduction",
+              "sidebar": "SDETSidebar"
             },
             {
               "id": "SDET/Security-Testing/Browser-Cookies",

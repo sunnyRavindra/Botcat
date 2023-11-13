@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "Dependency Injection",
-    "permalink": "/SDET/Cucumber/Dependency-Injection"
+    "title": "Basics",
+    "permalink": "/SDET/Rest-Assured/Introduction"
   },
   "next": {
     "title": "SDLC vs STLC",

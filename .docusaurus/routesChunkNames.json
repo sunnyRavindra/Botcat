@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-48a": {
+  "/-2aa": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -271,6 +271,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-jackson-introduction-721-3fe"
   },
+  "/SDET/Java/Basics-b68": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-basics-859-2d8"
+  },
   "/SDET/Java/Data Types-7aa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-java-data-types-50-f-de5"
@@ -319,7 +323,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-practice-sites-practiced-45-7f4"
   },
-  "/SDET/Rest-Assured/Introduction-7be": {
+  "/SDET/Rest-Assured/Introduction-958": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sdet-rest-assured-introduction-1-f-6-f90"
   },

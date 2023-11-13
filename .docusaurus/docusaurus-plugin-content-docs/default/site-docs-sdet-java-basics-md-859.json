@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/Basics",
+  "id": "SDET/Java/Basics",
+  "title": "Basics",
+  "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF",
+  "source": "@site/docs/SDET/Java/Basics.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/Basics",
+  "permalink": "/SDET/Java/Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Basics"
+  }
+}

@@ -21,6 +21,13 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Rest Assured',
+      items: [
+        'SDET/Rest-Assured/Introduction',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Appium',
       items: [
         'SDET/Appium/Intro',

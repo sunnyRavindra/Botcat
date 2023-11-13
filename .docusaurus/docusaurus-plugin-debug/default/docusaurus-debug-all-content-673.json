@@ -149,8 +149,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Dependency Injection",
-                "permalink": "/SDET/Cucumber/Dependency-Injection"
+                "title": "Basics",
+                "permalink": "/SDET/Rest-Assured/Introduction"
               },
               "next": {
                 "title": "SDLC vs STLC",
@@ -203,8 +203,8 @@
                 "permalink": "/SDET/Cucumber/ExtentReports"
               },
               "next": {
-                "title": "Appium",
-                "permalink": "/SDET/Appium/Intro"
+                "title": "Basics",
+                "permalink": "/SDET/Rest-Assured/Introduction"
               }
             },
             {
@@ -489,6 +489,22 @@
               }
             },
             {
+              "unversionedId": "SDET/Java/Basics",
+              "id": "SDET/Java/Basics",
+              "title": "Basics",
+              "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF",
+              "source": "@site/docs/SDET/Java/Basics.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/Basics",
+              "permalink": "/SDET/Java/Basics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Basics"
+              }
+            },
+            {
               "unversionedId": "SDET/Java/Data Types",
               "id": "SDET/Java/Data Types",
               "title": "Java Intro",
@@ -747,7 +763,7 @@
             {
               "unversionedId": "SDET/Rest-Assured/Introduction",
               "id": "SDET/Rest-Assured/Introduction",
-              "title": "Rest Assured",
+              "title": "Basics",
               "description": "Getting Started",
               "source": "@site/docs/SDET/Rest-Assured/Introduction.md",
               "sourceDirName": "SDET/Rest-Assured",
@@ -757,7 +773,16 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Rest Assured"
+                "title": "Basics"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "Dependency Injection",
+                "permalink": "/SDET/Cucumber/Dependency-Injection"
+              },
+              "next": {
+                "title": "Appium",
+                "permalink": "/SDET/Appium/Intro"
               }
             },
             {
@@ -2111,6 +2136,18 @@
                   {
                     "type": "doc",
                     "id": "SDET/Cucumber/Dependency-Injection"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Rest Assured",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "SDET/Rest-Assured/Introduction"
                   }
                 ],
                 "collapsed": true,

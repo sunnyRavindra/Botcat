@@ -1,5 +1,5 @@
 ---
-title: Rest Assured
+title: Basics
 ---
 
 ### Getting Started
@@ -16,38 +16,53 @@ https://github.com/rest-assured/rest-assured/wiki/GettingStarted
    - Hamcreast is used for assertions.
    - json-schema-validator is used for validating Json Schema
 
-   ```xml
-   <dependencies>
-       <!-- Rest Assured and its dependencies -->
-       <dependency>
-           <groupId>io.rest-assured</groupId>
-           <artifactId>rest-assured</artifactId>
-           <version>4.4.0</version> <!-- Replace with your desired version -->
-           <scope>test</scope>
-       </dependency>
-       <!-- JUnit (or TestNG) for running tests -->
-       <dependency>
-           <groupId>junit</groupId>
-           <artifactId>junit</artifactId>
-           <version>5.8.0</version> <!-- Replace with your desired version -->
-           <scope>test</scope>
-       </dependency>
-       <dependency>
-            <groupId>io.rest-assured</groupId>
-            <artifactId>json-schema-validator</artifactId>
-            <version>5.3.2</version>
-            <scope>test</scope>
-       </dependency>
-   </dependencies>
-   ```
+### POM dependency
+```xml
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>5.3.2</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!--
+		https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>json-schema-validator</artifactId>
+			<version>5.3.2</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.8.0</version>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+```
 
 ### Static Imports
-```json 
-io.restassured.RestAssured.*
-io.restassured.matcher.RestAssuredMatchers.*
-org.hamcrest.Matchers.*
-io.restassured.module.jsv.JsonSchemaValidator.*
+```Java
+import io.restassured.RestAssured.*;
+import io.restassured.matcher.RestAssuredMatchers.*;
+import org.hamcrest.Matchers.*;
+import io.restassured.module.jsv.JsonSchemaValidator.*;
+
 ```
 
 ### 
 POST, GET, PUT, DELETE, OPTIONS, PATCH and HEAD
+
+<!-- <iframe -->
+<!--   src="https://github.com/sunnyRavindra/RestAssuredFramework/blob/main/pom.xml" -->
+<!--   width="100%" -->
+<!--   height="500" -->
+<!--   scrolling="auto" -->
+<!--   frameBorder="0" -->
+<!--   title="GitHub Page" -->
+<!-- ></iframe> -->

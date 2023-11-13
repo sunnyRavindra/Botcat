@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '48a'),
+    component: ComponentCreator('/', '2aa'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -224,6 +224,11 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Java/Basics',
+        component: ComponentCreator('/SDET/Java/Basics', 'b68'),
+        exact: true
+      },
+      {
         path: '/SDET/Java/Data Types',
         component: ComponentCreator('/SDET/Java/Data Types', '7aa'),
         exact: true
@@ -291,8 +296,9 @@ export default [
       },
       {
         path: '/SDET/Rest-Assured/Introduction',
-        component: ComponentCreator('/SDET/Rest-Assured/Introduction', '7be'),
-        exact: true
+        component: ComponentCreator('/SDET/Rest-Assured/Introduction', '958'),
+        exact: true,
+        sidebar: "SDETSidebar"
       },
       {
         path: '/SDET/Security-Testing/Browser-Cookies',

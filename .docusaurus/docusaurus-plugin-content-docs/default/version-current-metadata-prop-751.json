@@ -69,6 +69,20 @@
       },
       {
         "type": "category",
+        "label": "Rest Assured",
+        "items": [
+          {
+            "type": "link",
+            "label": "Basics",
+            "href": "/SDET/Rest-Assured/Introduction",
+            "docId": "SDET/Rest-Assured/Introduction"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Appium",
         "items": [
           {
@@ -657,6 +671,11 @@
       "title": "Jackson Intro",
       "description": "Jackson coming from the md file"
     },
+    "SDET/Java/Basics": {
+      "id": "SDET/Java/Basics",
+      "title": "Basics",
+      "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF"
+    },
     "SDET/Java/Data Types": {
       "id": "SDET/Java/Data Types",
       "title": "Java Intro",
@@ -725,8 +744,9 @@
     },
     "SDET/Rest-Assured/Introduction": {
       "id": "SDET/Rest-Assured/Introduction",
-      "title": "Rest Assured",
-      "description": "Getting Started"
+      "title": "Basics",
+      "description": "Getting Started",
+      "sidebar": "SDETSidebar"
     },
     "SDET/Security-Testing/Browser-Cookies": {
       "id": "SDET/Security-Testing/Browser-Cookies",
