@@ -61,3 +61,6 @@ import io.restassured.module.jsv.JsonSchemaValidator.*;
 https://qaautomation.expert/2021/05/16/introduction-to-rest-assured/
 2. Get Request
 https://qaautomation.expert/2023/10/12/how-to-test-get-request-using-rest-assured/
+
+### Test API 
+https://gorest.co.in/

@@ -195,3 +195,12 @@ Synchronization is built around an internal entity known as the lock or monitor.
 public synchronized void methodNamr(){}
 ### Block
 synchronized(ObjectReference){ }
+### Static Syncronization
+Yet to learn
+### DeadLock
+basic understanding
+### Inter-thread Communication in java
+    wait()
+    notify()
+    notifyAll()
+
