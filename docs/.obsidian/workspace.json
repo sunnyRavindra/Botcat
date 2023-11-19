@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Java/Basics.md",
+                "file": "SDET/API-Testing-Concepts/HTTP Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Java/Basics.md",
+                "file": "SDET/API-Testing-Concepts/HTTP Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Java/Basics.md",
+                "file": "SDET/API-Testing-Concepts/HTTP Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Java/Basics.md"
+                "file": "SDET/API-Testing-Concepts/HTTP Basics.md"
               }
             }
           }
@@ -255,11 +255,24 @@
   },
   "active": "a4e08538269cea78",
   "lastOpenFiles": [
+    "SDET/API-Testing-Concepts/API Basics.md",
+    "SDET/Rest-Assured/Introduction.md",
+    "SDET/Servlet/Introduction.md",
+    "Pasted image 20231118205337.png",
+    "Pasted image 20231118200736.png",
+    "SDET/Java/Multithreading.md",
+    "SDET/Servlet",
+    "SDET/Java/IO.md",
+    "Pasted image 20231117184804.png",
+    "SDET/Java/Basics.md",
+    "SDET/Java/InnerClass.md",
+    "SDET/Java/exception.md",
+    "SDET/Java/exception.mc",
+    "SDET/Java/exception.java",
     "Pasted image 20231108220639.png",
     "Pasted image 20231104092105.png",
     "SDET/Microservices/Introduction.md",
     "SDET/Microservices",
-    "SDET/Rest-Assured/Introduction.md",
     "SDET/PostMan/Introduction.md",
     "SDET/SoapUI/SoapAutomation.md",
     "SDET/PostMan/Static",
@@ -273,34 +286,21 @@
     "SDET/SoapUI/WSDL.md.bak",
     "SDET/SoapUI/Soap.md.bak",
     "SDET/SoapUI/Properties.md.bak",
-    "SDET/SoapUI/Intro.md.bak",
-    "SDET/SoapUI/Assertions.md.bak",
     "SDET/SoapUI/static/XMLValidation.png",
     "SDET/SoapUI/static/TokenValidation.png",
     "SDET/SoapUI/static/StatusCode.png",
     "SDET/SoapUI/static/TagCount.png",
-    "SDET/SoapUI/static/SLA.png",
-    "SDET/SoapUI/static/WildCards.png",
-    "SDET/SoapUI/static/tagexists.png",
-    "SDET/SoapUI/static/Contains.png",
     "static/Pasted.md",
     "SDET/SoapUI/project.md",
     "SDET/SoapUI/Intro.md",
     "SDET/SoapUI/Soap.md",
     "SDET/SoapUI/static/SoapUI.md",
-    "static",
     "SDET/Kafka/Intro.md",
     "SDET/Cucumber/Introduction.md",
     "SDET/Cucumber/ExtentReports.md",
     "SDET/Cucumber/Dependency-Injection.md",
     "SDET/Cucumber/Architecture.md",
     "SDET/Cucumber/static/Cucumber.md",
-    "SDET/Appium/Intro.md",
-    "SDET/Cucumber/Reports.md",
-    "SDET/Practice-Sites/Practice.md",
-    "SDET/Zephyr/Zephyr-TestPlan.md",
-    "SDET/Zephyr/Zephyr-TestCycle.md",
-    "SDET/Zephyr/Zephyr-TestCase.md",
     "Untitled.canvas"
   ]
 }

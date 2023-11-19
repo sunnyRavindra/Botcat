@@ -5,7 +5,10 @@ title: Basics
 ### Getting Started
 ```Link
 https://github.com/rest-assured/rest-assured/wiki/GettingStarted
+https://qaautomation.expert/2023/10/12/rest-assured-tutorials/
 ```
+
+
 
 ### Dependency
 1. Rest Assured dependency includes JsonPath and XmlPath
@@ -54,15 +57,7 @@ import org.hamcrest.Matchers.*;
 import io.restassured.module.jsv.JsonSchemaValidator.*;
 
 ```
-
-### 
-POST, GET, PUT, DELETE, OPTIONS, PATCH and HEAD
-
-<!-- <iframe -->
-<!--   src="https://github.com/sunnyRavindra/RestAssuredFramework/blob/main/pom.xml" -->
-<!--   width="100%" -->
-<!--   height="500" -->
-<!--   scrolling="auto" -->
-<!--   frameBorder="0" -->
-<!--   title="GitHub Page" -->
-<!-- ></iframe> -->
+1. Introduction 
+https://qaautomation.expert/2021/05/16/introduction-to-rest-assured/
+2. Get Request
+https://qaautomation.expert/2023/10/12/how-to-test-get-request-using-rest-assured/

@@ -126,7 +126,7 @@ const sidebars = {
       type: 'category',
       label: 'Java',
       items: [
-        'SDET/Java/JavaPackage',
+        'SDET/Java/Basics',
       ],
     },
     {
