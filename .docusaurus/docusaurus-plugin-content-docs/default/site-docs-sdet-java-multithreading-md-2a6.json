@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/Multithreading",
+  "id": "SDET/Java/Multithreading",
+  "title": "MultiTreading",
+  "description": "Multi Tasking",
+  "source": "@site/docs/SDET/Java/Multithreading.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/Multithreading",
+  "permalink": "/SDET/Java/Multithreading",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MultiTreading"
+  }
+}

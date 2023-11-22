@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/DSA/Introduction",
   "id": "SDET/DSA/Introduction",
-  "title": "DSA Intro",
-  "description": "",
+  "title": "DSA",
+  "description": "Algorithm's usage's",
   "source": "@site/docs/SDET/DSA/Introduction.md",
   "sourceDirName": "SDET/DSA",
   "slug": "/SDET/DSA/Introduction",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "DSA Intro"
+    "title": "DSA"
   },
   "sidebar": "SDETSidebar",
   "previous": {

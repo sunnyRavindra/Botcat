@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2aa'),
+    component: ComponentCreator('/', 'e8b'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -225,19 +225,29 @@ export default [
       },
       {
         path: '/SDET/Java/Basics',
-        component: ComponentCreator('/SDET/Java/Basics', 'b68'),
-        exact: true
-      },
-      {
-        path: '/SDET/Java/Data Types',
-        component: ComponentCreator('/SDET/Java/Data Types', '7aa'),
-        exact: true
-      },
-      {
-        path: '/SDET/Java/JavaPackage',
-        component: ComponentCreator('/SDET/Java/JavaPackage', 'd17'),
+        component: ComponentCreator('/SDET/Java/Basics', 'ff4'),
         exact: true,
         sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Java/exception',
+        component: ComponentCreator('/SDET/Java/exception', '6c2'),
+        exact: true
+      },
+      {
+        path: '/SDET/Java/InnerClass',
+        component: ComponentCreator('/SDET/Java/InnerClass', '7ed'),
+        exact: true
+      },
+      {
+        path: '/SDET/Java/IO',
+        component: ComponentCreator('/SDET/Java/IO', '09f'),
+        exact: true
+      },
+      {
+        path: '/SDET/Java/Multithreading',
+        component: ComponentCreator('/SDET/Java/Multithreading', 'd93'),
+        exact: true
       },
       {
         path: '/SDET/Java/static/Java',
@@ -377,6 +387,11 @@ export default [
       {
         path: '/SDET/Selenium/Synchronisation',
         component: ComponentCreator('/SDET/Selenium/Synchronisation', '178'),
+        exact: true
+      },
+      {
+        path: '/SDET/Servlet/Introduction',
+        component: ComponentCreator('/SDET/Servlet/Introduction', '3e4'),
         exact: true
       },
       {

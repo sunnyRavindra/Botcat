@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/IO",
+  "id": "SDET/Java/IO",
+  "title": "IO",
+  "description": "IO is done using Streams in Java",
+  "source": "@site/docs/SDET/Java/IO.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/IO",
+  "permalink": "/SDET/Java/IO",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "IO"
+  }
+}

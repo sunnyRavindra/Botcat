@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Java/Basics",
   "id": "SDET/Java/Basics",
   "title": "Basics",
-  "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF",
+  "description": "Java used for developing",
   "source": "@site/docs/SDET/Java/Basics.md",
   "sourceDirName": "SDET/Java",
   "slug": "/SDET/Java/Basics",
@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "title": "Basics"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Docker Compose",
+    "permalink": "/SDET/Docker/Compose"
+  },
+  "next": {
+    "title": "Agile Project",
+    "permalink": "/SDET/Jira/Agile-Project"
   }
 }

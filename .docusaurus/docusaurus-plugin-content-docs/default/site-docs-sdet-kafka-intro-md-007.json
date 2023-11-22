@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Kafka/Intro",
   "id": "SDET/Kafka/Intro",
-  "title": "Intro",
-  "description": "",
+  "title": "Basics",
+  "description": "Event Streaming",
   "source": "@site/docs/SDET/Kafka/Intro.md",
   "sourceDirName": "SDET/Kafka",
   "slug": "/SDET/Kafka/Intro",
@@ -10,5 +10,7 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Basics"
+  }
 }

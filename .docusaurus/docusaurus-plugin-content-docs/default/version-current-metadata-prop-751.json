@@ -73,7 +73,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Basics",
+            "label": "RestAssured",
             "href": "/SDET/Rest-Assured/Introduction",
             "docId": "SDET/Rest-Assured/Introduction"
           }
@@ -439,9 +439,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Package Names",
-            "href": "/SDET/Java/JavaPackage",
-            "docId": "SDET/Java/JavaPackage"
+            "label": "Basics",
+            "href": "/SDET/Java/Basics",
+            "docId": "SDET/Java/Basics"
           }
         ],
         "collapsed": true,
@@ -501,7 +501,7 @@
         "items": [
           {
             "type": "link",
-            "label": "DSA Intro",
+            "label": "DSA",
             "href": "/SDET/DSA/Introduction",
             "docId": "SDET/DSA/Introduction"
           }
@@ -662,8 +662,8 @@
     },
     "SDET/DSA/Introduction": {
       "id": "SDET/DSA/Introduction",
-      "title": "DSA Intro",
-      "description": "",
+      "title": "DSA",
+      "description": "Algorithm's usage's",
       "sidebar": "SDETSidebar"
     },
     "SDET/Jackson/Introduction": {
@@ -674,18 +674,28 @@
     "SDET/Java/Basics": {
       "id": "SDET/Java/Basics",
       "title": "Basics",
-      "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF"
-    },
-    "SDET/Java/Data Types": {
-      "id": "SDET/Java/Data Types",
-      "title": "Java Intro",
-      "description": "System.out.printf(\"%d + %s this is string\")"
-    },
-    "SDET/Java/JavaPackage": {
-      "id": "SDET/Java/JavaPackage",
-      "title": "Package Names",
-      "description": "When naming a package in Java using Eclipse, it's essential to follow best practices to ensure code clarity, maintainability, and adherence to coding standards. Proper package naming contributes to the overall organization of your project. Here are some best practices:",
+      "description": "Java used for developing",
       "sidebar": "SDETSidebar"
+    },
+    "SDET/Java/exception": {
+      "id": "SDET/Java/exception",
+      "title": "Java Exceptions",
+      "description": "In Java, exceptions are categorized into two main types: checked exceptions and unchecked exceptions. The key difference between them lies in how the compiler enforces handling or declaration."
+    },
+    "SDET/Java/InnerClass": {
+      "id": "SDET/Java/InnerClass",
+      "title": "Inner Classes",
+      "description": "Member Inner Classes"
+    },
+    "SDET/Java/IO": {
+      "id": "SDET/Java/IO",
+      "title": "IO",
+      "description": "IO is done using Streams in Java"
+    },
+    "SDET/Java/Multithreading": {
+      "id": "SDET/Java/Multithreading",
+      "title": "MultiTreading",
+      "description": "Multi Tasking"
     },
     "SDET/Java/static/Java": {
       "id": "SDET/Java/static/Java",
@@ -711,8 +721,8 @@
     },
     "SDET/Kafka/Intro": {
       "id": "SDET/Kafka/Intro",
-      "title": "Intro",
-      "description": ""
+      "title": "Basics",
+      "description": "Event Streaming"
     },
     "SDET/Maven/Introduction": {
       "id": "SDET/Maven/Introduction",
@@ -744,8 +754,8 @@
     },
     "SDET/Rest-Assured/Introduction": {
       "id": "SDET/Rest-Assured/Introduction",
-      "title": "Basics",
-      "description": "Getting Started",
+      "title": "RestAssured",
+      "description": "RestAssured Documentation",
       "sidebar": "SDETSidebar"
     },
     "SDET/Security-Testing/Browser-Cookies": {
@@ -826,6 +836,11 @@
       "id": "SDET/Selenium/Synchronisation",
       "title": "Synchronisation",
       "description": "driver.manage().timeouts().implicitlyWait(Duration.ofMillis(500));"
+    },
+    "SDET/Servlet/Introduction": {
+      "id": "SDET/Servlet/Introduction",
+      "title": "Servlet",
+      "description": "![[Pasted image 20231118200736.png]]"
     },
     "SDET/Skills": {
       "id": "SDET/Skills",

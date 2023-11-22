@@ -149,7 +149,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Basics",
+                "title": "RestAssured",
                 "permalink": "/SDET/Rest-Assured/Introduction"
               },
               "next": {
@@ -203,7 +203,7 @@
                 "permalink": "/SDET/Cucumber/ExtentReports"
               },
               "next": {
-                "title": "Basics",
+                "title": "RestAssured",
                 "permalink": "/SDET/Rest-Assured/Introduction"
               }
             },
@@ -302,8 +302,8 @@
                 "permalink": "/SDET/Docker/ContainerInteractions"
               },
               "next": {
-                "title": "Package Names",
-                "permalink": "/SDET/Java/JavaPackage"
+                "title": "Basics",
+                "permalink": "/SDET/Java/Basics"
               }
             },
             {
@@ -450,8 +450,8 @@
             {
               "unversionedId": "SDET/DSA/Introduction",
               "id": "SDET/DSA/Introduction",
-              "title": "DSA Intro",
-              "description": "",
+              "title": "DSA",
+              "description": "Algorithm's usage's",
               "source": "@site/docs/SDET/DSA/Introduction.md",
               "sourceDirName": "SDET/DSA",
               "slug": "/SDET/DSA/Introduction",
@@ -460,7 +460,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "DSA Intro"
+                "title": "DSA"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -492,7 +492,7 @@
               "unversionedId": "SDET/Java/Basics",
               "id": "SDET/Java/Basics",
               "title": "Basics",
-              "description": "Web Applications using Java - Servlet, JSP, Struts, Spring, Hibernate, JSF",
+              "description": "Java used for developing",
               "source": "@site/docs/SDET/Java/Basics.md",
               "sourceDirName": "SDET/Java",
               "slug": "/SDET/Java/Basics",
@@ -502,38 +502,6 @@
               "version": "current",
               "frontMatter": {
                 "title": "Basics"
-              }
-            },
-            {
-              "unversionedId": "SDET/Java/Data Types",
-              "id": "SDET/Java/Data Types",
-              "title": "Java Intro",
-              "description": "System.out.printf(\"%d + %s this is string\")",
-              "source": "@site/docs/SDET/Java/Data Types.md",
-              "sourceDirName": "SDET/Java",
-              "slug": "/SDET/Java/Data Types",
-              "permalink": "/SDET/Java/Data Types",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Java Intro"
-              }
-            },
-            {
-              "unversionedId": "SDET/Java/JavaPackage",
-              "id": "SDET/Java/JavaPackage",
-              "title": "Package Names",
-              "description": "When naming a package in Java using Eclipse, it's essential to follow best practices to ensure code clarity, maintainability, and adherence to coding standards. Proper package naming contributes to the overall organization of your project. Here are some best practices:",
-              "source": "@site/docs/SDET/Java/JavaPackage.md",
-              "sourceDirName": "SDET/Java",
-              "slug": "/SDET/Java/JavaPackage",
-              "permalink": "/SDET/Java/JavaPackage",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "title": "Package Names"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -543,6 +511,70 @@
               "next": {
                 "title": "Agile Project",
                 "permalink": "/SDET/Jira/Agile-Project"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/exception",
+              "id": "SDET/Java/exception",
+              "title": "Java Exceptions",
+              "description": "In Java, exceptions are categorized into two main types: checked exceptions and unchecked exceptions. The key difference between them lies in how the compiler enforces handling or declaration.",
+              "source": "@site/docs/SDET/Java/exception.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/exception",
+              "permalink": "/SDET/Java/exception",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Java Exceptions"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/InnerClass",
+              "id": "SDET/Java/InnerClass",
+              "title": "Inner Classes",
+              "description": "Member Inner Classes",
+              "source": "@site/docs/SDET/Java/InnerClass.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/InnerClass",
+              "permalink": "/SDET/Java/InnerClass",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Inner Classes"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/IO",
+              "id": "SDET/Java/IO",
+              "title": "IO",
+              "description": "IO is done using Streams in Java",
+              "source": "@site/docs/SDET/Java/IO.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/IO",
+              "permalink": "/SDET/Java/IO",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "IO"
+              }
+            },
+            {
+              "unversionedId": "SDET/Java/Multithreading",
+              "id": "SDET/Java/Multithreading",
+              "title": "MultiTreading",
+              "description": "Multi Tasking",
+              "source": "@site/docs/SDET/Java/Multithreading.md",
+              "sourceDirName": "SDET/Java",
+              "slug": "/SDET/Java/Multithreading",
+              "permalink": "/SDET/Java/Multithreading",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "MultiTreading"
               }
             },
             {
@@ -586,8 +618,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Package Names",
-                "permalink": "/SDET/Java/JavaPackage"
+                "title": "Basics",
+                "permalink": "/SDET/Java/Basics"
               },
               "next": {
                 "title": "Waterafall Project",
@@ -646,8 +678,8 @@
             {
               "unversionedId": "SDET/Kafka/Intro",
               "id": "SDET/Kafka/Intro",
-              "title": "Intro",
-              "description": "",
+              "title": "Basics",
+              "description": "Event Streaming",
               "source": "@site/docs/SDET/Kafka/Intro.md",
               "sourceDirName": "SDET/Kafka",
               "slug": "/SDET/Kafka/Intro",
@@ -655,7 +687,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {
+                "title": "Basics"
+              }
             },
             {
               "unversionedId": "SDET/Maven/Introduction",
@@ -678,7 +712,7 @@
                 "permalink": "/SDET/Playwright/Introduction"
               },
               "next": {
-                "title": "DSA Intro",
+                "title": "DSA",
                 "permalink": "/SDET/DSA/Introduction"
               }
             },
@@ -763,8 +797,8 @@
             {
               "unversionedId": "SDET/Rest-Assured/Introduction",
               "id": "SDET/Rest-Assured/Introduction",
-              "title": "Basics",
-              "description": "Getting Started",
+              "title": "RestAssured",
+              "description": "RestAssured Documentation",
               "source": "@site/docs/SDET/Rest-Assured/Introduction.md",
               "sourceDirName": "SDET/Rest-Assured",
               "slug": "/SDET/Rest-Assured/Introduction",
@@ -773,7 +807,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Basics"
+                "title": "RestAssured"
               },
               "sidebar": "SDETSidebar",
               "previous": {
@@ -1091,6 +1125,22 @@
               "frontMatter": {}
             },
             {
+              "unversionedId": "SDET/Servlet/Introduction",
+              "id": "SDET/Servlet/Introduction",
+              "title": "Servlet",
+              "description": "![[Pasted image 20231118200736.png]]",
+              "source": "@site/docs/SDET/Servlet/Introduction.md",
+              "sourceDirName": "SDET/Servlet",
+              "slug": "/SDET/Servlet/Introduction",
+              "permalink": "/SDET/Servlet/Introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Servlet"
+              }
+            },
+            {
               "unversionedId": "SDET/Skills",
               "id": "SDET/Skills",
               "title": "Skills",
@@ -1107,7 +1157,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "DSA Intro",
+                "title": "DSA",
                 "permalink": "/SDET/DSA/Introduction"
               },
               "next": {
@@ -2415,7 +2465,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "SDET/Java/JavaPackage"
+                    "id": "SDET/Java/Basics"
                   }
                 ],
                 "collapsed": true,

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/exception",
+  "id": "SDET/Java/exception",
+  "title": "Java Exceptions",
+  "description": "In Java, exceptions are categorized into two main types: checked exceptions and unchecked exceptions. The key difference between them lies in how the compiler enforces handling or declaration.",
+  "source": "@site/docs/SDET/Java/exception.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/exception",
+  "permalink": "/SDET/Java/exception",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Java Exceptions"
+  }
+}

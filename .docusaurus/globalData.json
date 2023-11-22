@@ -108,16 +108,24 @@
             },
             {
               "id": "SDET/Java/Basics",
-              "path": "/SDET/Java/Basics"
-            },
-            {
-              "id": "SDET/Java/Data Types",
-              "path": "/SDET/Java/Data Types"
-            },
-            {
-              "id": "SDET/Java/JavaPackage",
-              "path": "/SDET/Java/JavaPackage",
+              "path": "/SDET/Java/Basics",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Java/exception",
+              "path": "/SDET/Java/exception"
+            },
+            {
+              "id": "SDET/Java/InnerClass",
+              "path": "/SDET/Java/InnerClass"
+            },
+            {
+              "id": "SDET/Java/IO",
+              "path": "/SDET/Java/IO"
+            },
+            {
+              "id": "SDET/Java/Multithreading",
+              "path": "/SDET/Java/Multithreading"
             },
             {
               "id": "SDET/Java/static/Java",
@@ -233,6 +241,10 @@
             {
               "id": "SDET/Selenium/Synchronisation",
               "path": "/SDET/Selenium/Synchronisation"
+            },
+            {
+              "id": "SDET/Servlet/Introduction",
+              "path": "/SDET/Servlet/Introduction"
             },
             {
               "id": "SDET/Skills",

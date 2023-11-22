@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Java/InnerClass",
+  "id": "SDET/Java/InnerClass",
+  "title": "Inner Classes",
+  "description": "Member Inner Classes",
+  "source": "@site/docs/SDET/Java/InnerClass.md",
+  "sourceDirName": "SDET/Java",
+  "slug": "/SDET/Java/InnerClass",
+  "permalink": "/SDET/Java/InnerClass",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Inner Classes"
+  }
+}

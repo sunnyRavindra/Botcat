@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Servlet/Introduction",
+  "id": "SDET/Servlet/Introduction",
+  "title": "Servlet",
+  "description": "![[Pasted image 20231118200736.png]]",
+  "source": "@site/docs/SDET/Servlet/Introduction.md",
+  "sourceDirName": "SDET/Servlet",
+  "slug": "/SDET/Servlet/Introduction",
+  "permalink": "/SDET/Servlet/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Servlet"
+  }
+}
