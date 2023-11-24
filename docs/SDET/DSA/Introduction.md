@@ -1,7 +1,8 @@
 ---
 title: DSA 
 ---
-### Algorithm's usage's 
+### Algorithms Introductions
+
 
 Search − Algorithms to search an item in a datastrucure.
 
