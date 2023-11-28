@@ -1095,11 +1095,6 @@
       "title": "Zephyr TestPlan",
       "description": "TestPlan",
       "sidebar": "SDETSidebar"
-    },
-    "static/Pasted": {
-      "id": "static/Pasted",
-      "title": "Pasted",
-      "description": ""
     }
   }
 }

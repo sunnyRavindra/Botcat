@@ -2169,20 +2169,6 @@
                 "title": "Zephyr Reports",
                 "permalink": "/SDET/Zephyr/Zephyr-Reports"
               }
-            },
-            {
-              "unversionedId": "static/Pasted",
-              "id": "static/Pasted",
-              "title": "Pasted",
-              "description": "",
-              "source": "@site/docs/static/Pasted.md",
-              "sourceDirName": "static",
-              "slug": "/static/Pasted",
-              "permalink": "/static/Pasted",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {}
             }
           ],
           "drafts": [],

@@ -5,31 +5,14 @@ title: Robot Framework
 ## Docs
 - [Getting Started guide](https://docs.robotframework.org/docs)
 - [Reference Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
-
 ## Installation 
 - [Installation Instructions](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#installation-instructions)
 - [Robot Libraries](https://docs.robotframework.org/docs/different_libraries/how_to_find_library)
-
-
 ### Selenium Library
 - [Selenium Library Reference Documentation](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
-
 ### Selenium Keywords
-
 - [Open Browser](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20)
 <iframe src="https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20Browser" width="100%" height="800px" scrolling="no"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Basics
 - [Why Robot Framework](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#toc-entry-222)
@@ -39,18 +22,15 @@ title: Robot Framework
 <iframe src="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#high-level-architecture" width="100%" height="620px" scrolling="no"></iframe>
 
 - [Creating Test Data](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#test-data-syntax)
-
-- [Serialize and Deserialise to Json](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#json-format)
+- [Serialize and Deserialize to Json](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#json-format)
 <iframe src="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#json-format" width="100%" height="2020px" scrolling="no"></iframe>
 
 - [Escaping](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#escaping)
 <iframe src="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#escaping" width="100%" height="1220px" scrolling="no"></iframe>
 
-
 ## Demo
 - Demo
 <iframe src="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#demonstrations" width="100%" height="490px" scrolling="no"></iframe>
-
 
 ## Environments
 ```python
@@ -66,7 +46,6 @@ title: Robot Framework
 poetry init
 poetry add robotframework robotframework-browser robotframework-requests
 ```
-
 
 ### Section 
 |Section|Used for|

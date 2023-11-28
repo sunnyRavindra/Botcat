@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaku=self.webpackChunkdaku||[]).push([[4121],{8070:a=>{a.exports=JSON.parse('[{"label":"excalidraw","permalink":"/tags/excalidraw","count":9}]')}}]);

@@ -451,10 +451,6 @@
               "id": "SDET/Zephyr/Zephyr-TestPlan",
               "path": "/SDET/Zephyr/Zephyr-TestPlan",
               "sidebar": "SDETSidebar"
-            },
-            {
-              "id": "static/Pasted",
-              "path": "/static/Pasted"
             }
           ],
           "draftIds": [],

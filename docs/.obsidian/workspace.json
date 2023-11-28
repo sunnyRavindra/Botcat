@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Robot-Framework.md",
+                "file": "SDET/Java/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Robot-Framework.md",
+                "file": "SDET/Java/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Robot-Framework.md",
+                "file": "SDET/Java/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Robot-Framework.md"
+                "file": "SDET/Java/Basics.md"
               }
             }
           }
@@ -255,33 +255,34 @@
   },
   "active": "a4e08538269cea78",
   "lastOpenFiles": [
-    "Pasted image 20231128201030.png",
+    "SDET/Java/Multithreading.md",
+    "SDET/Java/IO.md",
+    "SDET/Java/InnerClass.md",
+    "SDET/Java/exception.md",
+    "SDET/Java/Basics.md",
+    "SDET/Java/static/Java.md",
+    "SDET/Robot-Framework.md",
+    "static/Pasted.md",
+    "static/Pasted image 20231104092105.png",
+    "static/Pasted image 20231128201030.png",
     "SDET/Pasila.md",
     "SDET/Rest-Assured/Introduction.md",
     "SDET/DSA/Introduction.md",
-    "SDET/Robot-Framework.md",
     "SDET/Robot-Framework/Basics.md",
     "SDET/Robot-Framework/Robot-Framework.md",
     "SDET/Robot-Framework",
-    "Pasted image 20231126084337.png",
-    "Pasted image 20231125112526.png",
-    "Pasted image 20231124153450.png",
-    "Pasted image 20231123223744.png",
-    "Pasted image 20231123223410.png",
-    "Pasted image 20231123222155.png",
-    "Pasted image 20231123222103.png",
-    "Pasted image 20231123180618.png",
-    "Pasted image 20231123180330.png",
-    "Pasted image 20231123162831.png",
+    "static/Pasted image 20231126084337.png",
+    "static/Pasted image 20231125112526.png",
+    "static/Pasted image 20231124153450.png",
+    "static/Pasted image 20231123223744.png",
+    "static/Pasted image 20231123223410.png",
+    "static/Pasted image 20231123222155.png",
+    "static/Pasted image 20231123222103.png",
+    "static/Pasted image 20231123180618.png",
     "SDET/API-Testing-Concepts/HTTP Basics.md",
     "SDET/API-Testing-Concepts/API Basics.md",
     "SDET/Servlet/Introduction.md",
-    "SDET/Java/Multithreading.md",
     "SDET/Servlet",
-    "SDET/Java/IO.md",
-    "SDET/Java/Basics.md",
-    "SDET/Java/InnerClass.md",
-    "SDET/Java/exception.md",
     "SDET/Java/exception.mc",
     "SDET/Java/exception.java",
     "SDET/Microservices/Introduction.md",
@@ -297,7 +298,6 @@
     "SDET/SoapUI/project.md.bak",
     "SDET/SoapUI/WSDL.md.bak",
     "SDET/SoapUI/Soap.md.bak",
-    "static/Pasted.md",
     "SDET/SoapUI/project.md",
     "SDET/SoapUI/Intro.md",
     "SDET/SoapUI/Soap.md",
