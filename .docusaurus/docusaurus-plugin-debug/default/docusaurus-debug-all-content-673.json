@@ -136,7 +136,7 @@
               "unversionedId": "SDET/Appium/Intro",
               "id": "SDET/Appium/Intro",
               "title": "Appium",
-              "description": "Details goes here",
+              "description": "Appium is OS-independent as it relies on a framework to translate Selenium Webdriver commands into UIAutomation for iOS or UIAutomator for Android.",
               "source": "@site/docs/SDET/Appium/Intro.md",
               "sourceDirName": "SDET/Appium",
               "slug": "/SDET/Appium/Intro",
@@ -149,8 +149,8 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "RestAssured",
-                "permalink": "/SDET/Rest-Assured/Introduction"
+                "title": "Robot Framework",
+                "permalink": "/SDET/Robot-Framework"
               },
               "next": {
                 "title": "SDLC vs STLC",
@@ -451,7 +451,7 @@
               "unversionedId": "SDET/DSA/Introduction",
               "id": "SDET/DSA/Introduction",
               "title": "DSA",
-              "description": "Algorithm's usage's",
+              "description": "Basics",
               "source": "@site/docs/SDET/DSA/Introduction.md",
               "sourceDirName": "SDET/DSA",
               "slug": "/SDET/DSA/Introduction",
@@ -733,6 +733,22 @@
               }
             },
             {
+              "unversionedId": "SDET/Pasila",
+              "id": "SDET/Pasila",
+              "title": "Welcome to Finland",
+              "description": "Accepting an offer of admission",
+              "source": "@site/docs/SDET/Pasila.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Pasila",
+              "permalink": "/SDET/Pasila",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Welcome to Finland"
+              }
+            },
+            {
               "unversionedId": "SDET/Playwright/Introduction",
               "id": "SDET/Playwright/Introduction",
               "title": "Playwright Into",
@@ -813,6 +829,31 @@
               "previous": {
                 "title": "Dependency Injection",
                 "permalink": "/SDET/Cucumber/Dependency-Injection"
+              },
+              "next": {
+                "title": "Robot Framework",
+                "permalink": "/SDET/Robot-Framework"
+              }
+            },
+            {
+              "unversionedId": "SDET/Robot-Framework",
+              "id": "SDET/Robot-Framework",
+              "title": "Robot Framework",
+              "description": "Docs",
+              "source": "@site/docs/SDET/Robot-Framework.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Robot-Framework",
+              "permalink": "/SDET/Robot-Framework",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Robot Framework"
+              },
+              "sidebar": "SDETSidebar",
+              "previous": {
+                "title": "RestAssured",
+                "permalink": "/SDET/Rest-Assured/Introduction"
               },
               "next": {
                 "title": "Appium",
@@ -2204,6 +2245,12 @@
                 "collapsible": true
               },
               {
+                "type": "doc",
+                "label": "Robot Framework",
+                "id": "SDET/Robot-Framework",
+                "translatable": true
+              },
+              {
                 "type": "category",
                 "label": "Appium",
                 "items": [
@@ -2850,7 +2897,7 @@
         "permalink": "/",
         "source": "@site/src/pages/index.md",
         "title": "Sunny Ravindra Bharne",
-        "description": "TestAutomationAndDevopsTechnicalLead",
+        "description": "Test Automation Lead Engineer",
         "frontMatter": {
           "title": "Sunny Ravindra Bharne",
           "slug": "/"

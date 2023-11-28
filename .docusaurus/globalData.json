@@ -159,6 +159,10 @@
               "path": "/SDET/Microservices/Introduction"
             },
             {
+              "id": "SDET/Pasila",
+              "path": "/SDET/Pasila"
+            },
+            {
               "id": "SDET/Playwright/Introduction",
               "path": "/SDET/Playwright/Introduction",
               "sidebar": "SDETSidebar"
@@ -175,6 +179,11 @@
             {
               "id": "SDET/Rest-Assured/Introduction",
               "path": "/SDET/Rest-Assured/Introduction",
+              "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Robot-Framework",
+              "path": "/SDET/Robot-Framework",
               "sidebar": "SDETSidebar"
             },
             {

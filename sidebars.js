@@ -27,6 +27,11 @@ const sidebars = {
       ],
     },
     {
+      type: 'doc',
+      label: 'Robot Framework',
+      id: 'SDET/Robot-Framework',
+    },
+    {
       type: 'category',
       label: 'Appium',
       items: [

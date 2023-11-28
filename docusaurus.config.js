@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Sunny Ravindra',
+  title: 'Sunny Ravindra Bharne',
   tagline: 'Devops approach for Automation Test Engirneers',
   favicon: 'img/Logo.svg',
   url: 'https://botcat.org',
@@ -53,7 +53,7 @@ const config = {
         },
       },
       navbar: {
-        title: 'Sunny Ravindra',
+        title: 'Sunny Ravindra Bharne',
         hideOnScroll: true,
         logo: {
           alt: 'QAOPS Logo',
@@ -64,7 +64,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'SDETSidebar',
             position: 'left',
-            label: 'SDET Second Brain',
+            label: 'Skills',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           { to: '/docs/ContactMe', label: 'Contact Me', position: 'right' },

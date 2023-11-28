@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDET/Pasila.md",
+                "file": "SDET/Robot-Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Pasila.md",
+                "file": "SDET/Robot-Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Pasila.md",
+                "file": "SDET/Robot-Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Pasila.md"
+                "file": "SDET/Robot-Framework.md"
               }
             }
           }
@@ -255,9 +255,17 @@
   },
   "active": "a4e08538269cea78",
   "lastOpenFiles": [
-    "SDET/Rest-Assured/Introduction.md",
-    "Pasted image 20231124153450.png",
+    "Pasted image 20231128201030.png",
     "SDET/Pasila.md",
+    "SDET/Rest-Assured/Introduction.md",
+    "SDET/DSA/Introduction.md",
+    "SDET/Robot-Framework.md",
+    "SDET/Robot-Framework/Basics.md",
+    "SDET/Robot-Framework/Robot-Framework.md",
+    "SDET/Robot-Framework",
+    "Pasted image 20231126084337.png",
+    "Pasted image 20231125112526.png",
+    "Pasted image 20231124153450.png",
     "Pasted image 20231123223744.png",
     "Pasted image 20231123223410.png",
     "Pasted image 20231123222155.png",
@@ -265,8 +273,6 @@
     "Pasted image 20231123180618.png",
     "Pasted image 20231123180330.png",
     "Pasted image 20231123162831.png",
-    "Pasted image 20231123152504.png",
-    "Pasted image 20231123124636.png",
     "SDET/API-Testing-Concepts/HTTP Basics.md",
     "SDET/API-Testing-Concepts/API Basics.md",
     "SDET/Servlet/Introduction.md",
@@ -291,15 +297,10 @@
     "SDET/SoapUI/project.md.bak",
     "SDET/SoapUI/WSDL.md.bak",
     "SDET/SoapUI/Soap.md.bak",
-    "SDET/SoapUI/Properties.md.bak",
     "static/Pasted.md",
     "SDET/SoapUI/project.md",
     "SDET/SoapUI/Intro.md",
     "SDET/SoapUI/Soap.md",
-    "SDET/SoapUI/static/SoapUI.md",
-    "SDET/Kafka/Intro.md",
-    "SDET/Cucumber/Introduction.md",
-    "SDET/Cucumber/ExtentReports.md",
     "Untitled.canvas"
   ]
 }

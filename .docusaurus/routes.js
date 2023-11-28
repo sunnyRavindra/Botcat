@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'e8b'),
+    component: ComponentCreator('/', 'cb5'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -288,6 +288,11 @@ export default [
         exact: true
       },
       {
+        path: '/SDET/Pasila',
+        component: ComponentCreator('/SDET/Pasila', 'f4f'),
+        exact: true
+      },
+      {
         path: '/SDET/Playwright/Introduction',
         component: ComponentCreator('/SDET/Playwright/Introduction', '1e0'),
         exact: true,
@@ -307,6 +312,12 @@ export default [
       {
         path: '/SDET/Rest-Assured/Introduction',
         component: ComponentCreator('/SDET/Rest-Assured/Introduction', '958'),
+        exact: true,
+        sidebar: "SDETSidebar"
+      },
+      {
+        path: '/SDET/Robot-Framework',
+        component: ComponentCreator('/SDET/Robot-Framework', 'a4e'),
         exact: true,
         sidebar: "SDETSidebar"
       },

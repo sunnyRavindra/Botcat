@@ -82,6 +82,12 @@
         "collapsible": true
       },
       {
+        "type": "link",
+        "label": "Robot Framework",
+        "href": "/SDET/Robot-Framework",
+        "docId": "SDET/Robot-Framework"
+      },
+      {
         "type": "category",
         "label": "Appium",
         "items": [
@@ -584,7 +590,7 @@
     "SDET/Appium/Intro": {
       "id": "SDET/Appium/Intro",
       "title": "Appium",
-      "description": "Details goes here",
+      "description": "Appium is OS-independent as it relies on a framework to translate Selenium Webdriver commands into UIAutomation for iOS or UIAutomator for Android.",
       "sidebar": "SDETSidebar"
     },
     "SDET/Cucumber/Architecture": {
@@ -663,7 +669,7 @@
     "SDET/DSA/Introduction": {
       "id": "SDET/DSA/Introduction",
       "title": "DSA",
-      "description": "Algorithm's usage's",
+      "description": "Basics",
       "sidebar": "SDETSidebar"
     },
     "SDET/Jackson/Introduction": {
@@ -735,6 +741,11 @@
       "title": "Microservices",
       "description": ""
     },
+    "SDET/Pasila": {
+      "id": "SDET/Pasila",
+      "title": "Welcome to Finland",
+      "description": "Accepting an offer of admission"
+    },
     "SDET/Playwright/Introduction": {
       "id": "SDET/Playwright/Introduction",
       "title": "Playwright Into",
@@ -756,6 +767,12 @@
       "id": "SDET/Rest-Assured/Introduction",
       "title": "RestAssured",
       "description": "RestAssured Documentation",
+      "sidebar": "SDETSidebar"
+    },
+    "SDET/Robot-Framework": {
+      "id": "SDET/Robot-Framework",
+      "title": "Robot Framework",
+      "description": "Docs",
       "sidebar": "SDETSidebar"
     },
     "SDET/Security-Testing/Browser-Cookies": {

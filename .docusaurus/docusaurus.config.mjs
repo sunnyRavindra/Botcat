@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Sunny Ravindra",
+  "title": "Sunny Ravindra Bharne",
   "tagline": "Devops approach for Automation Test Engirneers",
   "favicon": "img/Logo.svg",
   "url": "https://botcat.org",
@@ -54,7 +54,7 @@ export default {
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "Sunny Ravindra",
+      "title": "Sunny Ravindra Bharne",
       "hideOnScroll": true,
       "logo": {
         "alt": "QAOPS Logo",
@@ -65,7 +65,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "SDETSidebar",
           "position": "left",
-          "label": "SDET Second Brain"
+          "label": "Skills"
         },
         {
           "to": "/docs/ContactMe",

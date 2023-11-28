@@ -2,7 +2,7 @@
   "unversionedId": "SDET/Appium/Intro",
   "id": "SDET/Appium/Intro",
   "title": "Appium",
-  "description": "Details goes here",
+  "description": "Appium is OS-independent as it relies on a framework to translate Selenium Webdriver commands into UIAutomation for iOS or UIAutomator for Android.",
   "source": "@site/docs/SDET/Appium/Intro.md",
   "sourceDirName": "SDET/Appium",
   "slug": "/SDET/Appium/Intro",
@@ -15,8 +15,8 @@
   },
   "sidebar": "SDETSidebar",
   "previous": {
-    "title": "RestAssured",
-    "permalink": "/SDET/Rest-Assured/Introduction"
+    "title": "Robot Framework",
+    "permalink": "/SDET/Robot-Framework"
   },
   "next": {
     "title": "SDLC vs STLC",

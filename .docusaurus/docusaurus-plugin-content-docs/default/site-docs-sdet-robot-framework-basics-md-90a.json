@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Robot-Framework/Basics",
+  "id": "SDET/Robot-Framework/Basics",
+  "title": "Robot Framework",
+  "description": "Docs",
+  "source": "@site/docs/SDET/Robot-Framework/Basics.md",
+  "sourceDirName": "SDET/Robot-Framework",
+  "slug": "/SDET/Robot-Framework/Basics",
+  "permalink": "/SDET/Robot-Framework/Basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Robot Framework"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "RestAssured",
+    "permalink": "/SDET/Rest-Assured/Introduction"
+  },
+  "next": {
+    "title": "Appium",
+    "permalink": "/SDET/Appium/Intro"
+  }
+}

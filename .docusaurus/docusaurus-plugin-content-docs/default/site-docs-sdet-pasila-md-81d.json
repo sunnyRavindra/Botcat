@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Pasila",
+  "id": "SDET/Pasila",
+  "title": "Welcome to Finland",
+  "description": "Accepting an offer of admission",
+  "source": "@site/docs/SDET/Pasila.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Pasila",
+  "permalink": "/SDET/Pasila",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Welcome to Finland"
+  }
+}
