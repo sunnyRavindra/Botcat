@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Untitled Kanban",
+  "id": "SDET/Untitled Kanban",
+  "title": "Untitled Kanban",
+  "description": "",
+  "source": "@site/docs/SDET/Untitled Kanban.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Untitled Kanban",
+  "permalink": "/SDET/Untitled Kanban",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "kanban-plugin": "basic"
+  }
+}

@@ -2,13 +2,15 @@
   "unversionedId": "SDET/Docker/Docker",
   "id": "SDET/Docker/Docker",
   "title": "Docker",
-  "description": "- [[Linux Namespaces]]",
+  "description": "Docker File Reference",
   "source": "@site/docs/SDET/Docker/Docker.md",
   "sourceDirName": "SDET/Docker",
   "slug": "/SDET/Docker/",
-  "permalink": "/docs/SDET/Docker/",
+  "permalink": "/SDET/Docker/",
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "Docker"
+  }
 }

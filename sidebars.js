@@ -32,11 +32,9 @@ const sidebars = {
       id: 'SDET/Robot-Framework',
     },
     {
-      type: 'category',
+      type: 'doc',
       label: 'Appium',
-      items: [
-        'SDET/Appium/Intro',
-      ],
+      id: 'SDET/Appium',
     },
     {
       type: 'category',

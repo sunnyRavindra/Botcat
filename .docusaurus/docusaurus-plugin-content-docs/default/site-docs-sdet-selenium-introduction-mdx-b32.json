@@ -1,0 +1,21 @@
+{
+  "unversionedId": "SDET/Selenium/Introduction",
+  "id": "SDET/Selenium/Introduction",
+  "title": "Selenium",
+  "description": "Selenium Basics",
+  "source": "@site/docs/SDET/Selenium/Introduction.mdx",
+  "sourceDirName": "SDET/Selenium",
+  "slug": "/SDET/Selenium/Introduction",
+  "permalink": "/SDET/Selenium/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Selenium"
+  },
+  "sidebar": "SDETSidebar",
+  "next": {
+    "title": "Grid",
+    "permalink": "/SDET/Selenium/Grid"
+  }
+}

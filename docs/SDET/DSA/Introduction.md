@@ -2,9 +2,12 @@
 title: DSA 
 ---
 
-### Basics
+### [1. GFG DSA Complete guide](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
 
-- [Geek For Geeks DSA basics](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
+### [2. GFG DSA for Beginners](https://www.geeksforgeeks.org/complete-guide-to-dsa-for-beginners/)
+
+### [3. GFG DSA Practice Problems](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=articles%20dsa_lp%20header_link_click&utm_campaign=practice%20tracker)
+
 
 ![[Pasted image 20231126084337.png]]
 
@@ -37,4 +40,20 @@ Theta notation provides a tight bound on an algorithm's growth rate, both upper 
 
 ![[Pasted image 20231125112526.png]]
 ### Array
+
+### ReverseArray
+```java 
+	public static void reverseArray2(int[] inputArray) {
+		int Start = 0;
+		int end = inputArray.length - 1;
+
+		while (Start < end) {
+			int temp = inputArray[Start];
+			inputArray[Start] = inputArray[end];
+			inputArray[end] = temp;
+			Start++;
+		}
+		end--;
+	}
+```
 

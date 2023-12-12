@@ -1,8 +1,8 @@
 {
   "unversionedId": "SDET/Selenium/Introduction",
   "id": "SDET/Selenium/Introduction",
-  "title": "Introduction",
-  "description": "Components",
+  "title": "Selenium",
+  "description": "Selenium Basics",
   "source": "@site/docs/SDET/Selenium/Introduction.md",
   "sourceDirName": "SDET/Selenium",
   "slug": "/SDET/Selenium/Introduction",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Introduction"
+    "title": "Selenium"
   },
   "sidebar": "SDETSidebar",
   "next": {

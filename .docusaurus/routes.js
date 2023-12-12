@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'f97'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', 'c5a'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '997'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '74f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '3b0'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '656'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '690'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '9a3'),
     exact: true
@@ -69,7 +104,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '5e0'),
+    component: ComponentCreator('/', '85f'),
     routes: [
       {
         path: '/docs/ContactMe',
@@ -99,8 +134,8 @@ export default [
         exact: true
       },
       {
-        path: '/SDET/Appium/Intro',
-        component: ComponentCreator('/SDET/Appium/Intro', '28e'),
+        path: '/SDET/Appium',
+        component: ComponentCreator('/SDET/Appium', '43b'),
         exact: true,
         sidebar: "SDETSidebar"
       },
@@ -131,6 +166,11 @@ export default [
       {
         path: '/SDET/Cucumber/static/Cucumber',
         component: ComponentCreator('/SDET/Cucumber/static/Cucumber', '6be'),
+        exact: true
+      },
+      {
+        path: '/SDET/Docker/',
+        component: ComponentCreator('/SDET/Docker/', 'e43'),
         exact: true
       },
       {

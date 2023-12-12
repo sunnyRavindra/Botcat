@@ -1,523 +1,570 @@
 {
-  "/blog-9a3": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-f97": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/__docusaurus/debug/config-c5a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/__docusaurus/debug/content-997": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-74f": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/__docusaurus/debug/metadata-3b0": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/__docusaurus/debug/registry-656": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/__docusaurus/debug/routes-690": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugc-62-04c"
+    }
+  },
+  "/blog-9a3": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-446-894"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/2021/08/26/welcome-ffa": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2021-08-26-welcomed-9-f-8df"
   },
   "/blog/archive-419": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "archive": "b2f554cd"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/first-blog-post-a94": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
   "/blog/long-blog-post-ae7": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
   "/blog/mdx-blog-post-06d": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
   "/blog/tags-de9": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/docusaurus-4cf": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
   "/blog/tags/hello-f6d": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
   "/blog/tags/hola-e62": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "446b1f98"
+      "plugin": "plugin---blog-446-894"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
   "/tags-e49": {
-    "__comp": "3720c009",
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
     "__context": {
-      "plugin": "a0a1762d"
+      "plugin": "plugin---tagsa-0-a-4e3"
     },
-    "tags": "55960ee5"
+    "tags": "tags---tags-559-690"
   },
   "/tags/excalidraw-faa": {
-    "__comp": "df203c0f",
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
-      "plugin": "a0a1762d"
+      "plugin": "plugin---tagsa-0-a-4e3"
     },
-    "tag": "761afce5"
+    "tag": "tag---tags-excalidraw-761-7c0"
   },
   "/-759": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "67fabd41"
+      "plugin": "plugin---67-f-8f5"
     },
-    "content": "f3976560"
+    "content": "content---f-39-267"
   },
-  "/-5e0": {
-    "__comp": "1be78505",
+  "/-85f": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "a0a1762d"
+      "plugin": "plugin---tagsa-0-a-4e3"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/docs/ContactMe-fcd": {
-    "__comp": "17896441",
-    "content": "afdfaa88"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contact-meafd-3c6"
   },
   "/SDET/API-Testing-Concepts/API Basics-f06": {
-    "__comp": "17896441",
-    "content": "40c1e2ef"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-testing-concepts-api-basics-40-c-07e"
   },
   "/SDET/API-Testing-Concepts/HTTP Basics-bbc": {
-    "__comp": "17896441",
-    "content": "496a62ef"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-testing-concepts-http-basics-496-dc6"
   },
   "/SDET/API-Testing-Concepts/static/API-0d3": {
-    "__comp": "17896441",
-    "content": "610b9f85"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-testing-concepts-static-api-610-c09"
   },
   "/SDET/API-Testing-Concepts/static/APITesting-542": {
-    "__comp": "17896441",
-    "content": "674f1dd2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-api-testing-concepts-static-api-testing-674-e22"
   },
-  "/SDET/Appium/Intro-28e": {
-    "__comp": "17896441",
-    "content": "53545d30"
+  "/SDET/Appium-43b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-appiumeaf-bb1"
   },
   "/SDET/Cucumber/Architecture-783": {
-    "__comp": "17896441",
-    "content": "ff7683f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-architectureff-7-ff1"
   },
   "/SDET/Cucumber/Dependency-Injection-408": {
-    "__comp": "17896441",
-    "content": "fa71755f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-dependency-injectionfa-7-0b7"
   },
   "/SDET/Cucumber/ExtentReports-9a3": {
-    "__comp": "17896441",
-    "content": "e23e1830"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-extent-reportse-23-27f"
   },
   "/SDET/Cucumber/Introduction-c56": {
-    "__comp": "17896441",
-    "content": "8c940fe9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-introduction-8-c-9-742"
   },
   "/SDET/Cucumber/static/Cucumber-6be": {
-    "__comp": "17896441",
-    "content": "a2cc4b92"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-cucumber-static-cucumbera-2-c-b68"
+  },
+  "/SDET/Docker/-e43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-673-474"
   },
   "/SDET/Docker/Compose-f37": {
-    "__comp": "17896441",
-    "content": "00afa295"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-compose-00-a-718"
   },
   "/SDET/Docker/ContainerInteractions-44d": {
-    "__comp": "17896441",
-    "content": "2c17da0b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-container-interactions-2-c-1-b5a"
   },
   "/SDET/Docker/Docker-Commands-229": {
-    "__comp": "17896441",
-    "content": "76847962"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-commands-768-ec8"
   },
   "/SDET/Docker/Docker-Introduction-91f": {
-    "__comp": "17896441",
-    "content": "e6933aac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-introductione-69-316"
   },
   "/SDET/Docker/DockerFiles/Docker Ignore file-d93": {
-    "__comp": "17896441",
-    "content": "c33c329f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-docker-ignore-filec-33-293"
   },
   "/SDET/Docker/DockerFiles/DockerFile-e35": {
-    "__comp": "17896441",
-    "content": "7c15e4d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-docker-file-7-c-1-c23"
   },
   "/SDET/Docker/DockerFiles/Nextjs Docker File-4e9": {
-    "__comp": "17896441",
-    "content": "ae04bb33"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-docker-files-nextjs-docker-fileae-0-b49"
   },
   "/SDET/Docker/static/Docker-5f5": {
-    "__comp": "17896441",
-    "content": "0641829d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-docker-static-docker-064-a47"
   },
   "/SDET/DSA/Introduction-1c8": {
-    "__comp": "17896441",
-    "content": "7e30b746"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-dsa-introduction-7-e-3-c37"
   },
   "/SDET/Jackson/Introduction-486": {
-    "__comp": "17896441",
-    "content": "72174af1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jackson-introduction-721-3fe"
   },
   "/SDET/Java/Basics-ff4": {
-    "__comp": "17896441",
-    "content": "85976ff7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-basics-859-2d8"
   },
   "/SDET/Java/exception-6c2": {
-    "__comp": "17896441",
-    "content": "d6263ff2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-exceptiond-62-ca7"
   },
   "/SDET/Java/InnerClass-7ed": {
-    "__comp": "17896441",
-    "content": "2f7692c3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-inner-class-2-f-7-06d"
   },
   "/SDET/Java/IO-09f": {
-    "__comp": "17896441",
-    "content": "28a709ef"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-io-28-a-a53"
   },
   "/SDET/Java/Multithreading-d93": {
-    "__comp": "17896441",
-    "content": "2a6cb4ec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-multithreading-2-a-6-7c8"
   },
   "/SDET/Java/static/Java-ebf": {
-    "__comp": "17896441",
-    "content": "04070002"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-java-static-java-040-431"
   },
   "/SDET/Jira/Agile-Project-94e": {
-    "__comp": "17896441",
-    "content": "d5eefda3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jira-agile-projectd-5-e-148"
   },
   "/SDET/Jira/static/Agile-453": {
-    "__comp": "17896441",
-    "content": "f81c88b7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jira-static-agilef-81-713"
   },
   "/SDET/Jira/WaterFall-Project-b17": {
-    "__comp": "17896441",
-    "content": "bebd7a1d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-jira-water-fall-projectbeb-43f"
   },
   "/SDET/Kafka/Intro-fd8": {
-    "__comp": "17896441",
-    "content": "0079d724"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-kafka-intro-007-c25"
   },
   "/SDET/Maven/Introduction-159": {
-    "__comp": "17896441",
-    "content": "4d86d47c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-maven-introduction-4-d-8-a53"
   },
   "/SDET/Microservices/Introduction-6a9": {
-    "__comp": "17896441",
-    "content": "fdad6a57"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-microservices-introductionfda-0e9"
   },
   "/SDET/Pasila-f4f": {
-    "__comp": "17896441",
-    "content": "81d1c5d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-pasila-81-d-291"
   },
   "/SDET/Playwright/Introduction-1e0": {
-    "__comp": "17896441",
-    "content": "f077785f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-playwright-introductionf-07-a6f"
   },
   "/SDET/PostMan/Introduction-448": {
-    "__comp": "17896441",
-    "content": "03f40917"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-post-man-introduction-03-f-6eb"
   },
   "/SDET/Practice-Sites/Practice-424": {
-    "__comp": "17896441",
-    "content": "d45d353e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-practice-sites-practiced-45-7f4"
   },
   "/SDET/Rest-Assured/Introduction-958": {
-    "__comp": "17896441",
-    "content": "1f6f5e0d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-rest-assured-introduction-1-f-6-f90"
   },
   "/SDET/Robot-Framework-a4e": {
-    "__comp": "17896441",
-    "content": "4bf5628f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-robot-framework-4-bf-ef8"
   },
   "/SDET/Security-Testing/Browser-Cookies-fcf": {
-    "__comp": "17896441",
-    "content": "6ddce604"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-browser-cookies-6-dd-b99"
   },
   "/SDET/Security-Testing/SQL-Basics-494": {
-    "__comp": "17896441",
-    "content": "94e25432"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-basics-94-e-4eb"
   },
   "/SDET/Security-Testing/SQL-Data-Manupulation-224": {
-    "__comp": "17896441",
-    "content": "fb67e5db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-data-manupulationfb-6-b10"
   },
   "/SDET/Security-Testing/SQL-DataTypes-770": {
-    "__comp": "17896441",
-    "content": "f14be502"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-data-typesf-14-2e7"
   },
   "/SDET/Security-Testing/SQL-Injection-a3a": {
-    "__comp": "17896441",
-    "content": "9771c74d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-injection-977-433"
   },
   "/SDET/Security-Testing/SQL-Operators-144": {
-    "__comp": "17896441",
-    "content": "6dd6e00d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-operators-6-dd-b62"
   },
   "/SDET/Security-Testing/SQL-References-dd7": {
-    "__comp": "17896441",
-    "content": "89a0d138"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-sql-references-89-a-a8c"
   },
   "/SDET/Security-Testing/XSS-Attack-dc2": {
-    "__comp": "17896441",
-    "content": "381f4e26"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-security-testing-xss-attack-381-e12"
   },
   "/SDET/Selenium/BrowserOptions-90f": {
-    "__comp": "17896441",
-    "content": "6343213f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-browser-options-634-8b2"
   },
   "/SDET/Selenium/Grid-8f1": {
-    "__comp": "17896441",
-    "content": "79e35b1a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-grid-79-e-ff7"
   },
   "/SDET/Selenium/Introduction-dc4": {
-    "__comp": "17896441",
-    "content": "c20044ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-introductionc-20-b81"
   },
   "/SDET/Selenium/notes-f01": {
-    "__comp": "17896441",
-    "content": "7c91eba2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-notes-7-c-9-b4a"
   },
   "/SDET/Selenium/static/SeleniumExcalidraw-add": {
-    "__comp": "17896441",
-    "content": "b137a427"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-static-selenium-excalidrawb-13-31a"
   },
   "/SDET/Selenium/Synchronisation-178": {
-    "__comp": "17896441",
-    "content": "4190620d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-selenium-synchronisation-419-3b9"
   },
   "/SDET/Servlet/Introduction-3e4": {
-    "__comp": "17896441",
-    "content": "f7dfd621"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-servlet-introductionf-7-d-2b2"
   },
   "/SDET/Skills-3e7": {
-    "__comp": "17896441",
-    "content": "ee6c8428"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-skillsee-6-b04"
   },
   "/SDET/SoapUI/Assertions-aa1": {
-    "__comp": "17896441",
-    "content": "d966ead1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-assertionsd-96-cb5"
   },
   "/SDET/SoapUI/Intro-005": {
-    "__comp": "17896441",
-    "content": "b809c737"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-introb-80-ea5"
   },
   "/SDET/SoapUI/project-506": {
-    "__comp": "17896441",
-    "content": "2ed0ccc2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-project-2-ed-0a5"
   },
   "/SDET/SoapUI/Properties-141": {
-    "__comp": "17896441",
-    "content": "e8b3d654"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-propertiese-8-b-cf5"
   },
   "/SDET/SoapUI/Soap-383": {
-    "__comp": "17896441",
-    "content": "bee54264"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-soapbee-b9b"
   },
   "/SDET/SoapUI/SoapAutomation-3e4": {
-    "__comp": "17896441",
-    "content": "2ce39d55"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-soap-automation-2-ce-353"
   },
   "/SDET/SoapUI/static/SoapUI-2c5": {
-    "__comp": "17896441",
-    "content": "ca1fb6f9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-static-soap-u-ica-1-bbc"
   },
   "/SDET/SoapUI/WSDL-95e": {
-    "__comp": "17896441",
-    "content": "3cab4506"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-soap-ui-wsdl-3-ca-753"
   },
   "/SDET/Testing-Concepts/Adhoc-vs-Exploretory-6be": {
-    "__comp": "17896441",
-    "content": "4579c185"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-adhoc-vs-exploretory-457-c37"
   },
   "/SDET/Testing-Concepts/Blackbox-vs-Whitebox-8c9": {
-    "__comp": "17896441",
-    "content": "98ff4d53"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-blackbox-vs-whitebox-98-f-6a6"
   },
   "/SDET/Testing-Concepts/Component-vs-Integration-Testing-685": {
-    "__comp": "17896441",
-    "content": "137d8e28"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-component-vs-integration-testing-137-a27"
   },
   "/SDET/Testing-Concepts/Defect-LifeCycle-f6c": {
-    "__comp": "17896441",
-    "content": "374d21f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-defect-life-cycle-374-a0e"
   },
   "/SDET/Testing-Concepts/Functional-vs-NonFunctional-515": {
-    "__comp": "17896441",
-    "content": "78674b70"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-functional-vs-non-functional-786-c93"
   },
   "/SDET/Testing-Concepts/Load-vs-Stress-Testing-fb3": {
-    "__comp": "17896441",
-    "content": "9c7a19b6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-load-vs-stress-testing-9-c-7-306"
   },
   "/SDET/Testing-Concepts/Priority-vs-severity-b2c": {
-    "__comp": "17896441",
-    "content": "e78e82aa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-priority-vs-severitye-78-22d"
   },
   "/SDET/Testing-Concepts/Retesting-vs-Regression-4b0": {
-    "__comp": "17896441",
-    "content": "feffb95d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-retesting-vs-regressionfef-1c4"
   },
   "/SDET/Testing-Concepts/SDLC-vs-STLC-66e": {
-    "__comp": "17896441",
-    "content": "f6f92d4b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-sdlc-vs-stl-cf-6-f-d3f"
   },
   "/SDET/Testing-Concepts/Smoke-vs-Sanity-9b6": {
-    "__comp": "17896441",
-    "content": "17b31b2d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-smoke-vs-sanity-17-b-062"
   },
   "/SDET/Testing-Concepts/Test-Cases-769": {
-    "__comp": "17896441",
-    "content": "ad90ad1a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-casesad-9-84b"
   },
   "/SDET/Testing-Concepts/Test-Pyramid-4aa": {
-    "__comp": "17896441",
-    "content": "0740e392"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-pyramid-074-027"
   },
   "/SDET/Testing-Concepts/TestCase-02c": {
-    "__comp": "17896441",
-    "content": "d91ae443"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-cased-91-d83"
   },
   "/SDET/Testing-Concepts/Testing-levels-a1f": {
-    "__comp": "17896441",
-    "content": "cbb21dae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-testing-levelscbb-920"
   },
   "/SDET/Testing-Concepts/TestPlan-2bd": {
-    "__comp": "17896441",
-    "content": "6d31af78"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-test-plan-6-d-3-e69"
   },
   "/SDET/Testing-Concepts/Traceability-Matrix-d93": {
-    "__comp": "17896441",
-    "content": "b167f8f7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-traceability-matrixb-16-d68"
   },
   "/SDET/Testing-Concepts/Verification-vs-Validation-4e9": {
-    "__comp": "17896441",
-    "content": "b70d0d95"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-testing-concepts-verification-vs-validationb-70-6a7"
   },
   "/SDET/Workout/plan-323": {
-    "__comp": "17896441",
-    "content": "121fa863"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-workout-plan-121-027"
   },
   "/SDET/Xray/-19e": {
-    "__comp": "17896441",
-    "content": "ebfd2e0c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-ebf-2e8"
   },
   "/SDET/Xray/static/Xray-ddb": {
-    "__comp": "17896441",
-    "content": "78400253"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-static-xray-784-deb"
   },
   "/SDET/Xray/Terminology-822": {
-    "__comp": "17896441",
-    "content": "9861d2c2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-terminology-986-1a8"
   },
   "/SDET/Xray/TestCase-484": {
-    "__comp": "17896441",
-    "content": "9e5d440c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-case-9-e-5-0db"
   },
   "/SDET/Xray/TestCoverage-224": {
-    "__comp": "17896441",
-    "content": "3363e672"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-coverage-336-ffa"
   },
   "/SDET/Xray/TestExecution-99b": {
-    "__comp": "17896441",
-    "content": "e0f8ad93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-executione-0-f-77b"
   },
   "/SDET/Xray/TestPlan-c3f": {
-    "__comp": "17896441",
-    "content": "eb778a34"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-test-planeb-7-e5c"
   },
   "/SDET/Xray/XrayReports-32d": {
-    "__comp": "17896441",
-    "content": "944a8c32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-xray-xray-reports-944-7f4"
   },
   "/SDET/Zephyr/-a00": {
-    "__comp": "17896441",
-    "content": "6c12760a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-6-c-1-444"
   },
   "/SDET/Zephyr/Zephyr-Reports-9ef": {
-    "__comp": "17896441",
-    "content": "2d91f915"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-reports-2-d-9-a0b"
   },
   "/SDET/Zephyr/Zephyr-TestCase-d8a": {
-    "__comp": "17896441",
-    "content": "4db5e554"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-case-4-db-d5a"
   },
   "/SDET/Zephyr/Zephyr-TestCycle-e13": {
-    "__comp": "17896441",
-    "content": "01d4920d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-cycle-01-d-160"
   },
   "/SDET/Zephyr/Zephyr-TestPlan-58e": {
-    "__comp": "17896441",
-    "content": "702fc163"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sdet-zephyr-zephyr-test-plan-702-260"
   }
 }

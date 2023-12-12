@@ -1,0 +1,16 @@
+{
+  "unversionedId": "SDET/Kanban",
+  "id": "SDET/Kanban",
+  "title": "Kanban",
+  "description": "- [ ] Send all emails to Haaga Helia",
+  "source": "@site/docs/SDET/Kanban.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Kanban",
+  "permalink": "/SDET/Kanban",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "kanban-plugin": "basic"
+  }
+}

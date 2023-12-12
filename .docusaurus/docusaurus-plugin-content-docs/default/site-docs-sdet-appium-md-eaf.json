@@ -1,0 +1,25 @@
+{
+  "unversionedId": "SDET/Appium",
+  "id": "SDET/Appium",
+  "title": "Appium",
+  "description": "Docs",
+  "source": "@site/docs/SDET/Appium.md",
+  "sourceDirName": "SDET",
+  "slug": "/SDET/Appium",
+  "permalink": "/SDET/Appium",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Appium"
+  },
+  "sidebar": "SDETSidebar",
+  "previous": {
+    "title": "Robot Framework",
+    "permalink": "/SDET/Robot-Framework"
+  },
+  "next": {
+    "title": "SDLC vs STLC",
+    "permalink": "/SDET/Testing-Concepts/SDLC-vs-STLC"
+  }
+}

@@ -33,8 +33,8 @@
               "path": "/SDET/API-Testing-Concepts/static/APITesting"
             },
             {
-              "id": "SDET/Appium/Intro",
-              "path": "/SDET/Appium/Intro",
+              "id": "SDET/Appium",
+              "path": "/SDET/Appium",
               "sidebar": "SDETSidebar"
             },
             {
@@ -70,6 +70,10 @@
               "id": "SDET/Docker/ContainerInteractions",
               "path": "/SDET/Docker/ContainerInteractions",
               "sidebar": "SDETSidebar"
+            },
+            {
+              "id": "SDET/Docker/Docker",
+              "path": "/SDET/Docker/"
             },
             {
               "id": "SDET/Docker/Docker-Commands",

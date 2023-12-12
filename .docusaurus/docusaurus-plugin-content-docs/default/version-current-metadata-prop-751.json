@@ -15,7 +15,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
+            "label": "Selenium",
             "href": "/SDET/Selenium/Introduction",
             "docId": "SDET/Selenium/Introduction"
           },
@@ -88,18 +88,10 @@
         "docId": "SDET/Robot-Framework"
       },
       {
-        "type": "category",
+        "type": "link",
         "label": "Appium",
-        "items": [
-          {
-            "type": "link",
-            "label": "Appium",
-            "href": "/SDET/Appium/Intro",
-            "docId": "SDET/Appium/Intro"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        "href": "/SDET/Appium",
+        "docId": "SDET/Appium"
       },
       {
         "type": "category",
@@ -587,10 +579,10 @@
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠=="
     },
-    "SDET/Appium/Intro": {
-      "id": "SDET/Appium/Intro",
+    "SDET/Appium": {
+      "id": "SDET/Appium",
       "title": "Appium",
-      "description": "Appium is OS-independent as it relies on a framework to translate Selenium Webdriver commands into UIAutomation for iOS or UIAutomator for Android.",
+      "description": "Docs",
       "sidebar": "SDETSidebar"
     },
     "SDET/Cucumber/Architecture": {
@@ -634,6 +626,11 @@
       "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
       "sidebar": "SDETSidebar"
     },
+    "SDET/Docker/Docker": {
+      "id": "SDET/Docker/Docker",
+      "title": "Docker",
+      "description": "Docker File Reference"
+    },
     "SDET/Docker/Docker-Commands": {
       "id": "SDET/Docker/Docker-Commands",
       "title": "Docker Commands",
@@ -669,7 +666,7 @@
     "SDET/DSA/Introduction": {
       "id": "SDET/DSA/Introduction",
       "title": "DSA",
-      "description": "Basics",
+      "description": "1. GFG DSA Complete guide",
       "sidebar": "SDETSidebar"
     },
     "SDET/Jackson/Introduction": {
@@ -835,8 +832,8 @@
     },
     "SDET/Selenium/Introduction": {
       "id": "SDET/Selenium/Introduction",
-      "title": "Introduction",
-      "description": "Components",
+      "title": "Selenium",
+      "description": "Selenium Basics",
       "sidebar": "SDETSidebar"
     },
     "SDET/Selenium/notes": {

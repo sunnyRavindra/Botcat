@@ -117,11 +117,9 @@
             "id": "a4e08538269cea78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SDET/Java/Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "SDET/Selenium/static/BrowserOptions.png"
               }
             }
           }
@@ -192,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDET/Java/Basics.md",
+                "file": "SDET/Selenium/static/BrowserOptions.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDET/Java/Basics.md",
+                "file": "SDET/Selenium/static/BrowserOptions.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDET/Java/Basics.md"
+                "file": "SDET/Selenium/static/BrowserOptions.png"
               }
             }
           }
@@ -255,17 +253,26 @@
   },
   "active": "a4e08538269cea78",
   "lastOpenFiles": [
+    "SDET/Selenium/Introduction.md",
+    "SDET/Selenium/notes.jsx",
+    "SDET/Selenium/notes.js",
+    "SDET/Selenium/Introduction.mdx",
+    "SDET/Selenium/static/BrowserOptions.png",
+    "SDET/Selenium/BrowserOptions.md",
+    "SDET/Robot-Framework.md",
+    "SDET/Pasila.md",
+    "SDET/Appium.md",
+    "static/AppiumArchitecture.png",
+    "SDET/Java/Basics.md",
+    "SDET/Kanban.md",
     "SDET/Java/Multithreading.md",
     "SDET/Java/IO.md",
     "SDET/Java/InnerClass.md",
     "SDET/Java/exception.md",
-    "SDET/Java/Basics.md",
     "SDET/Java/static/Java.md",
-    "SDET/Robot-Framework.md",
     "static/Pasted.md",
     "static/Pasted image 20231104092105.png",
     "static/Pasted image 20231128201030.png",
-    "SDET/Pasila.md",
     "SDET/Rest-Assured/Introduction.md",
     "SDET/DSA/Introduction.md",
     "SDET/Robot-Framework/Basics.md",
@@ -277,8 +284,6 @@
     "static/Pasted image 20231123223744.png",
     "static/Pasted image 20231123223410.png",
     "static/Pasted image 20231123222155.png",
-    "static/Pasted image 20231123222103.png",
-    "static/Pasted image 20231123180618.png",
     "SDET/API-Testing-Concepts/HTTP Basics.md",
     "SDET/API-Testing-Concepts/API Basics.md",
     "SDET/Servlet/Introduction.md",
@@ -293,14 +298,6 @@
     "SDET/PostMan",
     "SDET/SoapUI/WSDL.md",
     "SDET/SoapUI/Properties.md",
-    "SDET/SoapUI/Assertions.md",
-    "SDET/Skills.md",
-    "SDET/SoapUI/project.md.bak",
-    "SDET/SoapUI/WSDL.md.bak",
-    "SDET/SoapUI/Soap.md.bak",
-    "SDET/SoapUI/project.md",
-    "SDET/SoapUI/Intro.md",
-    "SDET/SoapUI/Soap.md",
     "Untitled.canvas"
   ]
 }

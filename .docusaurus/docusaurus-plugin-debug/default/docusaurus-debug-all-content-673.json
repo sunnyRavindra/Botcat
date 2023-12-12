@@ -133,14 +133,14 @@
               }
             },
             {
-              "unversionedId": "SDET/Appium/Intro",
-              "id": "SDET/Appium/Intro",
+              "unversionedId": "SDET/Appium",
+              "id": "SDET/Appium",
               "title": "Appium",
-              "description": "Appium is OS-independent as it relies on a framework to translate Selenium Webdriver commands into UIAutomation for iOS or UIAutomator for Android.",
-              "source": "@site/docs/SDET/Appium/Intro.md",
-              "sourceDirName": "SDET/Appium",
-              "slug": "/SDET/Appium/Intro",
-              "permalink": "/SDET/Appium/Intro",
+              "description": "Docs",
+              "source": "@site/docs/SDET/Appium.md",
+              "sourceDirName": "SDET",
+              "slug": "/SDET/Appium",
+              "permalink": "/SDET/Appium",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -332,6 +332,22 @@
               }
             },
             {
+              "unversionedId": "SDET/Docker/Docker",
+              "id": "SDET/Docker/Docker",
+              "title": "Docker",
+              "description": "Docker File Reference",
+              "source": "@site/docs/SDET/Docker/Docker.md",
+              "sourceDirName": "SDET/Docker",
+              "slug": "/SDET/Docker/",
+              "permalink": "/SDET/Docker/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Docker"
+              }
+            },
+            {
               "unversionedId": "SDET/Docker/Docker-Commands",
               "id": "SDET/Docker/Docker-Commands",
               "title": "Docker Commands",
@@ -451,7 +467,7 @@
               "unversionedId": "SDET/DSA/Introduction",
               "id": "SDET/DSA/Introduction",
               "title": "DSA",
-              "description": "Basics",
+              "description": "1. GFG DSA Complete guide",
               "source": "@site/docs/SDET/DSA/Introduction.md",
               "sourceDirName": "SDET/DSA",
               "slug": "/SDET/DSA/Introduction",
@@ -857,7 +873,7 @@
               },
               "next": {
                 "title": "Appium",
-                "permalink": "/SDET/Appium/Intro"
+                "permalink": "/SDET/Appium"
               }
             },
             {
@@ -1084,7 +1100,7 @@
               },
               "sidebar": "SDETSidebar",
               "previous": {
-                "title": "Introduction",
+                "title": "Selenium",
                 "permalink": "/SDET/Selenium/Introduction"
               },
               "next": {
@@ -1095,8 +1111,8 @@
             {
               "unversionedId": "SDET/Selenium/Introduction",
               "id": "SDET/Selenium/Introduction",
-              "title": "Introduction",
-              "description": "Components",
+              "title": "Selenium",
+              "description": "Selenium Basics",
               "source": "@site/docs/SDET/Selenium/Introduction.md",
               "sourceDirName": "SDET/Selenium",
               "slug": "/SDET/Selenium/Introduction",
@@ -1105,7 +1121,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "title": "Introduction"
+                "title": "Selenium"
               },
               "sidebar": "SDETSidebar",
               "next": {
@@ -1614,7 +1630,7 @@
               "sidebar": "SDETSidebar",
               "previous": {
                 "title": "Appium",
-                "permalink": "/SDET/Appium/Intro"
+                "permalink": "/SDET/Appium"
               },
               "next": {
                 "title": "Test Plan",
@@ -2237,16 +2253,10 @@
                 "translatable": true
               },
               {
-                "type": "category",
+                "type": "doc",
                 "label": "Appium",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SDET/Appium/Intro"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "id": "SDET/Appium",
+                "translatable": true
               },
               {
                 "type": "category",
