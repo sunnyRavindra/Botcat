@@ -15,25 +15,19 @@ transformations.
 
 ![Banner](../../static/img/Banner.svg)
 
-### Skills
+### Skills 
+- [Selenium](https://botcat.org/SDET/Selenium/Introduction)
 - Java
-- Selenium
-- Security Testing
-- [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) 
-- Page Object Model (POM)
-- Extent Reports
-- Annotations 
-- Data Provider
-- Parametrization
-- Gherkins
+- Robot Framework
 - SQL
-
-#### `Devops`
-
 - CDK IAC (Infrastructure as code)
-- Code Commit
-- Code Build
-- Test Dockerization
+- AWS
+- Docker
+- Grid
+- Git 
+- Jira
+- Xray
+- Zpheyr
 
 ### Contact Me 
 #### [LinkedIn](https://www.linkedin.com/in/sunnybharne)

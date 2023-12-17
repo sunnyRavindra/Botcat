@@ -10,4 +10,4 @@ slug: /docs/ContactMe
 ![Contactme](../static/img/Contacts.svg)
 
 Mail to : Sunny.bharne.automation@gmail.com <br/>
-Phone : +91 9307252679
+Phone : +358 415843299

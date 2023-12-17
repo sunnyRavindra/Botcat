@@ -5,58 +5,58 @@
   "count": 9,
   "items": [
     {
-      "id": "SDET/Jira/static/Agile",
+      "id": "Jira/static/Agile",
       "title": "Agile",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Jira/static/Agile"
+      "permalink": "/Jira/static/Agile"
     },
     {
-      "id": "SDET/API-Testing-Concepts/static/API",
+      "id": "API-Testing-Concepts/static/API",
       "title": "API",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/API-Testing-Concepts/static/API"
+      "permalink": "/API-Testing-Concepts/static/API"
     },
     {
-      "id": "SDET/API-Testing-Concepts/static/APITesting",
+      "id": "API-Testing-Concepts/static/APITesting",
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/API-Testing-Concepts/static/APITesting"
+      "permalink": "/API-Testing-Concepts/static/APITesting"
     },
     {
-      "id": "SDET/Cucumber/static/Cucumber",
+      "id": "Cucumber/static/Cucumber",
       "title": "Cucumber",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Cucumber/static/Cucumber"
+      "permalink": "/Cucumber/static/Cucumber"
     },
     {
-      "id": "SDET/Docker/static/Docker",
+      "id": "Docker/static/Docker",
       "title": "Docker",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Docker/static/Docker"
+      "permalink": "/Docker/static/Docker"
     },
     {
-      "id": "SDET/Java/static/Java",
+      "id": "Java/static/Java",
       "title": "Java",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Java/static/Java"
+      "permalink": "/Java/static/Java"
     },
     {
-      "id": "SDET/Selenium/static/SeleniumExcalidraw",
+      "id": "Selenium/static/SeleniumExcalidraw",
       "title": "SeleniumExcalidraw",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Selenium/static/SeleniumExcalidraw"
+      "permalink": "/Selenium/static/SeleniumExcalidraw"
     },
     {
-      "id": "SDET/SoapUI/static/SoapUI",
+      "id": "SoapUI/static/SoapUI",
       "title": "SoapUI",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/SoapUI/static/SoapUI"
+      "permalink": "/SoapUI/static/SoapUI"
     },
     {
-      "id": "SDET/Xray/static/Xray",
+      "id": "Xray/static/Xray",
       "title": "Xray",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SDET/Xray/static/Xray"
+      "permalink": "/Xray/static/Xray"
     }
   ]
 }
