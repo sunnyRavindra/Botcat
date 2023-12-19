@@ -17,5 +17,9 @@
   "previous": {
     "title": "Zephyr TestCycle",
     "permalink": "/Zephyr/Zephyr-TestCycle"
+  },
+  "next": {
+    "title": "SeleniumExcalidraw",
+    "permalink": "/static/SeleniumExcalidraw"
   }
 }
