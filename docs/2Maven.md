@@ -41,8 +41,4 @@ mvn archetype:generate -DarchetypeGroupId=com.mail.automation -DarchetypeArtifac
 
 
 ```
-### TestNG Project
-```
-mvn archetype:create -DgroupId=org.martingilday -DartifactId=test1 -DarchetypeGroupId=org.martingilday -DarchetypeArtifactId=testng-archetype
-  -DarchetypeVersion=1.0-SNAPSHOT -DremoteRepositories=https://www.martingilday.org/repository/
-```
+

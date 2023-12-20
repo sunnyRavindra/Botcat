@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-162": {
+  "/-f9d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -390,6 +390,18 @@
   "/Security-Testing/XSS-Attack-5a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---security-testing-xss-attack-627-10e"
+  },
+  "/Selenium/BrowserOptions-c59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---selenium-browser-options-7-f-1-37f"
+  },
+  "/Selenium/Introduction-8be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---selenium-introductionc-58-25b"
+  },
+  "/Selenium/Synchronisation-da7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---selenium-synchronisation-52-f-906"
   },
   "/Servlet/Introduction-e59": {
     "__comp": "__comp---theme-doc-item-178-a40",

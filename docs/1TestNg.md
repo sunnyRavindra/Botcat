@@ -21,3 +21,15 @@ java org.testng.TestNG testng1.xml [testng2.xml testng3.xml ...]
 mvn archetype:create -DgroupId=org.martingilday -DartifactId=test1 -DarchetypeGroupId=org.martingilday -DarchetypeArtifactId=testng-archetype
   -DarchetypeVersion=1.0-SNAPSHOT -DremoteRepositories=https://www.martingilday.org/repository/
 ```
+
+
+```TestNG
+		<classes>
+			<class name="testNG.Utils" />
+			<class name="testNG.TestNG">
+				<methods>
+					<include name="test2" />
+				</methods>
+			</class>
+		</classes>
+```

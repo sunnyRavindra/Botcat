@@ -17,6 +17,7 @@ transformations.
 
 ### Skills 
 - [Selenium](https://botcat.org/SDET/Selenium/Introduction)
+- TestNG
 - Java
 - Robot Framework
 - SQL

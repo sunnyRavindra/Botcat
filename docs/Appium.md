@@ -16,9 +16,6 @@ title: Appium
 
 ### Architecture
 
-
-
-
 https://www.guru99.com/introduction-to-appium.html
 https://www.browserstack.com/guide/appium-tutorial-for-testing
 

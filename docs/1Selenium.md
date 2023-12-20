@@ -4,20 +4,51 @@ title: Selenium
 
 ### Selenium Basics
 
-- [Link1](https://www.toolsqa.com/selenium-webdriver/selenium-testing/)
+- [Guru99](https://www.guru99.com/introduction-to-selenium.html)
 
-- [Link2](https://www.guru99.com/introduction-to-selenium.html)
+- [Selenium HQ](https://www.selenium.dev/documentation/overview/components/)
 
-- [Link3](https://www.selenium.dev/documentation/overview/components/)
+<iframe src="https://www.interviewbit.com/blog/wp-content/uploads/2022/06/Working-of-Selenium-WebDriver-768x309.png" width="100%" height="220px" scrolling="no"></iframe>
+
+### Architecture 
+
+<iframe src="https://www.selenium.dev/documentation/overview/components/#the-parts-and-pieces" width="100%" height="2300px" scrolling="no"></iframe>
+
 
 ### The Same Origin Policy Issue
 
 - [SOP](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 
-    Same Origin policy prohibits JavaScript code from accessing elements from a domain that is different from where it was launched. 
+Same Origin policy prohibits JavaScript code from accessing elements from a domain that is different from where it was launched. 
 Example, the HTML code in www.google.com uses a JavaScript program “randomScript.js”. 
 The same origin policy will only allow randomScript.js to access pages within google.com such as google.com/mail, google.com/login, or google.com/signup. However, 
 it cannot access pages from different sites such as yahoo.com/search or guru99.com because they belong to different domains.
+
+### Drivers
+
+![Driver.png](./static/Driver.png)
+
+### Locators 
+
+![Locator.png](./static/Locator.png)
+
+
+- WebDriver does not support the “contains” keyword when used in the By.cssSelector() method.
+
+### Get Commands
+![Get.png](./static/Get.png)
+
+### Navigate Commands
+
+![NavigateCommands.png](./static/NavigateCommands.png)
+
+### CSS Selector
+
+- `css=tag#id`
+- `css=tag.class`
+- `css=tag[attribute=value]`
+- `css=tag.class[attribute=value]`
+- `css=tag:contains("inner text")`
 
 ### Desgin Patterns
 
@@ -38,9 +69,6 @@ it cannot access pages from different sites such as yahoo.com/search or guru99.c
 - TestNG reporter call - Reporter.log(string); 
 
 -----
-### [Selenium Basics](https://www.selenium.dev/documentation/)
-
-### [Architecture](https://www.selenium.dev/documentation/overview/components/#the-parts-and-pieces)
 
 ### [Selenium Basic Commands](https://www.selenium.dev/documentation/webdriver/getting_started/first_script/#eight-basic-components) 
 
@@ -133,3 +161,5 @@ options = options.merge(capabilities);
 
 ### Code Reference
 [Browser Initialise](https://github.com/sunnyRavindra/DataDrivenFramework/blob/main/src/test/java/com/amazon/testcase/InitializeBrowser.java)
+
+Junit, PyTest, Allure
