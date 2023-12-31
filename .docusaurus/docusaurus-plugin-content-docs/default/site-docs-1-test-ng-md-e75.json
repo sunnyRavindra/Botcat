@@ -2,7 +2,7 @@
   "unversionedId": "1TestNg",
   "id": "1TestNg",
   "title": "TestNg",
-  "description": "- ### Reference Documents",
+  "description": "TestNG Basics",
   "source": "@site/docs/1TestNg.md",
   "sourceDirName": ".",
   "slug": "/1TestNg",
@@ -19,7 +19,7 @@
     "permalink": "/1Selenium"
   },
   "next": {
-    "title": "Grid",
-    "permalink": "/2Grid"
+    "title": "Cucumber",
+    "permalink": "/2Cucumber"
   }
 }
