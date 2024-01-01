@@ -2,7 +2,7 @@
   "unversionedId": "Cucumber/Dependency-Injection",
   "id": "Cucumber/Dependency-Injection",
   "title": "Dependency Injection",
-  "description": "Dependency Injection",
+  "description": "",
   "source": "@site/docs/Cucumber/Dependency-Injection.md",
   "sourceDirName": "Cucumber",
   "slug": "/Cucumber/Dependency-Injection",
@@ -19,7 +19,7 @@
     "permalink": "/Cucumber/Architecture"
   },
   "next": {
-    "title": "Cucumber Reports",
-    "permalink": "/Cucumber/ExtentReports"
+    "title": "Cucumber",
+    "permalink": "/Cucumber/static/Cucumber"
   }
 }

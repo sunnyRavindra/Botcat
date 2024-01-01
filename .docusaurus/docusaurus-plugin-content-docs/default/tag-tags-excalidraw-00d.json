@@ -2,7 +2,7 @@
   "label": "excalidraw",
   "permalink": "/tags/excalidraw",
   "allTagsPath": "/tags",
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "id": "Jira/static/Agile",
@@ -21,12 +21,6 @@
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
       "permalink": "/API-Testing-Concepts/static/APITesting"
-    },
-    {
-      "id": "Cucumber/static/Cucumber",
-      "title": "Cucumber",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/Cucumber/static/Cucumber"
     },
     {
       "id": "Docker/static/Docker",

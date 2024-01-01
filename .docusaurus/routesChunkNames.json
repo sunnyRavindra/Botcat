@@ -180,7 +180,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-5b4": {
+  "/-ec1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -234,26 +234,6 @@
   "/Appium-37a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---appium-68-e-d11"
-  },
-  "/Cucumber/Architecture-204": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cucumber-architecturef-7-d-349"
-  },
-  "/Cucumber/Dependency-Injection-cee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cucumber-dependency-injectionf-49-f4d"
-  },
-  "/Cucumber/ExtentReports-a0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cucumber-extent-reports-3-da-2f7"
-  },
-  "/Cucumber/Introduction-ec4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cucumber-introduction-66-a-bc7"
-  },
-  "/Cucumber/static/Cucumber-087": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cucumber-static-cucumber-666-5bf"
   },
   "/Docker/-32d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -398,18 +378,6 @@
   "/Security-Testing/XSS-Attack-5a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---security-testing-xss-attack-627-10e"
-  },
-  "/Selenium/BrowserOptions-c59": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---selenium-browser-options-7-f-1-37f"
-  },
-  "/Selenium/Introduction-8be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---selenium-introductionc-58-25b"
-  },
-  "/Selenium/Synchronisation-da7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---selenium-synchronisation-52-f-906"
   },
   "/Servlet/Introduction-e59": {
     "__comp": "__comp---theme-doc-item-178-a40",

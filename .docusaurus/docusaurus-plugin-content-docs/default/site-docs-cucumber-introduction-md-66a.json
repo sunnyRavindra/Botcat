@@ -2,7 +2,7 @@
   "unversionedId": "Cucumber/Introduction",
   "id": "Cucumber/Introduction",
   "title": "Cucumber Basics",
-  "description": "Cucumber is the BDD Framework for running automated tests. Cucumber does not Automate your testcases!",
+  "description": "",
   "source": "@site/docs/Cucumber/Introduction.md",
   "sourceDirName": "Cucumber",
   "slug": "/Cucumber/Introduction",

@@ -2,7 +2,7 @@
   "unversionedId": "Cucumber/ExtentReports",
   "id": "Cucumber/ExtentReports",
   "title": "Cucumber Reports",
-  "description": "ExtentReports Cucumber7 Adapter",
+  "description": "",
   "source": "@site/docs/Cucumber/ExtentReports.md",
   "sourceDirName": "Cucumber",
   "slug": "/Cucumber/ExtentReports",
@@ -19,7 +19,7 @@
     "permalink": "/Cucumber/Dependency-Injection"
   },
   "next": {
-    "title": "Cucumber Basics",
-    "permalink": "/Cucumber/Introduction"
+    "title": "Cucumber",
+    "permalink": "/Cucumber/static/Cucumber"
   }
 }
