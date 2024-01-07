@@ -574,8 +574,17 @@ public class LoginTest {
 - Instead add the tag in TestNG.xml
 ```Java
 <listeners>
-<listener class-name="listeners.TestListener"></listener>
-<listener class-name="listeners.ReporterListener"></listener>
+
+<listener class-name="afw.listeners.TestListener"></listener>
+
+<listener class-name="afw.listeners.ReporterListener"></listener>
+
+<listener class-name="afw.listeners.ExecutionListener"></listener>
+
+<listener class-name="afw.listeners.InvokedMethodListener"></listener>
+
+<listener class-name="afw.listeners.SuiteListener"></listener>
+
 </listeners>
 ```
 

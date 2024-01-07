@@ -2,7 +2,7 @@
   "unversionedId": "Docker/Docker",
   "id": "Docker/Docker",
   "title": "Docker",
-  "description": "Docker File Reference",
+  "description": "Architecture",
   "source": "@site/docs/Docker/Docker.md",
   "sourceDirName": "Docker",
   "slug": "/Docker/",
@@ -19,7 +19,7 @@
     "permalink": "/DSA"
   },
   "next": {
-    "title": "Docker Compose",
-    "permalink": "/Docker/Compose"
+    "title": "Docker",
+    "permalink": "/Docker/static/Docker"
   }
 }

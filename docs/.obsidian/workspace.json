@@ -56,6 +56,54 @@
             }
           },
           {
+            "id": "2846d72666d41c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1AutomationFramework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f06b16885fd6dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1AutomationFramework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f290f67a8ca7a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2RestAssured.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df6cff9c2b4576a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robot-Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "296328085fa3b6c0",
             "type": "leaf",
             "state": {
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2Cucumber.md",
+                "file": "Robot-Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2Cucumber.md",
+                "file": "Robot-Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2Cucumber.md"
+                "file": "Robot-Framework.md"
               }
             }
           }
@@ -195,53 +243,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd5bf77b27019df8",
+  "active": "7df6cff9c2b4576a",
   "lastOpenFiles": [
-    "Cucumber/static/Cucumber.md",
-    "Cucumber/Dependency-Injection.md",
-    "Cucumber/Architecture.md",
-    "2Cucumber.md",
-    "1Selenium.md",
-    "static/Cucumber.png",
-    "2Grid.md",
-    "Cucumber/ExtentReports.md",
-    "Cucumber/Introduction.md",
-    "Robot-Framework.md",
-    "DSA.md",
-    "1TestNg.md",
-    "ContactMe.md",
-    "2Framework.md",
-    "2Log4J.md",
-    "static/Parelell.png",
-    "static/WindowHandle.png",
-    "static/Action.png",
-    "static/NavigateCommands.png",
-    "static/Get.png",
-    "static/Locator.png",
-    "Locators.png",
-    "Selenium/Synchronisation.md",
-    "Selenium/Introduction.md",
-    "Selenium/BrowserOptions.md",
+    "Security-Testing/XSS-Attack.md",
+    "Security-Testing/SQL-References.md",
+    "Security-Testing/SQL-Operators.md",
+    "Security-Testing/SQL-Injection.md",
+    "Security-Testing/SQL-DataTypes.md",
+    "Security-Testing/SQL-Data-Manupulation.md",
+    "Security-Testing/SQL-Basics.md",
+    "Security-Testing/Browser-Cookies.md",
+    "Security-Testing",
+    "Testing-Concepts/Verification-vs-Validation.md",
+    "Testing-Concepts/Testing-levels.md",
+    "Testing-Concepts/Test-Cases.md",
+    "Testing-Concepts/Smoke-vs-Sanity.md",
+    "Testing-Concepts/SDLC-vs-STLC.md",
+    "Testing-Concepts/Retesting-vs-Regression.md",
+    "Testing-Concepts/Priority-vs-severity.md",
+    "Testing-Concepts/Load-vs-Stress-Testing.md",
+    "Testing-Concepts/Blackbox-vs-Whitebox.md",
+    "Testing-Concepts",
+    "static/APIBasics 2.png",
+    "static/XMLValidation.png",
+    "static/WSDL3.png",
+    "static/WSDL2.png",
+    "static/WSDL1.png",
+    "static/WildCards.png",
+    "static/TokenValidation.png",
+    "static/tagexists.png",
+    "static/TagCount.png",
+    "static/StatusCode.png",
+    "static/SoapUI.md",
+    "SoapUI.md",
+    "SoapUI/SoapUI.md",
+    "Zephyr.md",
+    "static/Xray.md",
+    "Xray.md",
+    "Testing.md",
+    "static/TestPlan.doc",
+    "static/TestCaseTemplate.xls",
+    "static/RTM_Template.xlsx",
+    "Testing-Concepts/Testing.md",
+    "Rest-Assured/Introduction.md",
+    "Rest-Assured",
+    "Practice-Sites",
+    "Docker/DockerFiles",
+    "Docker",
     "Selenium",
-    "static/Driver.png",
-    "SDET/Selenium/Introduction.md",
-    "SDET/Selenium/notes.jsx",
-    "SDET/Selenium/notes.js",
-    "SDET/Selenium/Introduction.mdx",
-    "SDET/Selenium/static/BrowserOptions.png",
-    "SDET/Selenium/BrowserOptions.md",
-    "SDET/Robot-Framework.md",
-    "SDET/Pasila.md",
-    "SDET/Appium.md",
-    "SDET/Java/Basics.md",
-    "SDET/Kanban.md",
-    "SDET/Java/Multithreading.md",
-    "SDET/Robot-Framework",
-    "SDET/Servlet",
-    "SDET/Java/exception.mc",
-    "SDET/Java/exception.java",
-    "SDET/Microservices",
-    "SDET/PostMan/Static",
     "Untitled.canvas"
   ]
 }

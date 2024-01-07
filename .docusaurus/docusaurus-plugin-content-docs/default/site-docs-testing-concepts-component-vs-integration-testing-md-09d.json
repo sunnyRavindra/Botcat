@@ -2,7 +2,7 @@
   "unversionedId": "Testing-Concepts/Component-vs-Integration-Testing",
   "id": "Testing-Concepts/Component-vs-Integration-Testing",
   "title": "Component vs Integration Testing",
-  "description": "Integration Testing and Component Testing are two essential levels of testing in the software development process, each with a specific focus and purpose. Here are notes on both integration testing and component testing:",
+  "description": "Component vs Integration Testing",
   "source": "@site/docs/Testing-Concepts/Component-vs-Integration-Testing.md",
   "sourceDirName": "Testing-Concepts",
   "slug": "/Testing-Concepts/Component-vs-Integration-Testing",

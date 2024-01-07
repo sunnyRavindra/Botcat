@@ -19,7 +19,7 @@
     "permalink": "/Docker/"
   },
   "next": {
-    "title": "Interacting with container",
-    "permalink": "/Docker/ContainerInteractions"
+    "title": "Docker Ignore file",
+    "permalink": "/Docker/DockerFiles/Docker Ignore file"
   }
 }

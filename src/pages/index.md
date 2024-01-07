@@ -23,7 +23,7 @@ transformations.
 ### Skills 
 
 #### Test Automation
-##### | [Selenium](https://botcat.org/1Selenium) | [TestNG](https://botcat.org/1TestNG) | [Grid](https://botcat.org/2Grid) | [Robot Framework](https://botcat.org/Robot-Framework) | [Maven](https://botcat.org/2Maven) | [Log4J](https://botcat.org/2Log4J) | [Cucumber](https://botcat.org/2Log4J) |
+##### | [Selenium](https://botcat.org/1Selenium) | [TestNG](https://botcat.org/1TestNG) | [RestAssured](https://botcat.org/2RestAssured) | [Grid](https://botcat.org/2Grid) | [Robot Framework](https://botcat.org/Robot-Framework) | [Maven](https://botcat.org/2Maven) | [Log4J](https://botcat.org/2Log4J) | [Cucumber](https://botcat.org/2Log4J) |
 
 #### Programing Language
 ##### | [Java](https://botcat.org/1Java) | [SQL](https://botcat.org/1Java) |

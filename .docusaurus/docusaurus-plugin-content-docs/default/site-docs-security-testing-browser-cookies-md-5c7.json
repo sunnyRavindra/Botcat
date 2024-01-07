@@ -2,7 +2,7 @@
   "unversionedId": "Security-Testing/Browser-Cookies",
   "id": "Security-Testing/Browser-Cookies",
   "title": "Browser Cookies",
-  "description": "Cookies are the small encripted text files in the browser directory.",
+  "description": "Browser Cookies",
   "source": "@site/docs/Security-Testing/Browser-Cookies.md",
   "sourceDirName": "Security-Testing",
   "slug": "/Security-Testing/Browser-Cookies",

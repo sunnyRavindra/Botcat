@@ -339,3 +339,102 @@ public class PageObjectManager {
 ```Java
 	LoginPage loginPage = browserContext.getPageObjectManager().getLoginPage(); 
 ```
+
+### Parallel Test using Surefire
+
+- [Parallel Tests](https://cucumber.io/docs/guides/parallel-execution/?lang=java#testng)
+
+```xml
+<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>3.2.3</version>
+</dependency>
+
+```
+
+
+
+
+```Java
+public class Regression extends AbstractTestNGCucumberTests {
+
+@Override
+
+@DataProvider(parallel = true)
+
+public Object[][] scenarios() {
+
+return super.scenarios();
+
+}
+
+}
+```
+
+To add the Surefire plugin to your `pom.xml` file, you can include the following configuration:
+
+```xml
+<build>
+	<plugins>
+		<!-- Surefire Plugin for running tests -->
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-surefire-plugin</artifactId>
+			<version>3.0.0-M5</version> <!-- Use the latest version available -->
+
+			<configuration>
+				<!-- Set the test classes directory -->
+				<testClassesDirectory>${project.build.directory}</testClassesDirectory>
+				<includes>
+					<include>**/*Test*.java</include>
+					<include>**/*Test.java</include>
+					<include>**/*Tests.java</include>
+				</includes>
+			</configuration>
+		</plugin>
+	</plugins>
+</build>
+```
+
+This configuration will include the Surefire Plugin with the specified version (3.0.0-M5 in this example). It also configures the plugin to include test classes based on the standard naming conventions (`*Test*.java`, `*Test.java`, `*Tests.java`).
+
+Make sure to replace the version with the latest version available at the time you're adding it. You can check the [Maven Repository](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin) for the latest version.
+
+### Parallel Tests using FireSure
+```Java
+<plugin>
+
+<groupId>org.apache.maven.plugins</groupId>
+
+<artifactId>maven-failsafe-plugin</artifactId>
+
+<version>2.22.0</version>
+
+<executions>
+
+<execution>
+
+<goals>
+
+<goal>integration-test</goal>
+
+<goal>verify</goal>
+
+</goals>
+
+<configuration>
+
+<parallel>methods</parallel>
+
+<useUnlimitedThreads>true</useUnlimitedThreads>
+
+</configuration>
+
+</execution>
+
+</executions>
+
+</plugin>
+```

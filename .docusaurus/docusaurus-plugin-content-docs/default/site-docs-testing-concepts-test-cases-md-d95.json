@@ -2,7 +2,7 @@
   "unversionedId": "Testing-Concepts/Test-Cases",
   "id": "Testing-Concepts/Test-Cases",
   "title": "Test Case vs Scenario vs Step",
-  "description": "Test Scenario",
+  "description": "Test Case vs Scenario vs Step",
   "source": "@site/docs/Testing-Concepts/Test-Cases.md",
   "sourceDirName": "Testing-Concepts",
   "slug": "/Testing-Concepts/Test-Cases",
@@ -19,7 +19,7 @@
     "permalink": "/Testing-Concepts/Smoke-vs-Sanity"
   },
   "next": {
-    "title": "Test Pyramid",
-    "permalink": "/Testing-Concepts/Test-Pyramid"
+    "title": "Levels of Testing",
+    "permalink": "/Testing-Concepts/Testing-levels"
   }
 }

@@ -2,7 +2,7 @@
   "unversionedId": "Security-Testing/SQL-Operators",
   "id": "Security-Testing/SQL-Operators",
   "title": "SQL Operators",
-  "description": "Comparision",
+  "description": "SQL Operators",
   "source": "@site/docs/Security-Testing/SQL-Operators.md",
   "sourceDirName": "Security-Testing",
   "slug": "/Security-Testing/SQL-Operators",
@@ -19,7 +19,7 @@
     "permalink": "/Security-Testing/SQL-Injection"
   },
   "next": {
-    "title": "References",
+    "title": "SQL-References",
     "permalink": "/Security-Testing/SQL-References"
   }
 }

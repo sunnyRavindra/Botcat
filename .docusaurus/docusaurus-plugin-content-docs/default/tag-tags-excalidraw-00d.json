@@ -2,37 +2,19 @@
   "label": "excalidraw",
   "permalink": "/tags/excalidraw",
   "allTagsPath": "/tags",
-  "count": 8,
+  "count": 5,
   "items": [
     {
-      "id": "Jira/static/Agile",
-      "title": "Agile",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/Jira/static/Agile"
-    },
-    {
-      "id": "API-Testing-Concepts/static/API",
+      "id": "static/API",
       "title": "API",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/API-Testing-Concepts/static/API"
+      "permalink": "/static/API"
     },
     {
-      "id": "API-Testing-Concepts/static/APITesting",
+      "id": "static/APITesting",
       "title": "APITesting",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/API-Testing-Concepts/static/APITesting"
-    },
-    {
-      "id": "Docker/static/Docker",
-      "title": "Docker",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/Docker/static/Docker"
-    },
-    {
-      "id": "Java/static/Java",
-      "title": "Java",
-      "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/Java/static/Java"
+      "permalink": "/static/APITesting"
     },
     {
       "id": "static/SeleniumExcalidraw",
@@ -41,16 +23,16 @@
       "permalink": "/static/SeleniumExcalidraw"
     },
     {
-      "id": "SoapUI/static/SoapUI",
+      "id": "static/SoapUI",
       "title": "SoapUI",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/SoapUI/static/SoapUI"
+      "permalink": "/static/SoapUI"
     },
     {
-      "id": "Xray/static/Xray",
+      "id": "static/Xray",
       "title": "Xray",
       "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==",
-      "permalink": "/Xray/static/Xray"
+      "permalink": "/static/Xray"
     }
   ]
 }

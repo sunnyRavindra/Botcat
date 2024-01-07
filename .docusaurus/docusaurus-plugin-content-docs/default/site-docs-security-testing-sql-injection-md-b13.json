@@ -2,7 +2,7 @@
   "unversionedId": "Security-Testing/SQL-Injection",
   "id": "Security-Testing/SQL-Injection",
   "title": "SQL Injection",
-  "description": "SQL injection is a type of cyberattack that occurs when an attacker inserts malicious SQL (Structured Query Language) code into a vulnerable SQL query. SQL is a language used for managing and manipulating relational databases, and SQL injection attacks take advantage of poorly sanitized or unprotected inputs in web applications or software that interact with databases.",
+  "description": "SQL Injection",
   "source": "@site/docs/Security-Testing/SQL-Injection.md",
   "sourceDirName": "Security-Testing",
   "slug": "/Security-Testing/SQL-Injection",

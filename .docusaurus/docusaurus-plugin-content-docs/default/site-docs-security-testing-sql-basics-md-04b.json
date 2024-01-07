@@ -2,7 +2,7 @@
   "unversionedId": "Security-Testing/SQL-Basics",
   "id": "Security-Testing/SQL-Basics",
   "title": "SQL Basics",
-  "description": "MY SQL Docker server",
+  "description": "SQL Basics",
   "source": "@site/docs/Security-Testing/SQL-Basics.md",
   "sourceDirName": "Security-Testing",
   "slug": "/Security-Testing/SQL-Basics",

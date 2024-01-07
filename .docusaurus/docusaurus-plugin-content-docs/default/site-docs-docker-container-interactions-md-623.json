@@ -2,7 +2,7 @@
   "unversionedId": "Docker/ContainerInteractions",
   "id": "Docker/ContainerInteractions",
   "title": "Interacting with container",
-  "description": "To execute commands inside a Docker container, you can use the docker exec command. Here's how you can do it:",
+  "description": "Interacting with container",
   "source": "@site/docs/Docker/ContainerInteractions.md",
   "sourceDirName": "Docker",
   "slug": "/Docker/ContainerInteractions",
@@ -19,7 +19,7 @@
     "permalink": "/Docker/Compose"
   },
   "next": {
-    "title": "Docker Commands",
-    "permalink": "/Docker/Docker-Commands"
+    "title": "Docker Ignore file",
+    "permalink": "/Docker/DockerFiles/Docker Ignore file"
   }
 }

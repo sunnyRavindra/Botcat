@@ -2,7 +2,7 @@
   "unversionedId": "Security-Testing/SQL-DataTypes",
   "id": "Security-Testing/SQL-DataTypes",
   "title": "SQL DataTypes",
-  "description": "Numeric Types",
+  "description": "SQL DataTypes",
   "source": "@site/docs/Security-Testing/SQL-DataTypes.md",
   "sourceDirName": "Security-Testing",
   "slug": "/Security-Testing/SQL-DataTypes",
