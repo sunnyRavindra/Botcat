@@ -62,8 +62,6 @@ The test case stores useful information, like the tester responsible for the exe
 ### TestCase
 ![TestCase](./static/TestCase.png)
 
-### Test Step/ Script
-![SDET/Zephyr/static/datadriven.png](./static/datadriven.png)
 
 ### Test Data
 ![Zephyr5.png](./static/Zephyr5.png)

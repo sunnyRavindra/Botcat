@@ -95,8 +95,6 @@ it cannot access pages from different sites such as yahoo.com/search or guru99.c
 ![DropDown](https://toolsqa.com/gallery/selnium%20webdriver/2.Methods%20of%20Select%20class.png)
 ### Window Handles
 
-![WindowHandle.png](./static/Windowhandle.png)
-
 ### ToolTip 
 
 - Basic Attribute validation.

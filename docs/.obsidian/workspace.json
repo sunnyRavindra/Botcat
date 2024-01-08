@@ -257,6 +257,9 @@
   },
   "active": "e4ab58f3b0f8e5e7",
   "lastOpenFiles": [
+    "python.md",
+    "Python.md",
+    "Python",
     "RobotFramework.md",
     "2RestAssured.md",
     "Security-Testing/XSS-Attack.md",
@@ -293,8 +296,6 @@
     "SoapUI/SoapUI.md",
     "Zephyr.md",
     "static/Xray.md",
-    "Xray.md",
-    "Testing.md",
     "static/TestPlan.doc",
     "static/TestCaseTemplate.xls",
     "static/RTM_Template.xlsx",
@@ -302,7 +303,6 @@
     "Practice-Sites",
     "Docker/DockerFiles",
     "Docker",
-    "Selenium",
     "Untitled.canvas"
   ]
 }
