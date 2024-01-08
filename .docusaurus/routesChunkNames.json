@@ -159,20 +159,6 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/tags-e49": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__context": {
-      "plugin": "plugin---tagsa-0-a-4e3"
-    },
-    "tags": "tags---tags-559-690"
-  },
-  "/tags/excalidraw-faa": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---tagsa-0-a-4e3"
-    },
-    "tag": "tag---tags-excalidraw-761-7c0"
-  },
   "/-759": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -180,7 +166,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-660": {
+  "/-517": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---tagsa-0-a-4e3"
@@ -231,41 +217,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---3-jira-385-086"
   },
-  "/docs/ContactMe-73a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contact-meafd-3c6"
-  },
   "/DSA-656": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dsa-7-a-0-b59"
   },
-  "/Robot-Framework-f23": {
+  "/RobotFramework-e00": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robot-framework-271-ab1"
+    "content": "content---robot-frameworkb-8-e-ddf"
   },
   "/SoapUI-0ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---soap-u-iff-7-aed"
-  },
-  "/static/API-d3c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-ap-idee-e4d"
-  },
-  "/static/APITesting-a92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-api-testingf-5-c-cb7"
-  },
-  "/static/SeleniumExcalidraw-5cc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-selenium-excalidraw-476-8db"
-  },
-  "/static/SoapUI-8fb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-soap-ui-5-ed-002"
-  },
-  "/static/Xray-94a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---static-xray-685-10d"
   },
   "/Testing-9b8": {
     "__comp": "__comp---theme-doc-item-178-a40",

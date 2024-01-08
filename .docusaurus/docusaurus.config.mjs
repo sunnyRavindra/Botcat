@@ -68,29 +68,9 @@ export default {
           "label": "Skills"
         },
         {
-          "to": "/docs/ContactMe",
-          "label": "Contact Me",
-          "position": "right"
-        },
-        {
           "type": "html",
           "position": "right",
           "value": "<a href=\"/resume/SunnyRavindra_Resume.pdf\" download>Resume</a>"
-        },
-        {
-          "to": "https://www.linkedin.com/in/sunnybharne/",
-          "label": "LinkedIn",
-          "position": "right"
-        },
-        {
-          "to": "https://github.com/sunnyRavindra",
-          "label": "Github",
-          "position": "right"
-        },
-        {
-          "to": "https://www.linkedin.com/in/sunnybharne/details/certifications/",
-          "label": "Certifications",
-          "position": "right"
         }
       ]
     },

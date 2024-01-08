@@ -1,30 +1,14 @@
 ---
 title: RestAssured
 ---
+[ToolsQA](https://www.toolsqa.com/rest-assured-tutorial/)
 
+[QA Automation Expert](https://qaautomation.expert/2023/10/12/rest-assured-tutorials/)
+
+[Rest Assured Official site](https://github.com/rest-assured/rest-assured/wiki/Usage)
 ### API Flow
 
 ![APIBasics.png](./static/APIBasics.png)
-
-### Get
-1. can be cached.
-2. Remains in browser history.
-3. can be book marked.
-4. Sensitive data should not be used.
-5. Have length restrictions.
-6. Should be used only to get data.
-7. Parameters are part of URL.
-
-```bash
-https://domain.com/?key1=value1&key2=value2
-```
-### Post
-1. Used to send data to server.
-2. Parameters are part of the body.
-3. can not be book marked.
-4. Can not be book marked.
-5. Does not store in browser history.
-
 
 ### Http Basics
 
@@ -33,24 +17,7 @@ https://domain.com/?key1=value1&key2=value2
 
 ## HTTP methods
 
-### Get
-1. can be cached.
-2. Remains in browser history.
-3. can be book marked.
-4. Sensitive data should not be used.
-5. Have length restrictions.
-6. Should be used only to get data.
-7. Parameters are part of URL.
 
-```bash
-https://domain.com/?key1=value1&key2=value2
-```
-### Post
-1. Used to send data to server.
-2. Parameters are part of the body.
-3. can not be book marked.
-4. Can not be book marked.
-5. Does not store in browser history.
 
 **GET** 	Asks to get the resource at the requested URL.
 **POST** 	Asks the server to accept the body info attached. It is like GET request with extra info sent with the request.
@@ -67,10 +34,185 @@ https://domain.com/?key1=value1&key2=value2
 4. 4xx (400 – 499): There’s a bad syntax and the request cannot be completed
 5. 5xx (500 – 599): The server entirely fails to complete the request
 
-### RestAssured Basics
+### Example
+```bash
+https://domain.com/?key1=value1&key2=value2
+```
 
+### HTTP Request 
 
-[RestAssured Documentation](https://github.com/rest-assured/rest-assured/wiki/GettingStarted)
+### _Request Line_
+-  _The HTTP method used_
+- _The request URI_
+- _The HTTP protocol version_
+
+### _Zero or more headers_
+- _User-Agent: lets the server identify the application, operating system, vendor, and version._
+- _Connection: controls the network connection. In other words, kill or continues the connection after the transaction._
+- _Cache-Control: specifies browser caching policies._
+- _Accept-Language: indicates what all languages(natural) the client can understand._
+- _Accept-Charset_
+- _Accept-Encoding_
+- _Authorization_
+- _Content-Length_
+- _Content-Type_
+- _Cookie_
+- _Expect_
+- _From_
+- _Host_
+- _If-Match_
+- _If-Modified-Since_
+- _In-None-Match_
+- _If-Range_
+- _If-Unmodified-Since_
+- _Max-Forwards_
+- _Proxy-Authorization_
+- _Range_
+- _Referer_
+- _TE_
+### _An optional request body_
+- _Request body may either be in the form of XML or JSON
+
+### HTTPS Response
+1. A status.
+2. Collection of Headers.
+3. A Body.
+
+### RestAssured without Static imports
+```Java
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import io.restassured.response.ValidatableResponse;
+import io.restassured.specification.RequestSpecification;
+
+public class WithoutBDDStyle {
+
+static RequestSpecification requestSpecification;
+static Response response;
+static ValidatableResponse validatableResponse;
+
+@Test
+public void oldMethodOfRestAssured() {
+RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1/employees";
+// Create a request specification
+requestSpecification = RestAssured.given();
+// Calling GET method
+response = requestSpecification.get();
+// Let's print response body.
+System.out.println(response.prettyPrint());
+// Validate Response
+validatableResponse = response.then();
+// Get status code
+validatableResponse.statusCode(200);
+// Check status line is as expected
+validatableResponse.statusLine("HTTP/1.1 200 OK");
+}
+
+@Test
+public void oldMethodOfRestAssuredUsingTestNG() {
+RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1/employees";
+// Create a request specification
+requestSpecification = RestAssured.given();
+// Calling GET method
+response = requestSpecification.get();
+// Let's print response body.
+System.out.println(response.prettyPrint());
+// Get status line
+Assert.assertEquals(response.getStatusLine(), "HTTP/1.1 200 OK");
+// Get status code
+Assert.assertEquals(response.getStatusCode(), 200);
+}
+}
+```
+
+### RestAssured withStatic imports BDD style
+
+### Example
+- _**Resource URL:** https://bookstore.toolsqa.com/_
+- _**Parameter:** BookStore/v1/Books_
+
+### Characteristics of REST
+- Uniform interface
+- Client Server separation
+- Stateless
+- Layered System
+- Cacheable
+- Code-on-demand(Eg - Flash Video Player)
+
+### Rest API Connectors
+1. _**Client** 
+2. _**Server** 
+3. _**Cache** 
+4. _**Resolver** 
+5. _**Tunnel** 
+
+### Components in Rest 
+1. _**Origin Server** 
+2. _**User Agent** 
+3. _**Gateway** 
+4. _**Proxy** 
+
+### Rest Data Elements
+1. _**Resource**_
+2. **Resource Identifier**(URI)
+3. **Resource Metadata**
+4. **Representation** (Entire Request or Response)
+5. **Representation Metadata**(Headers- _**content-type**_, _**content-length**_, _**User-Agent, Connection, Accept-Encodin**_)
+
+Query Parameter
+And Path Parameter
+JsonPath 
+XmlPath
+
+### Create Json Object with Json Simple
+```xml
+<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+```
+
+```java
+JSONObject requestParams = new JSONObject(); 
+requestParams.put("userId", "TQ123"); 
+requestParams.put("isbn", "9781449325862"); 
+JSONObject.toJSONString()
+request.header("Content-Type", "application/json"); 
+request.body(requestParams.toJSONString());
+```
+
+### Serialization 
+Serialization is a process where you convert an Instance of a Class (_Object of a class_) into a Byte Stream. This Byte Stream can then be stored as a file on the disk or can also be sent to another computer via the network. Deserialisation in Opposite of Serialization.
+
+![Serialization](https://www.toolsqa.com/gallery/Rest%20Assured/1.Serialization%20and%20Deserialization%20in%20Java.png)
+```Java
+ObjectOutputStream o = new ObjectOutputStream(new FileOutputStream("//File Name"));
+
+Animal animal = new Animal("Cow");
+
+o.writeObject(animal);
+o.close();
+```
+### Deserialization
+```java
+FileInputStream fileStream = new FileInputStream(new File(fileName));
+ObjectInputStream objectStream = new ObjectInputStream(fileStream);
+Object deserializeObject = objectStream.readObject();
+objectStream.close();
+fileStream.close();
+```
+
+### Authentication 
+- Being able to authenticate with Credentials
+### Basic Authentication(Auth)
+- Does using Authentication headers. ie username and Password is sent in the URL.
+### Authorisation 
+- Being able to provide valid access. ie (Admin and Employee users )
 
 ### Jira Practice Api's
 
@@ -171,37 +313,6 @@ Loggig
    Jacson 
    Gson
 
-### POM dependency
-```xml
-	<dependencies>
-		<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-		<dependency>
-			<groupId>io.rest-assured</groupId>
-			<artifactId>rest-assured</artifactId>
-			<version>5.3.2</version>
-			<scope>test</scope>
-		</dependency>
-
-		<!--
-		https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
-		<dependency>
-			<groupId>io.rest-assured</groupId>
-			<artifactId>json-schema-validator</artifactId>
-			<version>5.3.2</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-
-		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>7.8.0</version>
-			<scope>test</scope>
-		</dependency>
-
-	</dependencies>
-```
-
 ### Static Imports
 ```Java
 import io.restassured.RestAssured.*;
@@ -210,8 +321,4 @@ import org.hamcrest.Matchers.*;
 import io.restassured.module.jsv.JsonSchemaValidator.*;
 
 ```
-1. Introduction 
-https://qaautomation.expert/2021/05/16/introduction-to-rest-assured/
-2. Get Request
-https://qaautomation.expert/2023/10/12/how-to-test-get-request-using-rest-assured/
 
