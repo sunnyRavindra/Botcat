@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2RestAssured.md",
+                "file": "1Selenium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2RestAssured.md",
+                "file": "1Selenium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2RestAssured.md"
+                "file": "1Selenium.md"
               }
             }
           }
@@ -255,13 +255,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4ab58f3b0f8e5e7",
+  "active": "296328085fa3b6c0",
   "lastOpenFiles": [
+    "static/Banner.svg",
+    "0SunnyBharne.md",
+    "SunnyBharne.md",
+    "index.md",
+    "2RestAssured.md",
     "python.md",
     "Python.md",
     "Python",
     "RobotFramework.md",
-    "2RestAssured.md",
     "Security-Testing/XSS-Attack.md",
     "Security-Testing/SQL-References.md",
     "Security-Testing/SQL-Operators.md",
@@ -292,10 +296,6 @@
     "static/TagCount.png",
     "static/StatusCode.png",
     "static/SoapUI.md",
-    "SoapUI.md",
-    "SoapUI/SoapUI.md",
-    "Zephyr.md",
-    "static/Xray.md",
     "static/TestPlan.doc",
     "static/TestCaseTemplate.xls",
     "static/RTM_Template.xlsx",
