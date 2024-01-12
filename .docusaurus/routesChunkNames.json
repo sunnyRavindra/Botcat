@@ -166,7 +166,7 @@
     },
     "content": "content---f-39-267"
   },
-  "/-5fa": {
+  "/-5c3": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---a-0-a-6ca"
@@ -175,7 +175,7 @@
   },
   "/0SunnyBharne-edb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---528-eb9"
+    "content": "content---0-sunny-bharne-528-d02"
   },
   "/1AutomationFramework-df3": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -201,6 +201,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---2-grida-3-c-b30"
   },
+  "/2Java-d09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---2-java-6-f-1-7c5"
+  },
   "/2Log4J-973": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---2-log-4-j-436-339"
@@ -209,13 +213,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---2-mavenfa-5-3c3"
   },
+  "/2python-b6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---2-python-901-1dc"
+  },
   "/2RestAssured-8a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---2-rest-assured-454-ecd"
-  },
-  "/3Java-7f5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---3-java-9-bd-67f"
   },
   "/3Jira-27f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -224,10 +228,6 @@
   "/DSA-656": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dsa-7-a-0-b59"
-  },
-  "/python-f94": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---python-215-ca2"
   },
   "/RobotFramework-e00": {
     "__comp": "__comp---theme-doc-item-178-a40",
