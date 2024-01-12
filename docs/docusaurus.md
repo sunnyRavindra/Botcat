@@ -5,3 +5,5 @@ npm run start
 yarn build
 
 [config](https://docusaurus.io/docs/configuration)
+
+https://docusaurus.io/docs/static-assets

@@ -7,7 +7,7 @@ slug: /
 
 ##### Helsinki,Finland
 
-##### | [Download Resume](../../static/resume/SunnyRavindra_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/sunnybharne) | [Github](https://github.com/sunnyRavindra) | [Email](mailto:sunny.bharne.automation@gmail.com?subject=Test_Automation_Expert) | [Certifications](https://www.linkedin.com/in/sunnybharne/details/certifications/) |
+##### | [Download Resume](/resume/SunnyRavindra_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/sunnybharne) | [Github](https://github.com/sunnyRavindra) | [Email](mailto:sunny.bharne.automation@gmail.com?subject=Test_Automation_Expert) | [Certifications](https://www.linkedin.com/in/sunnybharne/details/certifications/) |
 
 
 -----

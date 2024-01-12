@@ -257,6 +257,8 @@
   },
   "active": "296328085fa3b6c0",
   "lastOpenFiles": [
+    "0AboutMe.md",
+    "AboutMe.md",
     "docusaurus.md",
     "Docusourous.md",
     "Appium.md",
@@ -283,9 +285,7 @@
     "Security-Testing/SQL-DataTypes.md",
     "Security-Testing/SQL-Data-Manupulation.md",
     "Security-Testing/SQL-Basics.md",
-    "Security-Testing/Browser-Cookies.md",
     "Security-Testing",
-    "Testing-Concepts/Verification-vs-Validation.md",
     "Testing-Concepts",
     "static/APIBasics 2.png",
     "static/XMLValidation.png",
