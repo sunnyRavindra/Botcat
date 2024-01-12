@@ -159,21 +159,14 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/-759": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---67-f-8f5"
-    },
-    "content": "content---f-39-267"
-  },
-  "/-5c3": {
+  "/-da6": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---a-0-a-6ca"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/0SunnyBharne-edb": {
+  "/-95e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---0-sunny-bharne-528-d02"
   },
@@ -225,9 +218,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---3-jira-385-086"
   },
+  "/Appium-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---appium-68-e-d11"
+  },
+  "/docusaurus-e64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docusaurus-946-a35"
+  },
   "/DSA-656": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---dsa-7-a-0-b59"
+  },
+  "/Javascript-d9f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---javascript-064-caf"
+  },
+  "/PlayWright-81e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---play-wright-2-bf-bfc"
   },
   "/RobotFramework-e00": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -240,6 +249,10 @@
   "/Testing-9b8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---testing-7-c-4-361"
+  },
+  "/TypeScript-e14": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---type-script-2-b-3-c92"
   },
   "/Xray-ca7": {
     "__comp": "__comp---theme-doc-item-178-a40",

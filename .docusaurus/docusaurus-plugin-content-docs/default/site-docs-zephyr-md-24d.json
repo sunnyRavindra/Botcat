@@ -17,5 +17,9 @@
   "previous": {
     "title": "Xray",
     "permalink": "/Xray"
+  },
+  "next": {
+    "title": "docusaurus",
+    "permalink": "/docusaurus"
   }
 }

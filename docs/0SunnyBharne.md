@@ -1,5 +1,6 @@
 ---
 title: About Me
+slug: /
 ---
 
 ## Test Automation Lead Engineer

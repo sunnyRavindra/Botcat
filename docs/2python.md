@@ -295,15 +295,12 @@ for value in person.values(): # .values() loop through all the values
 # Dict comprehension
 new_stocks = {symbol: price * 1.02 for (symbol, price) in stocks.items()} # map
 selected_stocks = {s: p for (s, p) in stocks.items() if p > 200} # filter
-
-
 ```
 
 ### Set
-
 Elements in a set cannot be changed. For example, they can be numbers, strings, and tuples, but cannot be lists or dictionaries.
-```Python
 
+```Python
 skills = {'Python programming','Databases', 'Software design'}
 empty_set  = set() # you cant use empty_set = {} as this will instanciate empty dictionary
 skills = set(['Problem solving','Critical Thinking']) # can create set this way too
@@ -325,7 +322,56 @@ new_set = set.union(another_set, ...) # union Operator can comvine any iterable 
 s = s1.union(s2)
 new_set = set1 | set2 # union using pipe operator
 s = s1 | s2 # Pipe Operator only combines Set's
+new_set = set1.intersection(set2, set3, ...)
+s = s1.intersection(s2) # This can use any iterable and convert to set
+new_set = s1 & s2 & s3 & ...
+s = s1 & s2 # This can only use set
+set1.difference(s2, s3, ...)
+s = s1 - s2
+s = s1.symmetric_difference(s2)
+s = s1 ^ s2
+set_a.issubset(set_b)
+set_a <= set_b # Subset
+set_a < set_b # True subset
+set_a.issuperset(set_b)
+result = numbers.issuperset(scores)
+set_a >= set_b
+set_a > set_b
+set_a.isdisjoint(set_b)
+result = odd_numbers.isdisjoint(even_numbers)
+```
 
+### for else 
+```python
+for person in people:
+    if person['name'] == name:
+        print(person)
+        break
+else:
+    print(f'{name} not found!')
+```
 
+### While Else 
+```Python 
+while index < len(basket):
+    item = basket[index]
+    # check the fruit name
+    if item['fruit'] == fruit:
+        print(f"The basket has {item['qty']} {item['fruit']}(s)")
+        found_it = True
+        break
+
+    index += 1
+else:
+    qty = int(input(f'Enter the qty for {fruit}:'))
+    basket.append({'fruit': fruit, 'qty': qty})
+    print(basket)
+```
+
+### Do While 
+```Python 
+do
+    # code block
+while condition
 
 ```

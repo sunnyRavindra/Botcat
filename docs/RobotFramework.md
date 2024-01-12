@@ -1,7 +1,6 @@
 ---
 title: Robot Framework
 ---
-
 ## Docs
 - [Getting Started guide](https://docs.robotframework.org/docs)
 - [Reference Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
@@ -13,7 +12,6 @@ title: Robot Framework
 ### Selenium Keywords
 - [Open Browser](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20)
 <iframe src="https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Open%20Browser" width="100%" height="800px" scrolling="no"></iframe>
-
 ## Basics
 - [Why Robot Framework](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#toc-entry-222)
 <iframe src="https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#why-robot-framework" width="100%" height="600px" scrolling="no"></iframe>

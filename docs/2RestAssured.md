@@ -211,9 +211,56 @@ fileStream.close();
 - Being able to authenticate with Credentials
 ### Basic Authentication(Auth)
 - Does using Authentication headers. ie username and Password is sent in the URL.
+```Java
+given().auth().basic("your username", "your password").get("your end point URL");
+```
+[Challenge Response Mechanism](https://datatracker.ietf.org/doc/html/rfc2617#section-1.2)
+This means that it waits for the server to challenge rather than send the credentials directly.
+```java
+given().auth().preemptive().basic("your username", "your password").get("your end point URL");
+```
+
+### Digest Authentication
+It uses a digestive key in subsequent requests. If at all it is intercepted by an eavesdropper, he will get access only to the transaction performed and not the user password.
+```java
+given().auth().digest("your username", "your password").get("your end point URL")
+```
+
+### Form Authentication 
+```java
+given() .auth().form("your username", "your password").post("your end point URL")
+```
+
+```java
+given().auth().form("your username", "your password", new FormAuthConfig("/perform_signIn","user","password"))
+```
+
+### OAuth Authentication
+```java
+//Oauth 1
+given().auth().oauth(consumerKey, consumerSecret, accessToken, tokenSecret).get("your end point URL")
+// Oauth 2 
+given().auth().oauth2("Access token").get("your end point URL")
+```
 ### Authorisation 
 - Being able to provide valid access. ie (Admin and Employee users )
 
+### Put Request
+**OST request**
+
+- 201 with a location header pointing to the new resource.
+- 400 if the new item is not created.
+
+**PUT request**
+
+- 204 for OK/SUCCESS (but no content).
+- 200 for OK with Content Body (Updated response).
+- 400 if the data sent was invalid.
+https://toolsqa.com/rest-assured/put-request-using-rest-assured/
+
+### To Be continued
+https://toolsqa.com/rest-assured/delete-request-using-rest-assured/
+https://qaautomation.expert/2023/10/12/rest-assured-tutorials/
 ### Jira Practice Api's
 
 [Jira Api's for practice](https://developer.atlassian.com/server/jira/platform/rest-apis/)
