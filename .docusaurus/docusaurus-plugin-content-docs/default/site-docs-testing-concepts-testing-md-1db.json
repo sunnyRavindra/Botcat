@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestingConcepts/Testing",
+  "id": "TestingConcepts/Testing",
+  "title": "Testing",
+  "description": "Ad-hoc Testing",
+  "source": "@site/docs/TestingConcepts/Testing.md",
+  "sourceDirName": "TestingConcepts",
+  "slug": "/TestingConcepts/Testing",
+  "permalink": "/TestingConcepts/Testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Testing"
+  }
+}

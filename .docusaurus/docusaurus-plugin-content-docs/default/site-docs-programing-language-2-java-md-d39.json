@@ -1,0 +1,16 @@
+{
+  "unversionedId": "ProgramingLanguage/2Java",
+  "id": "ProgramingLanguage/2Java",
+  "title": "Java",
+  "description": "Java used for developing",
+  "source": "@site/docs/ProgramingLanguage/2Java.md",
+  "sourceDirName": "ProgramingLanguage",
+  "slug": "/ProgramingLanguage/2Java",
+  "permalink": "/ProgramingLanguage/2Java",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Java"
+  }
+}

@@ -20,7 +20,6 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -49,8 +48,9 @@ const config = {
       },
       docs: {
         sidebar: {
-          hideable: true,
-          autoCollapseCategories: true,
+
+          // hideable: false,
+          // autoCollapseCategories: false,
         },
       },
       navbar: {
@@ -66,11 +66,10 @@ const config = {
             position: 'left',
             label: 'Sunny Ravindra Bharne',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'html',
             position: 'right',
-            value: '<a href="/resume/SunnyRavindra_Resume.pdf" download>Resume</a>',
+            value: '<a href="/resume/TestAutomation_Specialist_SunnyBharne_Helsinki.pdf" download>Resume</a>',
           },
         ],
       },

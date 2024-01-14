@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Docker/2Docker",
+  "id": "Docker/2Docker",
+  "title": "Docker",
+  "description": "Architecture",
+  "source": "@site/docs/Docker/2Docker.md",
+  "sourceDirName": "Docker",
+  "slug": "/Docker/2Docker",
+  "permalink": "/Docker/2Docker",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Docker"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/2Log4J",
+  "id": "TestAutomation/2Log4J",
+  "title": "Log4J",
+  "description": "Log4J",
+  "source": "@site/docs/TestAutomation/2Log4J.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/2Log4J",
+  "permalink": "/TestAutomation/2Log4J",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Log4J"
+  }
+}

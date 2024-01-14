@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/2Cucumber",
+  "id": "TestAutomation/2Cucumber",
+  "title": "Cucumber",
+  "description": "Basics",
+  "source": "@site/docs/TestAutomation/2Cucumber.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/2Cucumber",
+  "permalink": "/TestAutomation/2Cucumber",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cucumber"
+  }
+}

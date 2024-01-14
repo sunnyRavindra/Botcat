@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/1TestNg",
+  "id": "TestAutomation/1TestNg",
+  "title": "TestNg",
+  "description": "TestNG Basics",
+  "source": "@site/docs/TestAutomation/1TestNg.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/1TestNg",
+  "permalink": "/TestAutomation/1TestNg",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TestNg"
+  }
+}

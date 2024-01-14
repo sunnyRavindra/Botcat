@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/2RestAssured",
+  "id": "TestAutomation/2RestAssured",
+  "title": "RestAssured",
+  "description": "ToolsQA",
+  "source": "@site/docs/TestAutomation/2RestAssured.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/2RestAssured",
+  "permalink": "/TestAutomation/2RestAssured",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "RestAssured"
+  }
+}

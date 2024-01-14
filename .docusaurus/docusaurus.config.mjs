@@ -48,8 +48,8 @@ export default {
     },
     "docs": {
       "sidebar": {
-        "hideable": true,
-        "autoCollapseCategories": true
+        "hideable": false,
+        "autoCollapseCategories": false
       },
       "versionPersistence": "localStorage"
     },
@@ -69,7 +69,7 @@ export default {
         {
           "type": "html",
           "position": "right",
-          "value": "<a href=\"/resume/SunnyRavindra_Resume.pdf\" download>Resume</a>"
+          "value": "<a href=\"/resume/TestAutomation_Specialist_SunnyBharne_Helsinki.pdf\" download>Resume</a>"
         }
       ]
     },

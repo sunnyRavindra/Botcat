@@ -13,289 +13,302 @@
         "type": "link",
         "label": "About Me",
         "href": "/",
-        "docId": "0AboutMe"
+        "docId": "AboutMe"
       },
       {
-        "type": "link",
-        "label": "AutomationFramework",
-        "href": "/1AutomationFramework",
-        "docId": "1AutomationFramework"
+        "type": "category",
+        "label": "Test Automation",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "AutomationFramework",
+            "href": "/TestAutomation/AutomationFramework",
+            "docId": "TestAutomation/AutomationFramework"
+          },
+          {
+            "type": "link",
+            "label": "Selenium",
+            "href": "/TestAutomation/Selenium",
+            "docId": "TestAutomation/Selenium"
+          },
+          {
+            "type": "link",
+            "label": "RestAssured",
+            "href": "/TestAutomation/RestAssured",
+            "docId": "TestAutomation/RestAssured"
+          },
+          {
+            "type": "link",
+            "label": "TestNg",
+            "href": "/TestAutomation/TestNg",
+            "docId": "TestAutomation/TestNg"
+          },
+          {
+            "type": "link",
+            "label": "Cucumber",
+            "href": "/TestAutomation/Cucumber",
+            "docId": "TestAutomation/Cucumber"
+          },
+          {
+            "type": "link",
+            "label": "Grid",
+            "href": "/TestAutomation/Grid",
+            "docId": "TestAutomation/Grid"
+          },
+          {
+            "type": "link",
+            "label": "Robot Framework",
+            "href": "/TestAutomation/RobotFramework",
+            "docId": "TestAutomation/RobotFramework"
+          },
+          {
+            "type": "link",
+            "label": "Playwright",
+            "href": "/TestAutomation/PlayWright",
+            "docId": "TestAutomation/PlayWright"
+          },
+          {
+            "type": "link",
+            "label": "Appium",
+            "href": "/TestAutomation/Appium",
+            "docId": "TestAutomation/Appium"
+          },
+          {
+            "type": "link",
+            "label": "Maven",
+            "href": "/TestAutomation/Maven",
+            "docId": "TestAutomation/Maven"
+          },
+          {
+            "type": "link",
+            "label": "Log4J",
+            "href": "/TestAutomation/Log4J",
+            "docId": "TestAutomation/Log4J"
+          },
+          {
+            "type": "link",
+            "label": "SoupUI",
+            "href": "/TestAutomation/SoapUI",
+            "docId": "TestAutomation/SoapUI"
+          }
+        ],
+        "collapsible": true
       },
       {
-        "type": "link",
-        "label": "Selenium",
-        "href": "/1Selenium",
-        "docId": "1Selenium"
+        "type": "category",
+        "label": "Programing Language",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Java",
+            "href": "/ProgramingLanguage/Java",
+            "docId": "ProgramingLanguage/Java"
+          },
+          {
+            "type": "link",
+            "label": "Python",
+            "href": "/ProgramingLanguage/Python",
+            "docId": "ProgramingLanguage/Python"
+          },
+          {
+            "type": "link",
+            "label": "JavaScript",
+            "href": "/ProgramingLanguage/Javascript",
+            "docId": "ProgramingLanguage/Javascript"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript",
+            "href": "/ProgramingLanguage/TypeScript",
+            "docId": "ProgramingLanguage/TypeScript"
+          },
+          {
+            "type": "link",
+            "label": "DSA",
+            "href": "/ProgramingLanguage/DSA",
+            "docId": "ProgramingLanguage/DSA"
+          }
+        ],
+        "collapsible": true
       },
       {
-        "type": "link",
-        "label": "TestNg",
-        "href": "/1TestNg",
-        "docId": "1TestNg"
+        "type": "category",
+        "label": "DevOps",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Docker",
+            "href": "/Devops/Docker",
+            "docId": "Devops/Docker"
+          }
+        ],
+        "collapsible": true
       },
       {
-        "type": "link",
-        "label": "Cucumber",
-        "href": "/2Cucumber",
-        "docId": "2Cucumber"
-      },
-      {
-        "type": "link",
-        "label": "Docker",
-        "href": "/2Docker",
-        "docId": "2Docker"
-      },
-      {
-        "type": "link",
-        "label": "Grid",
-        "href": "/2Grid",
-        "docId": "2Grid"
-      },
-      {
-        "type": "link",
-        "label": "Java",
-        "href": "/2Java",
-        "docId": "2Java"
-      },
-      {
-        "type": "link",
-        "label": "Log4J",
-        "href": "/2Log4J",
-        "docId": "2Log4J"
-      },
-      {
-        "type": "link",
-        "label": "Maven",
-        "href": "/2Maven",
-        "docId": "2Maven"
-      },
-      {
-        "type": "link",
-        "label": "RestAssured",
-        "href": "/2RestAssured",
-        "docId": "2RestAssured"
-      },
-      {
-        "type": "link",
-        "label": "Python",
-        "href": "/2python",
-        "docId": "2python"
-      },
-      {
-        "type": "link",
-        "label": "Jira",
-        "href": "/3Jira",
-        "docId": "3Jira"
-      },
-      {
-        "type": "link",
-        "label": "Appium",
-        "href": "/Appium",
-        "docId": "Appium"
-      },
-      {
-        "type": "link",
-        "label": "DSA",
-        "href": "/DSA",
-        "docId": "DSA"
-      },
-      {
-        "type": "link",
-        "label": "JavaScript",
-        "href": "/Javascript",
-        "docId": "Javascript"
-      },
-      {
-        "type": "link",
-        "label": "Playwright",
-        "href": "/PlayWright",
-        "docId": "PlayWright"
-      },
-      {
-        "type": "link",
-        "label": "Robot Framework",
-        "href": "/RobotFramework",
-        "docId": "RobotFramework"
-      },
-      {
-        "type": "link",
-        "label": "SoupUI",
-        "href": "/SoapUI",
-        "docId": "SoapUI"
-      },
-      {
-        "type": "link",
-        "label": "Testing",
-        "href": "/Testing",
-        "docId": "Testing"
-      },
-      {
-        "type": "link",
-        "label": "TypeScript",
-        "href": "/TypeScript",
-        "docId": "TypeScript"
-      },
-      {
-        "type": "link",
-        "label": "Xray",
-        "href": "/Xray",
-        "docId": "Xray"
-      },
-      {
-        "type": "link",
-        "label": "Zephyr",
-        "href": "/Zephyr",
-        "docId": "Zephyr"
-      },
-      {
-        "type": "link",
-        "label": "docusaurus",
-        "href": "/docusaurus",
-        "docId": "docusaurus"
+        "type": "category",
+        "label": "Test Management",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Jira",
+            "href": "/TestManagement/Jira",
+            "docId": "TestManagement/Jira"
+          },
+          {
+            "type": "link",
+            "label": "Xray",
+            "href": "/TestManagement/Xray",
+            "docId": "TestManagement/Xray"
+          },
+          {
+            "type": "link",
+            "label": "Zephyr",
+            "href": "/TestManagement/Zephyr",
+            "docId": "TestManagement/Zephyr"
+          }
+        ],
+        "collapsible": true
       }
     ]
   },
   "docs": {
-    "0AboutMe": {
-      "id": "0AboutMe",
+    "AboutMe": {
+      "id": "AboutMe",
       "title": "About Me",
       "description": "Test Automation Lead Engineer",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "1AutomationFramework": {
-      "id": "1AutomationFramework",
-      "title": "AutomationFramework",
-      "description": "AutomationFramework.png",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "1Selenium": {
-      "id": "1Selenium",
-      "title": "Selenium",
-      "description": "Selenium Basics",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "1TestNg": {
-      "id": "1TestNg",
-      "title": "TestNg",
-      "description": "TestNG Basics",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2Cucumber": {
-      "id": "2Cucumber",
-      "title": "Cucumber",
-      "description": "Basics",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2Docker": {
-      "id": "2Docker",
+    "Devops/Docker": {
+      "id": "Devops/Docker",
       "title": "Docker",
       "description": "Architecture",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "2Grid": {
-      "id": "2Grid",
-      "title": "Grid",
-      "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2Java": {
-      "id": "2Java",
-      "title": "Java",
-      "description": "Java used for developing",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2Log4J": {
-      "id": "2Log4J",
-      "title": "Log4J",
-      "description": "Log4J",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2Maven": {
-      "id": "2Maven",
-      "title": "Maven",
-      "description": "POM(Project Object Model)",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2python": {
-      "id": "2python",
-      "title": "Python",
-      "description": "Python Tutorials",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "2RestAssured": {
-      "id": "2RestAssured",
-      "title": "RestAssured",
-      "description": "ToolsQA",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "3Jira": {
-      "id": "3Jira",
-      "title": "Jira",
-      "description": "Agile Projects",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "Appium": {
-      "id": "Appium",
-      "title": "Appium",
-      "description": "",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "docusaurus": {
-      "id": "docusaurus",
-      "title": "docusaurus",
-      "description": "Installation",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "DSA": {
-      "id": "DSA",
+    "ProgramingLanguage/DSA": {
+      "id": "ProgramingLanguage/DSA",
       "title": "DSA",
       "description": "1. GFG DSA Complete guide",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "Javascript": {
-      "id": "Javascript",
+    "ProgramingLanguage/Java": {
+      "id": "ProgramingLanguage/Java",
+      "title": "Java",
+      "description": "Java used for developing",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "ProgramingLanguage/Javascript": {
+      "id": "ProgramingLanguage/Javascript",
       "title": "JavaScript",
       "description": "",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "PlayWright": {
-      "id": "PlayWright",
-      "title": "Playwright",
-      "description": "",
+    "ProgramingLanguage/Python": {
+      "id": "ProgramingLanguage/Python",
+      "title": "Python",
+      "description": "Python Tutorials",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "RobotFramework": {
-      "id": "RobotFramework",
-      "title": "Robot Framework",
-      "description": "Docs",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "SoapUI": {
-      "id": "SoapUI",
-      "title": "SoupUI",
-      "description": "SoupUI",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "Testing": {
-      "id": "Testing",
-      "title": "Testing",
-      "description": "Ad-hoc Testing",
-      "sidebar": "myAutogeneratedSidebar"
-    },
-    "TypeScript": {
-      "id": "TypeScript",
+    "ProgramingLanguage/TypeScript": {
+      "id": "ProgramingLanguage/TypeScript",
       "title": "TypeScript",
       "description": "",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "Xray": {
-      "id": "Xray",
+    "TestAutomation/Appium": {
+      "id": "TestAutomation/Appium",
+      "title": "Appium",
+      "description": "",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/AutomationFramework": {
+      "id": "TestAutomation/AutomationFramework",
+      "title": "AutomationFramework",
+      "description": "AutomationFramework.png",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/Cucumber": {
+      "id": "TestAutomation/Cucumber",
+      "title": "Cucumber",
+      "description": "Basics",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/Grid": {
+      "id": "TestAutomation/Grid",
+      "title": "Grid",
+      "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/Log4J": {
+      "id": "TestAutomation/Log4J",
+      "title": "Log4J",
+      "description": "Log4J",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/Maven": {
+      "id": "TestAutomation/Maven",
+      "title": "Maven",
+      "description": "POM(Project Object Model)",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/PlayWright": {
+      "id": "TestAutomation/PlayWright",
+      "title": "Playwright",
+      "description": "",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/RestAssured": {
+      "id": "TestAutomation/RestAssured",
+      "title": "RestAssured",
+      "description": "ToolsQA",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/RobotFramework": {
+      "id": "TestAutomation/RobotFramework",
+      "title": "Robot Framework",
+      "description": "Docs",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/Selenium": {
+      "id": "TestAutomation/Selenium",
+      "title": "Selenium",
+      "description": "Selenium Basics",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/SoapUI": {
+      "id": "TestAutomation/SoapUI",
+      "title": "SoupUI",
+      "description": "SoupUI",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestAutomation/TestNg": {
+      "id": "TestAutomation/TestNg",
+      "title": "TestNg",
+      "description": "TestNG Basics",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestingConcepts/Testing": {
+      "id": "TestingConcepts/Testing",
+      "title": "Testing",
+      "description": "Ad-hoc Testing"
+    },
+    "TestManagement/Jira": {
+      "id": "TestManagement/Jira",
+      "title": "Jira",
+      "description": "Agile Projects",
+      "sidebar": "myAutogeneratedSidebar"
+    },
+    "TestManagement/Xray": {
+      "id": "TestManagement/Xray",
       "title": "Xray",
       "description": "Xray Types",
       "sidebar": "myAutogeneratedSidebar"
     },
-    "Zephyr": {
-      "id": "Zephyr",
+    "TestManagement/Zephyr": {
+      "id": "TestManagement/Zephyr",
       "title": "Zephyr",
       "description": "Test Case",
       "sidebar": "myAutogeneratedSidebar"

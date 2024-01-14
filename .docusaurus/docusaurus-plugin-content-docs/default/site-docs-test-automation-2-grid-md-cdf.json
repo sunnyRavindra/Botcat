@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/2Grid",
+  "id": "TestAutomation/2Grid",
+  "title": "Grid",
+  "description": "Parallel Tests on Multiple Machines with Differen versions of Browser on different Platform",
+  "source": "@site/docs/TestAutomation/2Grid.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/2Grid",
+  "permalink": "/TestAutomation/2Grid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Grid"
+  }
+}

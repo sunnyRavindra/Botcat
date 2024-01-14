@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestAutomation/2Maven",
+  "id": "TestAutomation/2Maven",
+  "title": "Maven",
+  "description": "POM(Project Object Model)",
+  "source": "@site/docs/TestAutomation/2Maven.md",
+  "sourceDirName": "TestAutomation",
+  "slug": "/TestAutomation/2Maven",
+  "permalink": "/TestAutomation/2Maven",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Maven"
+  }
+}

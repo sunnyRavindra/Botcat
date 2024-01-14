@@ -159,107 +159,103 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/-dc8": {
+  "/-05b": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---a-0-a-6ca"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
-  "/-0d1": {
+  "/-a8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---b-35-c6c"
+    "content": "content---371-ac2"
   },
-  "/1AutomationFramework-df3": {
+  "/Devops/Docker-33f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---1-automation-framework-03-c-6cf"
+    "content": "content---devops-docker-6-ce-0b5"
   },
-  "/1Selenium-1c9": {
+  "/ProgramingLanguage/DSA-43f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---1-seleniumeec-066"
+    "content": "content---programing-language-ds-aa-4-f-ee3"
   },
-  "/1TestNg-354": {
+  "/ProgramingLanguage/Java-3ad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---1-test-nge-75-8ff"
+    "content": "content---programing-language-java-0-f-5-681"
   },
-  "/2Cucumber-8a3": {
+  "/ProgramingLanguage/Javascript-228": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-cucumber-7-cf-f8f"
+    "content": "content---programing-language-javascript-965-648"
   },
-  "/2Docker-cc0": {
+  "/ProgramingLanguage/Python-566": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-docker-93-a-819"
+    "content": "content---programing-language-pythonf-59-48f"
   },
-  "/2Grid-4c4": {
+  "/ProgramingLanguage/TypeScript-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-grida-3-c-b30"
+    "content": "content---programing-language-type-script-3-f-2-3e4"
   },
-  "/2Java-d09": {
+  "/TestAutomation/Appium-54c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-java-6-f-1-7c5"
+    "content": "content---test-automation-appium-18-a-39b"
   },
-  "/2Log4J-973": {
+  "/TestAutomation/AutomationFramework-e20": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-log-4-j-436-339"
+    "content": "content---test-automation-automation-frameworkb-15-5d3"
   },
-  "/2Maven-83c": {
+  "/TestAutomation/Cucumber-9aa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-mavenfa-5-3c3"
+    "content": "content---test-automation-cucumber-09-a-70c"
   },
-  "/2python-b6e": {
+  "/TestAutomation/Grid-3d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-python-901-1dc"
+    "content": "content---test-automation-grid-0-de-a0c"
   },
-  "/2RestAssured-8a9": {
+  "/TestAutomation/Log4J-7c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---2-rest-assured-454-ecd"
+    "content": "content---test-automation-log-4-jeb-5-987"
   },
-  "/3Jira-27f": {
+  "/TestAutomation/Maven-5ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---3-jira-385-086"
+    "content": "content---test-automation-mavenfb-5-7a6"
   },
-  "/Appium-37a": {
+  "/TestAutomation/PlayWright-bf4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---appium-68-e-d11"
+    "content": "content---test-automation-play-wright-7-ae-072"
   },
-  "/docusaurus-e64": {
+  "/TestAutomation/RestAssured-fdb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docusaurus-946-a35"
+    "content": "content---test-automation-rest-assureda-71-91d"
   },
-  "/DSA-656": {
+  "/TestAutomation/RobotFramework-4d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dsa-7-a-0-b59"
+    "content": "content---test-automation-robot-framework-351-242"
   },
-  "/Javascript-d9f": {
+  "/TestAutomation/Selenium-f45": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---javascript-064-caf"
+    "content": "content---test-automation-seleniumcf-1-2ec"
   },
-  "/PlayWright-81e": {
+  "/TestAutomation/SoapUI-edd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---play-wright-2-bf-bfc"
+    "content": "content---test-automation-soap-u-idbe-1ed"
   },
-  "/RobotFramework-e00": {
+  "/TestAutomation/TestNg-e54": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---robot-frameworkb-8-e-ddf"
+    "content": "content---test-automation-test-ng-868-582"
   },
-  "/SoapUI-0ed": {
+  "/TestingConcepts/Testing-deb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---soap-u-iff-7-aed"
+    "content": "content---testing-concepts-testing-1-db-26b"
   },
-  "/Testing-9b8": {
+  "/TestManagement/Jira-3ca": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---testing-7-c-4-361"
+    "content": "content---test-management-jira-0-e-7-c06"
   },
-  "/TypeScript-e14": {
+  "/TestManagement/Xray-bc9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---type-script-2-b-3-c92"
+    "content": "content---test-management-xray-84-b-887"
   },
-  "/Xray-ca7": {
+  "/TestManagement/Zephyr-c6b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---xray-04-a-7d9"
-  },
-  "/Zephyr-477": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---zephyr-24-d-eb3"
+    "content": "content---test-management-zephyr-95-f-357"
   }
 }

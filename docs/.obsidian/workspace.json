@@ -8,127 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4e08538269cea78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Selenium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a261c8ebdec7e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2Log4J.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504a1efd6493fbba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RobotFramework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd5bf77b27019df8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2Cucumber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2846d72666d41c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1AutomationFramework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f06b16885fd6dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1AutomationFramework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f290f67a8ca7a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2RestAssured.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df6cff9c2b4576a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2RestAssured.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4ab58f3b0f8e5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2RestAssured.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "296328085fa3b6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RobotFramework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RobotFramework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RobotFramework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RobotFramework.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -255,36 +138,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "296328085fa3b6c0",
+  "active": "9a261c8ebdec7e2e",
   "lastOpenFiles": [
-    "0AboutMe.md",
+    "Devops/Docker.md",
+    "Devops/2Docker.md",
+    "Devops",
+    "TestManagement/Jira.md",
+    "ProgramingLanguage/Python.md",
+    "ProgramingLanguage/Java.md",
+    "TestAutomation/Maven.md",
+    "TestAutomation/Log4J.md",
+    "TestAutomation/Grid.md",
+    "TestAutomation/Cucumber.md",
+    "TestAutomation/TestNg.md",
+    "TestAutomation/RestAssured.md",
+    "TestAutomation/Selenium.md",
+    "TestAutomation/AutomationFramework.md",
     "AboutMe.md",
-    "docusaurus.md",
-    "Docusourous.md",
-    "Appium.md",
-    "PlayWright.md",
-    "TypeScript.md",
-    "Javascript.md",
+    "ProgramingLanguage/DSA.md",
+    "TestingConcepts/Testing.md",
+    "TestingConcepts",
+    "untitled folder",
+    "2Log4J.md",
+    "TestAutomation/2Log4J.md",
+    "2Cucumber.md",
+    "TestAutomation/2Cucumber.md",
+    "TestAutomation/1TestNg.md",
+    "Docker/2Docker.md",
+    "Docker",
+    "TestAutomation/2Maven.md",
+    "TestAutomation/Appium.md",
+    "TestManagement/3Jira.md",
     "2RestAssured.md",
-    "1Selenium.md",
-    "2Java.md",
-    "wJava.md",
-    "2python.md",
+    "TestManagement",
+    "ProgramingLanguage",
+    "TestAutomation",
     "static/Banner.svg",
-    "0SunnyBharne.md",
-    "SunnyBharne.md",
-    "index.md",
-    "python.md",
-    "Python.md",
     "Python",
-    "RobotFramework.md",
-    "Security-Testing/XSS-Attack.md",
-    "Security-Testing/SQL-References.md",
-    "Security-Testing/SQL-Operators.md",
-    "Security-Testing/SQL-Injection.md",
-    "Security-Testing/SQL-DataTypes.md",
-    "Security-Testing/SQL-Data-Manupulation.md",
-    "Security-Testing/SQL-Basics.md",
     "Security-Testing",
     "Testing-Concepts",
     "static/APIBasics 2.png",
@@ -296,13 +186,6 @@
     "static/TokenValidation.png",
     "static/tagexists.png",
     "static/TagCount.png",
-    "static/TestPlan.doc",
-    "static/TestCaseTemplate.xls",
-    "static/RTM_Template.xlsx",
-    "Rest-Assured",
-    "Practice-Sites",
-    "Docker/DockerFiles",
-    "Docker",
     "Untitled.canvas"
   ]
 }

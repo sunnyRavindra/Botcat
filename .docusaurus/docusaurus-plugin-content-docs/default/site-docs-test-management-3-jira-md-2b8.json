@@ -1,0 +1,16 @@
+{
+  "unversionedId": "TestManagement/3Jira",
+  "id": "TestManagement/3Jira",
+  "title": "Jira",
+  "description": "Agile Projects",
+  "source": "@site/docs/TestManagement/3Jira.md",
+  "sourceDirName": "TestManagement",
+  "slug": "/TestManagement/3Jira",
+  "permalink": "/TestManagement/3Jira",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Jira"
+  }
+}

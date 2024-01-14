@@ -1,0 +1,16 @@
+{
+  "unversionedId": "ProgramingLanguage/2python",
+  "id": "ProgramingLanguage/2python",
+  "title": "Python",
+  "description": "Python Tutorials",
+  "source": "@site/docs/ProgramingLanguage/2python.md",
+  "sourceDirName": "ProgramingLanguage",
+  "slug": "/ProgramingLanguage/2python",
+  "permalink": "/ProgramingLanguage/2python",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Python"
+  }
+}
