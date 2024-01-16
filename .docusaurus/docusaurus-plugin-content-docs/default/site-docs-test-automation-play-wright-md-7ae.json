@@ -2,7 +2,7 @@
   "unversionedId": "TestAutomation/PlayWright",
   "id": "TestAutomation/PlayWright",
   "title": "Playwright",
-  "description": "",
+  "description": "Resilient • No flaky tests",
   "source": "@site/docs/TestAutomation/PlayWright.md",
   "sourceDirName": "TestAutomation",
   "slug": "/TestAutomation/PlayWright",

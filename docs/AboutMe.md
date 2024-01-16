@@ -7,7 +7,7 @@ slug: /
 
 ##### Helsinki,Finland
 
-##### | [Download Resume](/resume/SunnyRavindra_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/sunnybharne) | [Github](https://github.com/sunnyRavindra) | [Email](mailto:sunny.bharne.automation@gmail.com?subject=Test_Automation_Expert) | [Certifications](https://www.linkedin.com/in/sunnybharne/details/certifications/) |
+##### | [Download Resume](Resume/TestAutomation_Specialist_SunnyBharne_Helsinki.pdf) | [LinkedIn](https://www.linkedin.com/in/sunnybharne) | [Github](https://github.com/sunnyRavindra) | [Email](mailto:sunny.bharne.automation@gmail.com?subject=Test_Automation_Expert) | [Certifications](https://www.linkedin.com/in/sunnybharne/details/certifications/) |
 
 
 -----
@@ -26,10 +26,10 @@ transformations.
 ### Skills 
 
 #### Test Automation
-##### [Selenium](https://botcat.org/1Selenium), [TestNG](https://botcat.org/1TestNG), [RestAssured](https://botcat.org/2RestAssured), [Grid](https://botcat.org/2Grid), [Robot Framework](https://botcat.org/Robot-Framework), [Maven](https://botcat.org/2Maven), [Log4J](https://botcat.org/2Log4J), [Cucumber](https://botcat.org/2Log4J)
+##### [Selenium](https://botcat.org/1Selenium), [TestNG](https://botcat.org/1TestNG), [RestAssured](https://botcat.org/2RestAssured), [Grid](https://botcat.org/2Grid), [Robot Framework](https://botcat.org/Robot-Framework), [Maven](https://botcat.org/2Maven), [Log4J](https://botcat.org/2Log4J), [Cucumber](https://botcat.org/2Log4J), [Playwright](https://botcat.org/)
 
 #### Programing Language
-##### [Java](https://botcat.org/1Java), [Python](https://botcat.org/2python), [SQL](https://botcat.org/Testing#sql-data-manupulation) 
+##### [Java](https://botcat.org/ProgramingLanguage/Java), [Python](https://botcat.org/ProgramingLanguage/Python), [Typescript](https://botcat.org/ProgramingLanguage/Typescript), [Javascript](https://botcat.org/ProgramingLanguage/Javascript) [SQL](https://botcat.org/Testing#sql-data-manupulation) 
 
 #### Test Management
 ##### [Jira](https://botcat.org/3Jira), [Xray](https://botcat.org/3Xray), [Zpheyr](https://botcat.org/2Zpheyr)

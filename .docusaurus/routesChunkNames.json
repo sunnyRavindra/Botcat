@@ -159,7 +159,7 @@
     "tag": "tag---blog-tags-holae-16-18a",
     "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/-05b": {
+  "/-ed7": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---a-0-a-6ca"
@@ -169,6 +169,30 @@
   "/-a8d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---371-ac2"
+  },
+  "/AutomationFramework/-5aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-cf-0-9d8"
+  },
+  "/AutomationFramework/Cucumber-dcc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-cucumber-96-d-5d7"
+  },
+  "/AutomationFramework/Grid-acb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-grid-65-c-b96"
+  },
+  "/AutomationFramework/Log4J-0f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-log-4-jdec-e10"
+  },
+  "/AutomationFramework/Maven-4d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-maven-49-a-57f"
+  },
+  "/AutomationFramework/TestNg-d24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---automation-framework-test-ngb-18-cdc"
   },
   "/Devops/Docker-33f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -198,26 +222,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---test-automation-appium-18-a-39b"
   },
-  "/TestAutomation/AutomationFramework-e20": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-automation-frameworkb-15-5d3"
-  },
-  "/TestAutomation/Cucumber-9aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-cucumber-09-a-70c"
-  },
-  "/TestAutomation/Grid-3d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-grid-0-de-a0c"
-  },
-  "/TestAutomation/Log4J-7c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-log-4-jeb-5-987"
-  },
-  "/TestAutomation/Maven-5ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-mavenfb-5-7a6"
-  },
   "/TestAutomation/PlayWright-bf4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---test-automation-play-wright-7-ae-072"
@@ -237,10 +241,6 @@
   "/TestAutomation/SoapUI-edd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---test-automation-soap-u-idbe-1ed"
-  },
-  "/TestAutomation/TestNg-e54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-test-ng-868-582"
   },
   "/TestingConcepts/Testing-deb": {
     "__comp": "__comp---theme-doc-item-178-a40",
