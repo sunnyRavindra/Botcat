@@ -1,261 +1,218 @@
 {
-  "/__docusaurus/debug-f97": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
-  "/__docusaurus/debug/config-c5a": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
-  "/__docusaurus/debug/content-997": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-74f": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
-  "/__docusaurus/debug/metadata-3b0": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
-  "/__docusaurus/debug/registry-656": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
-  "/__docusaurus/debug/routes-690": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugc-62-04c"
-    }
-  },
   "/blog-9a3": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/2021/08/26/welcome-ffa": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2021-08-26-welcomed-9-f-8df"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/blog/archive-419": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "b2f554cd"
   },
   "/blog/first-blog-post-a94": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/blog/long-blog-post-ae7": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/blog/mdx-blog-post-06d": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/blog/tags-de9": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
   "/blog/tags/docusaurus-4cf": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
   },
   "/blog/tags/hello-f6d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
   "/blog/tags/hola-e62": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-446-894"
+      "plugin": "446b1f98"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
   },
   "/-ed7": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---a-0-a-6ca"
+      "plugin": "a0a1762d"
     },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/-a8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---371-ac2"
+    "__comp": "17896441",
+    "content": "371d814b"
   },
   "/AutomationFramework/-5aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-cf-0-9d8"
+    "__comp": "17896441",
+    "content": "cf0ef342"
   },
   "/AutomationFramework/Cucumber-dcc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-cucumber-96-d-5d7"
+    "__comp": "17896441",
+    "content": "96d86b1c"
   },
   "/AutomationFramework/Grid-acb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-grid-65-c-b96"
+    "__comp": "17896441",
+    "content": "65c35c0e"
   },
   "/AutomationFramework/Log4J-0f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-log-4-jdec-e10"
+    "__comp": "17896441",
+    "content": "dec0ab1a"
   },
   "/AutomationFramework/Maven-4d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-maven-49-a-57f"
+    "__comp": "17896441",
+    "content": "49ab0b03"
   },
   "/AutomationFramework/TestNg-d24": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---automation-framework-test-ngb-18-cdc"
+    "__comp": "17896441",
+    "content": "b182b425"
   },
   "/Devops/Docker-33f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---devops-docker-6-ce-0b5"
+    "__comp": "17896441",
+    "content": "6ceef426"
   },
   "/ProgramingLanguage/DSA-43f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-language-ds-aa-4-f-ee3"
+    "__comp": "17896441",
+    "content": "a4f7469a"
   },
   "/ProgramingLanguage/Java-3ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-language-java-0-f-5-681"
+    "__comp": "17896441",
+    "content": "0f5b7b4b"
   },
   "/ProgramingLanguage/Javascript-228": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-language-javascript-965-648"
+    "__comp": "17896441",
+    "content": "9656b74e"
   },
   "/ProgramingLanguage/Python-566": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-language-pythonf-59-48f"
+    "__comp": "17896441",
+    "content": "f597b1f9"
   },
   "/ProgramingLanguage/TypeScript-9c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---programing-language-type-script-3-f-2-3e4"
+    "__comp": "17896441",
+    "content": "3f2f0f5a"
   },
   "/TestAutomation/Appium-54c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-appium-18-a-39b"
+    "__comp": "17896441",
+    "content": "18a8449a"
   },
   "/TestAutomation/PlayWright-bf4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-play-wright-7-ae-072"
+    "__comp": "17896441",
+    "content": "7ae62013"
   },
   "/TestAutomation/RestAssured-fdb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-rest-assureda-71-91d"
+    "__comp": "17896441",
+    "content": "a7177029"
   },
   "/TestAutomation/RobotFramework-4d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-robot-framework-351-242"
+    "__comp": "17896441",
+    "content": "35185361"
   },
   "/TestAutomation/Selenium-f45": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-seleniumcf-1-2ec"
+    "__comp": "17896441",
+    "content": "cf1a30e7"
   },
   "/TestAutomation/SoapUI-edd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-automation-soap-u-idbe-1ed"
+    "__comp": "17896441",
+    "content": "dbe6dfa6"
   },
   "/TestingConcepts/Testing-deb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---testing-concepts-testing-1-db-26b"
+    "__comp": "17896441",
+    "content": "1dbb95a2"
   },
   "/TestManagement/Jira-3ca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-management-jira-0-e-7-c06"
+    "__comp": "17896441",
+    "content": "0e746c3e"
   },
   "/TestManagement/Xray-bc9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-management-xray-84-b-887"
+    "__comp": "17896441",
+    "content": "84b4f646"
   },
   "/TestManagement/Zephyr-c6b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---test-management-zephyr-95-f-357"
+    "__comp": "17896441",
+    "content": "95f6eefc"
   }
 }
