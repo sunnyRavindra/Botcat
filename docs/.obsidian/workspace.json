@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgramingLanguage/TypeScript.md",
+                "file": "AutomationFramework/AutomationFramework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24995bf5ec66b66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutomationFramework/AutomationFramework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgramingLanguage/TypeScript.md",
+                "file": "AutomationFramework/AutomationFramework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgramingLanguage/TypeScript.md",
+                "file": "AutomationFramework/AutomationFramework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgramingLanguage/TypeScript.md"
+                "file": "AutomationFramework/AutomationFramework.md"
               }
             }
           }
@@ -146,8 +159,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a261c8ebdec7e2e",
+  "active": "24995bf5ec66b66d",
   "lastOpenFiles": [
+    "Pasted image 20240121213325.png",
+    "Pasted image 20240121213212.png",
+    "Pasted image 20240121213022.png",
+    "Pasted image 20240121205113.png",
+    "Pasted image 20240121204858.png",
+    "Pasted image 20240121204715.png",
+    "Pasted image 20240121144825.png",
+    "Pasted image 20240121144528.png",
+    "Pasted image 20240121144505.png",
+    "Pasted image 20240121144357.png",
+    "Pasted image 20240121144255.png",
+    "AutomationFramework/AutomationFramework.md",
+    "ProgramingLanguage/TypeScript.md",
     "TestAutomation/PlayWright.md",
     "TestAutomation/RobotFramework.md",
     "AutomationFramework/TestNg.md",
@@ -155,7 +181,6 @@
     "AutomationFramework/Log4J.md",
     "AutomationFramework/Grid.md",
     "AutomationFramework/Cucumber.md",
-    "AutomationFramework/AutomationFramework.md",
     "AutomationFramework",
     "Automation Framework/AutomationFramework.md",
     "Automation Framework/Log4J.md",
@@ -176,24 +201,12 @@
     "TestAutomation/Grid.md",
     "TestAutomation/Cucumber.md",
     "TestAutomation/TestNg.md",
-    "TestAutomation/RestAssured.md",
-    "TestAutomation/Selenium.md",
     "TestingConcepts",
     "Docker",
     "TestManagement",
     "ProgramingLanguage",
     "TestAutomation",
-    "static/Banner.svg",
     "Python",
-    "static/APIBasics 2.png",
-    "static/XMLValidation.png",
-    "static/WSDL3.png",
-    "static/WSDL2.png",
-    "static/WSDL1.png",
-    "static/WildCards.png",
-    "static/TokenValidation.png",
-    "static/tagexists.png",
-    "static/TagCount.png",
     "Untitled.canvas"
   ]
 }
